@@ -1,0 +1,25 @@
+
+ 　　[摘要]目的 探讨微课结合PPT多媒体教学法在心胸外科护理教学中的效果。方法 选取我校2012级大专护理1班的86名护生，按照随机数字表法分为对照组和观察组，各43例。对照组行传统PPT多媒体教学法，观察组在对照组的基础上给予微课辅助教学，比较两组的考试成绩，并分析观察组护生对微课教学效果的评价结果。结果 观察组的操作技能及理论知识评分均明显高于对照组，差异有统计学意义（P<0.05）。经分析，观察组护生认为微课辅助教学可提高自主学习能力、有利于重点及难点知识掌握均占97.67%，认为该方法更适合课后自主学习占95.35%，认为其可加深对操作的理解和记忆、提高学习效率的均占93.02%，认为其是对传统教学法的有效补充占90.70%，可激发学习兴趣占88.37%。结论 在心胸外科护理教学中实施微课结合PPT多媒体教学法可提高教学效果。
+　　[中图分类号] R642.4 [文献标识码] A [文章编号] 1674-4721（2017）11（b）-0168-03
+　　[Abstract]Objective To investigate the effect of micro-lesson combined with PPT multimedia teaching mode in the nursing teaching of cardiothoracic surgery.Methods 86 nursing students of cardiothoracic surgery nursing practiced in our academy from September 2015 to July 2016 were selected，and they were divided into the control group and the observation group by random number table method，43 cases in each group.The control group was given traditional PPT multimedia teaching mode，while the observation group was given micro-lesson on the basis of the control group.The test scores were compared between the two groups.The evaluation of teaching effect of micro-lesson in the observation group was analyzed.Results The scores of operating skill and theoretical knowledge in the observation group were significantly higher than that in the control group，with significant difference （P<0.05）.In the observation group，nursing students considered that micro-lesson could increase autonomous learning ability and grasp difficult knowledge，which accounted for 97.67%，95.35% of nursing students considered that micro-lesson was suitable for after-school autonomous learning，93.02% of nursing students considered that micro-lesson could deepen understanding of operation and increase learning efficiency，90.70% of nursing students considered that micro-lesson was effective supplement of traditional teaching，and 88.37% of nursing students considered that micro-lesson could motivate learning interest.Conclusion Micro-lesson combined with PPT multimedia teaching mode in the nursing teaching of cardiothoracic surgery can increase teaching effects.
+　　[Key words]Micro-lesson；PPT multimedia teaching mode；Cardiothoracic surgery；Nursing teaching；Evaluation of teaching effect
+　　心胸外科?o理学是一门护理主干课程，涵盖了多系统及多学科，具有“深、难、散、多”等特点，加重了护生理解和记忆的困难程度[1]，故选择合适的方式促进心胸外科护理教学效果显得尤为重要。作为课前预习的重要载体，微课是一种新型网络课程资源，主要针对某一学科某个知识点或教学环节设计的一种情景化、支持多种学习方式[2]，并以微型教学视频为主要载体，有助于预习和复习，提高自主学习效果[3-4]。本研究为探讨微课结合PPT多媒体教学法用于心胸外科护理教学中的效果，对我校2012级大专护理1班的86例护生进行研究，现报道如下。   　　1资料与方法
+　　1.1一般资料
+　　将我校2012级大专护理1班的86例护生纳入研究，按照随机数字表法分为对照组和观察组，各43例。对照组中，男3例，女40例；年龄18～20岁，平均（19.56±1.34）岁。观察组中，男2例，女41例；年龄19～21岁，平均（20.58±1.35）岁。两组的年龄、性别比较，差异无统计学意义（P>0.05），具有可比性。本研究已通过我院医学伦理委员会审核。
+　　1.2方法
+　　所有护生均由同一教师授课，选取第5版《外科护理学》中心脏疾病患者护理、食管疾病患者护理、肺部疾病患者护理、脓胸患者护理及胸部损伤患者护理作为教学实践的内容，6个临床见习学时，8个理论学时。对照组行传统PPT多媒体教学法，由教师根据教育主管部门给定的教育目标、计划、教材及教学大纲进行授课，行总目标的阶段性分解及重点讲述，课后根据教师的要求自行复习教学内容的重点及难点。观察组在对照组的基础上予微课辅助教学，具体如下。①根据微课的特点，外科护理教研室组织外科老师分析以往学习者特征和教学任务，梳理、斟酌、筛查及整合心外科护理的知识点，将胸腔闭式引流护理、肺癌术后体位护理等心脏疾病、肺部疾病、脓胸、食管疾病、胸部损伤患者护理教学的疑点、难点、重点及术后难度较大的操作作为微课开发的内容，并进行微视频制作，时长10 min左右；同时也可在教师授课结束后，由学习委员集中向教师反映难点及重点，教师制作针对性的补充微课视频，需要注意的是在视频录制过程中，要使用通俗易懂的文字，尽可能实现PPT的简练生动。②创建学习平台，由教师建立QQ群，并在QQ群中上传微视频。③课后护生可使用电脑或手机下载相关的微视频复习，通过翻转课堂模式自主学习微视频中的内容；同时，教师可在微信群或QQ群内与护生进行交流和沟通，及时解答护生存在的问题；最后，教师在课堂上分解教学微视频中的内容。教学结束后评价两组护生的教学效果，以临床见习技能操作、闭卷理论考试为主要内容。
+　　1.3评价指标
+　　①考试成绩：根据教学内容制订理论考核内容，并由教研室老师进行流水批阅，操作技能主要以胸腔闭式引流护理技术考核内容并由科研室老师制订考试评分标准；②微课辅助教学评价：采用自制问卷进行调查，学生不记名填写调查问卷，当场收回问卷，统计调查结果。
+　　1.4统计学方法
+　　采用SPSS 18.0软件对数据进行统计分析，计量资料以均数±标准差（x±s）表示，采用t检验，计数资料采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1两组考试成绩的比较
+　　观察组的操作技能及理论知识评分高于对照组，差异有统计学意义（P<0.05）（表1）。
+　　2.2观察组微课教学效果评价
+　　大部分护生认为微课教学可提高自主学习能力，有利于重点、难点知识掌握及更适合课后自主学习，具体情况见表2。
+　　3讨论
+　　由于心胸外科护理内容较为繁杂，造成课时时间安排较为紧凑，且涵盖信息较?楣惴海?故护生很难掌握相关知识的难点、重点及疑点，进而加重学习的困难程度[5]。传统教学方法以“教”为侧重点，仅告知护生学习的内容，无法提高自主学习能力，影响教学效果。微课由美国David Penrose在2008年首次提出，以在线学习或移动学习为主要目的，录制60 s视频音像或声频课程，以某个简要明确的主体或关节概念为教学内容；而国内学者认为课堂教学视频为其核心内容，相关教学设计、练习测试、教学反思、学生反馈、教师点评及素材课件等教学支持资源为视频主要内容[6]。
+　　徐丹凤[7]的研究显示，10 min左右为一般人注意力集中的有效时间，传统教学方式护生的学习效率仅为20%，而在视、听的基础上进行教学可提高学习效率至70%。本研究结果显示，观察组的操作技能及理论知识评分均明显高于对照组，提示微课结合PPT多媒体教学法可有效提高教学效果。传统PPT多媒体教学法是在固定的时间进行理论授课，通过老师讲授及示教的方式进行临床操作，虽然其直观性及操作性较强，但因护生人数较多，将在一定程度上导致部分护生无法将教师的具体操作看清[8]，影响护理教学效果，进而对护生的实际操作能力造成影响。而微课时长多在10 min内，且以5～8 min最为常见，内容要求“小而精”，可通过多媒体终端设备播放；同时，针对心胸外科护理学知识和教学环节，微课设计一种趣味化、情景化的数字化学习资源包[9]，对授课过程中的抽象问题及难点问题进行详细讲解，并演示及讲述临床操作技术，进而有效提高护生理论知识及操作技能掌握程度，明确教学目标，有效拓展教学空间，延长教学时间[10-11]。此外，微课辅助教学可使护生在课后通过手机和电脑随时观察课程中的重点及难点，摆脱传统课堂灌输的枯燥性，有效激发护生的学习兴趣和积极性、主动性，进而提高护生各方面技能[12]。本研究结果显示，护生中认为微课辅助教学可加深对操作的理解和记忆约占93.02%，更适合课后自主学习的约占95.35%，提高自主学习能力及有利于重点、难点知识掌握的护生均占97.67%。分析其原因为微课支持碎片化学习、移动学习、混合学习、翻转学习等多种学习方式，具有随意性、自主性及开放性的特点，可有效提高护生知识掌握情况；同时，微课辅助教学符合90后学生的认知习惯，可吸引学生注意力，加深护生理解实训操作的能力，及时发现操作的难点及重点，最大程度地调动护生学习的积极性，激发求知欲[13]；此外，微课辅助教学可延伸传统课堂，增加师生之间的交流和沟通，还可及时巩固和强化护生所学知识，提高护生的理解能力[14]。因此，在心胸外科护理教学中行微课辅助教学可促进护生学习主动性，提高学习兴趣，有效实现教学目标，提高专业技能水平可理论知识水平；同时，还可提高教学效果，实现教学的高效性和有序性。
+　　但经研究不断深入发现，微课辅助教学存在以下几点不足：①护生对微视频产生依赖性，在课堂上不认真听课，进而影响课堂教学质量；②微课仅针对个别知识的难点及疑点进行讲授，系统性和连贯性不足，影响护生掌握知识的系统性及整体性[15]，因此，如何进一步搭建完整的教学结构和学习流程，开发和设计高质量的外科护理学各章节系统微课程，有效评估学习过程及结果还需进一步研究。   　　综上所述，微课结合PPT多媒体教学法可有效提高心胸外外科护理教学效果，有利于重点、难点知识掌握，提高自主学习能力。
+
+

@@ -1,0 +1,25 @@
+
+ 　　[摘要] 目的 探讨心理护理对腹腔镜胆囊切除术患者的心理状态和术后疼痛的影响。 方法 选择2015年2月～2016年2月期间我院收治的腹腔镜胆囊切除术患者100例，根据护理方法不同随机分为心理干预组和对照组，每组各50例，对照组患者接受常规护理，心理干预组在对照组的基础上主要实施心理护理，比较两组患者干预前后SAS、SDS、VAS评分的变化情况。 结果 干预前两组患者的SAS、SDS、VAS评分组间比较差异不显著（P>0.05），干预后，心理干预组和对照组患者的SAS、SDS、VAS评分较干预前显著降低，且心理干预组患者的SAS、SDS、VAS评分显著低于对照组，组间比较差异具有统计学意义（P<0.05）。 结论 心理护理有利于缓解腹腔镜胆囊切除术患者的焦虑、抑郁等消极心理状态，减轻术后疼痛，从而提高患者的生活质量及促进疾病的快速康复。
+　　[中图分类号] R473.6 [文献标识码] B [文章编号] 1673-9701（2017）17-0158-03
+　　[Abstract] Objective To explore the effect of psychological nursing on psychological status and postoperative pain in patients with laparoscopic cholecystectomy. Methods 100 patients with laparoscopic cholecystectomy admitted to our hospital from February 2015 to February 2016 were randomly divided into psychological intervention group（n=50） and control group（n=50） according to different nursing methods. Patients in the control group received routine care， and the psychological intervention group was mainly given psychological nursing based on the treatment of the control group. The changes of SAS， SDS and VAS scores were compared between the two groups before and after the intervention. Results There were no significant differences in the SAS， SDS and VAS scores between the two groups before intervention（P>0.05）. After intervention， the scores of SAS， SDS and VAS in the psychological intervention group and the control group were significantly lower than those before intervention. The scores of SAS， SDS and VAS in the psychological intervention group were significantly lower than those in the control group， and the difference was significant（P<0.05）. Conclusion Psychological nursing is helpful to relieve the anxiety， depression and other negative psychological state and reduce the postoperative pain of patients with laparoscopic cholecystectomy， thus improving the quality of life of patients and promoting rapid rehabilitation of the disease.
+　　[Key words] Laparoscopic cholecystectomy； Psychological care； SAS； SDS； Postoperative pain
+　　?魍晨?腹胆囊切除术治疗胆囊结石和胆囊息肉等疾病，手术创伤大，患者痛苦程度大，术后并发症较多且恢复慢。近年来，随着微创技术的不断发展，腹腔镜胆囊切除术（laparoscopic cholecystectomy，LC）以其切口小、出血少、手术时间短、术后患者恢复快、疼痛轻等优点逐渐应用于胆囊疾病的治疗中，并取得了较好的治疗效果[1]。但腹腔镜作为一种手术，仍会使患者存在较大的心理压力，易出现紧张、焦虑、恐惧、害怕等不良情绪[2]。心理护理干预作为临床上对患者情感支持的重要辅助治疗方式，已作为外科手术治疗的重要部分。心理护理作为外科护理工作的重要组成部分之一，研究证实，心理护理干预是确保患者手术顺利进行及术后康复的关键[3]。本研究旨在探讨心理护理对腹腔镜胆囊切除术患者的心理状态和术后疼痛的影响，现报道如下。
+　　1 对象与方法
+　　1.1 研究对象
+　　选择2015年2月～2016年2月我院收治的腹腔镜胆囊切除术患者100例，其中男53例、女47例，年龄25～70岁、平均（49.1±11.3）岁。根据护理方法不同随机分为观察组和对照组，每组各50例，两组入选患者的一般资料包括性别、年龄及基础疾病等方面对比差异不显著（P>0.05），具有可比性。两组入选患者的一般资料比较见表1。   　　1.2 入组标准及排除标准
+　　入组标准：（1）术前均经超声检查确诊；（2）患者均对本研究知情同意，并签署知情同意书。排除标准：（1）合并严重心脑肺肾功能不全者；（2）精神疾病、意识不清者；（3）妊娠期或哺乳期女性。
+　　1.3 护理方法
+　　对照组患者接受常规护理，心理干预组在对照组的基础上实施心理护理，具体内容如下：多数患者入院前对手术不了解，担心术中及术后的疼痛，害怕麻醉可能发生的意外，术前会产生一定程度的紧张、恐惧以及焦虑等负面情绪。因此患者入院后，护理人员应主动向其介绍医院的环境，详细说明手术前的检查项目，通过图片、录像及宣传手册等耐心告知患者腹腔镜手术的优势，以及手术的必要性和安全性、围术期的注意事项，使其对整个手术过程有所了解，进而产生安全感与信任感，消除其心理压力[4-6]。让患者与已经成功接受手术治疗的患者进行沟通和交流，以消除患者的焦虑和恐惧心理，以积极的心态接受手术。术后耐心告知患者术后常见的并发症，以疏导患者的不良情绪、消除患者的心理负担。分析患者个体的心理特点，与患者及家属共同探讨、合理制订心理护理计划，采取个性化的、易被患者接受的方式实施心理护理干预，尽可能降低其焦虑程度，增强其心理适应能力。同时分别于入院时、术前及术后对患者实施面对面的疼痛知识教育，重点解释腹腔镜胆囊切除术疼痛形成的机制、疼痛产生的原因、常用的镇痛方法，以提高患者对疼痛的认知，消除患者对疼痛的恐惧，帮助患者以积极乐观的心态应对疼痛[7-10]。
+　　1.4 观察指标
+　　1.4.1 心理状态 采用 Zung 焦虑自评量表（SAS）评价焦虑程度，采用抑郁自评量表（SDS）评价抑郁程度，观察和比较两组患者干预前后SAS评分和SDS评分的变化情况[11]。
+　　1.4.2 疼痛程度评价 采用视觉模拟评分法（VAS）评估患者的疼痛情况[12]。
+　　1.5 统计学方法
+　　本研究数据均以SPSS22.0统计学软件进行分析，计量资料以均数±标准差（x±s）表示，组间比较采用t检验，计数资料采用χ2检验，P<0.05表示差异具有显著性。
+　　2 结果
+　　两组患者干预前后SAS、SDS、VAS评分变化情况比较见表2。干预前两组患者的SAS、SDS、VAS评分组间比较差异不显著（P>0.05），干预后，心理干预组和对照组患者的SAS、SDS、VAS评分较干预前显著降低，且心理干预组患者的SAS、SDS、VAS评分显著低于对照组，组间比较差异具有统计学意义（P<0.05）。
+　　3讨论
+　　腹腔镜胆囊切除术属于微创外科手术，是临床治疗胆囊疾病的常用方法之一[13]。腹腔镜手术作为一种严重的应激源，通过神经-内分泌系统，激活交感神经系统，引起肾上腺素和去甲肾上腺素分泌增加，导致血压升高，心率增快，使患者易出现焦虑、恐惧、害怕等消极心理，可能会影响手术的顺利进行。而传统的护理方法是按照医嘱进行护理，目标不明确，缺乏健康教育意识，护患间沟通较少，患者得不到系统、全面的护理[14]。随着护理观念的不断更新，将心理护理与临床常规护理相结合，使护理由以疾病为中心的护理模式转向以患者为中心的护理模式，因此，对腹腔镜胆囊切除术患者的护理要关注患者的心理状况、减轻患者的术后疼痛方面予以重视。心理护理是护士在护理过程中以科学理论为指导，以良好的人际关系为基础与患者交往，从而影响、改变患者的不良心理状态和行为，促使患者康复，发挥护理的最佳作用。在腹腔镜胆囊切除术患者围手术期的护理过程中进行心理护理，能帮助患者树立信心，以最佳的心理?钐?积极主动地配合治疗与护理，利于手术的顺利开展。做好患者的心理护理，主动把握患者的心理特征，解除其心理负担，消除其负性情绪，建立积极向上的良好情绪状态，对患者的神经、精神症状的产生具有较好的抑制作用，且可以显著减轻患者的疼痛程度。术前心理干预可以解答患者的疑问，有助于患者了解手术的相关知识，患者对手术过程有了一定程度的心理准备，缓解患者焦虑、紧张等消极心理，从而以积极的态度接受、配合手术和护理工作[15]。
+　　另外，疼痛是腹腔镜胆囊切除术后常见的并发症之一，尤其以肩部疼痛多发。有些患者术后肩部疼痛的程度远超于手术切口的疼痛，也容易使患者产生焦虑、恐惧等负性心理。因此，对腹腔镜胆囊切除患者实施疼痛方面的心理护理干预对于改善患者病情和心理状态、减轻术后疼痛也具有重要作用。告知患者做好疼痛的心理准备，耐心回答患者存在的疑惑，积极关怀患者，有利于缓解患者因不良情绪对于术后疼痛的增敏作用，或者通过不断对患者进行积极的心理暗示，从而消除患者的消极心态，减轻患者的疼痛程度[16-20]。本研究结果显示，干预后，心理干预组和对照组患者的SAS、SDS、VAS评分较干预前显著降低，且心理干预组患者的SAS、SDS、VAS评分显著低于对照组（P<0.05），与叶婷[17]报道的观点是一致的。
+　　综上所述，心理护理有利于缓解腹腔镜胆囊切除术患者的焦虑、抑郁等消极心理状态，减轻术后疼痛，从而提高患者的生活质量及促进疾病的快速康复。
+
+

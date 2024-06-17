@@ -1,0 +1,22 @@
+
+ 　　【摘要】 目的：探讨运用优质护理服务预防NICU新生儿呼吸机相关性肺炎的效果。方法：选取2013年6月-2015年9月本院收治的机械通气患儿120例作为研究对象，随机分为对照组和试验组，每组60例。对照组行NICU常规护理，试验组行优质护理服务，比较两组住院时间、机械通气次数、呼吸机相关性肺炎发生率及护理满意度。结果：试验组发生呼吸机相关性肺炎患儿16例，明显低于对照组的35例，比较差异有统计学意义（P<0.05）；试验组住院（9.62±5.41）d、机械通气（7.69±2.35）次、护理满意度为96.67%，均明显优于对照组的（15.74±5.73）d、（9.52±2.86）次及81.67%，比较差异均有统计学意义（P<0.05）。结论：将优质护理服务积极用于机械通气新生儿中，可有效预防呼吸机相关性肺炎，值得临床借鉴。
+　　【Abstract】 Objective：To explore the effect of using high quality nursing care to prevent NICU neonatal ventilator associated pneumonia.Method：From June 2013 to September 2015，120 cases of mechanical ventilation children in our hospital were selected as the research objects，they were randomly divided into the control group and experimental group，each group had 60 cases.The control group was treated with routine nursing and the experimental group was treated with high quality nursing service，two groups of hospital stay，mechanical ventilation frequency，ventilator associated pneumonia incidence rate and nursing satisfaction were compared.Result：In the experimental group，16 cases of ventilator associated pneumonia were significantly lower than the control group of 35 cases，the difference was statistically significant（P<0.05）.The length of hospital stay was （9.62±5.41）d，mechanical ventilation times was （7.69±2.35） times and nursing satisfaction rate was 96.67% of experimental group，significantly better than the control group of （15.74±5.73）d，（9.52±2.86） times and 81.67%，the differences were statistically significant（P<0.05）.Conclusion：High quality nursing service for mechanical ventilation in newborn can effective prevent ventilator associated pneumonia，it is worthy of clinical reference.
+　　【Key words】 Mechanical ventilation； High quality nursing service； Role；Ventilator associated pneumonia
+　　First-author’s address：Central Hospital of Zhumadian City，Zhumadian 463000，China
+　　doi：10.3969/j.issn.1674-4985.2016.19.021
+　　随着医学科学的发展，机械通气在新生儿疾病中应用越来越广泛，但是随之而来的呼吸机相关性肺炎也给临床医疗带来了新的难题，成为NICU导致患儿住院时间延长和院内感染病死率增加的主要原因，同时，也给新生儿的家庭带来沉重的经济压力和精神压力。呼吸机相关性肺炎（VAP）是指无肺部感染症状患者在气管插管呼吸机治疗后出现的肺部感染，或是患者已存在肺部感染而经呼吸机治疗后48 h内发生的新的肺部感染。如何避免和预防新生儿呼吸机相关性肺炎的发生已成为NICU医护人员面临的一大难题之一，本研究特选取2013年
+　　6月-2015年9月本院收治的机械通气患儿120例分别实施常规护理和优质护理，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料 选取2013年6月-2015年9月本院收治的机械通气患儿120例作为研究对象，随机分为试验组和对照组，每组60例。试验组男34例，女26例；日龄1～27 d，平均（9.8±3.6）d；体重2.4～4.5 kg，平均（3.26±1.27）kg。对照组男32例，女28例；日龄1～26 d，平均（10.1±3.7）d；体重2.3～4.6 kg，平均（3.25±1.31）kg。两组性别、日龄及体重方面比较差异均无统计学意义（P>0.05），具有可比性。   　　1.2 方法 对照组行NICU常规护理，包括病房卫生清洁、基础体征监测及用药指导。试验组行优质护理服务：（1）定期组织NICU护士进行相关护理知识与技能的培训，提高本院NICU的整体护理水平。结合科室情况与呼吸机相关性肺炎的发生机制，为机械通气患儿制定最佳的护理方案[1]。（2）全面落实NICU卫生的清洁与消毒工作，根据患儿体温变化幅度，为其调整室内温和湿度。告知患儿家属应尽可能的减少探视的次数，若患儿家属患有呼吸道类疾病，还需严禁其探视患儿[2]。（3）执行每一道护理程序时，都应遵守“严格无菌操作”这一原则，如接触患儿呼吸道分泌物后亦或者是对患儿进行气管插管前，需严格洗手并消毒，预防交叉感染。护理全过程中，尽可能的运用一次性卫生用品，按要求定期对部分医疗物品进行更换，包括无菌注射器、无菌吸痰管及吸痰用物盘[3]。取含氯消毒液，1000 mg/L，1 次/d，对地面及相关物品进行全面擦拭[4-5]。若有必要，可利用紫外线对空气进行消毒[6]。（4）实践表明，仰卧位极易使患儿出现反流误吸的情况，导致胃肠道感染。故护理人员需让患儿取半卧位，即适当抬高患儿头部，使其与水平面成30°～45°，如此便可降低胃液反流误吸的概率[7]。增强对患儿的口鼻腔进行清洁的力度，并监测其口腔的pH值。此后，再结合pH测定的结果为患儿选取最适的口腔护理液，预防口腔细菌定值。其中口腔护理液的选择标准为：①pH值大于7，选择硼酸溶液；②pH值等于7，选择生理盐水；③pH值小于7，选择碳酸氢钠溶液[8-9]。（5）积极帮助患儿进行有效的翻身，并对其辅以扣背操作，以促进痰液的排出。湿化人工气道（最好选取无菌蒸馏水），预防损伤患儿的气道黏膜[10]。观察患儿病情，同时在临床医师指导下给予患儿一定剂量的化痰药物，如沐舒坦和沙丁胺醇[11]。（6）协助临床医师对患儿的口腔分泌物和血液样本进行正确的采集，以提高细菌血培养结果的准确性[12]。
+　　1.3 观察指标 观察并记录两组患儿住院时间、机械通气情况、呼吸机相关性肺炎发生例数及家属对护理的满意度。其中护理满意情况分为满意、基本满意及不满意，满意度=（满意例数+基本满意例数）/总例数×100%。
+　　1.4 统计学处理 使用SPSS 20.0软件对所得数据进行统计学分析，计量资料以（x±s）表示，比较采用t检验，计数资料以率（%）表示，比较采用 字2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组相关治疗指征比较 试验组住院（9.62±5.41）d，机械通气（7.69±2.35）次，对照组住院（15.74±5.73）d，机械通气（9.52±2.86）次，试验组在住院时间和机械通气次数方面均少于对照组，比较差异均有统计学意义（P<0.05）。
+　　2.2 两组呼吸机相关性肺炎发生情况比较 试验组发生呼吸机相关性肺炎16例，占26.67%；对照组发生呼吸机相关性肺炎35例，占58.33%，两组呼吸机相关性肺炎发生率比较差异有统计学意义（P<0.05）。
+　　2.3 两组护理满意情况比较 试验组护理满意度为96.67%，高于对照组的81.67%，比较差异有统计学意义（P<0.05），见表1。
+　　3 讨论
+　　综上所述，NICU新生儿具有病情复杂多变、病死率高及预后差这三大特点[13]。近年来，随着我国医疗技术的不断发展，临床上对呼吸机的应用得到了大范围的拓展，尤其是呼吸科重症新生儿，其对呼吸机的应用更加广泛。虽然呼吸机在临床上的实际运用可起到有效控制患儿病情的作用，但也在一定程度上提高了患儿发生呼吸机相关性肺炎的概率[14]。资料显示，患儿在接受呼吸机治疗后，人工气道的建立会严重损害其呼吸道的防御功能，导致患儿更容易诱发呼吸机相关性肺炎病症[15]。临床观察发现，患儿在出现呼吸机相关性肺炎后，会出现脱机困难、病情加重，甚者还有生命危险[16]。故需加强对NICU新生儿进行护理的力度，以减少呼吸机相关性肺炎，提高护理质量。实践表明，于NICU新生儿机械通气治疗全程中为其提供优质护理服务，不仅能促进患儿家属与护士间良好合作关系的建立，还能预防交叉感染，降低呼吸机相关性肺炎发生率[17-18]。
+　　本研究证实，试验组呼吸机相关性肺炎发生率与护理满意度分别为26.67%和96.67%，对照组为58.33%和81.67%，试验组明显优于对照组，比较差异均有统计学意义（P<0.05）；试验组住院时间和机械通气次数均明显优于对照组，比较差异有统计学意义（P<0.05）。
+　　综上所述，积极运用优质护理服务，能在良好控制NICU新生儿病情的情况下，达到预防呼吸机相关性肺炎的目的，临床应用价值颇高[19]。
+
+

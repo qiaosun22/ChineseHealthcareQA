@@ -1,0 +1,28 @@
+
+ 　　【摘要】 目的：观察分析使用护理干预模式预防ICU病房呼吸机相关肺炎的临床效果。方法：选择2014年5月-2015年7月在笔者所在医院ICU病房住院的86例患者为研究对象，将其随机平均分成两组，分别为对照组和观察组，每组43例，对照组使用常规护理方法进行护理，观察组在对照组的基础上进行护理干预，对比分析两组患者的呼吸机相关肺炎发生情况及机械通气时间。结果：观察组患者机械通气时间明显短于对照组，差异具有统计学意义（P<0.05）。观察组呼吸机相关肺炎发生率为9.30%，低于对照组的30.23%，差异有统计学意义（P<0.05）。结论：护理干预模式可以有效降低呼吸机相关肺炎发生率，缩短机械通气时间，减轻患者病痛，具有较好效果，有一定的临床推广价值。
+　　中图分类号 R473.5 文献标识码 B 文章编号 1674-6805（2016）15-0110-03
+　　【Abstract】 Objective：To observe and analyze the clinical application effect of nursing intervention in prevention ventilator associated pneumonia in ICU ward.Method：86 patients in the ICU ward of our hospital from May 2014 to July 2015 were selected as the research objects，they were randomly divided into control group and observation group，with each group 43 cases.The control group was given conventional methods of nursing care，the observation group was given nursing intervention on the basis of the control group.The incidence of ventilator associated pneumonia and the duration of mechanical ventilation were compared between the two groups.Result：The mechanical ventilation time of the observation group was significantly shorter than that of the control group，the difference was statistically significant（P<0.05）.The incidence rate of ventilator associated pneumonia of the observation group was 9.30%，lower than 30.23% of the control group，the difference was statistically significant（P<0.05）.Conclusion：Nursing intervention can effectively reduce the incidence of ventilator associated pneumonia，shorten the duration of mechanical ventilation，reduce the pain of patients，which has good effect and certain clinical significance.
+　　【Key words】 Nursing intervention； ICU ward； Ventilator associated pneumonia； Mechanical ventilation time
+　　First-author’s address：Suzhou Hospital Affiliated to Nanjing Medical University，Suzhou 215001，China
+　　doi：10.14033/j.cnki.cfmr.2016.15.058
+　　呼吸机相关肺炎（ventilator associated pneumonia，VAP）是指患者在机械辅助通气48 h后至恢复自主呼吸48 h后这段时间内由于院内感染而导致的肺炎[1]。VAP是一种常见的院内感染，也是ICU机械通气患者常见的并发症[2]。重症患者并发VAP常导致患者呼吸窘迫，严重可威胁患者生命，VAP的病死率高达20%～71%[3]。为减少VAP对患者健康的影响，笔者所在医院通过护理干预的方式，以求降低患者的VAP发病率，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选择2014年5月-2015年7月在笔者所在医院ICU病房住院的86例患者为研究对象，将其随机平均分成两组，分别为对照组和观察组，每组43例，对照组患者中男23例，女10例，年龄69～82岁，平均（72.3±4.35）岁；原发病：休克17例，多发伤7例，慢阻肺9例，脑血管意外6例，中毒4例。观察组患者中男24例，女19例，年龄68～84岁，平均（73.8±4.42）岁；原发病：休克16例，多发伤6例，慢阻肺11例，脑血管意外
+　　7例，中毒3例。两组患者性别、年龄、原发病等一般资料比较差异无统计学意义（P>0.05），具有可比性。   　　1.2 方法
+　　对照组使用常规护理方法进行护理，观察组在对照组的基础上进行护理干预。具体护理方法如下：（1）护理人员管理。进入ICU病房的护士需要严格遵守无菌技术，护理人员进入ICU病房时需按照要求戴口罩、帽子及无菌隔离衣，尽量避免将外界细菌带入ICU病房。（2）病房环境护理。要做到病房消毒严格，床单位每天擦拭消毒2次，护理人员熟练掌握无菌技术，及时清理消毒呼吸机及其管道，防止患者之间产生交叉感染。操作人员操作前后要及时更换手套及正确洗手，防止病菌在手和器械之间相互传播。（3）呼吸机管理。及时清理呼吸机管路中的污染物，遵循无菌操作，每24小时更换湿化罐液体1次并及时消毒。（4）气管套管套囊管理。使用气管套管引流声门下分泌物，气囊压力维持在20～30 cm H2O，防止声门分泌物进入下呼吸道引起肺炎。（5）患者呼吸道护理。保持患者呼吸道通畅，及时清除痰液，吸痰时，使患者处于侧卧位，轻拍其背部辅助痰物流出，若痰物黏稠，可使用生理盐水稀释，总排痰时间不可超过15 min。严密监测患者生命体征变化，并记录患者的体温、呼吸等生命体征。平时，患者应尽量保持半卧位，床头抬高30°～45°，可避免反流与误吸的发生，从而减少感染。（6）饮食护理。患者饮食应加强营养，应包括肠内肠外营养，使患者的水电解质平衡及酸碱平衡维持在一定水平，以提高患者免疫力。若需鼻饲，则要检查有无胃内容物残留，鼻饲时取半卧位，防止误吸。（7）口腔护理。根据患者口腔pH值选取口腔护理液。同时可选用浓度为2%的碳酸氢钠、生理盐水或选用洗必泰口腔护理液，每天至少4次进行口腔冲洗及擦拭，以防止细菌定植、提高患者防御能力。为防止口腔黏膜干燥，每次口腔护理后使用消毒石蜡油涂擦。（8）心理护理。密切关注患者的情绪变化，对患者进行适当的心理疏导，减轻患者心理压力，使患者能够积极配合治疗。教会有意识的患者使用简单的肢体语言表达自己的情绪，以和患者建立良好的沟通，使患者产生战胜疾病的信心。
+　　1.3 观察指标
+　　记录并分析两组患者的机械通气时间及VAP的发生情况。
+　　1.4 统计学处理
+　　将本研究所得到的数据使用SPSS 18.0进行处理，计量资料用（x±s）表示，比较采用t检验，计数资料以率（%）表示，比较采用字2检验，以P<0.05表示差异有统计学意义。
+　　2 结果
+　　2.1 两组患者机械通气时间比较
+　　观察组患者机械通气时间（24.2±0.2）d，明显低于对照组的（33.4±0.5）d，差异有统计学意义（t=112.02，P=0.000）。
+　　2.2 两组患者呼吸机相关肺炎发生情况比较
+　　观察组呼吸机相关肺炎发生率为9.30%（4/43），低于对照组的30.23%（13/43），差异有统计学意义（字2=5.9386，P=0.001）。
+　　3 讨论
+　　ICU收治的多为极为危重的患者，这些患者常免疫力十分低下，容易继发感染，并且都需要通过呼吸机维持呼吸，因此容易引起VAP[4]。VAP是ICU患者常见的一种严重并发症，发生于机械通气过程中，指患者在机械辅助通气48 h后至恢复自主呼吸48 h后这段时间内由于院内感染而导致的肺炎。患者在机械通气的过程中，需要进行反复吸痰，严重损伤呼吸道黏膜，利于细菌定植生长，引起感染，导致肺炎[5-6]。发生VAP以后，会延长住院时间，影响患者恢复，严重时可危及生命，是导致ICU患者死亡的一个重要原因[7]。因此降低VAP的发生率就十分重要。
+　　研究结果显示，观察组呼吸机相关肺炎发生率为9.30%，对照组呼吸机相关肺炎发生率为30.23%，观察组VAP发生率明显低于对照组，差异有统计学意义（P<0.05）。表明护理干预模式可以明显降低VAP发生率，有以下几点原因，（1）护理工作者严格遵循无菌操作规范，进行杀菌及消毒，可以降低病房内细菌含量，减少患者被感染的可能[8]；（2）正确的体位有助于排痰及防止污染物反流造成感染；（3）对于口腔、呼吸机等的护理干预，可以有效清除有害细菌，抑制细菌生长，达到抗感染的效果；（4）心理护理干预，有助于增强患者抗病的信心，提高患者免疫力，使患者积极配合治疗[9]。同时，本研究结果发现，观察组患者机械通气时间明显短于对照组，差异有统计学意义（P<0.05）。表明护理干预模式可以缩短患者机械通气时间，对于降低VAP有良好的效果。
+　　综上所述，护理干预模式可以有效降低呼吸机相关肺炎发生率，缩短机械通气时间，减轻患者病痛，具有较好效果，有一定的临床推广价值。
+
+

@@ -1,0 +1,23 @@
+
+ 　　【摘要】目的 探讨急性心肌梗死并发心律失常病人的临床护理措施和效果。方法 本研究回顾分析我院2016年1月至2017年12月之间收治急性心肌梗死并发心律失常病人的临100例床资料，随机分为对照组和实验组，对照组接受常规方法护理，实验组接受优质护理服务，比较两组患者临床护理效果。结果 实验?M护理后SAS和SDS评分结果均明显低于对照组，两组对比具有明显的统计学差异（P<0.05）。实验组护理后护理舒适度明显高于对照组，两组对比具有明显的统计学差异（P<0.05）。结论 针对急性心肌梗死并发心律失常病人实施优质护理服务，能够缓解疾病所致负性情绪问题，提高临床护理工作的满意度和舒适度。
+　　【中图分类号】R5414 【文献标识码】A 【文章编号】ISSN.2095-6681.2018.09..02
+　　【Abstract】Objective To investigate the clinical nursing measures and effects of acute myocardial infarction （AMI） complicated with arrhythmia. Methods Retrospective analysis of clinical data in our hospital from January 2016 to December 2017， 100 cases of acute myocardial infarction complicated with arrhythmia patients， were randomly divided into control group and experimental group， the control group received conventional nursing， the experimental group received high quality nursing service， compared two groups of patients with clinical nursing effect.Results The results of SAS and SDS scores in the experimental group were significantly lower than those in the control group， and there was a significant difference between the two groups （P<0.05）. The comfort degree of the nursing care in the experimental group was significantly higher than that of the control group， and there was a significant difference between the two groups （P<0.05）.Conclusion For patients with acute myocardial infarction complicated with arrhythmia， the implementation of high quality nursing service can alleviate the negative emotional problems caused by the disease and improve the satisfaction and comfort of clinical nursing work.
+　　【key words】Acute myocardial infarction （AMI）；Arrhythmia；Clinical nursing
+　　急性心肌梗死是一种发病率较高的中老年心血管系统疾病，该疾病通常死亡率较高，且病情恶化速度较快。随着再灌注治疗技术的逐步发展完善，急性心肌梗死并发心律失常患者的治疗效果得到了显著的改善。
+　　1 资料和方法
+　　1.1 一般资料
+　　本研究回顾分析我院2016年1月至2017年12月之间收治100例急性心肌梗死并发心律失常病人的临床资料，男52例，女48例，年龄48～78岁，平均（62.4±14.2）岁。合并症情况：20例2型糖尿病，45例高血脂症，38例高血压症。随机分为对照组和实验组，每组50例，且两组患者基础资料对比不存在显著的统计学意义（P>0.05）。
+　　1.2 方法
+　　对照组患者接受并发症护理、药物指导和心电监测等在内的常规临床护理，实验组在此基础上接受优质护理服务，具体措施：第一，饮食干预。护理人员可依据患者喜好制定日常饮食方案，多食易消化、富含纤维素、高纤维、高蛋白的食物，养成健康的生活习惯，完全戒烟戒酒。第二，心理干预。护理人员应主动倾听患者表达，日常护理保持亲切热情的态度，帮助患者减轻或是消除不良情绪的影响，使其积极配合治疗，正确认识疾病，树立治疗的信心。第三，环境护理。护理人员应严格控制病房的湿度和温度，严格限制探视的人数和时间，保证患者的休息时间和质量，减少护理操作的噪声和频率。第四，治疗护理。护理人员定时进行病房巡查，特别是入院后24 h内，应动态监测患者生命体征和病情变化，及时了解患者感受，如果患者出现气短、心悸、头晕等症状，则需告知医师进行针对性治疗。第五，健康宣教。患者入院后，护理人员应针对其开展心肌梗死治疗方法、疾病表现、诱发机制和注意事项等方面的健康教育，嘱患者多休息，特别是发病后24 h内，应减少患者的活动时间和活动量。
+　　1.3 观察指标   　　第一，使用抑郁自评量表（SDS）和焦虑自评量表（SAS）对两组患者护理前后负性情绪评分结果进行对比分析，患者评分越高，则其负性情绪越严重。第二，使用《护理舒适度调查表》对两组患者临床护理前后，社会文化、环境、心理和生理等评分结果进行对比分析，患者评分越高，则其护理舒适度越好。
+　　1.4 统计学分析
+　　本次临床资料均使用SPSS 17.0软件处理分析，计量资料以“x±s”表示，采用t检验；计数资料以例数（n）百分数（%）表示，采用x2检验。以P<0.05为差异有统计学意义。
+　　2 结 果
+　　2.1 负性情况
+　　两组患者护理前SAS和SDS评分结果对比无明显的统计学差异（P>0.05），实验组护理后SAS和SDS评分结果均明显低于对照组，两组对比具有明显的统计学差异（P<0.05）。如表1。
+　　2.2 护理舒适度
+　　两组患者护理前社会文化、环境、心理和生理评分结果对比无明显的统计学差异（P>0.05），实验组护理后护理舒适度明显高于对照组，两组对比具有明显的统计学差异（P<0.05）。如表2。
+　　3 ? 论
+　　早期急性心肌梗死患者容易出现心律失常等并发症问题，其主要诱发原因在于再灌注损伤、心肌自律性增高、自主神经活动改变、微血管损伤、代谢产物堆积及心肌急性缺血等危险因素的影响，其中，单纯快速心律失常患者通常预后情况较好，但是，对于严重房室传导阻滞和室速等恶性心律失常的患者，其通常死亡率较高，预后较差[1-3]。医学研究结果证实，心功能分级较高、低钾血症、心肌酶谱异常和高龄等均为早期急性心肌梗死并发心律失常的主要诱发原因，需要得到临床医师和患者的关注[4-5]。在患者的临床治疗过程中，需要针对其护理需求，制定和实施优质的临床护理方案，对患者病情变化进行密切监测，实现早期诊断和有效治疗，从而巩固疗效，降低患者的临床死亡率。
+
+

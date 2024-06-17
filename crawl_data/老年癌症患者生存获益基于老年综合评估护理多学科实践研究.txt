@@ -1,0 +1,29 @@
+
+　　摘要] 目的 研究以老年综合评估结果为基础对老年癌症患者进行多学科护理的生存获益效果。 方法 对2013年9月―2014年9月该院收治的45例老年癌症患者进行对照研究，根据护理方式的不同将其分为研究组（23例）和对照组（22例），对照组给予常规护理干预，研究组给予老年评估后多学科护理干预；对比分析两组患者的护理情况、不良反应发生情况。结果 护理后两组患者SAS评分、SDS评分及总不良反应率比较，差异有统计学意义（P<0.05）。 结论 老年癌症患者采用老年综合评估多学科护理取得显著临床效果，可明显改善患者生存质量，改善患者不良心理情绪，提高护理质量，具有较高的临床使用价值。
+　　[中图分类号] R47 [文献标识码] A [文章编号] 1674-0742（2015）02（b）-0140-02
+　　Practical Study on the Survival Benefit of Multidisciplinary Care in Elderly Cancer Patients Based on Comprehensive Geriatric Assessment
+　　FENG Yan
+　　Deparment of Geriatrics， The First Affiliated Hospital of Chongqing Medical University， Chongqing， 400016 China
+　　[Abstract] Objective To study the survival benefit of multidisciplinary care in elderly cancer patients based on the result of comprehensive geriatric assessment. Methods A comparative study was conducted on 45 elderly patients with cancer admitted to the hospital from September 2013 to September 2014. According to different nursing models， the patients were divided into the study group（23 cases） and control group（22 cases）. The control group was given the conventional nursing intervention， and the study group was given multidisciplinary nursing intervention based on the result of geriatric assessment. And the nursing care and incidence of adverse reactions of the two groups were compared and analyzed. Results The differences in SAS score， SDS score and incidence of total adverse reactions after care between the two groups were statistically significant， P<0.05. Conclusion For elderly cancer patients， multidisciplinary care based on comprehensive geriatric assessment has significant clinical effect， which can significantly improve the quality of life and psychological status of the patients， enhance the quality of nursing， so it is of high clinical value.
+　　[Key words] Comprehensive geriatric assessment； Elderly cancer patients； Multidisciplinary care
+　　老年综合评估主要包括心理功能评估、认知功能评估、躯体功能评估、全面的医疗评估、环境以及社会评估等方面[1-3]。与临床常规治疗不同，老年综合评估多由多学科团队，例如：老年科的临床医师、药师、护士、营养师、心理医师以及社会工作者等，对老年患者进行全面的评估并管理，以便临床制定相关治疗及护理方案[4]。临床癌症患者的治疗中若能够接受详细的评估后联合护理，可明显提高患者的生存质量[5-7]。研究者选取2013年9月―2014年9月该院收治的45例老年癌症患者为研究对象，采用老年综合评估对23例老年癌症患者进行评估后实行多学科护理并与22例常规护理干预患者进行对比，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取肿瘤科住院部收治的45例老年癌症患者为研究对象，根据护理方式的不同将其分为研究组（23例）和对照组（22例），研究组患者男性13例、女性10例；年龄在60～90岁，平均（78.6±2.7）岁；病程在0.5～7年，平均（4.3±1.4）年；病理分型主要为鳞癌8例、腺癌15例。对照组患者男性10例、女性12例；年龄在60～86岁，平均（77.6±2.1）岁；病程在0.5～6年，平均（3.6±1.2）年；病理分型主要为鳞癌6例、腺癌16例。基线资料比较：两组患者在各项指标间的比较上，差异有统计学意义，具有可比性。   　　1.2 护理方法
+　　1.2.1 对照组护理 采用常规肿瘤科护理：①护理人员应密切注意患者的情绪变化，及时发现悲观、抑郁、焦虑等不良心理情绪，采取正确护理措施。②完善健康教育，利用宣传栏、图册、多媒体以及讲座等多种形式展开健康教育，在固定时间组织患者及家属对疾病知识进行学习，加强其健康意识及自我保护能力。
+　　1.2.2 研究组护理 根据肿瘤科特点结合老年综合评估内容对患者进行准确的评估后采取相关护理。内容包含：日常生活能力的ADL以及IADL评估、认知评估、焦虑量表SAS评估、抑郁量表SDS评估、简易营养量表MNA评估、各项身体机能的评估、相关治疗情况评估等，评估问卷的排版应简洁明了，方便查阅及填写。经由3名以上高年资老年科专家进行审核修改后投入临床使用。根据评估结果进行多学科护理干预：①23例患者均建立老年综合评估档案，内容包括患者一般资料、疾病及相关治疗资料、老年综合评估内容及结果等内容。②联合临床医师、药师、护士、营养师、心理医师以及家属等对患者进行多方位的全面护理，将老年综合评估结果归纳进护理目标中，针对护理中存在的问题集采用个性宣教与集中宣教结合的形式解决。③采取具有针对性的护理干预及评价，将护理计划全部以书面形式纳入病历中，由责任护士进行评价。
+　　1.3 观察指标
+　　利用焦虑自评量表对患者的心理状态进行SAS评估、抑郁自评量表对患者心理状态进行SDS评估[8]。
+　　1.4 统计方法
+　　经SPSS14.0软件对数据资料加以分析。计量资料以（x±s）表示，实施t检验；计数资料以频数（%）表示，实施χ2检验，如果P<0.05，说明对比差异有统计学意义。
+　　2 结果
+　　2.1 两组患者的心理情绪比较
+　　护理前两组患者焦虑及抑郁评分无明显差异，护理后两组患者的心理情绪比较，具体见表1。
+　　2.2 两组患者的不良反应比较
+　　两组患者主要不良反应为胃肠道反应、疲劳、疼痛、失眠等，研究组总发生6例，总发生率26.09%，对照组发生10例，总发生率45.45%，组间数据比较，差异有统计学意义（χ2=7.8435，P<0.05）。
+　　3 讨论
+　　老年癌症患者具有许多自身特点，因老年患者机体的衰退，患者各方面生理功能均会呈现出不同程度的下降，例如：肾小球率过滤降低、肝脏的代谢功能异常等造成药物在体内的积累不利于排泄，神经束以及神经元等的下降让机体对化疗产生的神经毒副作用更加敏感。上述原因增加患者化疗时的并发症以及药物不良作用[9-11]。
+　　该研究中研究组患者根据老年综合评估结果对患者进行多学科护理干预，患者在心理情绪、生存质量各项评分的改善上较对照组显著，SAS评分及SDS评分研究组均低于对照组，差异具有统计学意义（P<0.05）。加强各方面护理，密切关注患者的生命体征，最大限度满足其需求，采用关怀护理、人性化护理、优质护理等融入服药干预、营养干预、心理支持等护理措施，旨在提高患者生存质量，降低抗肿瘤治疗引起的不良反应。梁丽萍[12]在对老年癌症患者的临终关怀护理中，研究发现老年患者由于机体各方面机能下降，各器官功能衰竭，在临床仅能接受支持治疗，密切关注患者的生命体征，最大限度满足其需求，采用关怀护理、人性化护理、优质护理等融入服药干预、营养干预、心理支持等护理措施，有效提高患者生存质量，降低抗肿瘤治疗引起的不良反应。该研究中，研究组患者不良反应总发生率为26.09%低于对照组的45.45%，组间差异具有统计学意义（P<0.05），说明根据老年综合评估的结果对患者进行多学科护理可有效降低抗肿瘤治疗中不良反应的发生率，取得显著临床效果。与上述研究结果具有一致性。
+　　综上所述，对老年癌症患者进行老年综合评估后，再采取多学科护理干预，可有效改善患者心理状态，提高其生存质量评分，同时降低不良反应的发生率，安全有效，具有广阔的临床使用前景。
+
+

@@ -1,0 +1,17 @@
+
+ 　　[摘要] 目的 ?C合分析重复经颅磁刺激治疗精神分裂症患者88例的临床护理效果。 方法 选取2015年8月～2016年12月在我院收治的88例精神分裂症患者一般资料作为研究对象，根据不同的护理方法分为实验组与对照组，每组均为44例。对照组应用假性重复经颅磁刺激联合常规护理方法，实验组应用重复经颅磁刺激联合综合护理方法。采用SPSS20.0统计学软件分析两组患者的护理前后生活质量（心理功能、生理功能、物质功能、社会功能、生活能力、幸福指数）评分，采用阳性和阴性症状量表进行疗效评定。 结果 ①护理前，两组患者的生活质量评分比较差异无统计学意义（P>0.05）；护理后，实验组患者的心理功能、生理功能、物质功能、社会功能、生活能力、幸福指数等生活质量评分显著高于对照组（P<0.05）；②护理前，两组患者的阳性和阴性症状量表评分比较差异无统计学意义（P>0.05）；护理后，实验组患者的阳性和阴性症状量表评分显著低于对照组（P<0.05）。 结论 重复经颅磁刺激治疗精神分裂症患者的临床护理效果显著，能够有效改善患者的生活质量评分。
+　　[中图分类号] R473.74 [文献标识码] B [文章编号] 1673-9701（2017）16-0155-04
+　　[Abstract] Objective To comprehensively analyze the clinical nursing effect of 88 cases of schizophrenia treated by repeated transcranial magnetic stimulation. Methods The general data of 88 patients with schizophrenia who were admitted to our hospital from August 2015 to December 2016 were selected as the research object. According to different nursing methods， the patients were divided into the experimental group and the control group， with 44 cases in each group. The control group was given pseudo repeated transcranial magnetic stimulation combined with conventional nursing methods， and the experimental group was given repeated transcranial magnetic stimulation combined with comprehensive nursing methods. SPSS20.0 statistical software was used to statistically analyze the scores of the quality of life （psychological function， physiological function， material function， social function， living ability and happiness index） of the two groups before and after the nursing care. Positive and negative symptom scales were used to evaluate the efficacy. Results ①There were no significant differences in the scores of psychological quality， physiological function， material function， social function， living ability and happiness index between the two groups before nursing（P>0.05）； the scores of psychological function， physiological function， material function， social function， living ability and happiness index in the experimental group were significantly higher than those in the control group after the nursing（P<0.05）； ② there was no statistically significant difference in the scores of positive and negative symptom scales between the two groups before nursing（P>0.05）； after nursing， the scores of the positive and negative symptom scale in the experimental group were significantly lower than those in the control group（P<0.05）. Conclusion The clinical nursing effect of 88 cases of schizophrenia treated by repeated transcranial magnetic stimulation is significant， which can effectively improve the scores of quality of life in the patients.   　　1.5统计学方法
+　　采用SPSS20.0统计学软件进行统计学分析，计量资料以（x±s）表示，采用t检验，计数资料比较采用χ2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者治疗前后生活质量评分比较
+　　护理前，两组患者的生活质量评分比较差异无统计学意义（P>0.05）；护理后，实验组患者的心理功能、生理功能、物质功能、社会功能、生活能力、幸福指数等生活质量评分显著高于对照组（P<0.05），见表1。
+　　2.2两组患者护理前后阳性和阴性症状量表评分比较
+　　护理前，实验组患者阳性和阴性症状量表评分为（86.25±9.66）分，对照组为（87.02±9.71）分，两组患者的阳性和阴性症状量表评分比较差异无统计学意义（P>0.05）；护理后，实验组患者阳性和阴性症状量表评分为（47.22±8.15）分，对照组为（80.69±9.05）分，实验组患者的阳性和阴性症状量表评分显著低于对照组（P<0.05）。
+　　3 讨论
+　　精神分裂症患者的主要临床表现为：行为、思维和情感等方面的障碍。目前有研究认为精神分裂的发生与前额叶皮质功能紊乱密切相关。传统治疗方式为药物治疗，但是治疗效果不够显著。采用抗精神病药物治疗精神分裂症患者的治疗效果有限，因此需要选找到新的治疗方法，选用合适的护理方法能够降低阳性和阴性症状量表评分。不仅如此，相关文献报道显示，重复经颅磁刺激治疗方法不会损害患者的认知功能，反而能够有效改善患者的执行能力。
+　　近年来，重复经颅磁刺激治疗方法能够通过对大脑皮层的特定部位进行重复刺激而提高其兴奋性，最终达到皮质功能重建作用，最终实现治疗精神分裂症的目的。
+　　在本研究中，护理前两组患者的心理功能、生理功能、物质功能、社会功能、生活能力、幸福指数等生活质量评分比较无统计学意义（P>0.05）；护理后，实验组患者的心理功能、生理功能、物质功能、社会功能、生活能力、幸福指数等生活质量评分显著高于对照组（P<0.05）。从上述研究数据可知，在重复经颅磁刺激治疗情况下，应用综合护理方法能够显著提高患者的的生活各项功能。
+　　综上所述，重复经颅磁刺激治疗精神分裂症88例的临床护理效果显著，能够有效改善患者的生活质量评分，具有重要的临床研究价值，值得广泛推广。
+
+

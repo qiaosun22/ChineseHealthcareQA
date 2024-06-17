@@ -1,0 +1,37 @@
+
+　　[摘要] 目的 观察甲状腺手术患者应用护理干预对焦虑及疼痛不适的影响。 方法 选取2012年2月～2014年2月于内蒙古医科大学附属医院诊治的96例甲状腺行手术治疗患者，按照随机双盲法分为两组，对照组48例患者行常规护理，研究组48例患者在对照组基础上行护理干预，分析两组患者护理前后心理、疼痛及并发症情况。 结果 研究组患者护理后焦虑量表（SAS）、抑郁量表（SDS）评分[（24.84±2.32）、（28.62±2.90）分]比对照组[（34.75±3.53）、（37.83±3.87）分]低，术后0级疼痛患者[28例（58.33%）]多于对照组[11例（22.92%）]，出现并发症[8例（18.67%）]少于对照组[23例（47.92%）]，差异均有统计学意义（均P < 0.05）。 结论 甲状腺手术患者应用护理干预对焦虑及疼痛不适效果显著，有效改善患者术后疼痛情况的同时缓解患者不良情绪，降低术后并发症发生率，对患者的预后效果影响较好。
+　　[中图分类号] R473.72 [文献标识码] C [文章编号] 1673-7210（2014）10（b）-0097-03
+　　Effect of nursing intervention on anxiety and pains of patients undergone thyroid operation
+　　WANG Dongmei SU Shan▲
+　　Department of General Surgery， Affiliated Hospital of Inner Mongolia Medical University， Inner Mongolia Autonomous Region， Huhhot 010059， China
+　　[Abstract] Objective To observe the effect of nursing intervention on the anxiety and pains in patients with thyroid operation. Methods 96 cases undergone thyroid surgical operation in Affiliated Hospital of Inner Mongolia Medical University from February 2012 to February 2014 were randomly selected and then according to the randomized double blind method they were divided into two groups. While routine nursing was performed in 48 patients of the control group， 48 patients in the study group were given nursing intervention on basis of the control group. The psychological state， pains and complications of the two groups of patients before and after nursing were analyzed. Results After given nursing， scores of SAS and SDS of study group were respectively （24.84±2.32） points and （28.62±2.90） points， lower than those of the control group， which were （34.75±3.53） points and （37.83±3.87） points. 28 patients in the study group experienced 0-level of pains （58.33%） after nursing， higher than that in the control group [11 cases （22.92%）]， and 8 cases （18.67%） in the study group experienced complications， less than the control group [23 cases （47.92%）]， the comparative differences were all statistically significant （P < 0.05）. Conclusion Nursing intervention for patients undergone thyroid operation is of significant effect on patients' anxiety and pains， which can effectively improve the postoperative pains of patients and relieve their negative emotions. Besides， nursing intervention can reduce the incidence of postoperative complications， with better effect on the prognosis of patients.
+　　[Key words] Thyroid gland； Operation； Nursing intervention； Anxiety； Pains   　　甲状腺疾病属于临床常见病，患者多因疾病及手术治疗等特点严重影响治疗情绪，即患者易出现焦虑状况而直接影响治疗效果[1]。本文主要对96例甲状腺行手术治疗患者予以不同的护理方案，并根据患者的心理状态变化及疼痛情况进行回顾性分析，观察护理方案对临床治疗效果的影响，现将结果报道如下：
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2012年2月～2014年2月于内蒙古医科大学附属医院诊治的96例甲状腺行手术治疗患者，疾病类型：34例甲状腺瘤，32例结节性甲状腺肿；30例甲状腺亢进症；学历：初中及以下21例，高中35例，大专及以上40例。按照随机双盲法分为对照组和研究组，每组48例；对照组男女比例26∶22；年龄21～73岁，平均（43.5±5.8）岁；病程2个月～4年，平均（1.2±0.7）年。研究组男女比例25∶23；年龄22～74岁，平均（42.9±6.2）岁；病程3个月～5年，平均（1.5±0.6）年。两组患者性别、年龄、病程等基线资料比较差异无统计学意义（P > 0.05），具有可比性。
+　　1.2 纳入与排除标准
+　　纳入标准：均经临床相关检查并确诊为甲状腺疾病；意识清醒且具有一定的沟通表达能力；均在患者及其家属知情前提下签署手术及护理方案同意书[2]。
+　　排除标准：心肝肾等脏器器官严重障碍疾病患者；凝血功能障碍者；手术及麻醉药物禁忌证及过敏史患者；不配合治疗方案者；资料不完全者[3]。
+　　1.3 方法
+　　对照组患者予以常规手术护理，即患者入院后介绍医院及病房环境，提醒术前准备及术后注意事项等[4]。研究组患者在对照组基础上予以护理干预，具体方法为：术前针对患者的具体情况予以检测，告知患者手术方式及相关知识；观察患者的心理状态，并根基患者具体情况予以心理干预及积极交流、安慰及鼓励；术中指导患者正确的手术体位，并通过播放音乐等方式缓解患者的心理压力等；术后根据患者的手术情况予以术后抗感染护理等，并指导患者及其家属需注意的相关护理事项等，且针对患者的疼痛情况予以相关药物控制。
+　　1.4 评价标准
+　　采用焦虑量表（SAS）及抑郁量表（SDS）评估两组患者护理前后的心理状态；根据WHO制定的疼痛标准评价患者的疼痛情况，其中0级为稍感不适或无痛感，Ⅰ级为轻微疼痛，Ⅱ级为明显疼痛且可耐受，Ⅲ级剧烈疼痛不可耐受；观察两组患者的并发症发生情况，包括手足痉挛、面部抽搐、喉上及喉返神经损伤等[5-6]。
+　　1.5 统计学方法
+　　本研究所有数据均用SPSS 20.0统计软件进行分析处理，计量资料用均数±标准差（x±s）表示，组间比较用t检验，计数资料用χ2检验，以P < 0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者心理状态变化情况比较
+　　两组患者护理前焦虑及抑郁情况比较无明显区别，研究组患者护理后焦虑及抑郁情况明显缓解，即SAS、SDS评分均明显低于对照组，差异均有统计学意义（P < 0.05），见表1。
+　　2.2 两组患者术后疼痛情况比较
+　　研究组患者疼痛不适感明显优于对照组，即0级疼痛患者明显多于对照组，差异有统计学意义（P < 0.05），见表2。
+　　表2 两组患者术后疼痛情况比较[n（%）]
+　　注：与对照组比较，*P < 0.05
+　　2.3 两组患者并发症发生情况比较
+　　研究组出现并发症8例（18.67%），对照组出现23例（47.92%），研究组并发症发生率明显低于对照组，差异有统计学意义（P < 0.05），见表3。
+　　表3 两组患者并发症发生情况比较[n（%）]
+　　注：与对照组比较，*P < 0.05
+　　3 讨论
+　　甲状腺激素为身体发育必需的激素，能有效促进生殖器、脑部及骨骼的生长发育，其发生病变后可对患者机体功能产生各种影响[7-9]。本研究中针对甲状腺激素病变患者予以手术治疗，且在患者及其家属接受并配合的情况下予以不同的护理方法，结果显示研究组护理方案对患者的心理状态具有较为明显的积极影响，具体表现为研究组患者的焦虑及抑郁等不良情绪评分明显低于对照组，此结果与张青丽等[10]与邹玉萍等[11]在相关文献中的表述相类似。分析原因：研究组护理人员在患者入院时予以术前指导，即针对患者对医院及病房不了解等情况及时予以相关介绍，缓解患者因对陌生环境的不了解产生不良情绪而影响病情及手术效果。同时针对手术患者对手术内容及操作水平不了解而产生焦虑不安情况，可通过介绍手术成功案例及主刀医师的业务水平等情况，取得患者及其家属信任的同时，强化患者的治疗依从性[12-15]。因此患者在对相关手术操作及注意事项了解的情况下，主动及时配合手术，不仅对手术效果具有积极影响，且能够改善患者的心理状态，对预后效果也有一定的影响。
+　　本研究中针对手术患者的术后疼痛不适情况予以相关分析，结果显示研究组患者的术后疼痛情况明显优于对照组，即研究组患者的0级疼痛患者明显多于对照组。分析原因：研究组患者在护理人员的精心照料下，及时关注生命体征及情绪变化情况，予以相关止痛方案，且根据患者的具体耐受情况予以调整。患者的物理干预效果相对优于对照组常规护理，且研究组患者在术前指导过程中已经了解到术后可能出现疼痛情况，即在充分的心理准备下能够相对较好地接受疼痛感，并采取自我调节方式缓解疼痛情况。通过护理人员采用的转移注意力方案，患者及其家属积极配合，其术后康复情况也会相应改善，因此在研究结果中显示研究组患者并未出现疼痛难耐情况，即术后疼痛情况发生后不会影响患者的手术及预后效果，可对患者的术后恢复产生积极影响[16-19]。
+　　由于喉返神经及喉上神经均来自于患者的迷走神经，在甲状腺手术过程中可能会因为各种情况造成损伤，严重影响手术效果的同时可能会引发手术伤害，因此患者的手术过程中的配合情况显得较为重要。本研究结果中显示研究组患者喉上神经及喉返神经损伤情况少于对照组，说明研究组患者的通过术前指导，了解手术操作中的各种程序，积极予以配合并相应地减少手术应激反应。且研究组患者的并发症发生率明显低于对照组，说明研究组患者的手术效果明显改善，且患者的相关护理人员的术中指导过程中选择合适的手术体位，并根据其具体反应积极加强术后护理措施，予以患者术后必要的钙剂含量，减少患者出现手足痉挛及面部抽搐的发生概率。本研究中未对患者的应激反应情况予以分析，即护理干预对手术患者的术后生理情况的影响效果需经过临床深入研究并证实。   　　综上所述，甲状腺手术患者应用护理干预对患者的焦虑及疼痛不适影响效果显著，有效改善患者的不良情绪并缓解患者的疼痛感，减少术后并发症发生率。
+
+

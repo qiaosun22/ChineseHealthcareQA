@@ -1,0 +1,34 @@
+
+　　[摘要] 目的 探讨氩氦刀靶向冷冻消融术对难治性实体瘤进行治疗的护理方法和对临床疗效的影响。 方法 选取本院2010年2月～2013年9月收治的84例难治性实体瘤患者为研究对象，将其随机分为观察组和对照组，每组各42例。对照组采取常规护理，观察组采取针对性护理干预，分析两组患者的术后并发症情况、患者满意度。结果 观察组的术后并发症发生率低于对照组（P<0.05）；观察组的满意率（92.8%）明显高于对照组（69.0%）（P<0.05）。 结论 行氩氦刀靶向冷冻消融术对难治性实体瘤进行治疗后，采取针对性护理干预措施是减少患者术后并发症，改善护患关系，减少护患纠纷发生的关键，且有利于患者的远期预后，值得临床推广应用。
+　　[中图分类号] R73 [文献标识码] B [文章编号] 1674-4721（2014）09（a）-0142-03
+　　Nursing experience of targeted argon-helium cryoablation operation for the treatment of refractory solid tumors
+　　GUAN Hua HUANG Hua-ying
+　　Department of Interventional Radiology，People′s Hospital of Shenzhen City，Shenzhen 518000，China
+　　[Abstract] Objective To investigate the nursing methods and its impact on the clinical efficacy of targeted argon-helium cryoablation operation for the treatment of refractory solid tumors. Methods 84 patients with refractory solid tumors in our hospital from February 2010 and September 2013 were selected as the research subjects and they were randomly divided into the observation group and the control group，and there were 42 cases in each group.The control group received routine care，the observation group received targeted nursing intervention，the postoperative complications and patient satisfaction of the two groups were analyzed. Results Incidence rate of postoperative complications in the observation group was s ignificantly lower than that in the control group （P<0.05）；the satisfaction rate of the observation group （92.8%） was significantly higher than that in the control group （69.0%） （P<0.05）. Conclusion In the course of targeted argon-helium cryoablation operation for the treatment of refractory solid tumors，implementation of targeted nursing interventions can reduce postoperative complications and improve the nurse-patient relationship，it is the key to reducing disputes between nurses and patients，and is conducive to long-term prognosis，it is worthy of clinical promotion in application.
+　　[Key words] Targeted argon-helium cryoablation operation；Refractory solid tumors；Nursing
+　　氩氦刀靶向冷冻消融术是一项全新的医疗技术，治疗难治性实体瘤的临床效果显著。作用机制为经低温冷冻瘤体组织，致使肿瘤组织中的血管损伤、细胞死亡，从而起到消融肿瘤组织的效果[1]。冷冻治疗后肿瘤组织缺血坏死，细胞崩解后释放致热源，引起全身性反应，肿瘤大面积坏死也极易发生继发感染。术后大多患者会出现不同程度的发热，护理人员必须密切观察患者的情况，并协助患者术后恢复，积极与治疗相配合。本研究主要探讨行氩氦刀靶向冷冻消融术后的护理方法和效果，报告如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取本院2010年2月～2013年9月收治的84例难治性实体瘤患者为研究对象，其中男性49例，女性35例，年龄49～77岁，平均（56.9±6.3）岁，所有患者经临床检查和病理确诊。肺癌18例，肝癌11例，肾癌13例，乳腺癌15例，鼻腔癌12例，鼻咽癌腹膜后转移9例，阴道壁黑色素瘤3例，乳腺癌术后腋窝转移3例。将患者随机分为对照组42例，观察组42例。两组患者的年龄、性别差异无统计学意义（P<0.05），具有可比性。   　　1.2 方法
+　　所有患者行氩氦刀靶向冷冻消融术进行治疗，对照组行常规护理，术前对患者讲述手术方法以及相应的注意事项。术后指导患者恢复知识（治疗知识和饮食常识等）。观察组行针对性护理干预措施，内容如下。
+　　1.2.1 心理护理 术前1 d，需要积极与患者交流，向患者讲述手术的方法以及手术流程、治疗作用，向患者讲解采取氩氦刀靶向冷冻消融术对肿瘤进行治疗的优势，从而让患者能够消除恐惧感，对氩氦刀靶向冷冻消融术治疗有系统性了解，缓解紧张情绪[2]。因肿瘤在治疗过程中，极为困难，对患者的生命安全构成极大的威胁，所以患者都会有恐惧、担忧等情绪，特别是在手术之前，心中既是期待，也是担忧，又害怕失望，在复杂的情绪中，患者会出现消极心理，对术后恢复会构成影响，因此，需要向患者例举以往成功病例，与患者进行有效的沟通，让患者能够对治疗充满信心，积极配合治疗。
+　　1.2.2 准备措施 在行手术前，确保手术中所需要的仪器准备妥当。本科使用氩氦刀为（以色列氩氦刀Cryo-Hi低温冷冻手术系统），其是航天制导技术，也就是氩气的冷隔绝技术应用到医疗领域的结晶，为确保手术能够顺利开展，必须要确保仪器能够正常运作。使用前，需提前准备机器，进行专业自检，确保机器的运作状态能够顺利进行手术。
+　　术前，患者也需要做好准备，护理人员需开展相应的健康宣教工作，积极与患者沟通，向家属和患者讲述目前患者的病情状态以及行氩氦刀靶向冷冻消融术治疗的必要性，术后可能会出现的并发症和预后情况，并签署手术同意书[3]。针对难治性实体瘤的特点，需要在术中预防周围脏器损伤，必须要患者进行肠道准备。行手术2 d前，需开始进行无渣饮食，禁忌暴饮暴食，饮食以清淡为主，禁忌食用辛辣、刺激性食物[4]。术前1 d，需使用15%甘露醇200 ml与温水1000 ml服用，有助于排便[5]。
+　　1.2.3 术后护理 术后需要立即使用毛毯和棉被对患者进行保暖，同时给予止血治疗，在行静脉输液的过程中，必须密切观察患者的生命体征，积极观察导管（引流管）情况，引流管是否畅通，引流液的颜色、性质和量等是否正常，一旦发现异常，应该积极报告医生进行处理，采取积极措施进行改善[6]。
+　　1.2.4 健康教育 术后应该向患者和家属介绍和疾病相关知识，能够通过了解，让患者能够减少身体不适感[7]。指导患者选择适合的体位，有利于患者恢复。术后给予高热量、高蛋白、低脂肪的饮食构架，并及时向患者告知补充维生素的重要性，讲述患者出现凝血机制障碍的原因，从而让患者能够自我保护，减少术后外伤[8]，并积极描述情绪和病情之间的关系，从而促使患者能够控制情绪，并积极锻炼，提高治疗依从性，定期检查，一旦出现异常情况，应该立即就诊[9]。
+　　1.3 统计学处理
+　　数据采用SPSS 19.0软件进行统计学分析，计数资料采用χ2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组术后并发症发生情况的比较
+　　观察组出现发热2例，感染1例，尿潴留1例，对照组发热9例，感染7例，出血5例，两组的术后并发症发生情况比较，差异有统计学意义（P<0.05）（表1）。
+　　表1 两组术后并发症发生情况的比较[n（%）]
+　　2.2 两组满意率的比较
+　　观察组的满意率为92.8%，对照组为69.0%，两组比较，差异有统计学意义（P<0.05）（表2）。
+　　表2 两组满意率的比较[n（%）]
+　　3 讨论
+　　氩氦刀靶向冷冻消融术是一种新型治疗模式，在难治性实体瘤的治疗中被广泛使用。对于许多合并心脑血管疾病、手术耐受性较差的患者，采取氩氦刀靶向冷冻消融术能有助于改善生存质量，延长生存时间。氩氦刀靶向冷冻消融术治疗的优势有：并发症发生率较低、创伤小、出血少、患者恢复快、能重复治疗[10]，但是经治疗后，患者易发生出血、感染和发热等并发症，其中，发热是最为常见的并发症，因此，采取积极有效的护理措施，是改善患者预后结局的关键。
+　　经本次研究发现，观察组患者经针对性护理干预，给予患者有效的心理护理，健康教育等护理方式，让患者能够以积极乐观的态度面对疾病，并积极配合护理与治疗工作，提高治疗依从性。在手术前后过程中，为患者提供安静的环境，使其保持良好的身体状态，能降低术后不良反应发生率。在手术操作，术后护理操作中，都执行无菌操作，可降低术后感染发生率。及时观察患者的生命体征，对导管情况进行护理，一旦发生异常，能及时予以处理，可降低术后出血发生率，帮助患者维持正常的体温状态，促进患者恢复，降低术后不适症状的发生。
+　　在整个护理过程中，都积极与患者交流，为患者解释治疗和护理的必要性，使患者能够理解，促进护患关系的和谐，减少误会，降低护患纠纷发生率。
+　　本研究结果显示，对患者进行术前和术后的针对性护理干预后，患者的并发症发生率明显下降，患者满意率上升，说明针对性护理干预可显著改善患者的远期预后，提高生活质量，其临床应用价值显著。
+
+

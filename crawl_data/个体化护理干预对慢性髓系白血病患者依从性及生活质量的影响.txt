@@ -1,0 +1,26 @@
+
+ 　　【摘要】 目的：探究个体化护理干预对慢性髓系白血病患者依从性及生活质量的影响。方法：选取2013年9月-2016年10月来笔者所在医院就诊的慢性髓系白血病患者84例，依据系统抽样法将患者分为观察组和对照组，各42例，给予观察组个体化护理，给予对照组常规护理，比较两组患者诊疗依从性和生活质量的不同。结果：干预后，观察组患者的精力与睡眠评分、身体素质评分、精神心理评分、人际关系评分、行动能力评分均优于对照组患者，差异有统计学意义（P<0.05）；观察组患者的依从性显著高于对照组，差异有统计学意义（P<0.05）。结论：对于慢性髓系白血病患者给予个体化护理，能明显提高患者依从性，患者生活质量也明显优于一般常规护理。
+　　doi：10.14033/j.cnki.cfmr.2017.9.031 文献标识码 B 文章编号 1674-6805（2017）09-0057-02
+　　【Abstract】 Objective：To explore the effect of individualized nursing intervention on compliance and life quality of patients with chronic myeloid leukemia.Method：From September 2013 to October 2016，84 cases of patients with chronic myeloid leukemia in our hospital were divided into observation group and control group according to systematic sampling method，42 cases in each.The patients of the control group were given conventional care，the patients of the observation group were given individualized care.The quality of life and treatment compliance of the two groups were compared after treatment.Result：The life quality of the observation group were better than those of the control group after intervention，including mental and sleep scores， physical quality scores，mental scores，interpersonal relationship scores，mobility scores，the difference was statistically significant（P<0.05）.The compliance of the observation group was significantly higher than that of the control group（P<0.05）.Conclusion：Individualized nursing care for patients with chronic myeloid leukemia can significantly improve the compliance and the life quality of the patients，which are significantly better than those of the conventional care.
+　　【Key words】 Individualized nursing intervention； Chronic myeloid leukemia； Compliance； Life quality
+　　First-author’s address：The Second Hospital of Jilin University，Changchun 130000，China
+　　慢性髓系白血病（chronic myelocytic leukemia，CML）是一?N起源于多能干细胞的髓系增殖性肿瘤，起病缓慢，症状多为非特异性，逐渐加重。患者可出现发热、贫血、脾大、白细胞瘀滞症及骨痛症状，治疗以化疗为主，不良反应多，预后较差，患者较为痛苦，对治疗和护理的配合程度不高[1]。所以如何提高慢性髓系白血病患者的依从性，并且有效提高其生活质量，成为当前亟待解决的问题。笔者所在医院在不耽误患者病情，并且患者知情同意的前提下进行了慢性髓系白血病患者个体化护理干预的研究，现将成果报告如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　随机选取2013年9月-2016年10月来笔者所在医院治疗的慢性髓系白血病患者84例，根据系统抽样法随机分为观察组和对照组，各42例，其中观察组男22例，女20例，年龄45～67岁，平均（50±5.5）岁，病程5～14年，平均（8±2.3）年；对照组男21例，女21例，年龄43～68岁，平均（52±6.1）岁，病程3～15年，平均（6±2.8）年。纳入标准：（1）患者符合慢性髓系白血病临床诊断标准，病程≥6个月；（2）对本次研究知情并签署知情同意书，并能配合各项检查及治疗；（3）无严重的心肝功能异常及精神类疾病。排除标准：（1）患者或其家属对本次研究存在抵触心理，不能按照要求进行相关护理配合；（2）患者在治疗过程中出现预料之外的病情变化不适合参加本次研究。参与本次研究的84例患者中，失访率为0。两组患者性别、年龄、病程等一般资料比较差异无统计学意义（P>0.05），具有可比性。   　　1.2 治疗方法
+　　对照组在治疗的过程中给予常规护理，包括：（1）合理安排休息和活动，避免劳累。（2）叮嘱按时服药。（3）观察药物疗效，有无不良反应等[2]。
+　　观察组在治疗过程中给予个体化护理干预，包括：（1）给予心理干预，执行保护性医疗制度，并进行精神关注和自我放松指导，增加与患者交流时间，倾听患者顾虑[3]。（2）认知程度干预，多为患者及家属普及基本医疗常识，帮助患者认识慢性髓系白血病，并了解其治疗方法和疾病转归。（3）增加营养，与营养科共同制定食谱，给予三高饮食即高蛋白、高纤维、高热量饮食。（4）定期给予健康指导，指导患者加强自我防护，改正不良生活习惯。对于巨脾患者，应指导行左侧卧位，并防止外力冲击导致脾破裂。（5）随访干预，建立患者随访登记，定期进行主动性随访[4]。
+　　1.3 ?^察指标及评价标准
+　　详细统计比较两组患者诊疗过程中对治疗及护理方案的依从性及其生活质量。依从性通过分析患者对医护人员治疗护理过程中提出要求的执行情况进行评分，满分为100分，分数越高说明患者依从性越好，其中80分以上为完全依从，60～79分为部分依从，60分以下为不依从。生活质量采取调查问卷的方式，参考并简化世界卫生组织生存质量测定量表（WHLQOL-100）生成本次所需量表，分为精力与睡眠、身体素质、精神心理、人际关系、行动能力等五项，采用百分制，最高100分，最低0分，分数越高表示在该方面生活质量越好[5]。
+　　1.4 统计学处理
+　　将患者的研究数据录入到SPSS 12.0统计学软件中进行分析，计量资料以（x±s）表示，采用t检验，等级有序分类变量采用秩和检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者生活质量比较
+　　干预前两组精力与睡眠、身体素质、精神心理、人际关系、行动能力评分比较差异无统计学意义（P>0.05）。干预后，观察组精力与睡眠、身体素质、精神心理、人际关系、行动能力评分均优于对照组，差异有统计学意义（P<0.05），见表1。
+　　2.2 两组患者对治疗及护理方案的依从性比较
+　　观察组对治疗及护理的依从性要优于对照组，差异有统计学意义（P<0.05），见表2。
+　　3 讨论
+　　近年来，随着医学科技的发展，对于疾病的认识有了新的突破，慢性髓系白血病的治疗进入了一个新的阶段[6]。治疗效果越来越好，患者存活期逐步延长，慢性髓系白血病患者的生存诉求也越来越高，生活质量作为一个多维度的评价标准越来越被医学界所重视[7]。部分患者及亲属对白血病的认知较差，患病后依从性较差。如何提高患者的依从性和生活质量，是需要思考的问题。本研究结果显示，与对照组相比，观察组患者依从性及精力与睡眠、身体素质、精神心理、人际关系、行动能力等生活质量评分优势明显。相比于对照组，观察组进行了以下行之有效的干预措施：（1）给予心理干预，执行保护性的医疗制度。（2）认知程度干预，多为患者及家属普及基本医疗常识。对于任何一个患者，支撑他活下去动力就是一颗强大的内心和行之有效的治疗方法，这往往基于患者对疾病的认知程度和周围人群对其心理的影响，所以提高患者对疾病的认识，并建立战胜疾病的信心，是非常必要且行之有效的方法。（3）增加营养，与营养科共同制定食谱。患病后，患者机体对于能量的要求要比一般人更为严格，而很多患者并不了解怎样才能既吃好又有营养，与营养科共同制定营养计划可以避免患者盲目进补，并能够给予良好的营养。（4）定期给予健康指导和随访干预对于患者长期恢复并配合治疗方案有着重要意义。有些患者平时生活不注意，医护人员在的时候能够想起怎么做，独处的时候就忘记了或者嫌麻烦，护理人员要尽心尽力，让每一名患者都得到良好的健康指导，避免一切可能发生的危险，并且做好随访，随时发现潜在风险并及时提醒[8]。
+　　综上所述，个体化护理干预可以提高患者依从性，并在改善其生活质量上有着积极的作用。相信医护人员和患者共同配合，能在战胜疾病治疗的道路上走地更远，走地更好。
+
+

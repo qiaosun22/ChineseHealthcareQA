@@ -1,0 +1,22 @@
+
+　　【摘要】目的：探究妇科患者围术期临床护理中循证护理理论的应用。方法：选取我院收治的140例妇科患者作为研究对象，分为观察组和对照组，观察组患者给予循证护理，对照组患者给予常规妇科护理。结果：护理前两组MUIS和HAMA得分比较差异无统计学意义（P>0.05），护理后两组MUIS和HAMA得分比较差异具有统计学意义（P<0.05）。结论：在妇科患者围术期临床护理中应用循证护理理论，能够有效降低患者不确定感，缓解患者焦虑情绪，具有临床应用价值。
+　　Abstract： Objective： To explore the application of evidence-based nursing in perioperative clinical nursing of patients with gynecological patients. Methods： 140 cases of gynecological patients treated in our hospital were divided into observation group and control group. The observation group were given evidence-based nursing， and the control group received routine nursing care. Results： there was no significant difference in the scores of HAMA and MUIS between the two groups （P > 0.05）， and the difference of HAMA and MUIS in the two groups was statistically significant （P < 0.05）. Conclusion： applying evidence-based nursing theory in perioperative clinical nursing in patients with gynecological patients can effectively reduce the patients' anxiety， relieve the anxiety of patients， and has clinical application value.
+　　Keywords： gynecological diseases； perioperative nursing； evidence-based nursing
+　　妇科疾病是影响女性健康的重要和常见疾病，根据国家健康局对中国妇女进行调查，全国妇女中有90%以上的妇女患有不同程度的妇科疾病[1]。临床上对妇科疾病患者围术期临床护理越来越关注。本文通过对我院收治的140例妇科患者围术期不同的护理模式进行对比分析，现报道结果如下。
+　　1 资料与方法
+　　1.1一般资料
+　　选取我院2013年1月～2014年1月收治的140例妇科患者作为研究对象，经本院伦理委员会批准及患者知情同意下由临床医师采取等距随机抽样法分为观察组和对照组，其中观察组70例，年龄26岁～67岁，平均年龄（32.12±10.12）岁。对照组70例，年龄27岁～64岁，平均年龄（30.25±11.56）岁。观察组患者给予循证护理，对照组患者给予常规妇科护理。所有患者均进行妇科手术。两组患者性别、年龄，一般基线资料差异均无统计学意义（P>0.05），具有可比性。
+　　1.2方法
+　　常规妇科护理：对患者的饮食、休息、治疗配合、健康宣传、术后护理等方面进行综合护理。
+　　循证护理：在常规护理的基础上，成立循证护理小组，对患者身体进行针对性综合评估，制定出详细的护理计划，其中包括对患者进行术前心理辅导、健康宣传、饮食控制，手术过程模拟等讲解；术中对患者体位及心理需求和疼痛感进行缓解，帮助患者进行手术；术后，针对患者进行术后心理开解、饮食调理。并且应用评估机制对患者进行实时监控，保证患者的身体健康。
+　　1.3观察指标
+　　对两组患者进行MUIS不确定感量表和HAMA汉密尔顿焦虑表进行护理前后评分比较。其中MUIS不确定感量表包含33项，总分在30分～160分之间，分值越高患者的不确定越强烈；HAMA汉密尔顿焦虑表共14项，评分>7分为焦虑，>29分为严重焦虑。
+　　1.4统计学处理
+　　本次研究当中的所有数据均采用SPSS17.0统计软件进行处理，计量资料采用均数±标准差（ ±s）表示，计数资料采用率（t）校验，P<0.05表示差异具有统计学意义。
+　　2 结果
+　　比较两组患者护理前后MUIS和HAMA得分，护理前观察组和对照组MUIS得分为（75.61±7.98）分、（74.98±8.12）分，HAMA得分为（15.51±3.76）分、（14.98±2.98）分，两组比较差异无统计学意义（P>0.05）；护理后观察组和对照组MUIS得分为（48.231±8.79）分、（62.98±10.12）分，HAMA得分为（7.71±2.06）分、（13.95±3.96）分，两组比较差异具有统计学意义（P<0.05），具体结果见表1。
+　　3 讨论
+　　循证护理是一种新型的护理模式，主要是指护理人员在对护理进行计划的过程中审慎地、明确地将研究理论和临床经验、患者心理相结合的临床护理过程[2]。在实施循证护理时要注意三个因素：适宜的护理研究依据、护理人员的护理技能和临床经验、病人的实际情况和心理情绪[3]。将以上三个因素相结合，制定出更加合理、优秀的护理模式。本次研究中两组患者护理后观察组MUIS得分（48.231±8.79）分，对照组MUIS得分（62.98±10.12）分，观察组HAMA得分（7.71±2.06）分，对照组HAMA得分（13.95±3.96）分，两组比较差异具有统计学意义（P<0.05）。由此不难看出，本次研究中我院护理人员通过术前对患者的心理、饮食进行指导，为患者讲解一些成功的手术案例，增加患者手术的自信心，在手术中指导患者进行合理的体位，并与患者进行良好的交流，保证患者在手术过程中能够拥有良好的心情，使手术顺利进行，在术后，对患者进行临床护理，监测患者生命体征，通过饮食和运动相结合的方式帮助患者进行术后康复，并对患者进行关于妇科疾病的健康知识讲解和干预、对患者心理进行辅导，帮助患者尽快适应术后及出院生活。从而提高了医院的护理质量。
+　　综上所述，运用循证理论在妇科围术期进行护理，能够有效降低患者的焦虑、紧张情绪，缓解患者不安感，使患者能够以最佳的状态进行疾病治疗，进一步提升了护理质量，具有临床应用价值。
+
+

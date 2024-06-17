@@ -1,0 +1,35 @@
+
+　　[摘要] 目的 探讨精神科病房暴发流行性感冒疫情的原因及对策。 方法 选取本院一精神科病房流行性感冒疫情暴发的32例住院精神病患者，将其按年龄分为<40岁组和≥40岁组，按住院时间分为<90 d组和≥90 d组，按病程分为<3年组和≥3年组，按疾病类型分为精神分裂症组和其他精神障碍组。 结果 年龄<40岁和≥40岁组、住院时间<90 d和住院时间≥90 d组、病程<3年和病程≥3年组、精神分裂症与其他精神障碍组暴发流行性感冒的感染率比较，差异有统计学意义（P<0.01）。 结论 患者年龄越大、住院时间越长、病程越长，精神分裂症患者更易被感染，应当根据专科易感因素制订合理的护理措施，加强住院患者的生活护理，积极引导患者进行适当的体育锻炼，增强机体抵抗力，改善病房管理，做好各项护理措施，积极控制感染和宣传防病意识，降低医院感染风险。
+　　[中图分类号] R181.8 [文献标识码] B [文章编号] 1674-4721（2014）08（b）-0187-03
+　　[Abstract] Objective To explore the cause and measures for epidemic situation of influenza outbreak in the psychiatric ward. Methods 32 psychiatric patients hospitalized in the first psychiatric ward of our hospital during influenza outbreak were selected and assigned to the <40 years old group and ≥40 years old group according to the age，the hospital stay<90 days group and the ≥90 days group according to the hospital stay，the course of disease<3 years group and ≥3 years group according to the course of disease，and the schizophrenia group and the group with other mental disorder according to the disease type. Results There was a statistical difference of infection rate of outbreaking the influenza between the age<40 years old group and ≥40 years old group，between the hospital stay<90 days group and the ≥90 days group，between the course of disease<3 years group and ≥3 years group，between the schizophrenia group and the group with other mental disorder（P<0.01）. Conclusion Patients with senility，long hospital stay，long course of disease and schizophrenia are more likely to get infected.Rational nursing measures should be developed according to susceptible factors of different specialties to strengthen life care for hospitalized patients，actively guide the patients appropriate exercises，enhance body immunity，improve ward management，properly implement various nursing measures，actively control the infection，publicize the awareness of disease prevention and reduce the risk of nosocomial infection.
+　　[Key words] Psychiatric ward；Influenza outbreak；Cause analysis；Nursing measure
+　　流行性感冒是由流感病毒引起的急性呼吸道传染病，传染性强，危害大。精神疾病是以精神活动紊乱为主要症状的疾病[1]，患者对疾病一般缺乏自知力，无求治欲望，生活没有规律，自理能力下降，精神病专科医院多为封闭式管理，患者较集中，且精神病患者多长期住院，机体抵抗力低，一旦发生流行性感冒，极易引起暴发流行。本研究对本院住院精神病患者的暴发流行性感冒情况进行回顾性分析，现报告如下。
+　　1 对象与方法
+　　1.1 研究对象
+　　选取本院一病区2012年6月22日住院治疗的205例精神障碍患者，诊断医师均为主治医师以上职称和有5年以上临床经验，病历资料完整、可靠，符合ICD-10诊断标准。
+　　1.2 方法
+　　根据病历和检查进行筛查、诊断，确定流行性感冒患者，并登记患者的资料（年龄、住院时间、病程、诊断等）。将患者按年龄分为<40岁组和≥40岁组，按住院时间分为<90 d组和≥90 d组，按病程分为<3年组和病程≥3年组，按疾病类型分为精神分裂症和其他精神障碍组。   　　1.3 统计学处理
+　　数据采用SPSS 16.0软件进行统计分析，计数资料采用χ2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　发生流行性感冒32例，均为男性，年龄16～68岁，平均（38.6±11.53）岁；住院时间8～1046 d，平均（178±154.95）d；病程1～25（3±4.32）年；精神分裂症25例，其他精神障碍7例；职业：教师2例，学生2例，工人15例，农民13例。<40岁（43.75%）和≥40岁（56.25%）、住院时间<90 d（37.50%）和住院时间≥90 d（62.50%）、病程<3年（53.12%）和≥3年（46.88%）、精神分裂症（78.12%）与其他精神障碍者（21.88%）的感染率比较，差异有统计学意义（P<0.01）（表1），提示患者的年龄越大、住院时间越长、病程越长、精神分裂症患者更易被感染。
+　　3 讨论
+　　精神障碍患者受精神症状所致生活自理下降、不合作，拒绝穿衣服，有的患者因幻觉、妄想支配，看见被死人穿过，嗅到衣服有化学物质、毒物、异味，担心损害健康，还有部分兴奋躁动的患者忙忙碌碌，无暇顾及冷暖。痴呆及严重功能衰退患者不知穿衣，行为紊乱患者不穿衣服或穿很少衣服，赤足乱窜，故意将衣被浇湿等。有些患者不脱衣服、不盖被子睡觉，气温下降未及时增加衣被，常时间吹空调或空调温度过低，洗澡时人员过多、水温过低等受凉，特别是年龄越大的患者更易引起呼吸道感染[2-3]。精神分裂症患者情感平淡、活动减少、缺乏主动性、饮食不当，特别是年老体弱的患者，由于精神症状反复发作，食欲下降或拒食或暴饮暴食，有的捡起地上的食品吃或翻捡垃圾篓内的杂物吃，吃生冷食物等造成营养状况改变[4]而致抵抗力下降容易被感染。
+　　由于患者住院时间较长，精神病院实施特殊的管理模式――封闭式管理[5-6]。患者长期生活在封闭的环境中，生活起居相对集中，不少患者常年生活在光照少、活动范围小、活动量少的环境中，造成其免疫功能逐渐下降，病毒可通过患者咳嗽或喷嚏，以飞沫的形式进行交叉感染[7]，极易造成传染病的流行和暴发。一旦发生传染病特别是呼吸道传染病很容易造成流行。
+　　不少抗精神病药物有嗜睡的副作用，使正常的呼吸道防御能力下降[8]，长期大量服用抗精神病药物易产生锥体外系反应、白细胞下降等不良反应，从而降低了患者的抗流感能力[9]。精神科病房暴发流行性感冒疫情的护理对策如下。
+　　3.1 加强培训，提高认识
+　　大力开展医护人员院内感染知识培训，以相关法律、法规为重点、以“手卫生、清洁、消毒、隔离、无菌技术”等医院感染控制技术为基础，以职业防护、标准预防、隔离预防为导向，以不良院内感染暴发事件为警示，提高医护人员的责任意识和控制意识；加强对患者的卫生宣教，督促其清洁卫生工作，提高自我防病意识。
+　　3.2 病房应经常开窗，保持空气流通
+　　病房应设置隔离病室，发现疑似传染病患者须立即采取隔离措施，限制患者的活动范围。
+　　3.3 发生流行性感冒实施的措施
+　　3.3.1 转变隔离观念，确保隔离实效 采取有效措施隔离患者，保护易感人群，将发热患者集中在隔离室内，限制活动范围，直至退烧3 d后解除隔离。密切接触者医学观察3 d，若出现症状，立即进行隔离。
+　　3.3.2 加强病区及环境的消毒 添加病房通风设施，保持病房空气流通，每天开排气扇。病房空气用2%过氧乙酸喷雾消毒及用食醋煮沸消毒，地面每天用含氯消毒剂拖地，物表用1000 mg/L的含氯消毒剂进行擦拭，控制传染源的传播。
+　　3.3.3 严密观察病情 监测发热患者的体温，每4 小时测1次，加强辅助检查，随时注意其肺部情况及并发症等病情变化，有特殊情况及时向医生汇报。同时其他患者要预防性服用板蓝根冲剂和抗病毒冲剂，应对老年体弱者等易感人群重点预防[10]。
+　　3.3.4 心理护理 因发病患者多，患者易产生恐慌、焦虑心理，且部分精神病患者不配合治疗，要耐心向患者解释，帮助患者控制焦虑和冲动，让患者安心接受治疗和护理。
+　　3.4 加强患者的营养
+　　鼓励患者进食，给予其易消化、富含营养的食物。鼓励和组织患者参加工娱疗活动，以增强机体抵抗力。男性患者要劝其戒烟或少吸烟。加强对年老体弱患者的管理，督促其进行适当的体育锻炼，增强机体抗病能力，培养患者自理能力，注意个人卫生[11]。
+　　3.5 加强监控，务求实效
+　　将隔离预防、手卫生、病室通风实施情况等均纳入目标管理范畴，定期、不定期检查相结合，及时反馈督导，定期行卫生学监测，以保障措施的切实落实。
+　　在这次流行性感冒中工作人员均未受到感染。做好工作人员的防护工作，规定工作人员上班时必须戴12层纱布口罩，接触患者前后要洗手，同时预防性服药。
+　　综上所述，针对发生在精神科病房的流行性感冒暴发，在立即采取紧急治疗及护理的同时，予以严密的消毒隔离，控制传染源，切断传播途径，保护易感人群。经积极处理，患者均获痊愈。严格执行消毒隔离制度、改善环境，加强营养，合理饮食、及时治疗，积极控制和宣传防病意识等措施能有效减少精神病患者的流行性感冒暴发，保障患者的就医安全。医院近两年有效地控制了流行性感冒暴发的发生。
+
+

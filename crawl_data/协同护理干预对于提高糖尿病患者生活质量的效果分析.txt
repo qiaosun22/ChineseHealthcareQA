@@ -1,0 +1,31 @@
+
+ 　　[摘要] 目的 分析在糖尿病患者护理中采用协调护理干预的临床护理效果及对生活质量的影响作用。方法 该研究选取的样本病例为该院收治的30例糖尿病患者，以2015年11月―2016年11月为病例样本选取时间段，分组方式为抽签分组，其中予以常规护理干预的15例患者为对照组，予以协调护理干预的15例患者为实验组，护理后将2组患者的临床护理效果进行比对和分析。结果 护理前2组患者的空腹血糖水平、餐后2 h血糖水平及糖化血红蛋白水平经统计学软件比对差异有统计学意义（P<0.05），而护理后，相较于对照组，实验组患者以上各项指标均明显降低，2组比对差异有统计学意义（P<0.05）；同时实验组患者生活质量各项评分明显提升，2组比对差异有统计学意义（P<0.05）。结论 在糖尿病患者护理中采用协调护理干预的临床护理效果理想，不但可有效控制患者的血糖水平，同时可将患者的生活质量提升，在临床护理中值得应用和推广。
+　　[中图分类号] R47 [文献标识码] A [文章编号] 1672-4062（2017）03（b）-0100-02
+　　[Abstract] Objective To analyze the effect of collaborative nursing intervention in improving the quality of life of diabetes patients. Methods 30 cases of diabetes patients admitted and treated in our hospital from November 2015 to November 2016 were selected and divided into two groups with 15 cases in each， the control group adopted the routine nursing intervention， while the experimental group adopted the collaborative nursing intervention， after nursing， the clinical nursing effect of the two groups was compared and analyzed. Results The differences in the fasting blood glucose level， blood glucose level in 2 h after dinner and glycosylated hemoglobin level before nursing between the two groups were statistically significant， after nursing， the above indexes in the experimental group were obviously decreased， and the differences between groups were statistically significant（P<0.05）， and the differences in the various scores of quality of life between the two groups were statistically significant（P<0.05）. Conclusion The clinical nursing effect of collaborative nursing intervention for diabetes patients is ideal， which can not only effectively control the blood glucose level of patients but also improve the quality of life， and it is worth promotion and application in clinic.
+　　[Key words] Diabetes； Collaborative nursing intervention； Quality of life
+　　糖尿病在?R床上作为一种常见的疾病类型，属于非传染性疾病类型。糖尿病发病率在近些年来呈现逐年持续增长的趋势，主要与我国人口老龄化进程的不断深入相关，同时伴随人们生活水平的提升，也改变了患者的生活方式和饮食习惯，增加了糖尿病的发病率[1]。在临床治疗中糖尿病患者必须对治疗进行坚持，提升依从性，对不良生活习惯进行改善，因此有效控制血糖，避免导致并发症发生，严重影响患者的身心健康甚至是生命安全。在患者治疗过程中予以有效的护理干预极为重要，以提升患者的依从性，改善生活质量。该院在护理实践中发现协调护理干预获得了满意的护理效果，对患者生活质量提升具有重要意义，该研究对该护理方法的效果进行进一步评价，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　该研究选取的样本病例为该院收治的30例糖尿病患者，以2015年11月―2016年11月为病例样本选取时间段，分组方式为抽签分组，其中予以常规护理干预的15例患者为对照组，患者男女比例为8：7，63岁为患者中最高年龄，38岁为患者中最小年龄，中位年龄为（48.5±7.8）岁；予以协调护理干预的15例患者为实验组，患者男女比例为10：5，65岁为患者中最高年龄，37岁为患者中最小年龄，中位年龄为（50.8±6.5）岁，2组患者临床基本资料经统计学软件分析，差异无统计学意义（P>0.05），2组比对数据可比性有所增加。   　　1.2 方法
+　　常规护理为对照组患者的护理方法，即常规健康教育、心理、运动、饮食指导、电话随访等[2]。而实验组患者则予以协调护理干预，具体护理方法为：护理评估、协调护理干预、技能指导、家庭支持。
+　　1.3 评价指标
+　　对实验组和对照组护理前后血糖各项指标进行检测和比对；2组患者的生活质量应用SF-36生活质量调查量表进行评价和比对，100分为满分[3]。
+　　1.4 统计方法
+　　实验组和对照组在研究中比对数据处理和整理均选取SPSS 19.0统计学软件作为统计工具，均数±标准差（x±s）为计量数据表示方式，实施t验证，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 比对护理前后2组患者的血糖各项指标
+　　护理前2组患者的空腹血糖水平、餐后2 h血糖水平及糖化血?t蛋白水平经统计学软件比对均获得（P>0.05），而护理后，相较于对照组，实验组患者以上各项指标均明显降低，2组比对差异有统计学意义（P<0.05），见表1。
+　　2.2 比对2组患者护理前后的生活质量
+　　护理前2组患者的生活质量评分比（P>0.05），护理后实验组患者生活质量评分上升明显，2组比对差异有统计学意义（P<0.05），见表2。
+　　3 讨论
+　　3.1 护理评估
+　　对患者进行全面的评估，促进良好护患关系的构建。在患者住院后护理人员要加强与患者之间的交流和沟通，对患者基本情况进行充分了解，主要了解内容包括患者病情、受教育程度、性格特点、糖尿病知识掌握程度、糖尿病知识需求程度等，以此为依据对健康宣教方案进行制定，体现个性化护理理念；对患者产生的疑虑进行及时解答，对患者生活困难予以相应的帮助，以此构建良好的护患关系。
+　　3.2 协调护理干预
+　　将协调护理干预的知识、具体方法向患者及家属用通俗易懂的语言进行讲解，并让其明确参与护理中的重要作用，同时患者明确自我照顾、自我维护的重要性，协调护理实行方式具有多种，比如集中授课形式的专题讲座，操作示范、分组讨论等，以此将传统护理模式转变为协调护理模式[4]。
+　　3.3 技能指导
+　　加强患者的技能指导和培训，将患者自我护理能力提升。将患者心理调适能力增强，对患者心理状态进行有效评估，针对患者产生的不良心理予以个性化心理疏导，缓解和消除患者的负面情绪，提升治疗和护理的依从性。促进饮食配合，将计算饮食热量方法教会患者，合理搭配饮食，让患者明确定量、定时、少食多餐的重要作用；告知患者在治疗过程中定期监测血糖的重要性，并将注意事项告知患者，并将可能出现的并发症和预防措施向患者进行讲解；使患者明确一个健康的生活习惯对疾病控制的重要性[5]。
+　　3.4 家庭支持
+　　对患者家属进行鼓励，使其在患者护理中进行参与和配合，发挥家庭支持的作用。对患者家属进行引导，使其对患者照顾的自觉性提升，从生活和精神层面上予以患者一定的支持，多对患者进行鼓励，提升家庭的照顾职能，提升家庭护理和配合效果。
+　　综上所述，在糖尿病患者护理中采用协调护理干预的临床护理效果理想，在临床护理中值得应用和推广。
+
+

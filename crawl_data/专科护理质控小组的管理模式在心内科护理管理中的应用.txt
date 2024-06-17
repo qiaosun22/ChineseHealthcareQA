@@ -1,0 +1,34 @@
+
+ 　　[摘要]目的 探?专科护理质量控制小组的管理模式在心内科的应用效果。方法 选取2016年1月～2017年1月我院心内科患者1310例作为观察组，实施专科护理质控小组的管理模式；选取2014年1月～2015年1月患者1310例作为对照组，不实施专科护理质控小组的管理模式，比较两组护理管理效果。结果 观察组心电图识别率、心电图的操作规范率、心电图正确解读率及疑难心电图的识别和反馈率均高于对照组；胸痛患者平均就诊时间、冠心病确诊时间短于对照组，对胸痛的认识率及对该疾病严重程度的知晓率高于对照组；护理文书书写合格率高于对照组，不良事件发生率低于对照组；急救过程中的配合默契满意度及口头医嘱执行准确率高于对照组，操作失误率低于对照组，以上差异均有统计学意义（P<0.05）。结论 成立专科护理质控小组并对护理工作进行规范化管理，可有效提高心内科整体护理质量。
+　　[中图分类号] R473.5 [文献标识码] A [文章编号] 1674-4721（2017）04（b）-0190-04
+　　Application of specialist nursing quality control team in department of cardiology nursing management
+　　SUN Chi1 GUO Ting2 ZHANG Chao3▲
+　　1.Department of Emergency，the Second Affiliated Hospital of Nanchang University in Jiangxi Province，Nanchang 330006，China；2.Department of Cardiology，the Second Affiliated Hospital of Nanchang University in Jiangxi Province，Nanchang 330006，China；3.Department of Nursing，the Second Affiliated Hospital of Nanchang University in Jiangxi Province，Nanchang 330006，China
+　　[Abstract]Objective To explore the application effect of the establishment of specialist nursing quality control group on department of cardiology.Methods 1310 patients hospitalized in department of cardiology from January 2016 to January 2017 were selected as the observation group，using the implementation of quality control group of specialist nursing management mode；1310 patients from January 2014 to January 2015 were selected as the control group did not implement the quality control group of nursing management mode.Nursing management effect were compared between two groups.Results The ECG recognition rate，correct operation rate，reading rate，difficult ECG recognition rate and correct operation rate of the observation group were higher than those in the control group；the average time of treatment in patients with chest pain，diagnosis time of coronary disease were shorter than those in the control group；the understanding of disease rate and awareness rate were higher than those in the control group；the qualified rate of nursing document writing was higher than that in the control group， the adverse event probability was lower than that in the control group，the levels of first aid course tacit satisfaction and accuracy of verbal orders performance were higher than those in the control group，the operation error rate was lower than that in the control group.All the differences were statistically significant （P<0.05）.Conclusion The establishment of specialist nursing quality control group and the standardized management of nursing work can effectively improve the quality of holistic nursing care in department of cardiology.   　　[Key words]Specialistnursing quality control group；Department of Cardiology；Nursing management；Nursing quality
+　　心内科的疾病病种多样，交错复杂，特别是急危重患者，病情瞬息万变。因此，心内科的临床医疗和护理工作都面临着诸多难题[1-2]。针对我院心内科的蓬勃发展，以及系统、规范的专科护士培训工作的开展，具有统筹规划的专科护理质控小组是必不可少的[3]。我院心内科成立专科护理质量控制小组开展护理管理，取得了理想效果，现报道如下。
+　　1资料与方法
+　　1.1一般资料
+　　选取2016年1月～2017年1月我院心内科患者1310例作为观察组，由科室成立专科护理质量控制小组开展护理管理，进行了心电图评估者1310例，以胸痛为主诉者783例，诊断为冠心病者574例，其中330例患者进行了心脏介入治疗，112例患者被告知临床病重（含病危），采取急救措施的患者为71例。选取2014年1月～2015年1月我院心内科患者1310例作为对照组，该组患者未进行严格的护理质量控制和评估，此组患者中，进行了心电图评估者1310例，以胸痛为主诉者833例，诊断为冠心病者529例，其中297例患者进行了心脏介入治疗，133例患者被告知临床病重（含病危），采取急救措施的患者为82例。本次研究已经通过医院伦理委员会审批，患者均知情并自愿参与本次研究，且均已签署知情同意书。两组患者基本情况比较，差异无统计学意义（P>0.05），具有可比性。
+　　1.2方法
+　　1.2.1成立专科护理质控小组 由我院护理部组织并成立了医院心内科质量专科控制小组。小组由来自7个临床科室的副主任护师及以上的成员共7名组成，其中男1名，女6名，中位年龄40岁。该护理质控小组设置组长1名，?责整体工作的安排和统筹规划，接受过心内科专科护理培训和教育培训并获得相应证书的技术评估成员3名以及质控巡查成员3名。
+　　1.2.2质控内容 ①教育监管单元。该单元拟定通过对专科护理人员心电图教育培训进行监管和督促，最终评估在质控小组的指导下，心内科护理人员能否获得更合理的成长。②宣教督促单元。该单元主要评估质控小组在心内科护理人员中延伸护理的指引效果。以胸痛患者的引导和宣讲为例，合理调节心内科护理人员在常规护理和延伸护理中的平衡。③工作监督单元。该单元主要以心脏重症监护室的常规护理单元为基础，以质控小组的方式来考察并监督心脏介入后患者的病情观察，交流反馈，穿刺口护理，以及相关文书的书写、记录和医嘱的签署情况等。④医护配合督导单元。该单元主要以心内科急救为契机，通过质控小组的督导来增加并完善医务人员之间的配合，促进医疗工作的改善。
+　　1.2.3明确工作职责 ①负责心内专科护理整改措施的计划制订和实施；②护理质量的把控，及时发现护理问题并积极指导解决；③防范心内专科的护理差错，鉴定相关事故并提出具体责任问责；具体检查方式包括：①以上述的护理内容为基础，每周不定时进行至少1次的护理质量抽样调查，并将检查所发现的缺陷问题向本组的主管护士进行汇报；②质控小组每周不定时地至少1次针对责任护士工作进行重点检查，发现护理缺陷，督促护理计划的制定和落实；③每周至少1次针对专科护士指导工作的现场聆听，并提出指导意见；④质控小组将每月开展1次专科护理质控会议，对每月心内专科护理质量检查中发现的一些护理问题和缺陷进行综合分析，提出整改意见，落实整改方案，提高并改进护理质量。
+　　1.3观察指标
+　　①比较两组心电图识别率、心电图的操作规范、心电图解读情况及疑难心电图的识别和反馈率；②比较胸痛患者的平均就诊时间、冠心病确诊时间、患者对胸痛的认知率及疾病严重程度的知晓率；③比较两组患者术后护理实施的完成度、不良事件发生率、护理文书书写的合格率及相关记录完善率；④比较两组急救过程中的配合默契满意度、操作失误率及口头医嘱执行的准确率[4-5]。
+　　1.4统计学方法
+　　采用Stata 12.0统计学软件进行数据分析，计量资料数据用均数±标准差（x±s）表示，两组间比较采用t检验；计数资料用率表示，组间比较采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1两组患者心电图识别及操作情况的比较
+　　观察组心电图识别率、心电图的操作规范率、心电图解读率及疑难心电图的识别和反馈率均高于对照组，差异有统计学意义（P<0.05）（表1）。
+　　2.2两组胸痛患者就诊及认知情况的比较
+　　观察组就诊时间、冠心病确诊时间短于对照组，对胸痛的认识率及该疾病严重程度的知晓率高于对照组，差异有统计学意义（P<0.05）（表2）。
+　　2.3两组术后护理质量及不良事件发生率的比较
+　　两组术后护理实施完成度比较，差异无统计学意义（P>0.05）；观察组护理文书书写合格率高于对照组，不良事件发生率低于对照组（P<0.05）（表3）。
+　　2.4两组急救过程中的配合情况、操作情况及医嘱执行情况的比较
+　　观察组急救过程中的配合默契满意度及口头医嘱执行准确率高于对照组，操作失误率低于对照组，差异有统计学意义（P<0.05）（表4）。
+　　3讨论
+　　随着医疗技术的持续发展，医疗服务在整体诊疗过程中的地位也越来越受到重视[6]。其中，护理质量在一定程度上影响着医疗进程和患者满意度的提升。但是，护理人力资源配置不足、护士学历参差不齐等现状皆对医院护理质量和护理安全带来挑战[7]。虽然目前专科护士培训和人员配比在一定程度上解决了上述问题，但是日常繁琐的工作和松懈的考核环境往往会影响到专科护理人员在临床护理、门诊会诊、科研教学等方面所发挥的作用[8-9]。现阶段，我们以“护理部-专科小组-专科护士”为梯队的模式建立质量控制小组，通过直接参与的方式，予以“实时考核，实时评估，实时反馈，实施处理”来督促并提高整个心内科的专科护理质量[10-11]。
+　　在本次研究中，观察组实施专科护理质控小组的管理模式，观察组心电图识别率、解读率、疑难心电图识别率及正确操作率均高于对照组，胸痛患者平均就诊时间、诊断时间分短于对照组，对疾病的认识率和知晓率高于对照组，不良事件发生概率低于对照组，护理文书书写合格率高于对照组，且急救过程中配合默契满意度及口头医嘱执行准确率高于对照组，操作失误率也相对较低，两组数据差异显著（P<0.05），由此可知，我院成立专科护理质控小组的管理模式，实施护理质量管理和统筹规划后，心内科的各项护理能力和指标都有明显改善。专科护理人员的教育质量有了明显提升，受教育的护理人员不仅能够很好地掌握常规的心内科的护理单元内容，同时也掌握了较好的心电图识别能力，便于病情的及时反馈[12-13]。此外，针对于心内科一些具有潜在风险的胸痛疾病，护理人员能够做好延伸护理，积极宣教，不仅能够做好病人的疏导指引工作，也能参与病情解释，加强护理沟通，为该类疾病的防治有积极的意义[14]。于此同时，质控小组的管理也让护理人员的工作变得更为细心。在繁重的心内科重症监护病房，该科的护理人员也能够很理想地应对常规护理操作，书写规范的护理文书，减少差错率，保证重症患者医疗的顺利进行[15]。
+　　综上所述，专科护理质控小组的管理模式应用于心内科护理管理中，可有效改善心内科护理质量，提高医院整体护理水平。
+
+

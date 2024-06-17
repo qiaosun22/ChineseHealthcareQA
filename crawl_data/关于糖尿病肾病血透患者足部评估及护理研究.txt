@@ -1,0 +1,27 @@
+
+　　[中图分类号] R473.5 [文献标识码] A [文章编号] 1672-4062（2017）04（a）-0001-02
+　　[Abstract] Objective To explore the foot evaluation and nursing of patients with diabetic nephropathies hemodialysis. Methods 60 cases of patients with diabetic nephropathies admitted and treated in our hospital from February to December 2016 were selected and the foot vascular lesion was evaluated by measuring the ankle brachial index and toughing the arterial pulse， and the related information of foot nursing health guidance and foot self-nursing ability was evaluated by the self-made questionnaire. Results The abnormal arterial pulsation of foot occurred to 43.33 percent of patients， only 48.33 percent of patients had no foot vascular disease， and 30.00 percent of patients received the diabetic health education but did not form the systematic learning. Conclusion The patients with diabetic nephropathies hemodialysis are not equipped with the better foot nursing behavior， and the related knowledge popularity and education force are weak， and the medical staff should enhance the publicity force， increase the education publicity and promote the foot nursing level of diabetic nephropathies hemodialysis.
+　　[Key words] Diabetic nephropathies； Hemodialysis； Nursing research
+　　?S着生活水平的不断提高，饮食习惯和生活作息的不断改变，慢性代谢性疾病发病率逐年升高，糖尿病与高血压、高血脂的发病率均逐年提高，且发病年龄出现年轻化的趋势[1]。糖尿病在临床上存在多种并发症，其中糖尿病足部病变发病率较高。临床研究表明，糖尿病期间出现足部病变可明显增高患者致残率和致死率。糖尿病肾病终末期肾衰竭患者需要进行血透治疗，此时病程已经较长，患者多伴有多种并发症，患者好发糖尿病足[2]。为评估糖尿病肾病血透患者的足部病变情况，选取60例2016年2―12月在该院进行血液透析治疗的糖尿病肾病患者对相关情况进行评估调查，结果显示多数患者出现不同程度的足部病变，相关健康教育普及度较差，患者足部护理能力不高，护理质量较低，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2016年2―12月在该院进行血液透析治疗的糖尿病肾病患者60例，其中女性31例，男性29例，年龄34～77岁，平均年龄（62.8±9.4）岁。透析时间3～60个月，平均透析时间（32.5±10.1）个月，糖尿病病程3～27年，平均病程（15.4±9.6）年。全部患者经过该院伦理委员会同意进入研究队列并知情同意。患者神智清楚，意识正常，可以正常进行语言交流，可以自主完成问卷调查。
+　　1.2 方法
+　　1.2.1 患者接受健康教育指导情况和护理行为 采用自拟的问卷调查收集全部患者进行足部护理行为相关资料。主要内容包括：是否接受过关于糖尿病相关知识教育、一般资料、生活方式、临床体征、足部自我护理等。以国际通用的糖尿病自我护理行为调查问卷为基础，选取其中关于糖尿病足自我护理的相关问题进行扩展制定问卷内容，主要包括1周内检查足部和鞋的频率、洗脚并晾干，完成1 d记为1分，1周为1个周期，满分7分。调查问卷要求由患者本人进行填写，研究过程中共发放问卷60份，回收问卷60份，回收率100%。
+　　1.2.2 下肢血管检查
+　　①踝-臂指数（ABI）：ABI指数定义为踝部动脉（足背动脉或者胫后动脉）收缩压与肱动脉收缩压的比值。正常：ABI评分1.0～1.3，包含1.0和1.3；轻度动脉病变：ABI评分0.8～1.0，包含0.8；中度动脉疾病：ABI评分0.5～0.8，包含0.5；严重动脉疾病：ABI评分小于0.5；血管钙化：ABI评分大于1.3。   　　②下肢动脉搏动触诊：选取胫前动脉、胫后动脉和足背动脉，依据脉搏搏动强弱情况对可能的血管疾病进行评估。
+　　1.3 统计方法
+　　采用SPSS 20.0统计学软件进行分析，计量资料采用（x±s）表示，采用t检验进行统计分析，计数资料采用χ2检验进行分析比较，用[n（%）]表示。P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 足部护理健康指导情况分析
+　　足部健康指导情况统计，其中定期复查贴40.00%，而只有30.00%，接受过糖尿病教育，详细见表1。
+　　2.2 患者足部护理情况分析
+　　参加过糖尿病教育的患者足部护理总评分低于未参加过糖尿病教育的患者，其差异无统计学意义（P>0.05），详细见表2。
+　　2.3 糖尿病足情况评估
+　　从数据中可以看出，AB2评分正常为48.33%，下肢动脉搏动正常为56.67%，详细见表3。
+　　3 讨论
+　　在临床工作中，针对糖尿病肾病血液透析患者，治疗的重点主要是集中在对血压、血糖的控制以及对肾脏功能的保护，对于糖尿病并发的足部病变关注度较低[3]。该研究中对患者外周血管的评估结果显示仅有56.67%的患者下肢动脉搏动正常，甚至6.67%的患者出现了脉搏消失的情况。同时有51.67%的患者足部存在不同程度的血管病变，远高于既往研究中普通糖尿病患者的评估结果。
+　　目前研究认为，糖尿病足的主要诱因包括反复的小伤口损伤和血糖控制不良，给予良好的足部护理可以显著促进患者预后，明显减少足部发生溃疡的可能[4]。该研究中70.00%的患者未接受过糖尿病相关知识的健康教育，78.33%的患者未接受过糖尿病足的相关教育，表?F出临床工作中对相关教育重视程度不够。同时，表2结果提示在接受了相关教授后进一步的跟踪工作很不到位，患者并不能有效地改善足部护理质量。
+　　综上所述，糖尿病肾病血透患者不具备较好的足部护理行为，相关的知识普及和教育力度较弱，需要医务工作者加强宣传力度，加大教育普及，促进糖尿病肾病血透患者足部护理水平。
+
+

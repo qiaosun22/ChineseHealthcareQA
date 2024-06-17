@@ -1,0 +1,52 @@
+
+　　[摘要]目的 探讨负压封闭引流技术结合个性化心理护理干预对外科创面难愈患者的影响。方法 选取126例难愈性创面患者为研究对象，根据其入院顺序分成个性化护理组（A组，n=66）和对照组（B组，n=60）两组，均在负压封闭引流治疗后予以相应护理干预措施。比对两组患者在植皮愈合时间、住院时间、NRS评分等创面恢复指标上的差异，分析其干预前后SAS评分及SDS评分等不良情绪改善情况，记录其创面出血、创面感染、半透膜下积液等并发症发生风险。结果①A组术后植皮愈合时间、总住院时间及疼痛评估结果均明显低于B组（P<0.05）；②A组不良情绪改善效果明显优于B组（P<0.05）；③两组术后并发症发生率对比无明显差异（P>0.05）。结论 对难愈性创面患者予以负压封闭引流后个性化心理干预措施，可有效改善其不良情绪，提高治疗依从性，促进预后提升，值得临床推广。
+　　[中图分类号]R47 [文献标识码]A [文章编号]1674-0742（2015）04（b）-0144-03
+　　Effect of Vacuum Sealing Drainage Combined with Personalized Psychological Care Intervention on Surgical Patients with Refractory Wound
+　　DONG Qian
+　　Department of Dermatology， Kaifeng Second People’s Hospital， Kaifeng， Henan Province， 475002 China
+　　[Abstract] Objective To investigate the effect of vacuum sealing drainage combined with personalized psychological care intervention on surgical patients with refractory wound. Methods 126 cases with refractory wound were selected as the subjects and divided into the personalized nursing group （group A，n=66） and control group （group B，n=60） in accordance with the order of admission， and given the corresponding nursing respectively after vacuum sealing drainage.The skin graft healing time， length of stay， NRS score and other wound recovery indexes were compared between the two groups.The SAS and SDS scores before and after intervention and other bad mood improvement of the two groups were analyzed. And the incidence of wound bleeding， wound infection， semipermeable membrane effusion and other complications in the two groups were recorded. Results ①The postoperative skin graft healing time and hospitalization time were much shorter and pain assessment was significantly lower in group A than that in group B， respectively（P<0.05）；②The bad mood improvement in group A was obviously better than that in group B （P<0.05）； ③The incidence rate of postoperative complications between the two groups had no significant difference（P>0.05）. Conclusion For patients with refractory wound， vacuum sealing drainage combined with personalized psychological care intervention can effectively ameliorate the negative emotions， enhance the treatment compliance and improve the prognosis， so it is worthy of clinical promotion.
+　　[Key words] Vacuum sealing drainage； Personalized psychological care； Refractory wound
+　　难愈性创面是指各种原因造成的难以自行愈合的溃疡，临床治疗难度大，具有一定反复性[1]，于患者健康安全及生活质量影响较大。当前临床治疗难愈性创面多采用换药、负压封闭引流（VSD）等方案，后者作为新型创面治疗技术，自20世纪90年代初问世以来，凭借其全方位无死角引流的安全性及可操作性逐渐应用于皮肤软组织缺损及创面愈合治疗中[2]，积累下丰富的临床实践经验，得到广泛认可[3]。但部分患者因对该技术认识不足等因素于治疗中出现不良情绪，甚至排斥治疗，于预后提升不利。该研究为探讨负压封闭引流技术结合个性化心理护理干预对外科创面难愈患者的影响，选取该院2011年9月―2014年8月收治的126例患者为研究对象，现报道如下。   　　1 资料与方法
+　　1.1 一般资料
+　　整群选取该院于2011年9月―2014年8月收治的126例难愈性创面患者为研究对象，其中男64例，女62例；年龄20～69岁，平均（37.7±5.3）岁；难愈性创面面积在2×1 cm2～16×20 cm2；创面类型：糖尿病溃疡36例、压疮40例，皮肤软组织缺损后感染23例，放射性溃疡25例，其他2例。根据患者入院顺序分成个性化护理组（A组，n=66）和对照组（B组，n=60）两组，在一般资料对比上差异无统计学意义（P>0.05），具有可比性。
+　　1.1.1 纳入标准 ①符合难愈性创面诊断标准者；②临床病历资料完整者；③签署知情同意书者。
+　　1.1.2 排除标准 ①合并其他严重皮肤疾病或恶性肿瘤者；②精神障碍、认知障碍、语言障碍者；③未成年者；④中途退出治疗、干预或随访期失联者；⑤相关治疗禁忌证者。
+　　1.2 方法
+　　两组患者均接受VSD疗法，后B组予以按时换药、指征监测、病历记录、医嘱传达、饮食指导、卫生护理等常规护理干预措施；A组则在此基础上联合个性化心理护理方案：①倾听患者主诉，了解其不良情绪发展情况，并以亲切的态度，轻柔的语言同其交流，掌握不良情绪源头，同其建立和谐互信的护患关系，为后续干预工作的顺利开展提供条件；②根据已掌握的患者心理信息拟定个性化心理干预方案，对治疗及预后效果存在忧虑的患者采用列举历年有效数据、告知典型成功案例等方式帮助其建立治疗信心，改善排斥治疗态度；对疾病或治疗方案认知不足的患者予以健康宣讲、知识普及、患者交流座谈会等方式，使其充分了解相关疾病知识，认识到早期治疗干预的重要性及必要性，积极转变治疗态度，提高护理依从性；对疼痛或身体不适症状引发不良情绪患者，可通过舒缓音乐法、注意力转移法，运动指导法等，使患者将注意力从疼痛上转移，或在舒缓音乐的安抚下平和心态，减轻不适症状，若依旧疼痛难忍，可在告知医师后于医师指导下使用镇静、镇痛类药物，控制用量以免出现耐药反应。
+　　1.3 评估标准
+　　①数字分级法（NRS）评估标准用0-10代表不同程度的疼痛；0：无痛；1-3：轻度疼痛；4-6：中度疼痛；7-10：重度疼痛[4]。
+　　②焦虑/抑郁自评量表（SAS/SDS）评估标准参考《常用心理评估量表手册》[5]中相关标准。
+　　③观察指标观察比对两组患者在植皮愈合时间、住院时间、NRS评分等创面恢复指标上的差异，分析其干预前后SAS评分及SDS评分等不良情绪改善情况，行为期4个月随访，记录其创面出血、创面感染、半透膜下积液等并发症发生风险。
+　　1.4 统计方法
+　　应用统计学软件SPSS16.0分析数据，计量资料（x-±s）行t检验，计数资料（%）行c2检验，以P<0.05为对比差异有统计学意义。
+　　2 结果
+　　2.1 各项恢复指标对比情况分析
+　　A组术后植皮愈合时间、总住院时间及疼痛评估结果均明显低于B组，对比差异有统计学意义（P<0.05），详见表1。
+　　表1 各项恢复指标对比情况（x-±s）
+　　组别 植皮愈合时间（d） 住院时间（d） NRS评分（分）
+　　A （n=66） 12.43±3.33 20.22±4.83 2.14±0.95
+　　B （n=60） 15.01±3.24 32.34±5.22 4.92±1.34
+　　t 4.40 18.79 13.53
+　　P <0.05 <0.05 <0.05
+　　2.2 干预前后不良情绪改善情况对比分析
+　　A组不良情绪改善效果明显优于B组，对比差异有统计学意义（P<0.05），详见表2。
+　　表2 干预前后不良情绪改善情况对比（x-±s）
+　　时间 组别 SAS（分） SDS
+　　干预前 A （n=66） 59.65±4.53 0.66±0.12
+　　B （n=60） 58.96±4.57 0.65±0.11
+　　干预后 A （n=66） （28.93±4.13）#* （0.27±0.07）#*
+　　B （n=60） （50.85±4.42）# （0.48±0.08）#
+　　注：#与干预前对比P<0.05；*与B组对比P<0.05。
+　　2.3 随访期并发症发生情况对比分析
+　　两组术后并发症发生率对比差异无统计学意义（P>0.05），详见表3。
+　　表3 随访期并发症发生情况对比[例（%）]
+　　组别 例数 创面出血 创面感染 半透膜下积液 合计
+　　A 66 3 2 3 8（12.1）
+　　B 60 3 3 2 8（13.3）
+　　c2 0.04
+　　P >0.05
+　　3 讨论
+　　该研究为探讨负压封闭引流技术结合个性化心理护理干预对外科创面难愈患者的影响，选取126例患者为受试对象，发现在负压封闭引流治疗后予以个性化心理护理措施，能有效改善患者紧张、焦虑、恐惧等不良情绪，达到提高治疗及护理依从性，改善临床治疗效果，缩短就诊时间等目的。此次予以VSD后个性化心理干预措施的A组患者植皮愈合时间不足2周，总住院时间也在3周左右，治疗后疼痛评分较低，于其生活质量及睡眠影响较轻，利于预后提升。而仅在VSD治疗后予以常规护理措施的B组患者，恢复期较长，多数总住院时间超过4周，存在明显的疼痛反应，不良情绪未得到有效缓解，依旧有部分患者因疼痛、对治疗或预后质量存在疑虑等因素，护患配合依从度不足，甚至少数出现拒绝治疗情况，于后续治疗、干预工作的顺利开展不利。这一结果说明，VSD治疗后存在予以个性化心理护理的必要，护理人员可通过与患者的积极交流、沟通，于其建立和谐互信的医患关系，并了解其基本信息，明确不良情绪产生源头，并以此为依据拟定个性化方案。以数据列举、典型成功案例剖析的方式帮助患者建立治疗信心，通过注意力转移、音乐干预等方法缓解其疼痛反应，消除不良情绪，提高临床依从性，由排斥治疗逐渐转变为配合治疗，以此提高临床治疗效率，缩短治疗时间。丁晓红等[6]研究者也在报告中得到类似结论，其指出，个性化心理护理以患者为个体，尊重其特异性，使临床干预更具针对性及有效性，可通过拟定个性化干预方案的方式提高干预效率，尽快达到护理目标，以此促进患者配合临床治疗工作。此外，该研究还认为，除心理干预措施外VSD装置护理、运动指导、饮食干预等也是提高难愈性创面患者预后质量的关键[7]，需引起临床重视。
+　　综上所述，对难愈性创面患者予以负压封闭引流后个性化心理干预措施，可有效改善其不良情绪，提高治疗依从性，促进预后提升，值得临床推广。
+
+

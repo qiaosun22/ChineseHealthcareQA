@@ -1,0 +1,35 @@
+
+ 　　[摘要] 目的 探讨Kegel盆底肌锻炼联合护理干预在直肠前切除综合征治疗中的应用价值。 方法 前瞻性纳入2014年10月～2016年5月南京军区福州总医院467临床部门诊急迫失禁型直肠前切除综合征患者60例，按随机数字表法将其分为实验组和对照组，每组30例。对照组给予常规药物治疗和饮食运动调节，实验组在常规药物治疗和饮食运动调节基础上给予Kegel盆底肌锻炼联合护理干预。比较两组干预前、干预3个月后，直肠前切除综合征评分量表（LARS）、大便次数和大便失禁生活质量评分量表（FIQL）变化情况。 结果 干预3个月后，实验组LARS评分显著低于对照组，大便次数显著少于对照组，FIQL中生活方式、行为、抑郁、尬尴4个维度评分均显著高于对照组，差异有统计学意义（P < 0.05）。 结论 Kegel盆底肌锻炼联合护理干预有助于改善直肠前切除综合征患者临床症状并提高其生活质量。
+　　[中图分类号] R473.73 [文献标识码] A [文章编号] 1673-7210（2016）12（a）-0178-04
+　　Application value of Kegel pelvic floor muscle exercises combined with nursing intervention in the treatment of anterior resection syndrome
+　　XIA Baolin ZENG Yinzhi ZHANG Qingling
+　　Department of Gastroenterology， the 476th Clinical Department， Fuzhou General Hospital of Nanjing Military Command， Fujian Province， Fuzhou 350002， China
+　　[Abstract] Objective To explore the value of Kegel pelvic floor muscle exercise combined with nursing intervention in the treatment of anterior resection syndrome （ARS）. Methods From October 2014 to May 2016， 60 patients with ARS of the type of urge incontinence in the 476th Clinical Department， Fuzhou General Hospital of Nanjing Military Command were randomly divided into experimental group and control group， 30 cases in each group. The control group was given routine drug treatment and diet exercise adjustment. The experimental group was given Kegel pelvic floor muscle exercise combined with nursing intervention on the basis of conventional drug therapy and diet exercise regulation. The rectal resection syndrome score scale （LARS）， stool frequency and fecal incontinence quality of life score （FIQL） changes were compared between the two groups before and 3 months after intervention. Results After intervention for 3 months， the experimental group LARS scores was significantly lower than that of control group （P < 0.05）， the stool frequency was significantly lower in the experimental group （P < 0.05）. The four dimension score of the life style， behavior， depression， and embarrassment from the FIQL were significantly higher in the experimental group than that in control group （P < 0.05）. Conclusion Kegel pelvic floor muscle exercise combined with nursing intervention is helpful to improve the clinical symptoms and improve the quality of life in patients with ARS.
+　　[Key words] Anterior resection syndrome； Kegel exercises； Pelvic floor muscle exercises； Nursing intervention
+　　?{查显示，保肛术后出现直肠肛门排便功能改变的比例高达90%[1]，轻者表现为排便次数增多，严重者出现排便失禁或排空障碍。这种以便急、便频和气便失禁等为主，少数又可表现为便秘或排便困难的一系列症状，被称之为直肠前切除综合征（anterior resection syndrome，ARS）。多数ARS可在术后1～2年内有所改善，但有部分患者长期存在而不得不选择永久性造口。因此，ARS严重影响患者身心健康和生活质量[2]。目前，国内外ARS多以药物对症治疗为主，国外也证实盆底肌锻炼、生物反馈和神经电刺激治疗具有一定价值[3-4]，但国内相关研究较少。本研究探讨Kegel盆底肌锻炼联合护理干预在ARS治疗中的作用，在改善ARS临床症状和生活质量方面取得了一定进步。   　　1资料与方法
+　　1.1 一般资料
+　　前瞻性纳入2014年10月～2016年5月南京军区福州总医院门诊收治的急迫失禁型ARS患者60例，其中男42例、女18例，年龄38～70岁，平均（59.4±11.8）岁。按照随机数字表法将其分为实验组和对照组，每组30例。两组干预前在性别、年龄、保肛术后时间、吻合口高度、手术方式、病理分期等一般指标方面比较，差异无统计学意义（P > 0.05），具有可比性。详见表1。本研究通过医院医学伦理委员会批准，所有患者均签署知情同意书。
+　　1.2 诊断标准
+　　低位直肠前切除术后出现的肛门直肠排便功能改变，包括排便次数增多甚至不能自制或排便障碍，临床主要表现为排便次数增多、排便失禁、排便困难或便秘，症状持续1个月以上，排除术前已存在类似症状者以及放化疗或其他因素引起者，即诊断为ARS。该病分为急迫失禁型和排空障碍型两型，急迫失禁型主要表现为排便次数增多，严重者可超过10次/d，控制排便、排气能力下降，甚至完全失禁，伴有排便急迫感[5]。
+　　1.3 纳入与排除标准
+　　纳入标准：符合急迫失禁型ARS诊断标准；性别、年龄不限。排除标准：连续≥3 d中断锻炼者；就诊期间处于放化疗等辅助治疗过程者；各项信息资料不全者；具有超过1周的ARS药物治疗史者；无法配合医护人员指导下独立完成相关量表调查者；合并重要脏器严重疾病者；近期可能因肿瘤复发或转移需要接受再次手术者。
+　　1.4 分组与干预
+　　对照组：给予常规药物治疗和饮食运动调节。药物治疗：盐酸洛哌丁胺胶囊（西安杨森制药有限公司，批号10910085），口服，4 mg/次，2次/d；消旋山莨菪碱片（杭州民生药业集团有限公司，批号1420004508），口服，5 mg/次，3次/d。持续用药12周为1个疗程。饮食运动调节：增加富含植物纤维的食物摄入，增加运动，补充水分，培养正确的排便姿势。
+　　实验组：在常规药物治疗和饮食调节的基础上给予Kegel盆底肌锻炼联合护理干预。Kegel盆底肌锻炼在经过专业培训的专职护师给予指导下进行，排空膀胱，取站立位、仰卧位或坐位，双膝并拢，呼吸深而缓，有意识地收缩肛门运动，目标肌肉是盆底肌群，即肛提肌和尾骨肌。收缩至少10 s+放松至少10 s为1组，每次连续做20组，3次/d。注意避免和纠正大腿、背部或腹部肌群的收缩。护理干预措施，①宣教：通过文字、图片、视频等载体形式讲解盆底正常解剖、排便的生理过程、ARS发生原因、Kegel盆底肌锻炼的正确方式与有效作用。②延续性护理：通过建立患者健康教育微信群，进行沟通交流，督促患者遵嘱锻炼，提高患者依从性，并每周定期应用微信平台进行讲座，重点指导患者建立正确的Kegel锻炼方式，纠正错误不当的形式，并利用成功案例激励患者坚持保质保量完成规定的锻炼目标要求。应用电话随访，每周对患者Kegel盆底肌锻炼情况进行回访1次，评估患者锻炼持续性和依从性，排除连续≥3 d中断锻炼者。每月至少1次的门诊访视，督查患者Kegel盆底肌锻炼情况，解答或处理相关疑问。12周为1个疗程。
+　　1.5 观察指标
+　　干预前与1个疗程结束后，由同一位专业护师评估患者直肠前切除综合征评分量表（LARS）、大便次数和大便失禁生活质量评分量表（FIQL）变化情况。①LARS[6]：是欧洲国家广泛使用的专门针对ARS患者设计的评估量表，分为排气失禁、稀便失禁、排便次数、里急后重、排便急迫感5个独立条目问题，每个条目根据不同程度或频率分别赋予不同的分值，其中0分为无相关症状，分值越高表示症状程度越重。5项总分在0～42分，其中0～20分为无症状、21～29分为轻度、30～42分为重度。②大便次数：取患者近3 d大便次数的平均值。③FIQL[7]：专门用于评估便失禁患者生活质量的量表，分为生活方式、行为、抑郁和尴尬4个维度，分别包括10、9、7、3个相关条目，共计29个条目。每个条目所涉及的症状程度分为4～6个不同等级，以此对应1～6分的不同分值。每个维度中所含条目得分的平均值为该维度的最终得分，分值越高表示相关症状越轻、生活质量越高，分值越低表示相关症状越重、生活?|量越差。
+　　1.6 统计学处理
+　　采用SPSS 20.0统计软件对数据进行分析，计量资料以均数±标准差（x±s）表示，采用t检验，计数资料用百分率（%）表示，采用χ2检验，以P < 0.05为差异有统计学意义。
+　　2结果
+　　2.1 患者依从性
+　　本研究中，60例患者依从性良好，无脱落病例，未出现连续≥3 d中断治疗干预的情况。所有患者均遵嘱完成1个疗程的干预治疗，并在规定时间到院访视，均独立完成相关问卷调查。
+　　2.2两组患者治疗前后LARS评分和大便次数的比较
+　　干预前后组内比较：实验组和对照组的LARS评分均较干预前显著改善（P < 0.05），均处于轻度ARS范围；大便次数均较干预前显著减少（P < 0.05）。干预后组间比较：实验组的LARS评分显著优于对照组（P < 0.05）；实验组每日大便次数显著少于对照组，差异有统计学意义（P < 0.05）。见表2。
+　　2.3 两组患者治疗前后FIQL评分的比较
+　　干预前后组内比较：实验组和对照组FIQL 4个维度评分均较干预前显著改善（P < 0.05）。干预后组间比较：实验组FIQL评分在生活方式、行为、抑郁和尴尬4个维度均显著优于对照组，差异有统计学意义（P < 0.05）。见表3。
+　　3 讨论
+　　随着外科技术的进步，尤其是全直肠系膜切除术理念的推广以及吻合器械的广泛应用，低位直肠癌外科手术保肛率较前有了大幅提高[8]。然而，直肠癌低位前切除术后发生直肠肛门排便功能改变的比例却也随之增加[9]。ARS属于直肠癌保肛术后严重影响患者身心健康和生活质量的并发症之一，主要发病机制与手术导致的盆底神经肌肉损伤有关[10-11]。目前，ARS以药物对症治疗为主，但在改善临床症状和生活质量方面仍有待进步。   　　Kegel盆底肌锻炼是一种通过主动收缩盆底肌，促进肌肉及其支配神经功能恢复，进而提高控尿、控便能力的有效方法。相对于生物反馈、神经电刺激等治疗模式，盆底肌锻炼具有简便易行、无创性、无痛苦、不需借助特殊仪器设备即可进行的优点，尤其适用于基层单位开展。目前，Kegel盆底肌锻炼在防治女性妊娠或分娩导致的盆底功能障碍方面的相关研究较多。国内外大量研究证实，产前或产后进行科学正确的Kegel盆底肌锻炼对预防或改善女性尿失禁临床症状和生活质量具有重要意义[12-14]。Kegel盆底肌锻炼可以有效增强盆底肌力、提高盆底神经有效兴奋单元和兴奋频率，不但可以促进妊娠、分娩相关盆底功能损伤的康复，而且对老年女性盆底功能慢性衰退所导致的尿失禁等症状也有明显改善作用[15-16]。同时，盆底肌锻炼在改善性功能障碍方面也具有一定价值[17]。另外，盆底肌锻炼也可显著减少ARS排便次数，改善临床症状，促进直肠癌保肛患者术后直肠肛门功能恢复[18-19]。然而，目前针对ARS治疗的研究主要集中于国外，国内相关研究较少，该领域在国内尚处于起步阶段。本研究发现，Kegel盆底肌锻炼联合护理干预可以在药物治疗的基础上进一步改善ARS患者临床症状、减少排便次数，并提高患者生活质量，是ARS较好的辅助治疗方法，值得临床推广应用。
+　　临床实践发现，Kegel盆底肌锻炼开展过程中需要重视两个问题：①患者必须领会掌握正确的锻炼方法。Kegel盆底肌锻炼的要领是收缩和放松盆底肌，而应避免大腿、腹部和背部肌肉的收?s运动。在ARS治疗干预中，盆底肌锻炼简言之就是主动规律地收缩和放松肛门，应以肛门括约肌为锻炼的靶标，收缩和放松的时间各要至少维持在10 s以上。同时，应注意配合深缓呼吸或自然呼吸，急促呼吸状态下不利于收缩和放松时间的维持。②Kegel盆底肌锻炼贵在坚持，只有达到一定积累时间后疗效才能显现。因此，在Kegel盆底肌锻炼中联合护理干预有助于患者建立正确的锻炼方式并做到持之以恒。笔者的体会是，指定1～2名专业护理人员进行专业培训，针对ARS发病机制与科学治疗进行宣教，并指导患者进行科学正确的Kegel盆底肌锻炼方式，纠正患者错误或不当的锻炼方式。同时，通过微信、电话进行延续性护理干预，既能督查患者坚持锻炼情况，及时发现并纠正患者错误不当的锻炼方式，又能提高患者治疗的依从性[20]。另外，每个月至少1次的门诊访视制度，也能增加医患、护患以及患者与患者之间的交流沟通，注重心理护理，通过成功案例等多种形式来激励患者信心，增强战胜病痛的决心。
+　　可见，Kegel盆底肌锻炼有助于改善ARS患者临床症状并提高生活质量。本研究病例数较少，今后仍需进一步扩大样本量来验证结论的可靠性。相关的大规模临床研究已经注册（NCT01146769），正在开展之中。同时，本研究没有开展不同强度的盆底肌锻炼是否对ARS具有不同的改善效果研究。另外，在有条件的单位，Kegel盆底肌锻炼配合生物反馈治疗可能更有利于患者快速准确地掌握盆底肌锻炼的要领，并通过评估和反馈信息提高患者自信心和依从性，相关内容值得今后进一步研究。
+
+

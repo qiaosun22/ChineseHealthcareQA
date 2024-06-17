@@ -1,0 +1,31 @@
+
+ 　　[摘要]目的 探讨临床护理路径在急性重症胰腺炎患者床旁连续性肾脏替代疗法（CRRT）治疗中的应用效果。方法 将2014年2月～2016年12月在我院治疗的50例急性重症胰腺炎患者作为研究对象，均给予床旁CRRT治疗，根据护理方式分为两组，每组25例。对照组予以常规护理，研究组予以临床护理路径。比较两组患者干预前后的SAS、SDS评分，生活质量各维度评分、护理满意度及并发症发生率。结果 研究组患者护理后的SAS、SDS评分均显著低于对照组（P<0.05）。研究组患者生活质量各维度评分均显著高于对照组（P<0.05）。研究组患者的护理总满意度（92.00%）显著高于对照组（72.00%）（P<0.05）。研究组患者的并发症发生率（4.00%）显著低于对照组（24.00%）（P<0.05）。结论 急性重症胰腺炎患者床旁CRRT治疗中应用临床护理路径可显著改善患者的焦虑、抑郁情况，提高其生活质量及护理满意度，降低其并?l症发生率。
+　　[中图分类号] R657.5+1 [文献标识码] A [文章编号] 1674-4721（2017）10（c）-0192-03
+　　Application of clinical nursing pathway in bedside CRRT treatment in patients with severe acute pancreatitis
+　　MA Ren-wei WANG Ying-yun DONG Bo
+　　Department of Critical Care Medicine，the Eighth Affiliated Hospital of Zhongshan University in Guangdong Province，Shenzhen 518000，China
+　　[Abstract]Objective To explore the application effect of clinical nursing pathway in bedside continuous renal replacement therapy （CRRT） treatment in patients with severe acute pancreatitis.Methods 50 patients with severe acute pancreatitis treated in our hospital from February 2014 to December 2016 were selected as object.All patients were treated with bedside CRRT treatment.The patients were divided into the two groups according to the nursing mode，and there were 25 patients in each group.The control group was given the routine nursing，while the study group was given clinical nursing pathway.SAS，SDS score before and after intervention，each dimension score of life quality，nursing satisfaction degree，and the incidence rate of complication between both groups were compared.Results SAS and SDS score of patients in the study group were significantly lower than those in the control group （P<0.05）.Each dimension score of life quality in the study group were significantly higher than those in the control group （P<0.05）.The total satisfaction degree in patients of the study group （92.00%） was significantly higher than that of the control group （72.00%） （P<0.05）.The incidence rate of complications in the study group （4.00%） was significantly lower than that in the control group （20%） （P<0.05）.Conclusion The application of clinical nursing pathway in bedside CRRT treatment of severe acute pancreatitis can significantly improve the anxiety and depression of patients，improve the life quality and nursing satisfaction degree，and reduce the incidence rate of complication.
+　　[Keywords]Severe acute pancreatitis；Continuous renal replacement therapy；Clinical nursing pathway   　　重症急性胰腺炎是临床常见的一种急腹症，具有发病急、病情严重、预后差、并发症发生率高等特点，具有较高的死亡率[1]。其发病原因与机体早期胰腺炎局部病变触引起过度释放促炎因子有关，是一种全身炎症反应[2]。目前重症急性胰腺炎尚无特效的治疗方法，临床中常用的治疗方式为连续性肾脏替代疗法（CRRT）治疗。CRRT治疗可调节机体炎症介质，减轻炎症反应对机体的损伤[3]。但重症急性胰腺炎患者因病情原因常存在不良情绪，影响预后[4]，因此需要给予患者有效的护理干预，以缓解其不良情绪，提高其生活质量。为探讨临床护理路径在急性重症胰腺炎患者床旁CRRT治疗中的应用价值，现给予我院急性重症胰腺炎患者临床护理路径，报道如下。
+　　1资料与方法
+　　1.1一般资料
+　　选取2014年2月～2016年12月在我院接受CRRT治疗的50例急性重症胰腺炎患者为研究对象，将其按照护理方式分为研究组（25例）和对照组（25例）。对照组男性患者15例，女性患者10例；年龄在22～72岁，平均（51.4±4.9）岁；病因：胆道疾病10例，暴饮暴食5例，饮酒8例，其他2例。研究组男性患者14例，女性患者11例；年龄在21～74岁，平均（52.6±5.5）岁；病因：胆道疾病9例，暴饮暴食5例，饮酒9例，其他2例。两组的一般资料比较差异无统计学意义（P>0.05）具有可比性。本研究经医院医学伦理委员会批准，所有患者均签署知情同意书。
+　　1.2方法
+　　对照组给予常规护理干预，包括生命体征监测、确保呼吸道通畅等，在护理过程中观察患者原发病情况，如果患者存在颅脑损伤情况应密切观察患者神志、体征变化情况，对存在心功能障碍的患者要密切观察心电图变化，对肺功能障碍患者应给予呼吸机辅助呼吸，检测血气、血氧饱和度等指标变化，避免出现意外事故。研究组给予临床护理路径，具体包括以下几个方面。①成立临床护理小组：成立由主治医师、护士长、护士组成的临床护理小组，根据患者实际病情情况查阅相关资料制定以患者为中心的护理路径表，并严格按照计划执行[5]。②心理护理：重症急性胰腺炎患者常因起病急、病情危险等原因存在焦虑、恐惧、紧张、抑郁等不良情绪，不利于临床治疗效果，影响患者预后，因此，需要给予患者心理疏导，积极与患者进行沟通，在了解患者心理状况的前提下，讲解疾病相关知识以及目前治疗情况，消除患者紧张恐惧心理，同时与患者沟通，建立良好的医患关系，提高患者治疗依从性，树立患者治疗信心[6]。③基础护理：在患者入院时，向患者讲解医院基本情况，并为患者安排舒适、感觉、整洁、无菌的病房环境。在护理过程中要严格执行消毒工作，避免出现感染情况。定期清洗床上用品，保持患者皮肤干净，同时为患者提供安静的休息环境，保证患者充足的休息时间。 因CRRT治疗时间较长，因此在治疗期间要定期更改患者体位，保护患者骨隆突部位[7]。④静脉置管及血管通路护理：医护人员要密切注意患者穿刺部位是否存在异常情况，做好皮肤清洁干燥工作，整个操作过程中要严格进行无菌操作，确保导管固定牢靠，并检查创口情况，避免出现感染。治疗结束后，需要使用生理盐水清洗管腔。患者进行静脉滴注时，要密切关注患者置换液情况，并记录置换液出入量，避免因输入量过大造成体温过低。同时密切关注患者生命体征变化情况，如果出现异常及时通知医师处理[8]。⑤出血预防及营养支持：治疗期间，医护人员要密切关注患者穿刺部位，如果出现出血，应及时给予止血处理，并调整肝素使用剂量。因患者治疗需要长时间禁食，因此需要根据患者实际情况给予补充营养及热量。避免出现营养问题。
+　　1.3观察指标
+　　①两组患者干预前后的焦虑、抑郁情况采用焦虑自评量表（SAS）、抑郁自评量表（SDS）[9]进行评定，分值越高，焦虑、抑郁情况越严重。②两组患者生活质量采用WHOQOL-100量表[10]进行评定，分值越高，生活质量越好。③两组患者的护理满意度采用自制护理度满意量表进行评定，分为满意、基本满意、不满意，满意度=（满意+基本满意）例数/总例数×100%。④统计两组患者的并发症发生情况。
+　　1.4统计学方法
+　　采用统计学软件SPSS 21.00分析数据，计量资料以均数±标准差（x±s）表示，采用t检验；计数资料以率表示，采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1两组患者干预前后SAS、SDS评分的比较
+　　干预前，两组患者的SAS、SDS评分差异无统计学意义（P>0.05），干预后，两组患者的SAS、SDS评分均降低，且研究组降低显著（P<0.05）（表1）。
+　　2.2两组患者生活质量评分的比较
+　　两组患者的生活质量各维度评分均显著高于对照组（P<0.05）（表2）。
+　　2.3两组患者护理总满意度的比较
+　　研究组患者的护理总满意度显著高于对照组（P<0.05）（表3）。
+　　2.4两组患者并发症发生率的比较
+　　研究组患者的并发症发生率为4.00%，显著低于对照组的24.00%（P<0.05）（表4）。
+　　3讨论
+　　研究表明，不良情绪不但影响患者配合治疗的态度，还会对治疗效果产生影响[11]。患者因不良情绪而产生应激反应，致使大脑皮质过度紧张，神经系统及?确置谙低吵鱿忠斐＃?导致机体免疫功能降低，进而加重病情[12]。急性重症胰腺炎患者因病情情况常存在焦虑、抑郁等不同程度的心理问题，对患者病情造成影响，加重病情进展，且因不良情绪患者可能不配合治疗，致使治疗效果不甚理想[13]，因此需要给予患者有效的护理干预，缓解患者不良情绪，改善预后。
+　　临床护理路径以患者为中心，弥补传统护理模式的不足[14]。在本研究中，通过给予患者临床护理路径，依据患者的实际情况制定针对性的护理计划，令护理工作有序简单，更注意细节护理，通过给予患者心理护理，缓解患者不良情绪，提高患者信任感，令患者可以积极配合治疗工作，提高患者治疗依从性[15]。本研究中，研究组患者护理后的SAS、SDS评分均显著低于对照组，生活质量各维度评分均显著高于对照组，护理满意度（92.00%）显著高于对照组（72.00%），提示临床护理路径可显著缓解患者焦虑抑郁情绪，改善预后，提高患者满意度及生活质量，有助于建立良好的医患关系，减少医疗纠纷，提高医院护理质量。本研究结果还显示，研究组患者的并发症发生率（4.00%）显著低于对照组（24.00%）。可见通过给予患者细节护理，针对患者可能存在的情况给予预防性护理，可降低患者血滤管阻塞、局部血肿、应激性溃疡等并发症的发生率，有利于改善患者预后。   　　综上所述，急性重症胰腺炎患者床旁CRRT治疗中应用临床护理路径可显著改善患者的焦虑、抑郁情况，提高其生活质量及护理满意度，降低其并发症发生率。
+
+

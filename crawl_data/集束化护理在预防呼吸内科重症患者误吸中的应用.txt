@@ -1,0 +1,27 @@
+
+ 　　[摘要]目的 探讨集束化护理在预防呼吸内科重症患者误吸的效果。方法 选取2016年1～12月我院呼吸内科重症患者48例作为观察组；2015年1～12月呼吸内科重症患者41例作为对照组，对照组采用常规护理，观察组在对照组基础上采取集束化护理，比较两组患者误吸发生率、住院时间、转ICU治疗率及焦虑水平。结果 观察组患者误吸发生率、转ICU治疗率低于对照组，住院时间短于对照组，差异有统计学意义（P<0.05）。护理前，两组患者SAS评分结果比较，差异均无统计学意义（P>0.05）；护理后两组患者的SAS评分均有所降低，与护理前比较，差异有统计学意义（P<0.01）；观察组SAS评分均低于对照组，差异有统计学意义（P<0.01）。结论 集束化护理在预防呼吸内科重症患者误吸中具有积极的作用，可有效地减少误吸的发生，显著缩短患者的住院时间，降低转ICU治疗率，减轻患者的焦虑抑郁状态，改善患者的临床结局，值得临床广泛应用及推广。
+　　[中图分类号] R473.5 [文献标识码] A [文章编号] 1674-4721（2017）06（b）-0194-03
+　　[Abstract]Objective To explore the application of cluster nursing in the prevention of aspiration in severe patients in Department of Respiratory Medicine.Methods 48 severe patients from January to December 2016 and 41 severe patients from January to December 2015 in Department of Respiratory Medicine in our hospital were selected respectively as the observation group and the control group.Patients in the control group were given the routine nursing，while patients in the observation group were given the cluster nursing on the basis of the control group.The incidence of aspiration，the length of hospital stays，the incidence of ICU treatment and the level of anxiety were compared between two groups.Results The incidence of aspiration and ICU treatment in the observation group were lower than that in the control group，the length of hospital stays was shorter than that in the control group，and the differences were statistically significant（P<0.05）.Before nursing，there were no significantly different among the scores of SAS in two groups （P>0.05）；after nursing， the scores of SAS in two groups were all declined，and compared with those before nursing，the differences were statistically significant （P<0.01）.And that in the observation group was higher than that in control group，and the difference was statistically significant （P<0.01）.Conclusion The cluster nursing has a positive effect on the prevention of aspiration in severe patients in respiratory medicine，which can effectively reduce the incidence of aspiration，significantly shorten the length of hospital stay，reduce the incidence of ICU treatment and the patients′anxiety.It is worthy of clinical application and promotion.
+　　[Key words]Cluster nursing；Respiratory medicine；Severe patients；Aspiration
+　　?`吸是进食至口咽部的食物、反流的胃内容物难以及时下咽、吐出，导致误入气管和肺部的情况，是呼吸内科重症患者常见的并发症[1-2]。误吸是导致吸入性肺炎、急性呼吸窘迫综合症的重要原因，不利于患者预后情况的改善[3-4]。因误吸导致的中毒性肺炎死亡率高，必须采取积极的护理措施进行改善。本研究采用集束化护理对呼吸内科重症患者进行干预，有效地减少误吸的发生，现报道如下。   　　1资料与方法
+　　1.1一般资料
+　　选取2016年1～12月我院呼吸内科重症患者48例作为观察组；2015年1～12月呼吸内科重症患者41例作为对照组，两组患者均为非人工气道的慢性阻塞性肺疾病并2型呼吸衰竭。观察组男32例，女16例；年龄48～93岁，平均（66.55±3.45）岁。对照组男28例，女13例；年龄50～95岁，平均（67.51±3.50）岁。两组患者性别、年龄等一般资料比较，差异无统计学意义（P>0.05），具有可比性。
+　　1.2方法
+　　对照组采用常规护理，包括无菌操作及病房管理等措施，确定患者治疗、护理过程处于无菌状态，避免感染，加强对于患者病房的护理，保证空气流通，确定病房的安静与卫生等，利于患者康复。观察组在对照组基础上，采用集束化护理，具体措施有如下。①气道管理。加强气道通气观察，每2小时翻身拍背，协助病人排痰，必要时按需吸痰，特别注意夜间睡觉前的排痰，保持呼吸道通畅，切忌频繁刺激患者咳嗽。进食后2 h内避免无创呼吸机辅助通气，避免胃内压升高引起呕吐或食物反流。②营养护理。合理选择肠内营养途径、种类和量。普通患者可选择易消化半流质饮食、避免胀气食物，重症急性期患者可选择留置胃管鼻饲流质饮食，胃肠内鼻饲能全力等营养液，开始控制速度在20 ml/h，对患者的耐受情况进行评估，在12～24 h后，提高给予营养液的速度至40～80 ml/h[5]。采用一次投给法，切忌用力推注，应缓慢输送营养液，使用泵入法[6-7]；每隔4 h或喂食前测定患者的胃残余量（GRV），当GRV<100 ml时，则继续喂养，当GRV>150 ml时，则暂缓喂养，并且给予胃动力药物，当GRV>200 ml时，则停止喂养[8-10]。对于胃肠动力障碍患者可暂禁食及采用胃肠外营养。③体位管理。若患者没有禁忌，常规抬高患者床头30°～45°，夜间睡眠时抬高床头尤为重要，患者恶心呕吐时把头偏向一侧，如果病情允许，采取坐位，通过重力作用协助胃排空，避免反流和误吸的发生[11-12]。④口腔护理。自理者鼓励自行刷牙，不能自理者用朵贝氏液进行口腔护理，3次/d，分别在晨起、午餐后、睡前进行，及时清除患者口腔和鼻腔的分泌物。⑤镇静管理。对于重症呼吸内科患者慎用镇静催眠药、中枢镇咳药等有镇静作用的药物，避免抑制咳嗽反射，降低呼吸道的防御反应，导致反流误吸。⑥误吸风险评估。呼吸内科重症患者入院24 h内，必须进行误吸风险筛查，评估误吸风险。可选择饮水试验评估患者误吸的风险[13-14]，对于误吸高风险患者要重点关注，及时采取防范措施。
+　　1.3观察指标
+　　①测定口腔及痰液的pH值，结合患者是否发生进食呛咳，吸出痰液是否含有食物残渣，以判断患者是否发生了误吸，比较两组患者的误吸发生率；②比较两组患者的住院时间；③比较两组患者转ICU治疗率；④采用焦虑自评量表（self-rating anxiety scale，SAS）评估患者护理前后的焦虑水平。
+　　1.4统计学方法
+　　采用SPSS 20.0统计学软件进行数据分析，计量资料数据用均数±标准差（x±s）表示，两组间比较采用t检验；计数资料用率表示，组间比较采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1两组患者误吸发生率、住院时间、转ICU治疗率的比较
+　　观察组患者误吸发生率、转ICU治疗率低于对照组，住院时间短于对照组，差异有统计学意义（P<0.05）（表1）。
+　　2.2两组患者焦虑水平的比较
+　　护理前，两组患者SAS评分结果比较，差异均无统计学意义（P>0.05）；护理后两组患者的SAS评分均有所降低，与护理前比较，差异有统计学意义（P<0.01）；观察组SAS评分均低于?φ兆椋?差异有统计学意义（P<0.01）（表2）。
+　　3讨论
+　　3.1集束化护理能显著降低患者误吸的发生率
+　　集束化护理是指将一系列有循证基础的、相互关联的若干干预措施优化组合而形成的综合护理方案[15]，该方案通常包括3～5项简单明确且操作性强的循证实践措施，而非一系列临床护理措施的简单捆绑，且这些措施共同实施比单独执行具有更好的临床效果。本研究首先强调口腔及气道的管理，呼吸内科重症患者一个典型的临床特点就是清理呼吸道低效，由于痰液多且黏稠、呼吸困难费力，导致咳嗽无力，无法及时排出呼吸道的分泌物，导致口腔、咽喉部、气管痰液误吸、坠积如呼吸道深部，引起肺部感染。经过严密观察、及时评估、按需吸痰等措施，及时协助患者清理呼吸道，排出痰液，避免了口腔分泌物误吸及起到痰液坠积。第二，营养的管理也很重要，特别是喂食的方法，直接影响到胃的容量和张力，是导致胃液反流的重要因素。第三，体位管理是预防放流误吸的重要措施，有依据证明，床头抬高30°，其压力刚好超过腹内压，可有效预防胃内容物反流入气道，而且呼吸内科重症患者都使用茶碱类药物、阿托品类平喘药和镇咳药，此类药物具有松弛支气管平滑肌作用，导致支气管平滑肌松弛，夜间迷走神经兴奋，加上镇咳药使患者咳嗽反射降低，夜间平卧位患者极易发生胃液反流误吸，而摇高床头30°～45°可有效预防反流误吸的发生。第四，呼吸内科重症患者要慎用镇静药，特别是中枢镇咳药，在非人工气道的重症呼吸内科患者，在使用镇静、中枢镇咳药时，很容易抑制呼吸和咳嗽反射，致使吸入呼吸道的异物、分泌物无法咳出，加重误吸。第五，通过误吸风险评估，护士能够识别、关注有误吸风险的患者，及早落实防范措施，有效减少误吸的发生。
+　　3.2集束化护理能显著缩短呼吸内科重症患者的临床结局
+　　本研究通过开展集束化护理，采取综合措施，能缩短患者的住院天数，平均住院天数由（21.6±1.5）d，缩短到（16.8±0.5）d，主要是有效预防了误吸的发生，误吸后患者肺部感染情况加重，延长了治疗时间。而一些重症患者误吸后可发生中毒性肺炎，引起患者全身中度反应，导致低血压、低氧血症等中毒症状，需要转ICU监护治疗，其死亡率高，更是增加了患者的痛苦和家庭的负担，延长了患者的住院周期，恶性循环可导致患者紧张焦虑，致使治疗效果下降。集束化护理能从诱发因素针对性地预防误吸，显著降低患者中毒性肺炎的发生率，降低转ICU的治疗率，改善患者的临床结局。   　　目前，我国医务人员已经对误吸的高危人群予以高度的关注，将防范误吸列入了老年患者的安全管理目标，落实对高危人群进行筛查和评估，但是防范措施单一，缺乏实践总结。集束化护理是现代新型的护理模式，可以有效地改善护理质量，提高患者的满意度，为患者提供更加优质的护理服务[16]。本研究患者实施集束化护理后，呼吸内科重症患者的误吸发生率明显降低，可见通过实施集束化护理干预策略，可以有效地提高护理人员对呼吸内科重症患者防范误吸的安全意识，优化护理措施，从而降低患者误吸的发生率，确保患者护理安全，提高护理质量。
+　　综上所述，集束化护理在预防呼吸内科重症患者误吸中具有积极的作用，可有效地减少误吸的发生，缩短患者住院天数、降低转ICU治疗率，改善患者临床结局，值得临床广泛应用及推广。
+
+

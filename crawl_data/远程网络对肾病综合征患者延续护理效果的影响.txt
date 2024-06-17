@@ -1,0 +1,38 @@
+
+ 　　[摘要]目的 探?远程网络对肾病综合征患者延续护理效果。方法 选取2015年1月～2016年8月在我院接受治疗的肾病综合征患者62例，按照随机数字表法随机分成观察组和对照组，每组各31例，对照组行常规延续护理，观察组利用远程网络进行延续护理，观察比较两组患者自我护理能力、健康知识掌握程度、用药依从性、焦虑抑郁评分、生活质量状况。结果 两组患者经延续性护理之后自我护理能力皆有提高，但观察组患者提高显著，差异具有统计学意义（P<0.05）；观察组实施护理后患者健康知识掌握程度（93.55%）和用药依从性明显高于对照组，差异具有统计学意义（P<0.05）；观察组实施护理后患者焦虑、抑郁评分）明显低于对照组，差异具有统计学意义（P<0.05）；观察组实施护理后患者生活质量状况评分明显高于对照组，差异有统计学意义（P<0.05）。结论 远程网络有利于肾病综合征患者的延续性护理，可有效促进患者身心健康。
+　　[中图分类号] R473.5 [文献标识码] A [文章编号] 2095-0616（2017）09-123-04
+　　Effect of remote network on continuing nursing of patients with nephrotic syndrome
+　　SONG Jing1 YANG Qi2 CHANG Yiying3 YANG Kun1 ZHANG He4
+　　1.Hemodialysis Room， Hongqi Hospital Affiliated to Mudanjiang Medical University， Mudanjiang 157000， China； 2.Department of Endocrinology， Hongqi Hospital Affiliated to Mudanjiang Medical University， Mudanjiang 157000， China； 3.Pharmacy Intravenous Admixture Service， Hongqi Hospital Affiliated to Mudanjiang Medical University， Mudanjiang 157000， China；4.Supply Room， Hongqi Hospital Affiliated to Mudanjiang Medical University， Mudanjiang 157000， China
+　　[Abstract] Objective To explore the effect of remote network on the continuation nursing of patients with nephrotic syndrome. Methods 62 patients with nephrotic syndrome who were treated in our hospital from January 2015 to August 2016 and they were divided into the observation group and the control group randomly according to the random number table， with 31 in each group. The control group was given routine continuing nursing while the observation group was given continuing nursing by remote network. Self-nursing ability， grasp degree for health knowledge， medication compliance， anxiety and depression scores and quality of life of patients in two groups were observed and compared. Results Self-nursing abilities after continuous nursing of patients in two groups were all improved but the improvement of the observation group was more significant. There was difference between two groups（P<0.05）. After nursing， grasp degree for health knowledge（93.55%） and medication compliance of patients in the observation group were significantly higher than those of the control group. There was difference when two groups were compared （P<0.05）. After nursing， anxiety and depression scores of patients in the observation group were significantly lower than those of the control group. There was difference between two groups（P<0.05）. After nursing， quality of life score of patients in the observation group was significantly lower than that of the control group. There was difference when two groups were compared（P<0.05）.Conclusion Remote network is helpful to the continuation nursing of patients with nephrotic syndrome and it can effectively promote the physical and mental health of patients.   　　[Key words] Remote network； Nephrotic syndrome； Continuing nursing； Quality of life
+　　肾病综合征（nephrotil syndrome，NS）由于用药的长期性，患者很难在住院期间一次性完成疾病的全程治疗与康复，故大多数患者出院需继续服药治疗，患者自我护理依从性较差，易引起肾病综合征
+　　的复发或者加重[1]。出院患者延续护理是利用信息化工具（电话、信函、电子邮件、登门造访等）进行的开放式、延伸式护理，延续护理可有效避免患者提早出院后的易感染问题和降低医疗费用，并且缩短了医患之间的时间和空间距离，对医疗知识的普及和社会资源的充分利用有着重要意义[2-3]。我院对出院后的肾病综合征患者利用远程网络进行延续性护理，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2015年1月～2016年8月在我院接受治疗的肾病综合征患者62例，按照随机数字表法随机分成观察组和对照组，每组各31例。其中观察组男18例，女13例，年龄29～72岁，平均（48.7±9.3）岁；病程2～7年，平均（4.12±1.04）年；文化程度：小学7例，初中15例，高中及以上学历9例。对照组男17例，女14例，年龄28～72岁，平均（48.2±9.7）岁；病程2～6年，平均（4.06±1.13）年；文化程度：小学7例，初中13例，高中及以上学历11例。两组患者在一般资料方面比较，差异无统计学意义（P>0.05）。纳入标准：（1）确诊为肾病综合症；（2）无其他严重疾患；（3）意识清楚，有正常沟通能力。排除标准：（1）严重功能障碍；（2）合并精神性疾病；（3）过敏体质或多种药物过敏者。本研究经过我院伦理委员会批准，所有患者及家属均签署知情同意书。
+　　1.2 方法
+　　对照组患者出院后实行普通电话访问、上门随访等方式进行延续性护理。观察组患者利用远程网络进行延续性护理，具体方法如下。
+　　出院前准备：建立完整的远程网络护理档案，包括患者姓名、年龄、电话、家庭住址、患者家属等基本信息，还有微信、飞信、QQ等远程网络联系方式，根据患者自身情况制定出具有个性化的院后远程护理方案；利用多媒体、宣传手册等方式，向患者宣教远程网络对其延续性护理的重要性。
+　　选取语言表达能力较好、亲和力较高、沟通能力较强的资深护理人员作为远程网络视频的小组成员，利用微信（QQ）视频、语音、信息等方式进行针对性延续性护理，护理内容包含患者的恢复情况及家庭成员的支持状况，指导患者按时服药、正确服药。（1）护理人员与患者家属保持联系，通过微信（QQ）询问患者及其家属患者在家用药依从性和康复情况；建立微信交流群，确保观察组患者均在群里，护理人员在患者出院后第1、3、7天，以及出院后的每周和每月在微信群里主持患者进行交流，并进行答疑。（2）对患者及其家属咨询的问题进行整理总结，并及时通过微信群和公众号发布，微信群和公众号由指定资深护理人员轮流负责，旨在为患者提供在线咨询、预约门诊、病情和用药指导以及多样化科普宣传教育等延续护理服务，并确保患者能及时联系到医护人员并且问题能得到及时的解决，如遇突发状况可随时通知护理人员上门服务。（3）公众号定期定时发布肾病综合征的病理学知识、日常护理以及成功案例分享，帮助患者树立信心；微信群内定期开展病理学知识竞猜、护理之星等活动，激励患者学习肾病综合征相关病理学知识、提高护理能力。（4）用药期间定期监测血压、血糖、24h尿蛋白定量、观察有无上消化道出血的表现，并通过微信等方式发送给护理人员，护理人员做详细记录，并与医师探讨。
+　　1.3 评价指标
+　　1.3.1 自我护理能力测定量表（exercise of self-careagency scale，ESCA）[4] 该测量表包括43个条目，总分为172分，得分越高，表示自我护理能力越强。
+　　1.3.2 健康知识掌握程度调查表 采用自行设计的调查表，由专业医师在患者出院当天进行调查，所有调查结果由调查人员根据患者的回答内容当场做好记录，效度为89.8%。
+　　1.3.3 用药依从性 分为完全依从（完全根据医嘱用药）、部分依从（部分根据医嘱用药）不依从（偶尔根据医嘱用药）。
+　　1.3.4 负面情绪评价标准 （1）根据焦虑自评量表（SAS）评定比较护理实施前后患者的焦虑状况。（2）根据抑郁自评表（SDS）评定比较预见性护理实施前后患者的抑郁状况[5]。
+　　1.3.5 生活质量的评价标准 根据生活质量测定量表简表评定比较护理实施前后患者的生活质量[6]。
+　　1.4 统计学处理
+　　采用SPSS20.0软件对研究中得到的数据进行统计学分析。计量数据以（）表示，比较采用独立样本t检验，计数资料采用χ2检验，P<0.05表示结果差异有统计学意义。
+　　2 结果
+　　2.1 两组患者出院前与出院后3个月自我护理能力评分比较
+　　两组患者经延续性护理之后自我护理能力皆有提高，但观察组患者提高显著，组间比较结果具有统计学意义（P<0.05）。见表1。
+　　2.2 两组患者健康知识掌握程度、用药依从性情况比较
+　　观察组实施护理后患者健康知识掌握程度和用药依从性明显高于对照组，组间比较结果具有统计学意义（P<0.05）。见表2。
+　　2.3 两组患者焦虑、抑郁评分情况比较
+　　观察组实施护理后患者焦虑、抑郁评分明显低于对照组且观察组SAS、SDS评分较对照组呈明显下降趋势，组间比较差异具有统计学意义（P<0.05）。见表3。
+　　2.4 两组患者生活?|量状况评分比较
+　　观察组实施护理后患者生活质量状况评分明显高于对照组，且观察组的生活质量评分上升幅度显著大于对照组，组间比较差异具有统计学意义（P<0.05）。见表4。   　　3 讨论
+　　在传统护理模式中，肾病综合征患者出院后还必须回院复诊以延续治疗、促进康复，但是传统护理具有较大局限性，易导致患者在家时得不到良好的康复护理，不仅错失最佳康复时机，而且易引起各种并发症，尤其是正处于身心成长阶段的青少年患者，其生理的尚未健全和免疫功能的脆弱性，如若护理不当会致使病情反复甚至复发，因此，肾病综合征患者的身心康复不仅需要在院正确、精心治疗与护理，还需出院后有效的延续护理[7]。电话随访的应用虽然解决了医患之间的距离问题，电话具有经济、便捷、高效的优势，但由于不可视性带来的图像资料缺乏，直观性欠缺，导致患者无法准确传递信息，医师无法准确掌握患者身体状况；而家庭访视、专家门诊等方式虽让医患之间有直观、客观性的病情反馈和掌握，因此，国内延续护理多采取电话随访和家庭访视相结合的延续护理方式[8-10]。
+　　本研究中基于远程网络开展延续性护理，打破传统护理方式，也突破电话随访和家庭访视相结合的延续护理方式的局限性，为肾病综合征患者的延续护理带来积极成效。网络平台的及时、即时以及可视性在弥补电话随访对信息获取的局限性的同时，也解决了门诊复查或者家庭访视引起的时间、空间成本增加的问题；移动信息技术的使用，使远程延续护理服务延伸到了患者床旁，在移动设备的辅助、护理人员的有效配合及患者的积极参与下，远程网络辅助的延续护理有效提高了患者所接受的护理措施的一致性及协调性，并且大大提高了患者用药依从性，促进了患者的术后康复[11]。而远程网络的可视性、及时性使得医师对患者病情有准确的把握，而当患者身体不适或有疑虑时可及时与医护人员沟通并得到有效解决，医护人员对患者病情、症状、问题、解决方法的总结、公众号定期推出的文案以及群里的竞猜等活动，可激励患者学习该病的病理学知识，使患者能更好地了解自身疾病，并且大大提高患者用药依从性，主动对自己的饮食起居、运动锻炼、生活习惯等进行自我调整与安排[12-15]；在微信群里病患之间的交流，使患者找到心灵共鸣者，利于排解心中焦虑，而护理人员和家属对患者的鼓励以及成功案例的分享，使患者对战胜病魔充满信心。
+　　综上所述，远程网络有利于肾病综合征患者的延续性护理，可有效促进患者身心健康。
+
+

@@ -1,0 +1,34 @@
+
+　　[摘要] 目的 探讨循证护理干预对宫颈癌根治术后行化疗患者尿潴留及性生活质量的影响。 方法 选取2010年6月～2014年6月西安市第四医院收治的宫颈癌根治术后化疗患者100例，随机分为观察组和对照组，每组50例。对照组行常规护理干预，观察组行循证护理干预。观察两组尿潴留发生率及留置导尿管时间。干预前后采用焦虑自评量表（SAS）、抑郁自评量表（SDS）和性生活质量调查表评价患者的负性情绪及性生活质量情况。 结果 观察组尿潴留发生率低于对照组（P < 0.05）。观察组留置导尿管时间显著短于对照组（P < 0.01）。干预后，两组SAS、SDS得分较干预前降低（P < 0.05），且观察组降低更为显著（P < 0.05）。干预后6个月，观察组性欲望、性兴奋、高潮、阴道润滑程度、满意度评分高于对照组，疼痛评分低于对照组（P < 0.05）。观察组性生活频率快于对照组（P < 0.05），性生活满意度显著高于对照组（P < 0.01）。 结论 循证护理干预可有效改善宫颈癌根治术后化疗患者的膀胱功能，提高性生活质量。
+　　[中图分类号] R473.71 [文献标识码] A [文章编号] 1673-7210（2015）08（a）-0161-04
+　　Influence of evidence-based nursing model on the uroschesis and quality of sexual life in patients with cervical cancer after chemotherapy
+　　ZHANG Hong
+　　Department of Gynaecology， the Fourth Hospital of Xi′an City， Shaanxi Province， Xi′an 710004， China
+　　[Abstract] Objective To explore effect of evidence-based nursing intervention on uroschesis and quality of sexual life in patients with cervical cancer after chemotherapy. Methods From June 2010 to June 2014 in the Fourth Hospital of Xi′an City， 100 cases of cervical cancer radical surgery patients treated by chemotherapy were selected and randomly divided into observation group and control group， 50 cases in each group. Patients in control group were given routine nursing care， and that in observation group were given evidence-based nursing. The incidence rate of urine retention and urethral catheter time were observed between two groups. Before and after intervention， the negative emotion and quality of sexual life were evaluated by using the self rating anxiety scale （SAS）， self rating depression scale （SDS） and sexual life quality questionnaire. Results The incidence rate of urine retention in observation group was lower than that in control group （P < 0.05）. Urethral catheter time of observation group was significantly shorter than that of control group （P < 0.01）. After intervention， SAS， SDS score of two groups were lower （P < 0.05）， observation group was lower than that control group （P < 0.05）. After intervention of 6 months， the sexual desire， arousal， orgasm， vaginal lubrication， degree of satisfaction score in observation group was higher than that in control group respectively， pain score in observation group was lower than that in control group （P < 0.05）. The sexual life frequency of observation group was faster than that of control group （P < 0.05）， sexual life satisfaction of observation group was significantly higher than that in control group （P < 0.01）. Conclusion Evidence-based nursing intervention can effectively improve bladder function in patients with cervical cancer radical surgery after chemotherapy， improve quality of sexual life.   　　[Key words] Evidence-based nursing； Cervical cancer； Uroschesis； Quality of sexual life
+　　循证护理就是依据科学研究结果，在临床实践中提出问题，寻找并运用证据解决问题，为患者提供最优质的护理。宫颈癌是妇科常见肿瘤，近年来发病率不断上升[1]。宫颈癌根治术后常合并有尿潴留发生。化疗是宫颈癌根治术后有效的辅助治疗手段之一，但化疗过程中不良反应大，严重影响患者的生活质量。此外，患者因紧张、焦虑等不良心理因素影响，往往存在性生活质量下降，甚至没有正常的性生活[2]。为了降低宫颈癌术后尿潴留的发生率，提高化疗患者的性生活质量，本研究采用循证护理对患者行护理干预，探讨其对尿潴留及性生活质量的影响。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2010年6月～2014年6月西安市第四医院收治的宫颈癌根治术后行化疗的患者100例。入选标准：本地居住，可完成6个月随访；已婚，年龄25～50岁，有性生活需求；病理诊断明确，临床分期Ⅰ～Ⅱ期，均行广泛子宫切除术加盆腔淋巴结清扫术，术后进行化疗；文化程度高中及以上；无性心理及生理性疾病。按照随机数字表法分为观察组和对照组，其中观察组50例，年龄25～50岁，平均（37.4±10.2）岁；文化程度：高中34例，大专及以上16例；FIGO分期：Ⅰ期18例，Ⅱ期32例。对照组50例，年龄25～50岁，平均（38.3±9.2）岁；文化程度：高中38例，大专及以上12例；FIGO分期：Ⅰ期15例，Ⅱ期35例。两组年龄、文化程度、临床分期比较差异无统计学意义（P > 0.05），具有可比性。
+　　1.2 护理干预方法
+　　对照组按照医院肿瘤科护理常规进行常规护理干预，包括健康教育、保持阴道清洁等。观察组采用循证护理干预。
+　　1.2.1 循证问题 通过查阅相关文献、报道[3-5]，发现影响宫颈癌根治术后化疗患者尿潴留及性生活质量的主要因素。①宫颈癌根治术多采用广泛子宫切除术加盆腔淋巴结清扫术，术后可导致患者出现神经性的膀胱麻痹，从而导致膀胱功能障碍。②心理因素：宫颈癌患者处于紧张、焦虑的状态，内心拒绝进行性生活。③认知错误：部分患者家属错误地认为患有宫颈癌后无法进行性生活，部分患者缺乏性生活方面的知识，认为患有宫颈癌的患者无性生活需求，忽视了患者生理、心理等多方面的需求，从而导致性生活质量下降。④身体功能改变：宫颈癌患者可出现尿频、尿急、便秘、下肢肿痛等临床症状，在性生活中可出现阴道干涩等局部症状，影响性生活质量。
+　　1.2.2 循证护理 观察组行循证护理干预，具体如下：①组织科室护理人员进行业务学习，培养护理人员循证护理意识，加强护理人员对宫颈癌术后化疗方面护理知识的了解。②针对患者术后出现膀胱神经性麻痹的情况，展开针对性护理；术后3 d采用膀胱理疗仪刺激患者膀胱平滑肌收缩，达到排尿的目的；术后7 d嘱咐患者进行排尿锻炼，在膀胱充盈情况下，通过自己意念进行排尿，逐渐恢复排尿反射；指导患者进行缩肛运动，促进盆底肌肉功能恢复，一般3次/d，5 min/次。③对患者进行女性生殖系统解剖学及性知识宣教，针对不同文化程度的患者进行个性化教育，告知患者及其配偶化疗不会影响性生活；此外，定期与患者交流性生活问题，为患者在性生活中遇到的问题提供指导，告知其必要时可进行自慰或运用辅助工具[6]。④积极对患者化疗导致的胃肠道反应等不适进行纠正[7]，提高患者生活质量，逐步恢复患者对性生活的兴趣。⑤告知患者化疗后性生活技巧；化疗可影响阴道腺体分泌[8]，性交时可能存在阴道干涩、疼痛的情况，告知患者必要时可使用润滑剂辅助。⑥对于患者心理方面存在的问题，针对个体情况进行针对性干预；强调性生活对于身心健康的重要性，减少患者焦虑、紧张、自卑的情绪。
+　　1.3 评价指标
+　　观察两组尿潴留发生率及留置导尿管时间。干预前、干预后6个月通过焦虑自评量表（SAS）以及抑郁自评量表（SDS）评价患者的情绪状态。SAS共20个小项，采用四级计分制，1分为没有或很少时间，2分为少部分时间，3分为相当多时间，4分为绝大部分时间或全部时间，最后将20个小项目的各个得分相加，得到原始分后乘以1.25再取整即为所得标准分。SDS包括精神性-情感症状、躯体性障碍、精神运动障碍、抑郁的心理障碍4个大项，20个小项，计分制以及标准分计算同SAS。SAS及SDS得分越高说明患者焦虑或抑郁程度越高。干预后6个月采用性生活质量调查表（SLQQ）评价患者的性生活质量，包括性欲望、性兴奋、高潮、阴道润滑程度、满意度、疼痛6个方面，总共31个小题，每题0～4分，分数越高，对应指标程度越高，最后计算各项总得分。
+　　1.4 统计学方法
+　　采用SPSS 19.0统计软件对数据进行分析和处理，计量资料以均数±标准差（x±s）表示，采用t检验，计数资料采用χ2检验，以P < 0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组尿潴留发生率及留置导尿管时间比较
+　　观察组尿潴留发生率低于对照组，两组比较差异有统计学意义（P < 0.05）；观察组留置导尿管时间显著短于对照组（P < 0.01）。见表1。
+　　表1 两组尿潴留发生率及留置导尿管时间比较
+　　2.2 两组干预前后情绪状态比较
+　　干预前，两组SAS、SDS得分差异无统计学意义（P > 0.05）；干预后，两组SAS、SDS得分较干预前均降低（P < 0.05），且观察组降低更为显著（P < 0.05）。见表2。
+　　2.3 两组性生活质量比较
+　　干预后6个月，观察组性欲望、性兴奋、高潮、阴道润滑程度、满意度评分高于对照组，疼痛评分低于对照组（P < 0.05）。见表3。   　　2.4 两组性生活频率和性生活满意度比较
+　　观察组性生活频率快于对照组（P < 0.05），性生活满意度显著高于对照组（P < 0.01）。见表4。
+　　3 讨论
+　　宫颈癌是女性常见生殖道恶性肿瘤，是仅次于乳腺癌和直肠癌的女性第三大恶性肿瘤。手术是宫颈癌常见的治疗手段之一，术后往往辅助放、化疗。宫颈癌根治术对于患者盆底组织损伤较大，术后常出现神经性膀胱功能麻痹，进而导致尿潴留的发生，给患者生理、心理均带来巨大麻烦。化疗不良反应大，加之宫颈癌患者往往处于焦虑、紧张、抑郁等不良情绪中，患者往往生活质量低下，性生活质量更是如此[9]。循证护理是指在准确了解患者需求的情况下，根据临床经验、知识技能等寻找最佳应对护理措施，全面、科学地分析影响护理效果的可能因素，以辩证的方法灵活应用临床上常见的护理方法，强调护理服务建立于临床证据上。循证护理以护理研究为依据，与临床实践创定指南，改变了临床护士以经验和直觉为主的习惯和行为。护理人员参与循证护理的重要性表现在3个方面：①鼓励护士参与医疗干预；②发现护理问题及解决问题的措施；③发展并使用标准语言来描述问题、干预和结果。因此，对宫颈癌患者采取循证护理，降低患者尿潴留发生率，提高性生活质量具有重要意义。
+　　本研究结果发现，经循证护理干预的观察组尿潴留发生率低于对照组（P < 0.05）；观察组留置导尿管时间显著短于对照组（P < 0.01），提示针对性护理干预以及相应的膀胱功能锻炼可促进患者膀胱功能恢复，降低尿潴留发生率[10]。相关研究[11-13]指出，尿潴留的发生除与手术相关损伤有关外，还与患者心理状态有关。针对上述情况，展开针对性的心理干预，告知患者尿潴留属于术后正常并发症，且经过系统的膀胱功能恢复训练，可恢复至正常水平[14]，减轻患者的心理压力，促进患者膀胱功能恢复。循证护理干预后6个月，观察组SAS、SDS得分较干预前降低（P < 0.05）；且观察组较对照组降低更为显著（P < 0.05），提示循证护理干预可有效减轻患者的不良情绪。在护理干预过程中，积极为患者提供性生活技巧方面的指导，并根据每个患者的具体情况，制订个性化的护理方案，解决患者在夫妻生活中遇到的问题，同时对患者进行积极的心理干预，使其正确认识自身需求，降低其对于术后性生活恐惧、焦虑的心理[15]。同时对患者配偶积极展开性知识方面的教育，告知其患者性生活方面的需求以及在性生活中所需注意事项[16]，旨在提高患者夫妻之间的和谐，从而提高性生活质量，促进患者身心健康，加快疾病康复。干预后6个月，观察组性欲望、性兴奋、高潮、阴道润滑程度、满意度评分高于对照组，疼痛评分低于对照组（P < 0.05）。观察组性生活频率快于对照组（P < 0.05），性生活满意度高于对照组（P < 0.01）。性是人类生活的重要组成部分，满意的性生活不仅是家庭关系和谐的基础[17]，更是家庭组成的保障。对于宫颈癌患者，满意的性生活更是可以调节内分泌功能[18-20]，提高治疗效果，改善生活质量。
+　　综上所述，循证护理干预可有效改善宫颈癌化疗患者的不良情绪，提高性生活质量。
+
+

@@ -1,0 +1,32 @@
+
+　　
+　　Analysis and ventricular premature custody with care
+　　Tai Xianghui
+　　【Abstract】Premature ventricular contractions (Ventricular Premature beat VPB) is a clinical one of the most common arrhythmia, can occur with organic heart disease, may also occur in healthy people, it may sound, may trigger more serious arrhythmias, And even lead to sudden death. In this paper, their cause, VPB interpretation of the seriousness and care to do the following discussion: VPB that constitute the cause: acute myocardial infarction, other types of coronary heart disease, acute myocarditis, and other organic heart disease;That the frequent changes may be for VPB complex VPB, it is an extremely dangerous arrhythmia, so care should be closely observe the patient's heart rate, heart rate, if the frequency of VPB, RonT doctor should be notified in a timely manner and Given intravenous anti-arrhythmia drugs; if sustained ventricular tachycardia, with awareness Sang Shizhe, nurses should lose no time in the rapid resumption of in vitro fax to save the lives of patients; on the specific cause of the VPB should remove the causes, prevention and strengthen health education And psychological care.
+　　【Key words】HolterPremature ventricular contractionsNursing1资料与方法
+　　1．1一般资料：本院自2001年5月~2002年12月共收治VPB患者228例，其中有心脏病者168例，男性171例，女性57例，年龄27~83岁，平均54．5岁，非器质性心脏病60例。
+　　1．2方法：住院期间均用床边心电监视，普通心电图描记，24h动态心电图检测，记录信息输入微机，按程序自动分析，打印进打印，记录各项数值。
+　　2结果
+　　2．1病因构成:急性心肌梗塞(AMI)48例，占21．05％；其他类型冠心病9l例，占39．21％，急性心肌炎29例占12．72％；非器质性心脏病60例，占26．32％。
+　　2．2室早的分级(按Lown)
+　　0级：无室早；
+　　IA：偶发室早(<30次／h，<1次／min)；
+　　IB偶发室早(<30次／h，>1次／min)；
+　　II级：频发室早(>30次／h，>1次／min)；
+　　III级：多形性或多源性室早；
+　　IVA:室早连发；呈二联律或三联律；
+　　IVB：室早连发，连续三次以上(短阵室速)，最长不超过七次；
+　　V：RonT型室早；
+　　III级以上成为复杂性室早［1］，本组病例中复杂性室早84例，占36．84％。
+　　2.3室早分析
+　　2．3.1室早具有下列特征者提示器质性心脏病的存在：①体力活动时室早变频者；②频发室早形成二联律或三联律者；③室早的配对间期愈短者；④起源于左心室的室早；⑤室早的QRS波时间>0．18s；⑥室早后第一个正常窦性波动的ST段下降T波倒置者；⑦在左胸前导联出现QR或Qr型室早，称梗塞型室早；⑧多源性室早；⑨平行收缩型室早；⑩心电图上有心肌缺血表现者［2］。
+　　2．3．2室早的临床分析：一般来说，功能性室早较器质性室早多见，但心脏病比正常人发生室早的机会大的多。功能性室早引起严重后果小，器质性心脏病发生室早则可能产生严重后果，尤其是AMI，心肌炎，心脏扩大显著，洋地黄中毒，低钾血症等情况下伴发的室早。在上述情况下，有时尽量少量的室早也可能发生严重后果，因此，判读室早的严重性与临床意义，切不可单凭心电图，重要的是看病人本身的心脏基础状况如何。
+　　3室早的护理配合
+　　频发的室早可能转变为复杂性室早，它是一种极其危险的心律失常，故需迅速做出诊断和处理，以防发生不幸，因此护理时应注意一下几点：
+　　3．1对复杂性室早的观察与处理:在心电监护下护士应严密观察病人的心率，心率变化，若发现频发室早，成对或成串的室早，出现“RonT”现象，应及时通知医生，并给予静脉输入抗心率失常药，首选多卡因，严密观察心电编号及利多卡因的副作用如：头晕，既有震颤，血压下降，精神错乱，呼吸抑制等。对室速持续时间>30s，伴有意识丧失者，是电传复的有利时机，护士应不失时机地迅速体外电传复，以挽救病人生命。
+　　3．2AMI时出现室早的护理:AMI发生心律失常极为常见，多发生在24h~1周内，在各种心率失常中，室性心律失常最多，尤其是室早，频发的，成对出现或RooT现象，以及短阵室速长为室颤先兆［3］，故AMI患者的室早即使是所谓低度危险性的室早也应该引起高度重视，加强生活护理及动态病情观察，当病人出现心前区疼痛时应立即采取扩冠，止痛，供氧，改善冠状动脉血液循环，预防致命性心律失常发生，并根据发病时间及病情，紧急行冠状动脉溶栓，改善心肌缺血。
+　　3．3对有特定病因室早病人的护理:对甲亢，洋地黄中毒，低钾血症等病人，去除病因后，室早可自行消失，对心脏神经官能症引起的紧张，失眠，心悸等，采取心理疏导思想沟通，也能过的较好效果，对烟酒过量者，动员其戒烟、酒；引用咖啡、浓茶者应少饮或停饮。
+　　3．4加强预防保健教育和心理护理:消化不良因素的刺激，积极防治原发病，建立良好饮食习惯，注意劳逸结合，知道病人调整脑力和体力劳动。在各种诱发因素中，要尤其重视社会心理因素对病人的影响，做好安抚工作，消除其不安与恐惧心理，使其了解自己的健康状况，保持乐观向上的心理，树立战胜疾病的信心，利于疾病的康复。
+　　
+
+

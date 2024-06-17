@@ -1,0 +1,33 @@
+
+ 　　[摘要] 目的 探?心理护理干预对直肠癌术后患者心理状态与免疫功能的影响和效果。 方法 以2014年9月～2015年9月我院收治的66例经直肠癌手术的患者作为研究对象，并将其分为观察组和对照组，每组33例。对照组患者采用常规护理方式，观察组在常规护理方式的基础上采用心理护理干预，对患者的心理、行为、社会三个方面进行护理干预，促进患者的术后恢复。在护理过程结束后，对两组患者的不良情绪改善情况和免疫功能恢复情况进行比较，并进行数据分析。 结果 本研究结果显示，观察组和对照组护理前SAS评分及SDS评分没有明显差异，但护理后，观察组的SAS评分[（39.24±6.65）分]和SDS评分[（38.77±6.33）分]均显著优于对照组，两组比较差异具有统计学意义（P<0.05）。在免疫功能方面，观察组NK[（23.58±6.83）%]、CD3+[（67.03±8.87）%]、CD4+[（35.10±7.73）%]、CD8+[（26.59±5.54）%]均明显优于对照组，两组比较差异有统计学意义（P<0.05）。 结论 心理护理干预对直肠癌术后患者心理状态与免疫功能恢复方面效果显著，具有重要的临床价值，可以在今后的护理工作中被广泛使用，以提升护理质量。
+　　[中图分类号] R473.73 [文献标识码] B [文章编号] 1673-9701（2017）17-0148-03
+　　[Abstract] Objective To explore the influence and effect of psychological nursing intervention on psychological status and immune function in the patients after the surgery of rectal cancer. Methods A total of 66 patients undergoing the surgery of rectal cancer who were admitted to our hospital from September 2014 to September 2015 were selected as the subjects in the study. They were divided into observation group and control group， with 33 patients in each group. Patients in the control group were given routine nursing care， and the observation group was further given psychological nursing intervention on the basis of routine nursing care. Through the three aspects of psychological， behavioral and social aspects， the nursing intervention was carried out in the patients， so as to promote the postoperative recovery of patients. At the end of the nursing process， the adverse emotion improvement and immune function recovery were compared between the two groups of patients and the data were analyzed at the same time. Results The results of this study showed that the SAS score and SDS score in the observation group and the control group were not significantly different before nursing. However， after nursing， the SAS score（39.24±6.65） and SDS score （38.77±6.33） in the observation group were significantly better than those in the control group， and the differences between the two groups were statistically significant（P<0.05）. In terms of the immune function， the level of NK[（23.58±6.83）%]， CD3+[（67.03±8.87）%]， CD4+[（35.10±7.73）%]， CD8+[（26.59±5.54）%] in the observation group were significantly better than those in the control group， and the differences between the two groups were statistically significant（P<0.05）. Conclusion Psychological nursing intervention has a significant effect on the recovery of psychological status and immune function in the patients after the surgery of rectal cancer， which has an important clinical value. Therefore， it can be widely applied in future nursing works， so as to improve the quality of nursing care.   　　[Key words] Psychological nursing intervention； Rectal cancer； Mental status； Immune function
+　　直肠癌是指从齿状线至直肠乙状结肠交界处之间的癌变，属于消化系统常见的一种恶性肿瘤[1]。但由于解剖关系非常复杂，该病的术后复发率一直居高不下，且近年来发病率一直上升。而患者术后也会产生各种不良情绪，这对患者的术后恢复是非常不利的[2]。因而，本研究旨在分析心理护理干预对直肠癌术后患者恢复的效果，以减轻患者的痛苦，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　以2014年9月～2015年9月我院收治的66例经直肠癌手术的患者作为本次的研究对象，并将其分为观察组和对照组，每组33例。观察组中男20例，女13例，年龄30～81岁，平均（55.6±6.2）岁；对照组中男18例，女15例，年龄32～79岁，平均（55.3±5.9）岁。两组患者在SAS和SDS的评分上均>50分，两组在性别、年龄、心理状态等一般资料方面无明显差异（P>0.05），具有可比性。
+　　1.2 方法
+　　对照组患者采用常规护理方式，包括向患者介绍具体医生、用药、住院环境等。观察组在常规护理方式的基础上对患者的心理、认知、社会三方面进行综合干预，具体方式如下。
+　　1.2.1 心理护理 心理护理主要针对患者容易产生的不良情绪进行护理。由于癌症通常患病时间长，且患者的精神压力普遍较大，因而会出现焦虑、烦躁等不良情绪。所以研究中，护理人员针对患者的不良情绪，对患者实施了全面的心理疏导，与患者进行密切交流，了解患者的需求，从而让患者树立战胜疾病的信心，配合医生?M行治疗和恢复工作[3]。
+　　1.2.2 认知能力 患者术后很容易出现认知能力方面不同程度的障碍，因此通过一些特殊的恢复方式，让患者恢复认知能力是非常必要的。护士要积极地与患者进行沟通，建立和谐的医护关系，取得患者的信任与依赖，充分了解患者的一般资料，评估患者术前、术后的临床症状、认知功能、适应能力及错误认知。分析患者错误认知产生的原因，并通过通俗易懂的语言反馈给患者，向患者详细讲解直肠癌的发病机制、治疗方式的有效性、安全性及术后可能发生的并发症及一些注意事项，为患者树立正确的认知，帮助患者正确面对病情，缓解其抑郁、焦虑、紧张等负面情绪，提高患者的治疗依从性。此外，护理人员还通过播放音乐来辅助患者进行认知恢复[4]。
+　　1.2.3 社会干预 社会干预指的是配合患者家属做好患者的思想工作，让患者了解到医护人员和家属的关怀，从而为患者提供重要的精神基础[5]。要充分借助患者家属的帮助和支持，对患者家属进行健康教育，重点向家属讲解直肠癌的发病原理、治疗方法、注意事项等，提高患者家属对直肠癌的认识以及健康意识，同时提高家属的护理管理能力。其次，家属在术后应担负起监督患者的责任，根据医生的医嘱制定合理的饮食计划，饮食宜清淡，多摄入高蛋白食物，禁食甜食，并监督患者戒烟戒酒，控制患者的体重，帮助患者养成良好的生活饮食习惯。
+　　1.3 评价标准[6]
+　　两组患者心理状态按照SAS和SDS评分进行判定。SAS评定标准：重度精神焦虑：分数≥70分；中度焦虑：60～69分；轻度焦虑：50～59分。SDS评定标准：重度精神抑郁：分数≥70分；中度抑郁：60～69分；轻度抑郁：50～59分。另外，对两组患者的自然杀伤细胞（NK）及T细胞亚群（CD3+、CD4+、CD8+）进行比较，采用FACSCalibur型分析流式细胞仪进行测定，488 nm激发光源，先将对照管上样，通过调整参数FAS和SSC在散色光点图中清楚显示集中的细胞群体。
+　　1.4 统计学方法
+　　本研究采用SPSS 16.0统计学软件进行数据分析，计量资料采用（x±s）表示，组间比较采用t检验，计数资料采用χ2检验。P<0.05为差异有统计学意义[2]。
+　　2 结果
+　　2.1 两组患者心理状态情况比较
+　　本研究结果显示，观察组和对照组护理前SAS评分及SDS评分无明显差异，但护理后，观察组的SAS评分[（39.24±6.65）分]和SDS评分[（38.77±6.33）分]均显著优于对照组，两组比较，差异具有统计学意义（P<0.05）。见表1。
+　　2.2患者治疗后免疫功能比较
+　　在免疫功能方面，观察组NK[（23.58±6.83）%]、CD3+[（67.03±8.87）%]、CD4+[（35.10±7.73）%]、CD8+[（26.59±5.54）%]均明显优于对照组，两组比较，差异有统计学意义（P<0.05）。见表2。
+　　3 讨论
+　　直肠癌作为一种消化系统的恶性肿瘤，严重威胁人们的生命安全。近年来，该疾病发病率有明显上升的趋势[7]，且直肠癌手术之后的复发率非常高[3]。基于这一原因，现阶段临床上也高度重视对此类疾病的治疗和护理工作。在传统护理模式下，患者很容易出现各种不良情绪。由于癌症普遍需要长期治疗，甚至化疗，这无疑会给患者带来巨大的心理压力[8]。而治疗时间长所产生的花费也自然更高，这两个方面的原因，通常会成为患者焦虑、抑郁等不良情绪的来源，且免疫功能也会受到影响[9]。而传统的护理方式仅对患者的生理方面进行护理，如观察病情、检测各项生理指标等，患者的恢复情况并不尽如人意[10]。所以，目前对于该病患者术后的护理方式已经从生理方面转变为心理护理，这也是本研究开展的基础[11]。
+　　本研究结果显示，观察组和对照组护理前SAS评分及SDS评分无明显差异，但护理后，观察组的SAS评分和SDS评分均显著优于对照组。在免疫功能方面，观察组也明显优于对照组。两组患者护理后心理状态情况和免疫功能差异显著，产生这种显著差异的原因在于观察组在常规护理方式的基础上采用了心理护理干预的方式，主要有以下几部分。   　　3.1 心理方面
+　　癌症患者易出现悲观、愤怒、绝望等情绪，影响治疗效果。患者之所以产生焦虑、抑郁的情绪最主要的还是心理问题，所以对患者进行良好的心理引导能起到非常直接的效果。抑郁状态的人易从消极、悲观的角度看问题，容易丧失信心，对事物总是过分认真，缺乏灵活性，容易自寻烦恼，一些细微小事就能引起忧愁与苦闷，所以经常愁眉不展，长吁短叹，长期处于抑郁状态，会严重影响人体健康[12-13]。焦虑抑郁是急性意识状态改变，表现为注意力、情感和认知能力（定向力与时间判断）的改变或丧失。患者发生急性病理改变或医疗干扰手段是较常见的诱发因素。焦虑抑郁是一种可逆性临床综合征，不仅对患者的心理恢复不利，同时也会阻碍患者免疫功能的恢复[14]。所以本研究中医护人员针对患者的实际情况对患者进行全方位的心理?o理，旨在提升患者战胜疾病的信心，从心理上给予患者最大的支持[15]。
+　　3.2 认知能力方面
+　　根据患者的不同心理状态、个性特点及理解能力，采用针对性的认知重建法，帮助患者建立正确的观念，帮助患者进行手术体位、功能的锻炼，以促进患者术后身体康复。通过语言、视频、知识手册、图片及宣传栏等宣教方式反复向患者普及直肠癌的相关疾病知识、手术治疗的有效性及术后注意事项，提高患者的治疗护理配合度[16-17]。
+　　3.3 社会干预
+　　一旦患者出现严重的疾病，其家属一般情况下也会产生各种不良情绪。所以本次研究中也针对患者家属的情绪问题进行心理安抚，让家属对恢复过程充满信心，才能给患者提供重要的精神支柱[18]。重视患者及家属参与护理工作的重要性，强调家庭作为临床教育者、支持者、协调者的作用，遵循原则：由易到难，由浅入深，循序渐进。在治疗需要和患者需求推动有针对性的护理活动，制订合理可行的目标。本研究中患者均出现不同程度的焦虑和抑郁的情况，但在通过心理干预后，观察组的恢复情况明显更好，说明心理干预不仅对患者的心理状态有积极的促进作用，同时也能减轻患者的应激反应[19-20]。
+　　综上所述，心理护理干预对直肠癌术后患者的心理状态与免疫功能恢复方面效果显著，具有重要的临床价值，可以在今后的护理工作中广泛使用，以提升护理质量。
+
+

@@ -1,0 +1,29 @@
+
+ 　　[摘要] 目的 探?个体化护理对乳腺癌皮肤溃烂患者负面情绪、生活质量的影响。 方法 选择2015年12月～2017年5月在西安交通大学医学院附属3201医院收治的乳腺癌皮肤溃烂患者58例作为研究对象，按照随机数字表法分为对照组与研究组，每组各29例。对照组给予常规护理，研究组在对照组基础上给予个体化护理。两组均持续护理4周。比较两组护理前后焦虑自评量表（SAS）评分、抑郁自评量表（SDS）评分及癌症治疗功能评估-乳腺癌（FACT-B）评分。 结果 护理后两组SAS、SDS评分均低于护理前，研究组显著低于对照组，差异有统计学意义（P < 0.05）。护理后两组生理状况、社会家庭状况、情感状况、功能状况、附加关注等FACT-B各维度评分及总分均高于护理前，且研究组显著高于对照组，差异有统计学意义（P < 0.05）。 结论 个体化护理可有效缓解乳腺癌皮肤溃烂患者的负面情绪，提高其生活质量，值得临床推广应用。
+　　[中图分类号] R473.73 [文献标识码] A [文章编号] 1673-7210（2018）02（a）-0173-04
+　　Influence of individualized nursing on negative emotions and quality of life in skin ulceration patients with breast cancer
+　　PENG Lijuan FAN Zhigang
+　　The Third Department of Medical Oncology， 3201 Affiliated Hospital of Xi′an Jiaotong University Medical College， Shaanxi， Province， Xi′an 723000， China
+　　[Abstract] Objective To explore the influence of individualized nursing on negative emotions and quality of life in skin ulceration patients with breast cancer. Methods From December 2015 to May 2017， 58 cases of skin ulceration patients with breast cancer treated in 3201 Affiliated Hospital of Xi′an Jiaotong University Medical College were selected as the research objects and divided into the control group and the study group according to the random number table， with 29 cases in each group. The control group was given routine nursing and the study group was given individualized nursing on the basis of control group. The two groups were all intervened for 4 weeks. The scores of self-rating anxiety scale （SAS）， self-rating depression scale （SDS） and functional assessment of cancer therapy-breast （FACT-B） were compared in the two groups. Results After nursing， the scores of SAS and SDS in the two groups were significantly lower than those before nursing， and those in the study group were significantly lower than those of control group， with statistically significant differences （P < 0.05）. After nursing， the physiological status， social and family status， emotional status， functional status， and additional concerns in each dimension of FACT-B and the total score in the two groups were significantly higher than those before nursing （P < 0.05）， and those in the study group were significantly higher than those of control group， with statistically significant differences （P < 0.05）. Conclusion Individualized nursing can effectively alleviate negative emotions of skin ulceration patients with breast cancer and improve quality of life. It is worthy of promotion and application.   　　[Key words] Individualized nursing； Breast cancer； Skin ulceration； Negative emotions； Quality of life
+　　乳腺癌是女性最常?的恶性肿瘤之一，发病率和死亡率均居女性各类恶性肿瘤之首，严重威胁女性身体健康[1]。目前，放疗是乳腺癌治疗的主要方式，能通过放射线照射肿瘤有效抑制或杀灭肿瘤细胞，但会引起皮肤损伤、溃烂，严重者可引发感染、溃疡、坏死导致治疗中断，还会使患者产生负性情绪，影响治疗效果[2]。研究表明，个体化护理能在优质护理的基础上，通过给予个体化、人性化护理，促进患者身心状态的调整，提高其生活质量[3]。本研究对乳腺癌皮肤溃烂患者进行个体化护理干预，观察其对患者负性情绪、生活质量的影响。现报道如下：
+　　1 资料与方法
+　　1.1 一般资料
+　　选择2015年12月～2017年5月在西安交通大学医学院附属3201医院（以下简称“我院”）收治的乳腺癌皮肤溃烂患者58例作为研究对象，纳入标准：①临床症状及病理诊断为乳腺癌患者[4]；②在我院进行放疗并因此引发皮肤溃烂者；③年龄18～70岁；④自愿签署知情同意书。排除标准：①因乳腺癌根治术引起的创面溃疡者；②合并有严重心、肝、肾、肺功能障碍者；③病情严重恶化无法配合本研究者；④有其他恶性肿瘤病史者；⑤对本研究所用药物有过敏史者；⑥依从性差或有精神障碍无法配合者。将58例乳腺癌皮肤溃烂患者按照随机数字表法分为对照组与研究组，每组各29例。其中对照组年龄32～64岁，平均（49.53±8.65）岁；皮肤损伤分级：Ⅱ级21例，Ⅲ级8例；皮肤损伤面积4～25 cm2，平均（15.32±4.31）cm2；总放射剂量62.0～80.0 Gy，平均（71.43±4.67）Gy。研究组年龄31～66岁，平均（50.19±8.85）岁；皮肤损伤分级：Ⅱ级22例，Ⅲ级7例；皮肤损伤面积4～25 cm2，平均（16.27±4.46）cm2；总放射剂量64.0～77.0 Gy，平均（70.94±4.67）Gy。两组患者一般资料比较，差异无统计学意义（P > 0.05），具有可比性。本研究经我院医学伦理委员会审核。
+　　1.2 护理方法
+　　两组均给予常规护理，包括伤口处理，调整饮食，保持皮肤干燥、清洁，避免抓挠皮肤等。
+　　研究组在对照组的基础上给予个体化护理干预，包括以下内容：①全面评估。由护理人员对患者个人情况进行全面了解和评估，包括婚姻生活状况、医疗费用支付方式、受教育文化程度、疾病严重程度、对疾病的认知程度和态度、皮肤和体质情况、生活和穿着习惯等。②健康教育。根据患者对病情的认知，向患者介绍疾病及放疗相关知识，讲解放疗在杀灭肿瘤细胞的同时，也会损伤正常组织、器官，尤其是表面皮肤，使其坦然接受皮肤受损的现状，积极配合治疗，以促进康复，并向其介绍皮肤溃烂的常规护理方法，做到自我预防。③心理护理。护理人员需积极与患者进行沟通与交流，了解患者心理变化，并根据个体情况采取适当的措施对其焦虑、抑郁、紧张等负性情绪进行疏导，如加强家属与患者的沟通、播放舒缓音乐、看书、练习瑜伽等。④皮肤护理。调整病房温度避免出汗，禁止在皮肤上粘贴胶布、使用刺激性药物、用肥皂清洁等以减少皮肤刺激，勤剪指甲并搓平指甲边缘以免睡后抓挠造成皮肤感染，避免因粗糙毛巾擦拭、衣物摩擦等损伤皮肤。⑤饮食指导。指导患者注意补充营养、保证能量供给，并适当增加蛋白质、蔬菜、新鲜水果的摄入，多食用卷心菜、西红柿、大蒜等抗癌食物，限制腌制、油炸、辛辣等刺激性强的食物，鼓励病人多饮水。
+　　两组均持续护理4周。
+　　1.3 观察指标
+　　①比较两组护理前后焦虑自评量表（self-rating anxiety scale，SAS）[5]、抑郁自评量表（self-rating depression scale，SDS）[6]得分情况。SAS包括20个项目，每项分为无或很少有、有时有、大部分时间有、绝大部分时间或全部时间4个等级，分别为1～4分。以50分为界，分数越高，焦虑越重。SDS包括20个项目，每项根据实际感觉评以1～4分。以53分为界，分数越高，抑郁越重。②比较两组护理前后癌症治疗功能评估-乳腺癌（functional assessment of cancer therapy-breast，FACT-B）[7]评分。FACT-B包括生理状况、社会家庭状况、情感状况、功能状况、附加关注等5个维度，共36项，每项0～4分，总分0～144分，分数越高，生活质量越佳。
+　　1.4 统计学方法
+　　采用SPSS 20.0对所得数据进行统计学分析，计量资料采用均数±标准差（x±s）表示，组间比较采用t检验，计数资料采用百分率表示，组间比较采用χ2检验。以P < 0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组护理前后SAS、SDS评分比较
+　　护理前，两组SAS、SDS评分比较，差异无统计学意义（P > 0.05）。护理后，两组SAS、SDS评分均低于护理前，且研究组显著低于对照组，差异无统计学意义（P < 0.05）。见表1。
+　　2.2 两组护理前后FACT-B评分比较
+　　护理前，两组FACT-B各维度评分及总分比较，差异无统计学意义（P > 0.05）。护理后，两组FACT-B各维度评分及总分均高于护理，且研究组显著高于对照组（P < 0.05）。见表2。
+　　3 讨论
+　　临床上，乳腺癌治疗常根据肿瘤分期及患者身体情况，酌情采用手术、放疗、化疗、内分泌治疗、生物靶向治疗、中医药辅助治疗等方式，其中放疗属局部治疗，可用于早期保乳治疗，或用于术后辅助治疗，能有效提高患者的生存率[8-9]。但放疗在控制癌症患者病情发展的同时，也会带来一定的放射性损伤，其中皮肤损伤最为常见，尤其是颈部、腋窝、胸壁等部位，主要表现为红斑、色素沉着、干性脱皮等，甚至引发皮肤溃烂[10-12]。相关研究指出[13-14]，放疗患者皮肤损伤程度受多种因素影响，包括放射线种类、照射面积、部位、照射剂量、年龄等。目前，放疗损伤的发生机制尚未完全清楚，一般认为，X线可直接作用于蛋白质、核酸、酶类等生物大分子，使其电离和激发，从而导致生物大分子损伤，影响其功能；同时，X线可促进自由基和活性氧的产生，诱导脂质过氧化反应，损伤皮肤基底生发层细胞，阻止基底层细胞分裂增殖及向表层迁移、角质化，从而导致表层成熟上皮细胞角化退去后，生发层细胞无法覆盖皮肤表面，从而出现皮肤损伤[15]。临床研究显示[16-18]，乳腺癌患者皮肤溃烂不仅影响治疗进程，影响其日常生活，还会诱发患者负面情绪，使其失去治疗的信心，因此实施积极、有效的治疗和护理具有重要意义。   　　个体化护理以尊重患者的个体差异为基础，以科学化、人性化为原则，为患者提供良好的环境和悉心的护理，以增强患者舒适感，激发其战胜疾病的信心[19]。黄瑛[20]的研究表明，个体化护理应用于晚期肺癌患者能够显著降低其焦虑、抑郁程度，提高其康复率和生存率，具有较高的临床应用价值。本研究对乳腺癌皮肤溃烂患者实施个性化护理干预，主要通过对患者个人情况的全面了解和评估，针对性地给予疾病、放疗相关知识教育，通过了解患者心理变化，对其负面情绪进行疏导，根据患者所处环境特点、生活习惯、穿衣习惯等对患者进行相应的皮肤护理，并根据患者目前身体状况给予一定的饮食指导，旨在全面促进患者身心健康。本研究结果显示，研究组护理后SAS、SDS评分显著低于对照组，提示个体化护理有助于改善患者焦虑、抑郁情绪，这可能与护理人员与患者之间互信沟通及积极的情绪疏导措施有关。研究组护理后FACT-B各维度评分及总分均显著高于对照组，提示个体化护理有助于提高患者生活质量，推测与适当的皮肤护理、饮食指导和心理护理有关。
+　　综上所述，个体化护理应用于乳腺癌皮肤溃烂患者，能缓解其负面情绪，提高生活质量，本研究可为此类患者的治疗与护理提供临床参考。但本研究仍存在一定的不足之处，如样本数量有限，观察时间较短，未探讨远期效果等，故今后还需增加样本量、延长观察时间做进一步深入研究。
+
+

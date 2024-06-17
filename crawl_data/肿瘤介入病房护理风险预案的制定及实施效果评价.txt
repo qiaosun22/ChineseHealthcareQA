@@ -1,0 +1,16 @@
+
+　　【摘要】 目的 就肿瘤介入病房护理风险预案的制定及实施效果进行探讨和评价。方法 基于肿瘤介入病房近几年临床管理经验的总结， 结合相关文献资料的研究与分析， 制定满足肿瘤介入病房临床要求的护理风险预案， 同时予以实践， 就应用前后护理质量、病患满意度进行对比分析， 对其实施效果进行评价。结果 经护理风险预案的实施， 在全院临床护理质量的综合考评上， 肿瘤介入病房业绩得到了明显的提高， 且患者满意度也明显提高， 应用前后患者满意度等各指标差异具有统计学意义（P<0.05）。结论在肿瘤介入病房的临床管理中， 制定并实施护理风险预案， 可提高病房整体护理质量和患者满意度。
+　　【Abstract】 Objective To explore and evaluate the formulation and implementation effect of nursing risk plan in tumor interventional ward. Methods The nursing risk plan in tumor interventional ward， which met the clinical requirements， was formulated with summarization of clinical management experience of the tumor interventional ward in recent years and analysis study of related literature data. Comparative analysis was made of the nursing quality and patient satisfaction before and after implementation of the plan， and the implementation effect was evaluated. Results After the implementation of the nursing risk plan， tumor interventional ward had a obviously improved performance in the clinical nursing quality evaluation among the hospital， and patient satisfaction was also improved. The difference of index before and after plan implementation had statistical significance （P<0.05）. Conclusion Formulation and implementation of nursing risk plan in the clinical management of tumor interventional ward can improve nursing quality and patient satisfaction in the ward.
+　　【Key words】 Nursing risk plan； Formulation； Tumor； Interventional ward
+　　伴随着社会经济发展速度的加快， 信息技术水平与医疗技术水平的提高， 介入诊疗学也取得了广泛的关注与应用， 越来越多的医院开始构建介入病房。国内介入诊疗的起步比较晚， 因应用范围比较广， 且发展也比较快， 所涉及到的内容也非常多， 对此， 在很大程度上也加大了介入病房护理工作的难度[1， 2]。为提高治疗质量和护理治疗， 本院近年来在肿瘤介入病房的临床管理中， 基于规范化护理管理， 对护理风险预案的制定以及实施效果进行了研究， 现将研究情况和结果报告如下。
+　　1 资料与方法
+　　1. 1 一般资料 本院肿瘤介入病房自开放以来， 年均所收治的肿瘤患者上千。在本次研究中， 所选研究对象为10例护士， 年龄22～37岁， 所有研究对象均是女性， 其中主管护师1例， 护师3例， 护士6例[3]。
+　　1. 2 方法
+　　1. 2. 1 预案制定 ①回顾分析本院近年来肿瘤护理管理情况， 查阅相关资料， 结合有关文献来查找护理风险。肿瘤介入病房所存风险有：患者自身免疫力以及抵抗力低下、介入手术量较大、并发症较多、术后需要处理的各种不良反应、常规治疗、癌栓脱落或者实体性肿瘤体积较大容易破裂等[4]。②基于风险的识别与查找， 制定以预防为主的护理风险预案， 该预案应突出事件响应、事件善后、事前预警以及应急处置等环节应急措施， 构建护理风险预案管理专家组。风险预案所含内容主要有：化学治疗、职业的安全防护、介入手术、介入以后动脉留置管以及介入急性并发症等。③基于科室主任和相关负责人员的领导下构建护理风险管理队伍， 由护士长统一进行安排以及监督， 明确进行分工， 确保每位护理人员各司其职。
+　　1. 2. 2 预案实施 ①采取角色扮演或者情景演绎等方式， 对每一位护理工作人员实施护理风险预案的教育和培训， 所培训的内容有风险识别、风险评估、判断风险、处理风险的方法以及处理后相关安抚工作等， 由护士长来负责培训进程以及考核， 最后借助于典型案例自制考评的标准来计分考核， 其中合格为≥85分[5]。②培训介入专业方面的知识， 加强职业安全方面的防护， 构建急救网络。同时在介入手术之前应做好相应的准备工作和宣教工作， 根据品质管理循环（PDCA循环）要求对护理质量进行改进， 确保手术得以正常且顺利地实施， 确保患者生命安全。③在介入治疗中， 护理工作人员不仅要了解所用导管头端留置位置， 同时还应制定相应的泵注整个过程操作规范以及护理预案， 以免护理的不合理引起脱落移位等， 以确保安全。此外还应规范化疗， 每一位护理工作人员应熟悉科室所用药物作用机制、注意事项、剂量以及储存方式等， 采取责任负责制， 由护士长进行巡查以及督导， 以此提升护理内涵。   　　1. 3 疗效评定标准[6] 就科室护理质量的综合考评在全院的排序， 对患者满意度进行观察和分析。
+　　1. 4 统计学方法 本次的实验数据采用SPSS17.0统计学软件进行统计学分析。计量资料以均数± 标准差（ x-±s）表示， 采用t检验；计数资料以率（%）表示， 采用χ2检验。以 P<0.05为差异具有统计学意义。
+　　3 讨论
+　　在医院护理工作中以实施风险护理的主要目的识别、评估以及处理现有以及潜在的各种护理风险， 以此减少各种护理风险对医院、患者以及护理工作人员可能产生的危害与经济损失[7]。在本次研究中作者基于临床实际情况的分析， 总结了肿瘤介入病房在护理管理工作中所存在的突出问题以及难点， 经风险识别、风险评估、风险预案的制定以及各种培训活动的实施， 所获效果显著且良好， 有效规避了各种护理风险。从本次研究结果的分析可知， 在未制定护理风险方案之前和制定了护理风险预案且实施后， 作者所在院肿瘤科室护理质量综合考评的排序和患者满意度明显提高。由此可见， 在肿瘤介入病房的护理管理中制定护理风险预案， 并且予以实践， 可使护理工作人员专业水平、处理风险事件的能力等得到提高， 使工作流程得到优化， 规范护理工作， 确保护理工作的安全， 继而进一步为医院和科室形象打好基础， 获得良好口碑。
+　　综上所述， 在今后介入治疗过程中， 应不断地创新， 了解基于介入治疗和护理研究的进展， 实施系统且全面的评价， 不断完善护理风险预案， 强化预案的科学性以及实用性， 从而提高护理管理效率以及质量。
+
+

@@ -1,0 +1,32 @@
+
+　　中图分类号：R473.6/R720.597 文献标识码：A 文章编号：1006-1533（2014）16-0040-02
+　　Analysis of clinical characteristics and nursing measures for
+　　pediatric emergency patients
+　　WANG Li
+　　（The Pediatric Center of Shiyan People's Hospital， Shiyan， Hubei Province 442000， China）
+　　Abstract Objective： To analyze the clinical features and nursing measures for pediatric emergency patients. Methods： The data of the patients admitted to the pediatric emergency department from January to September 2013 were retrospectively investigated， and their clinical characteristics were analyzed. Results： Of 1 436 patients， pneumonia was found in 458（31.89%）cases， night visit in 434 （30.22%）cases and onset in autum in 457（31.82%）cases. Twenty-six cases died. Conclusion： It is only to take the effective nursing measures， strengthen the identification of the critical cases， and intensify medical safety so as to reduce the mortality of children and promote their recovery early.
+　　KEY WORDS pediatrics； emergency； characteristics； nursing
+　　为探讨本院急诊患儿临床特点，以寻找针对性的护理措施，对我院儿科收治的急诊患儿临床资料行回顾性分析和总结，现报道如下。
+　　资料与方法
+　　一般资料
+　　收集2013年1月至9月我院收治的急诊患儿1 436例，其中男性934例，女性502例，男女比为1.86：1，年龄0～14岁，平均年龄（6.8±2.1）岁。患儿住院2～8 d，平均住院（4.1±0.7）d。
+　　方法
+　　调查方法
+　　通过医院数据库收集该期间急诊患儿的资料。调查内容包括患儿性别、年龄、疾病构成、住院时间及发病季节等。最后诊断由具备儿童急重症诊治丰富经验、中级以上的两位医师确诊，合并≥两种疾病的患儿，以第一诊断进行统计。
+　　统计学方法
+　　采用SPSS17.0软件对数据进行处理。病种采用构成比表示，行χ2检验，P<0.05为差异有统计学意义。
+　　结果
+　　患儿发病资料分析
+　　急诊患儿中以肺炎为最多见，占总人数的31.89%，其比例明显高于其他病种（P<0.05），其余依次为腹泻、上呼吸道感染、支气管炎、哮喘等。肺炎患儿住院时间最长，为（5.3±0.5）d，中毒患儿住院时间最短，为（1.1±0.4）d。本次调查中儿科急诊前10种常见疾病及构成比、不同病种患儿年龄、住院时间见表1。
+　　急诊患儿死亡情况及就诊时间、发病季节特点
+　　1 436例患儿中死亡26例，夜间就诊434例，占30.22%，其中急、重症患儿319例，占夜间就诊患儿的73.50%（319/434）。从发病季节分析，秋季发病患儿相对较多，占总数的31.82%（457/1436）。秋季发病患儿中腹泻286例，占秋季患儿总数的62.58%（286/457）。
+　　讨论
+　　加强呼吸道管理
+　　从本次调查结果可见，肺炎患儿占急诊总人数的31.89%，发病率明显高于其他病种；重症患儿102例，占7.1%（102/1436），占肺炎患儿的22.27%（102/458），所占比例较大。因此，临床中应加强对急诊患儿的呼吸道管理，密切观察患儿肺部体征、呼吸状况、心率、血压变化以及肝脏动态变化等。重症肺炎患儿往往有低氧血症表现，患儿发生低氧血症易引起酸碱失衡及水电解质紊乱。临床中应加强血气分析及电解质监测，轻度缺氧表现为烦躁、精神萎靡，应及时给予鼻导管吸氧；重度缺氧可出现呼吸不规则、意识障碍，严重时出现惊厥等，应给予高流量头罩吸氧，必要时给予气管插管，以维持患儿呼吸功能[1]。
+　　加强对危重患儿识别
+　　急诊中危重患儿较多，本次调查中，危重症患儿569例，占39.62%（569/1436）。现代医学认为，护士提供紧急救助的决策对危重症患儿的存活有着关键的影响。因此，在临床护理中应加强对危重患儿的识别，多与患儿家属沟通交流，询问了解患儿病史等，以获得有用的信息，提高决策正确性。同时，应加强巡视，密切观察患儿病情变化，一旦有异常情况发生，及时告知临床医师，在最短时间内给予有效救助，降低死亡率[2]。
+　　强化医疗安全意识
+　　危重症患儿往往病情凶险、疾病发展较快。多数患儿起病急，原发疾病突然加重，患儿病情危重且变化快，易引起医疗纠纷。因此，临床中应加强医护人员的安全意识教育，强化医护人员安全意识，定期对已发生或存在潜在风险的医疗纠纷、死亡案例等进行分析总结，提高护士的护理能力。在护理过程中，一旦患儿病情发生变化，需及时汇报，由临床医师、护士长、科主任等相关人员组织讨论，对诊治及护理过程进行分析，寻找病情恶化的原因并及时给予相应措施解决。
+　　综上所述，为了提高儿科急诊的护理质量，需要采取积极有效的护理措施，加强对危重患儿的识别，强化医疗安全意识，才能降低患儿死亡率，促进患儿早日康复。
+
+

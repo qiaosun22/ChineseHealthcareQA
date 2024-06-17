@@ -1,0 +1,29 @@
+
+ 　　【摘要】 目的：探讨护理干预对突发性耳聋患者临床治疗效果的影响。方法：对2014年6月-2016年10月在笔者所在医院耳鼻喉科住院的69例突发性耳聋患者给予多种综合护理干预，纳入观察组，选取2013年1月-2014年5月于笔者所在医院进行治疗的69例突发性耳聋患者，仅提供临床传统护理措施，纳入对照组，比较两组护理有效率。结果：观察组在药物等治疗基础上给予多种综合护理干预措施后，痊愈31例，显效19例，有效14例，无效5例，总有效率为92.75%，明显优于对照组，差异有统计学意义（P<0.05）。结论：对患有突发性耳聋的患者实施综合性护理干预措施，可有效缓解其临床症状，对促进患者听力恢复、提高生活质量具有重要的临床意义。
+　　doi：10.14033/j.cnki.cfmr.2017.16.024 文献标识码 B 文章编号 1674-6805（2017）16-0045-02
+　　The Treatment Effect of Nursing Intervention on Patients with Sudden Deafness/XIAO Cai-qun，ZHANG Shou-xia，LI Li，et al.//Chinese and Foreign Medical Research，2017，15（16）：45-46
+　　【Abstract】 Objective：To investigate the treatment effect of nursing intervention on patients with sudden deafness.Method：A total of 69 cases of patients with sudden deafness admitted to ear-nose-throat department of the author’s hospital from June 2014 to October 2016 were selected，given various comprehensive nursing interventions and served as observation group.69 cases of patients with sudden deafness treated and admitted to our hospital in the period of January 2013 to May 2014 were served as contrast and researched.They were only provided with traditional nursing intervention and served as the control group so as to compare the nursing efficiency of two groups.Result：On the basis of drug treatment，after giving various comprehensive nursing intervention measures，31 cases were fully cured，19 cases had excellent effect，14 cases had effect，and five cases had no effect in observation group，which were significantly better than those of the control group（P<0.05）.Conclusion：Providing comprehensive nursing intervention measures for patients with sudden deafness can effectively improve clinical symptoms，and has important clinical significance in promoting patients’ hearing recovery and improving life quality.
+　　【Key words】 Sudden deafness； Nursing intervention； Effect
+　　First-author’s address：Yuancheng District People’s Hospital of Heyuan City，Heyuan 517000，China
+　　突?l性耳聋指突然发生的感音神经性听力损失，通常在数分钟、数小时或3 d之内（一般在12 h左右），患者听力下降至最低点，至少在相连的频率听力下降大于20 dB[1]，严重影响患者的工作、学习、生活。有文献报道，很多突发性耳聋患者在临床治疗过程中因病情反复治疗效果欠佳，出现对疾病治疗失去信心而产生抑郁焦虑情绪，从而影响治疗效果，不利于患者及早康复[2]。为了缓解患者不良情绪影响，提高治疗效果，本文对2014年6月-2016年10月笔者所在医院耳鼻喉科收治的69例突发性耳聋患者给予多种综合护理干预措施，取得了良好的治疗效果，现报告如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2014年6月-2016年10月笔者所在医院接收的69例患者，纳入观察组，其中男43例，女26例，年龄45～82岁，平均（52.31±13.26）岁，病程12～18 d；疾病类型：中度耳聋（40～55 dB）21例，中重度耳聋（56～70 dB）29例，重度耳聋（71～90 dB）14例，极重度耳聋（>90 dB）5例；单耳发病56例，双耳发病13例；伴单纯耳鸣43例，同时眩晕、耳鸣、恶心呕吐伴随症者17例。选取2013年1月-2014年5月笔者所在医院接收的69例患者，纳入对照组，其中男40例，女29例，年龄46～83岁，平均（52.69±12.94）岁，病程8～16 d；疾病类型：中度耳聋（40～55 dB）22例，中重度耳聋（56～70 dB）25例，重度耳聋（71～90 dB）16例，极重度耳聋（>90 dB）6例；另外单耳发病57例，双耳发病11例；伴单纯耳鸣45例，同时眩晕、耳鸣、恶心呕吐伴随症者14例。两组患者经检查均符合突发性耳聋诊断标准[3]。本研究实施前已通过院内伦理委员会批准。两组一般资料比较差异无统计学意义（P>0.05），具有可比性。   　　1.2 方法
+　　两组患者入院后明确诊断突发性耳聋后，常规进行血生化、血常规、出凝血时间等检查，给予扩张血管、改善耳微循环、营养神经、补充多种维生素及微量元素、肾上腺糖皮质激素等药物治疗，7～14 d/疗程，连续治疗1～2个疗程，高压氧治疗1次/d，2 h/次，10 d/疗程。对照组在此基础上给予传统护理模式，而观察组患者则在上述治疗护理基础上另给予多种综合护理干预措施。
+　　1.3 观察指标
+　　根据患者的临床症状，将痊愈判定为：250～4000 Hz各频率平均听力恢复正常，耳鸣、眩晕、恶心呕吐等症状消失；显效：250～4000 Hz各频率平均听力提高>30 dB，耳鸣、眩晕、恶心呕吐等症状缓解减轻；有效：250～4000 Hz各频率平均听力提高15～30 dB；无效：各频率平均听力提高无明显改变。总有效率=（痊愈+显效+有效）/总例数×100%[4]。
+　　1.4 统计学处理
+　　采用SPSS 18.0统计软件进行数据分析，计量资料以（x±s）表示，采用t检验，计数资料以率（%）表示，采用字2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　观察组总有效率为92.75%，明显高于对照组的82.61%，组间差异有统计学意义（P<0.05），见表1。
+　　3 讨论
+　　3.1 基础护理
+　　突发性耳聋起病急，听力在短时间内明显下降，对患者的正常工作生活产生严重的影响，患者对发病原因不了解，因此患者的心理状态会受到严重影响，所以护理人员在与患者入院宣教交流时，要帮助患者减轻心理压力，交流语言要有一定的艺术性和灵活性，形成良好的医患关系，增强患者对医护人员的信任和对治疗效果的信心，护士应耐心向患者讲解突发性耳聋的发病机理、治疗过程、治疗效果等，多介绍治疗成功病例。同时护士也要全面了解患者的发病史、家庭情况及经济状况，在治疗过程中，要观察患者的心理变化，及时给予心理疏导，执行医嘱操作要轻、稳、准，尽量减少不良剌激，多用鼓励性语言，使患者保持良好的心态，帮助病情恢复。
+　　3.2 药物和高压氧治疗护理
+　　糖皮质激素、改善微循环及扩张血管等药物在使用过程中对患者的血压和心功能有不同程度的影响，在全身静脉滴注过程中，严密监测患者血压、脉搏、呼吸等生命体征，控制输液速度，让患者卧床休息，护理人员应多深入病房巡视，在用药过程中发现有异常不适表现时，应立即减慢输液速度，及时报告医生进行协助对症处理[5]。在高压氧治疗时，应向患者讲高压氧治疗突发性耳聋的原理，治疗过程中应注意的事项，帮助病人做好入舱治疗前的准备工作，指导在治疗过程中自行调压规范动作，防止产生气压伤，告知患者在高压氧治疗过程中可能出现的不适[6]。
+　　3.3 听力检查护理
+　　进行纯音测听力及中耳分析等耳科专科检查时应让患者集中注意力认真配合，嘱患者全身放松，同时隔音室应保持安静，使患者保持最佳检查状态，可得出更加准确的有临床意义的检查结果，检查后应耐心细致地向患者讲解结果的临床含义，阐明治疗效果，提高患者对治疗恢复病情的信心[7-8]。
+　　3.4 指导患者改变生活方式
+　　指导患者要多休息，在平时工作生活中，要尽量避免情绪过于激动，避免呆在噪音大的环境及戴耳机工作，提高睡眠质量，保持充足的睡眼时间，养成睡前不喝浓茶、咖啡等兴奋性食物，若睡眠质量欠佳时可适量睡前口服安定片辅助睡眠[9]。指导患者根据自己的兴趣受好选择几种放松心态、分散注意力、适当锻炼的方法[10]。让患者在生活中多保持轻松愉悦的心情，有利于病情康复。
+
+

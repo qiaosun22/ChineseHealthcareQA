@@ -1,0 +1,35 @@
+
+　　20 patients used automatic therapy pump continuous infusion of 5-FU (5- fluorouracil) chemotherapy nursing experience
+　　Liu Yiying
+　　(Fuyang People's Hospital, Anhui Fuyang 236000)
+　　Abstract：Objective To study the treatment experience of automatic pump continuous infusion of 5-FU chemotherapy of cancer care. Methods the m alignant tumor patients in our hospital in 2012 December ~2013 year in December 20 cases of full automation of inpatient department treatment pump infusion chemotherapy of 5-FU as the research object, the experience of clinical nursing were retrospectively analyzed and summarized. Results the 5-FU of all the 20 patients finished on time infusion, the incidence rate of adverse reaction was 60%, patient satisfaction with nursing care was 95%; nursing satisfaction before chemotherapy and by χ 2=4.2208 (p=0.0399), the difference was statistically significant. Conclusion nursing intervention on patients, significantly reduced the occurrence of adverse reactions of patients, improve nursing satisfaction of patients, is worthy of promotion in clinical use
+　　keyword：tumor patients; automatic chemotherapy pump; infusion; 5-FU; nursing experience
+　　临床上对恶性肿瘤的治疗方法主要为放疗和化疗，5-FU是临床常用到的化疗药物，常与其他药物联合使用，进行化疗。化疗泵质量轻，便于携带，是一种安全的输液装置，能够持续进行静脉输液[1]。我院对20例患者采用全自动化疗泵持续静脉输注5-FU化疗药物，并对患者进行护理干预，有效降低了不良反应，提高患者化疗时的生活质量。现将护理体会报道如下。
+　　1资料与方法
+　　1.1一般资料
+　　选取2012年12月~2013年12月我院住院部20例行全自动化疗泵持续静脉输注5-FU化疗的恶性肿瘤患者为研究对象，其中男性12例，女性8例；年龄在42~76岁，平均（59.4±2.34）岁；病程在1~8年，平均（4.3±2.8）年；化疗疗程为6~8个疗程，平均（2.8±0.4）个疗程；其中直肠癌4例，胰腺癌1例，胃癌5例，结肠癌6例。所有患者在化疗前均进行PICC静脉置管。
+　　1.2治疗方法
+　　1.2.1化疗方案所有患者都按照医嘱配置5-FU的剂量，连接全自动化疗泵进行持续静脉输注，滴速保持在4-6ml/h，总化疗时间在40-72h，平均（58.6±5.62）h。应在全自动化疗泵上标注化疗使用的药物名称、剂量、化疗开始时间、滴速等[2]。
+　　1.2.2护理方法①入院前，对患者的一般资料以及病情进行简单的了解。②化疗前护理：因5-FU会对静脉造成损伤，我科在病人化疗前均进行PICC静脉置管，并对患者的相关检查结果进行分类整理；对患者进行疾病、治疗方法、有效护理干预、化疗前准备、化疗注意事项、营养状况对化疗的作用以及感染的预防的健康宣教。③化疗时的护理：严密监测患者的皮肤状况，如有必要，需进行换药护理；加强药物输注的巡视，对患者发生的不良反应、有无渗液及尿量进行观察记录；根据患者的化疗方案和病情变化进行给药方法、化疗注意事项以及饮食指导的健康教育；对患者产生的恐惧、担忧及焦虑等不良心理情绪进行心理护理。④出院指导，出院时根据医嘱，护士指导患者进行正确用药，做好患者出院后PICC导管自我管理的健康宣教，告知患者按时来院进行PICC导管维护及复查。
+　　1.3观察指标
+　　观察记录患者在化疗期间的不良反应情况以及患者对护理的满意度。
+　　1.4统计学分析
+　　数据的收集与处理由专门人员进行，初步数据录入EXCEL（2003版）进行逻辑校对与分析，得出清洁数据采用四方表格法进行统计学分析，计数资料采用χ2检验，计量资料采用t检验，检验结果以p<0.05表示差异具有统计学意义。
+　　2结果
+　　全部患者中发生恶心4例、呕吐2例、腹泻2例、骨髓抑制13例、口腔黏膜炎6例，总不良反应发生12例，占60.0%；对护理满意19例，占95.0%.具体分析见表1。
+　　表1患者不良反应及护理满意度情况分析（n；%）
+　　
+　　
+　　
+　　
+　　
+　　
+　　
+　　注：患者在治疗后与治疗前相比，发生不良反应率为60.0%，护理满意度在与化疗前相比，p<0.05，差异具有统计学意义。
+　　3讨论
+　　3.1上化疗泵前护理化疗前对患者进行心理护理显得尤其重要。由于患者对疾病的认知不够，极易产生不良心理情绪；护理人员应对患者进行心理护理，摆正其对疾病的观点，树立患者战胜疾病的信心。让患者充分认识到化疗的重要性，积极配合治疗。同时，对不良反应进行宣教，让患者对待发生的不良反应有正确的态度，提高患者的依从性[3]。
+　　3.2化疗中护理由于全自动化疗泵持续静脉输注是一次性进行治疗，防止注射药物的次数过多，给医患双方造成不便，因此对全自动化疗泵的护理特别重要。在化疗药物的输注过程中，护士应该确保泵的正常运行，保证泵无障碍运行且各参数正常，做好交接班；避免疏忽遗漏而引发严重的医疗事故。对患者进行泵的随身携带的宣教，保证患者能够正确使用，避免故障的发生[4]。
+　　3.3不良反应护理化疗药物5-FU具有药物副作用，护士应对患者的生命体征进行严密的观察，当患者发生不良反应时，采取积极有效的护理干预。常见的不良反应有恶心、呕吐等，护士应按照医嘱按量给患者发放止吐药，并嘱患者按时吃药；指导其口腔卫生的护理。由于5-FU对机体的杀伤力大，对机体造成严重损伤，应按照医嘱给患者服用升中性粒细胞数量的药物。发生腹泻的患者，鼓励其多饮用清水，减少油腻食物的进食等[5]。本文研究中，患者在治疗前的满意度为70.0%，治疗后满意度提升到95.0%，不良反应法发生率为60.0%，虽然较高，但相对于临床上以往的不良反应率已经有显著改善。证实了，护理干预对化疗患者的心理及生理情况起到了积极作用，提高患者依从性，不仅促进化疗的进行，而且还提升了患者的护理满意度。
+　　3.4综上所述，全自动化疗泵能够以稳定的速度和剂量向患者体内输注化疗药物，具有方便携带、体积小、操作简便等优点，正确使用此装置确保了化疗药物的血药浓度达到最佳状态，促进化疗的疗效，并减少不良反应的发生[6]。在使用过程中对患者采取积极有效的护理干预，如：严格按照操作规范进行操作，增加病房巡视次数，密切观察和注意患者的生命体征，及时对出现的问题进行处理，确保了化疗的有效性和安全性，并提高护理满意度，具有高度的临床使用价值。
+
+

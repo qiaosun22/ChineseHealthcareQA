@@ -1,0 +1,32 @@
+
+ 　　[摘要] 目的 综合评价心理护理结合团体心理治疗对抑郁患者的疗效。 方法 随机选取该科2016年5～10月收治的抑郁患者60例为研究对象，按随机数字表法分为研究组和对照组各30例。对照组采取团体心理治疗，研究组采取团体心理治疗结合心理护理，治疗5周后比较两组治疗前后抑郁状态、社会适应功能及服药依从性情况。 结果 研究组治疗后HAMD评分为（13.4±2.4）及SDS评分为（51.32±5.03）低于对照组，差异有统计学意义（P<0.05）；研究组治疗后日常生活评定量表（ADL）评分为（73.92±9.73）分，高于对照组治疗后，差异有统计学意义（P<0.05）；研究组患者服药依从率（96.7%）高于对照组，差异有统计学意义（P<0.05）。结论 团体治疗结合心理护理能更好改善患者抑郁状态，增强抑郁患者社会适应能力及提高其服药依从性。
+　　[中图分类号] R473.74 [文献标识码] A [文章编号] 2095-0616（2017）09-91-03
+　　Therapeutic effect of group psychotherapy combined with mental nursing to depression patients
+　　LU Yuezhi1 LIANG Yanhong2 ZHI Qiuchan1 XU Li1
+　　1. Department of Nursing， Zhaoqing Third People's Hospital， Guangdong， Zhaoqing 526060， China；2. Department of Medical Psychology， Zhaoqing Third People's Hospital， Guangdong， Zhaoqing 526060， China
+　　[Abstract] Objective To evaluate the therapeutic effect of group psychotherapy combined with mental nursing to depression patients. Methods 60 cases from May 2016 to October 2016 in our hospital were selected as study objects， and they were randomly divided into study group and control group， with 30 cases in each group. The patients in control group were got mental nursing only， while patients in study group were got group psychotherapy combined with mental nursing. After treating for 5 weeks， the depression situation， social adaptive ability and medication compliance of the two groups were observed. Results The score of HAMD （13.4±2.4） and SDS （51.32±5.03） in study group were lower than those in control group， the difference was statistical （P<0.05）. The score of ADL （73.92±9.73） was better than that in control group， the difference was statistical （P<0.05）. The medication compliance rate of study group was 96.7%， which was higher than that of control group， the difference was statistical （P<0.05）. Conclusion Group psychotherapy combined with mental nursing can be better improve patients’ depression situation， improve the social adaptive ability and the medication compliance.
+　　[Key words] Group psychotherapy； Mental； Nursing； Depression
+　　?S着医学模式向生物-心理-社会医学的转变，人们对心理疾病的关注度愈来愈高。现代生活的快节奏、高压力使得焦虑、抑郁患者数急剧增多。严重的焦虑、抑郁情绪不仅影响患者自身生活、工作，还对其社会适应功能造成极大困扰[1-2]。心理治疗在临床的应用逐渐增多，团体心理治疗是心理治疗的一种群体治疗形式，在抑郁疾病治疗中取得了一定的成效[3-4]。本研究即利用本院病例资源，探讨团体心理治疗结合心理护理对精神心理科抑郁患者的治疗效果。现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取我院2016年5～10月间收治的抑郁症患者60例为研究对象。所有患者及家属对本研究均知情同意及与患者签署保密协议书，并经医院相关部门审核批准后实施。所有患者依随机数字表法分为研究组和对照组，每组各30例。两组患者性别、年龄、病程等一般资料比较无统计学意义（P>0.05），具有可比性。见表1。   　　1.2 治疗方法
+　　对照组患者采取常?抑郁症患者药物治疗配合心理护理。研究组患者在对照组基础上加以实施团体心理治疗[5-6]，实施者为有团体心理治疗经验的2～3名医护人员。每个团体由15例患者组成，本研究组30例患者随机分成2个团体。团体心理治疗时间从入院即开始实施，每周实施2次，每次时间控制在1～2h，总治疗次数为10次[7-8]。具体实施方法为：心理治疗师将CBT（认知行为治疗）和IPT（人际交互治疗）融入团体治疗中。治疗中体验到两种疗效因子―凝聚力和普遍性，帮助患者发现其人际交往问题，强化其人际交往的长处，从检视自己与他人的关系中获益[9]。由实施者引导，暗示等方法解决团体小组中存在的共同或相似的心理障碍问题。对于不同的心理障碍问题，再予以逐个不同的心理治疗[10]。10次治疗都有不同的主体，主要包含：初识队友，促进信任，营造小队分为，训练人际交往能力，认清目前自身状态，训练控制自身情绪等。要求所有参训患者在整个训练过程中不仅要学会调整自身情绪状态，还要时刻注意与团体其他人之间的相处关系，关心其他人的情绪变化，多思考自身情绪与行为的关系[11]。两组患者治疗时间均设定为5周。
+　　1.3 心理护理方法
+　　研究组患者在经团体治疗的同时进行个性化心理护理，具体为：（1）护理人员在帮助患者办完入院手续后，对患者及其家属进行相关疾病知识的讲解，做到通俗易懂。（2）管床护士为患者讲解注意事项及防治相关知识，全面普对自身疾病的认知。（3）入院即向患者说清服药后或术后可能发生的不良反应，调动其主观能动性，减少心理应激反应和不必要的担心。
+　　1.4 观察指标及方法
+　　分别测定两组患者治疗前后HAMD[12]评分（24项），抑郁自评量表（SDS）[13]评分，本院用日常生活评定量表（ADL）评分及患者服药依从性评定，具体评定方法为能主动配合治疗，按时服药为完全依从；被动接受治疗，需监督才能按时服药为部分依从；需强制才能服药的为不依从。
+　　1.5 统计学方法
+　　采用SPSS17.0统计学软件处理数据，计量资料用（）的形式表示，采用t检验，计数资料采用χ2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者治疗前后抑郁状态评分比较
+　　两组患者治疗前SDS评分及HAMD评分比较差异无统计学意义（P>0.05），经治疗5周后，两组评分与治疗前相比均明显下降，差异有统计学意义（P<0.05）。研究组SDS、HAMD评分均明显下降，与对照组治疗后比较，差异有统计学意义（P<0.05）。见表2。
+　　2.2 两组患者治疗前后社会适应功能比较
+　　两组患者治疗前日常生活评定量表（ADL）评分比较差异无统计学意义（P>0.05），经治疗5周后，两组患者ADL评分与治疗前相比均明显升高，差异有统计学意义（P<0.05），研究组ADL评分改善明显，与对照组治疗后相比，差异有统计学意义（P<0.05）。见表3。
+　　2.3 两组患者服药依从性比较
+　　研究组患者服药总依从率为96.7%，与对照组的73.3%相比，差异有统计学意义（P<0.05）。见表4。
+　　3 讨论
+　　随着社会发展步伐愈来愈快，精神心理疾病发病率急速增加。精神心理疾病病程漫长，复发率
+　　及致残率较高，给患者工作生活及家庭造成极大负担，严重影响生活质量。而研究表明，心理社会因素在精神疾病患病中发挥重要的作用[14]。抑郁发病年龄呈日益年轻化趋势。团体心理治疗是通过组合一定人数的患者队伍，针对患者行为、需要和心理反馈而预先制定和不断调整的一系列主题活动。每一次治疗都有一个主题，依据由易至难而循序渐进的过程，加以辅助自身情绪控制的训练及社交活动的训练，多方面提高患者适应社会能力及自我调节能力[15-16]。而心理干预早已成为精神心理疾病疾病患者改善身心健康和生存质量的重要手段，采用心理护理能让患者在最佳的心理状态下接受治疗，团体心理治疗结合心理护理干预能更全方位的满足患者心理需求，更好地平缓患者情绪，取得更好的效果。团体心理治疗不仅减少治疗人数，还节省了治疗时间，减轻了患者经济负担，此外，团体心理治疗能为抑郁症患者提供一个模拟的社交环境，为其社会适应能力的改善提供最佳环境条件。
+　　本研究中将15例患者作为一个团体进行研究，结果显示团体心理治疗能显著降低患者抑郁状态，改善患者心理情绪，更好更快地让抑郁患者适应社交，提高社会适应能力，且团体心理治疗能让抑郁患者接受，对治疗的开展及疾病的康复有很好的促进作用。
+
+

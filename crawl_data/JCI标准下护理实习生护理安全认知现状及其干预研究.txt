@@ -1,0 +1,31 @@
+
+ 　　【摘 要】目的：探讨JCI标准下护理实习生护理安全认知现状及其干预研究，提高护理服务质量。方法：选取2017.4-2018.2在我院实习的护理生120名作为本课题研究对象，依据随机对照原则分为观察组（60名）与对照组（60名），对照组给予一般性常规照护，观察组则在常规性照护的基础上实施干预，干预12周后评价2组干预效果。结果：评价JCI标准下对实习生护理安全实施效果，观察组护生的护理安全认知状况较对照组高，观察组患者对护生的满意度明显高于对照组，差异均具有统计学意义（P<0.05）结论：护理安全教育能提高护理实习生对JCI标准下护理安全的认知，增强其护理安全意识，以此建立JCI标准下最佳护理安全管理模式，为临床推广应用提供可行性依据。
+　　中图分类号： G642；R47-4 文献标识码： A 文章编号： 2095-2457（2018）04-0215-002
+　　Study on the Nursing Safety Cognition Situation and Intervention of JCI Standards Nursing Interns
+　　MA Li XIE Ling CUI Shi-hong*
+　　（Department of Respiratory Medicine，First Affiliated Hospital of Xinjiang Medical University，Urumqi，Xinjiang 830000，China）
+　　【Abstract】Objective：To explore the status quo and the intervention research of nursing safety awareness under the JCI standard and to improve the nursing service quality.Methods：Totally 120 nursing students who applied for internship in our hospital from April 2017 to April 2017 were selected as the research subjects.According to the principle of randomized control，60 cases were divided into observation group （60 cases） and control group （60 cases）.The control group was given general routine care.In the group，interventions were carried out on the basis of routine care.After 12 weeks of intervention，the effects of intervention in two groups were evaluated.Results：To evaluate the effect of JCI standard on the implementation of nursing safety in interns，the nursing safety awareness of nursing students in observation group was higher than that of control group，and the satisfaction degree of nursing group in observation group was significantly higher than that of control group，the differences were statistically significant （P<0.05）.Conclusion： Nursing safety education can improve nurses' cognition of nursing safety under JCI standard and enhance their awareness of nursing safety so as to establish the best nursing safety management mode under JCI standard and provide feasible for clinical popularization and application Sexual basis.
+　　【Key words】Nursing safety；Trainee；Nursing
+　　?S着医疗护理技术的快速发展，人们对医疗安全和患者安全相应地提出了更高的要求，护理安全是患者安全的重要组成部分，是衡量医疗护理质量的一个重要指标，护理安全管理是护理质量的第一生命和核心目标[1]。因此护理安全也越来越受到护理人员的重视。在临床的教学过程之中，实习护生的护理安全教育的加强，对于医院整体的护理服务质量有重要的意义[2]。临床实习期是实习护生从学生到护士转变的一个过程，更是确立人生信念、强化职业道德、适应护士角色、获得全面发展的社会化的关键时期[3]。JCI（Joint commmission International， JCI）标准更加注重人性化服务，重视全面的医院质量管理及安全文化建设。JCI标准倡导“以患者为中心”，通过规范医院管理，促进医院质量和安全的持续改进，为患者提供安全、高质量的医疗服务[4]。本研究通过查阅国内外文献、德尔菲专家咨询法制定规范的问卷调查表，对符合纳入标准的护理实习生依据随机对照原则分为对照组和观察组，对其进行问卷调查，并根据调查结果采取改进措施，对观察组实施干预措施，取得了较好效果，将结果报告如下。   　　1 ?Y料与方法
+　　1.1 一般资料
+　　通过查阅文献及咨询统计专家，最终确定本课题研究样本量为120名，采取整群抽样方法，选取我院2017.4-2018.2本、专科护理实习生作为本课题研究对象，依据随机对照原则分为观察组（60名）与对照组（60名），护理实习生均为全日制护理专业学生，自愿接受调查者并签署知情同意书。两组学生在性别、年龄、综合素质等各项基本资料比较，差异无统计学意义（P>0.05）。
+　　1.2 纳入、排除标准
+　　1）纳入标准：（1）2017.4-2018.2在本院实习的本、专科护理实习生；（2）全日制护理专业学生③同意接受调查者。2）排除标准：（1）非全日制护理专业学生，如自考护理专业、成人教育等。（2）拒绝参与调查者。（3）在本研究实行期间，因休假、进修等原因不在医院进行临床工作者。
+　　1.3 方法
+　　查阅文献，咨询专家，根据现行的护理安全形势，再结合现有的JCI标准下对医疗护理安全提出的相关内容，制定调查问卷表，运用德尔菲专家咨询法经过两轮征询，确定调查问卷表。该问卷表3个维度，24个条目，采用李克特量表（Likert scale），有“非常同意”、“同意”、“不一定”、“不同意”、“非常不同意”五种回答，分别记为5、4、3、2、1，最高分为120分，最低分为24分。得分越高，说明护理实习生的护理安全认知水平越高。前期对5-10名护理实习生进行预调查，根据调查结果最终确定调查问卷表。 本、专科实习护生为整群抽样，依据随机对照原则分为观察组（60名）与对照组（60名）。在调查前，先由临床实习生签署知情同意书，由研究组成员发放问卷，讲解问卷填写的注意事项，当场回收问卷，回收率100%。对照组进行常规护理安全教育及指导，观察组在对照组的基础上实施干预措施，具体措施如下。
+　　（1）对照组进行常规护理安全教育及指导，干预组在对照组的基础上，采取 “护士长-科室总带教-带教老师” 的管理模式，建立科室实习生护理安全小组，明确带教目的，制定护理安全教学计划，护士长抓落实情况。
+　　（2）加强对临床护理带教老师护理安全的认知的培训，重温JCI标准下国际患者安全目标6条内容，集中培训2次（参照新疆医科大学第一附属医院2014.08 JCI培训手册内容），定期监督抽查。
+　　（3）护理实习生护理安全培训带教老师每周对实习生至少进行JCI标准下护理安全培训2次，科室每周进行1次护理安全教育，加强实习生护理安全观念，保障护理安全。
+　　（4）加强少数民族护理实习生的培训，鉴于语言沟通方面的障碍，尽量使用少数民族老师，专人专带。
+　　（5）基于JCI标准，开展对护理实习生的临床操作培训，每月1次，并进行相关知识讲座。
+　　（6）护士长组织对护理实习生的应急演练，每月1次，提高其对突发事件的应对及处理能力。干预12周后评价2组干预效果。
+　　1.4 统计学方法
+　　对问卷进行收集整理，质量控制，采用Epidata3.1建立数据库，将问卷信息进行录入，采用SPSS17.0统计软件进行统计分析。两样本计量资料比较采用t检验，多样本计量资料比较采用F检验，计数资料的比较采用检验，并对相关影响因素进行Logistic回归分析，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组护生自身前后护理安全认知组内比较
+　　2.2 患者对两组护生的满意度比较观察组患者对护生的满意度明显高于对照组，差异具有统计学意义（P<0.05），见表2。
+　　3 讨论
+　　目前国内对护理实习生护理安全报道相对较多，而对护理实习生JCI标准下护理安全认知评价国内外罕见报道。本研究通过查阅国内外文献、德尔菲专家咨询法制定规范的问卷调查表，对在我院实习的护生进行问卷调查，了解其对JCI标准下护理安全的认知水平、相关影响因素并根据调查结果采取改进措施，对观察组实施针对性干预措施，结果表明，观察组护生的护理安全认知状况较对照组高，观察组患者对护生的满意度明显高于对照组，差异均具有统计学意义（P<0.05），此研究结果，为合理制定实习生护理安全管理提供理论依据，提高实习护生医护配合能力，减少医疗隐患；增强护患沟通能力，减少纠纷发生；为JCI复审及后JCI时代的到来打下坚实的基础，也为医院储备合格的护理人才。
+　　因此，对实习护士实施护理安全教育及指导的干预，能提高护理实习生对JCI标准下护理安全的认知，从而增强其护理安全意识，提高患者对护生的满意度，保证医疗护理的安全。
+
+

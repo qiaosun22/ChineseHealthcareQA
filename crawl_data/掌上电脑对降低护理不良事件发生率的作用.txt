@@ -1,0 +1,26 @@
+
+　　[摘要] 目的 探讨掌上电脑（PDA）对降低护理不良事件发生率的作用。 方法 以2012年10月～2013年3月本院已应用PDA的2个科室（普外科、泌尿科）作为观察组，以同期未应用PDA的2个科室（骨科、五官科）作为对照组，比较两组护理不良事件的发生率及护理质量评分。 结果 2012年10月，观察组共出现1例（0.5%）护理不良事件，对照组出现7例（3.5%）；2012年11月，观察组0例，对照组6例（3.0%）；2012年12月，观察组1例（0.5%），对照组7例（3.5%）；2013年1月，观察组2例（1.0%），对照组10例（4.8%）；2013年2月，观察组3例（1.5%），对照组10例（4.5%）；2013年3月，观察组2例（1.0%），对照组10例（5.0%）。各时间点比较，观察组护理不良事件发生率均明显低于对照组，差异有统计学意义（P<0.05）。观察组任一时间周期护理质量评分均显著高于对照组，差异有统计学意义（P<0.05）。 结论 使用PDA有助于降低护理不良事件出现率，对于提升护理质量评分、患者护理满意度具有积极意义，具备推广价值。
+　　[中图分类号] R47 [文献标识码] B [文章编号] 1674-4721（2014）08（b）-0157-03
+　　[Abstract] Objective To investigate the role of personal digital assistant （PDA） in reducing the incidence of adverse events in nursing. Methods Two departments （Department of General Surgery，Department of Urology） applied PDA in our hospital from October 2012 to March 2013 were as observation group，at the same time，two departments （Department of Orthopedics，Department of Surgery） not apply PDA were as control group，the incidence of nursing adverse events and nursing quality score of two groups were compared. Results In October 2012，there was 1 case （0.5%） of nursing adverse event in observation group，7 cases （3.5%） in control group；In November 2012，there was 0 case in observation group，6 cases （3.0%） of control group；In December 2012，there was 1 case （0.5%） in observation group，7 cases （3.5%） in control group；In January 2013，there were 2 cases （1.0%） in observation group，10 cases （4.8%） in control group；In February 2013，there were 3 cases （1.5%） in observation group，10 cases （4.5%） in control group；In March 2013，there were 2 cases （1.0%） in observation group，10 cases （5.0%） in control group；the incidence of nursing adverse event in observation group was lower than that in control group，the difference was significant （P<0.05）.The nursing quality score in observation group was higher that that in control group，the difference was significant （P<0.05）. Conclusion PDA helps to decrease the occurrence rate of nursing adverse events，has positive significance in promoting nursing quality score and care satisfaction，and has the promotional value.
+　　[Key words] Personal digital assistant；Nursing adverse event；Nursing quality；Relevance observation
+　　随着医院信息化的稳步推进，医院信息系统（hospital information system，HIS）日渐普及，显著提高了医院的工作效率及服务质量。其基于移动网络、移动设备及分布式软件，按内容的针对性，又可进一步细分。其中移动护理信息系统针对于护理，强调应用小巧且便于携带的移动终端，随时随地录入患者的生命体征数据，查询并执行医嘱，调用并阅览相关报告等，理论上可有效降低护理不良事件出现率，但其临床应用研究较少，尚不足以指导其推广。本院将掌上电脑（personal digital assistant，PDA）应用于移动护理信息系统，取得了显著成果，现总结4个科室的比较护理资料。   　　1 资料与方法
+　　1.1 一般资料
+　　以本院普外科、泌尿科作为观察组，以骨科、五官科作为对照组开展研究，其中观察组月均出院患者204例；开放床位51张；共20名护士，均为女性，年龄24～44岁，平均（27.5±2.1）岁，均为大专及以上学历，其中主管护师3名，护师7名，护士10名。对照组月均出院患者202例；开放床位52张；共19名护士，均为女性，年龄24～42岁，平均（26.8±2.2）岁，均为大专及以上学历，其中主管护师3名，护师6名，护士10名。两组的一般信息差异无统计学意义（P>0.05），具有可比性。
+　　1.2 研究方法
+　　利用院数据库，统计两组上报护理不良事件的例数、比率及具体类型；参考杨春玲等[1]推荐的方案，自制护理质量评分量表，由医生及护士讲解，并邀请患者亲自填写分数，量表总分为100分，分数越高，表明护理质量越好。
+　　1.3 PDA应用方法
+　　观察组两科室均全面推行应用PDA，主要使用范围如下：①护士随身携带PDA，于护理过程中采集各项生命体征数据，如体温、脉搏、呼吸等，即时于床头录入。数据经传输、保存后，直接呈现于医生及护士工作站，并通过HIS自动生成体温单、护理记录单的护理表格。②医生在配备有HIS的电脑上开具医嘱，通过无线网络传输至PDA，由护士随时调用，PDA数据库中同步更新全部医嘱、新开医嘱及已执行医嘱。医嘱执行过程中，护士同步将执行情况反馈至HIS，并由HIS自动生成执行时间及操作者信息。③责任护士利用PDA实时监督医嘱执行情况、护理记录完成情况、生命体征数据采集情况，一方面查漏补缺，另一方面精确统计各护士的工作量，做有效调整。
+　　1.4 统计学方法
+　　应用SPSS 19.0统计学软件处理数据，计量资料以x±s表示，采用t检验，计数资料以率（%）的形式表示，采用χ2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组护理不良事件出现率的比较
+　　按月统计，2012年10月～2013年3月，观察组出院患者分别为202例、207例、201例、202例、205例、207例；对照组出院患者分别为201例、202例、198例、208例、204例、202例。两组护理不良事件出现率较稳定，且各时间周期比较，观察组明显低于对照组，差异有统计学意义（P<0.05）（表1）。
+　　2.2 两组护理质量评分的比较
+　　观察组月均护理质量评分均>93分，对照组月均护理质量评分在90分左右，观察组任一时间周期护理质量评分均显著高于对照组，差异有统计学意义（P<0.05）（表2）。
+　　3 讨论
+　　随着计算机技术的迅猛发展，移动护理信息系统被越来越多的医院管理者所接受，开始大面积应用于临床[2]。以北京协和医院呼吸科的使用为起点（2002年[3]），迅速延伸至解放军总医院（2005年[4]）、北京同仁医院、天坛医院等甲级医院，既往报道显示，其有效利用了PDA小巧、便携、操作性强的特点，极大地提升了医护人员的工作效率[5]，对规范护理人员工作行为、提升其法律意识具有积极作用。但多数报道均集中在研究其对护士的影响上，并未深入探讨其对降低护理意外事件出现率、提升护理质量评分方面的作用。
+　　本文从以上两方面补充了对PDA及移动护理信息系统的研究，以全面应用了PDA设备的两科室为观察组，以同期未应用PDA设备的两科室为对照组，就其护理不良事件发生率和护理质量评分进行了深入比较。结果显示，观察组护理不良事件出现率均<1%，而对照组多集中在3%～5%，且前者护理质量评分显著性更高，由此可以看出，应用PDA设备对降低护理不良事件、提升护理质量评分具有积极作用。可能是因为：①PDA设备方便了护士对患者生命体征及其他重要数据的搜集，即时性及全面性要求使各种疏忽致出错事件大幅减少[6]；②护士能够实时调用医嘱，可全面检查已行护理措施的合理性[7]，并避免不合理的未行护理措施出现[8]；③医生可即时获得患者基本信息，及时调整医嘱，避免了医嘱转达过程中可能出现的任何异常问题[9]；④护士长可通过PDA实时监督每一位护士的工作情况[10]，从而有效督促护理效率的提升。陈关桂等[11]的研究提示，应用PDA可有效缩短危急信息传递至主治医生的时间，从而有效保证患者的生命安全，这也有助于减少各类护理不良事件的发生。
+　　本研究虽然能够证实PDA对减少护理不良事件的作用，却也有一些不足：仅统计上报的护理不良事件，而未能有效关注隐瞒不报的部分事件；未能获取医生对该护理信息系统的评价等。这些问题还有赖于后续研究进一步解决。
+　　总之，应用PDA能降低护理不良事件、提升护理质量评分，对于医患双方均有一定的好处，值得推广。
+
+

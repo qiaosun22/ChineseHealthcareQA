@@ -1,0 +1,32 @@
+
+　　[摘要] 目的 探讨一体化护理对局部麻醉术患者心理及疼痛应激的影响。 方法 选取2010年10月～2013年12月本院收治的80例局部麻醉术患者为研究对象，将入选者随机分为对照组（常规手术护理组）40例和观察组（一体化护理组）40例，比较两组干预前后的Zung自评量表与疼痛自我评估结果。 结果 观察组护理干预后的Zung自评量表抑郁和焦虑评分分别为（46.21±4.96）分和（46.25±4.04）分，阳性率分别为50.00%和52.50%；术中及术后即刻的轻度疼痛率分别为95.00%和97.50%，均显著优于对照组，差异有统计学意义（P<0.05）。 结论 一体化护理对局部麻醉术患者心理应激及疼痛应激的影响较大，更适用于局部麻醉术患者。
+　　[中图分类号] R614.3 [文献标识码] B [文章编号] 1674-4721（2014）09（b）-0140-03
+　　Influence of integrated nursing for the psychological stress and pain stress of operative patients with local anesthesia
+　　ZHOU Xiao-fang
+　　Operation Room，Fengxin People′s Hospital of Fengxin County of Yichun City in Jiangxi Province，Fengxin 330700，China
+　　[Abstract] Objective To explore the influence of integrated nursing for the psychological stress and pain stress of operative patients with local anesthesia. Methods 80 cases with local anesthesia from October 2010 to December 2013 in our hospital were selected and randomly divided into control group（conventional operation nursing group） and observation group（integrated nursing group），40 cases in each group.The Zung self-rating scale before and after the intervention and pain self-assessment results of two goups were compared. Results The Zung self-rating scale depression and anxiety score in observation group after the intervention were （46.21±4.96）points and（46.25±4.04）points，positive rates were 50.00% and 52.50%.The mild pain rates during operation was 95.00%，the mild pain rates after operation immediate was 97.50%，which was obviously better than that in control group，with statistical difference（P<0.05）. Conclusion The influence of integrated nursing for the psychological stress and pain stress of operative patients with local anesthesia are great，and it is more suitable for the patients with local anesthesia.
+　　[Key words] Integrated nursing；Local anesthesia；Psychological stress；Pain stress
+　　局部麻醉手术患者在手术治疗过程中由于处于较为清醒的状态，对手术的应激表现较为突出，这对于手术的顺利进行及患者围术期机体心理状态均十分不利[1]，因此对局部麻醉手术患者进行护理时尤其应重视对其上述方面的干预。另外，此类患者的应激不仅仅表现为心理方面的应激，机体方面的应激也因手术及心理应激的影响而表现极为突出，其中疼痛应激即是受之影响极大的一个机体应激，因此在对此类患者进行应激控制时，应重视对其心理及疼痛应激进行干预。临床中关于护理模式对此类患者心理及疼痛应激的影响研究相对不足，因此对其进行探讨的价值较高。本研究采用一体化护理对局部麻醉手术患者进行干预，探讨其对心理应激及疼痛应激的影响。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2010年10月～2013年12月本院收治的80例局部麻醉手术患者为研究对象，随机分为对照组（常规手术护理组）40例和观察组（一体化护理组）40例。其中对照组中，男性24例，女性16例；年龄23～67岁，平均（39.0±5.6）岁；手术种类：眼科18例，疝气16例，其他6例；文化程度：小学和初中20例，中专和高中13例，大专及以上7例。观察组中，男性23例，女性17例；年龄22～68岁，平均（39.3±5.5）岁，手术种类：眼科18例，疝气15例，其他7例；文化程度：小学和初中21例，中专和高中13例，大专及以上6例。两组的性别、年龄、手术种类及文化程度构成方面比较，差异无统计学意义（P>0.05），具有可比性。   　　1.2 方法
+　　对照组采用常规手术护理方式干预，包括在术前访视中充分了解患者的疾病状态并疏导其心理不良情绪，另给予相关知识的宣教，术中密切观察患者的表现并积极配合手术治疗，术后对患者进行常规护理后送回病房。观察组采用一体化护理模式进行干预，包括术前对患者的性格、心理情绪、疾病状态、手术方式及知识需求等进行全面细致的评估，将其作为患者的整体需求，然后制订符合患者需求的护理措施，尤其是术前宣教内容，使患者从心理上缓解对手术的担忧及恐惧，对手术及预后产生信心；术中注意与患者进行无声沟通，通过多种方式，如抚触及眼神交流等来达到消除患者紧张及其他不良情绪的目的，发现患者出现不适感强烈等情况时积极进行干预，加强与患者的沟通与抚触，抚慰其情绪状态，并进行语言方面的积极安慰；术后加强对患者的护理干预强度与频率，所有护理措施均由同一名护理人员执行，避免出现间断的情况。将两组干预前后的Zung自评量表与疼痛自我评估结果进行比较。
+　　1.3 评价标准
+　　①Zung自评量表中的抑郁和焦虑两个分量表均分别含有20个评估问题，且每个问题均采用1～4分的评分法，评估所得分值达到50分以上表示患者的心理情绪为阳性[2]；②疼痛自我评估以视觉模拟法为准，最低评分为0分，最高为10分，其中评分≤3分为轻度，评分在4～6分为中度，评分≥7分为重度[3]。
+　　1.4 统计学处理
+　　采用SPSS 14.0统计学软件对数据进行分析，计量资料用x±s表示，采用t检验，计数资料采用χ2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组干预前后Zung自评量表评估结果的比较
+　　干预前两组的Zung自评量表评分和阳性率比较，差异无统计学意义（P>0.05），干预后观察组的Zung自评量表评分和阳性率显著低于对照组，差异有统计学意义（P<0.05）（表1）。
+　　表1 两组干预前后Zung自评量表评估结果的比较
+　　与对照组干预后比较，*P<0.05
+　　2.2两组干预后疼痛自我评估结果的比较
+　　观察组干预后的术中及术后即刻疼痛自我评估结果中，轻度疼痛率均低于对照组，差异有统计学意义（P<0.05）（表2）。
+　　表2 两组干预后疼痛自我评估结果的比较[n（%）]
+　　与对照组比较，*P<0.05
+　　3讨论
+　　局部麻醉手术患者不同于全身麻醉手术患者，因患者意识处于相对清醒的状态，对手术及其相关方面的担忧及紧张情绪等表现更为明显，导致出现较为突出的焦虑及抑郁等心理状态，这对于患者的机体应激等极为不利[4-5]，会影响到手术的顺利程度及术后康复，因此，对此类手术患者进行护理时应注意对其进行心理应激的干预。另外，患者机体及心态处于相对较差的状态时，其自身的痛觉阈值往往处于相对异常的状态，甚至出现疼痛感严重的情况[6-7]，这对患者的手术进行及其他方面的机体状态也十分不利，因此对其进行干预的价值较高。
+　　本研究就一体化护理对局部麻醉手术患者心理应激及疼痛应激的影响进行观察，并与常规手术护理进行比较，结果显示，一体化护理在改善患者的心理应激及疼痛应激方面均优于常规手术护理组，主要体现在患者干预后的Zung自评结果和疼痛自我评估结果均优于对照组，这可能与一体化护理模式更为重视患者整个围术期机体及心理综合需求有关。患者对于治疗护理的信心相对增加，对于手术及预后的担忧相对轻微，紧张导致的疼痛应激程度也相对降低[8-9]，故效果突出。
+　　综上所述，一体化护理能显著改善局部麻醉手术患者的心理应激及疼痛应激状态，值得临床推广应用。
+
+

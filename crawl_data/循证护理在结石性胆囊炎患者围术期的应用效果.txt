@@ -1,0 +1,33 @@
+
+ 　　[摘要]目的 探讨循证护理在结石性胆囊炎患者围术期的应用效果。方法 选择本院2016年5月～2017年5月收治的120例结石性胆囊炎患者，随机分为观察组和对照组。给予观察组循证护理，对照组只进行普通的临床护理，比较两组患者的并发症发生率，患者的心理状况和患者及其家人的满意度。结果 观察组的总并发症发生率低于对照组（P<0.05）；观察组患者护理后的SAS、SDS评分明显低于对照组（P<0.05）；观察组术前、术中、术后对医护人员的满意度高于对照组（P<0.05）。结论 循证护理应用于结石性胆囊炎患者围术期可有效降低并发症发生率，使患者保持良好的心态，提高其满意度，值得临床推广。
+　　[中图分类号] R473.6 [文献标识码] A [文章编号] 1674-4721（2017）09（a）-0177-03
+　　Application effect of evidence-based nursing in patients with calculous cholecystitis during perioperative period
+　　ZHENG Ai-hua
+　　Department of General Surgery，Central Hospital of Zibo Mining Refco Group Ltd. in Shandong Province，Zibo 255120，China
+　　[Abstract]Objective To investigate the application effect of evidence-based nursing in patients with calculous cholecystitis during perioperative period.Methods 120 patients with calculous cholecystitis treated in our hospital from May 2016 to May 2017 were selected and randomly divided into observation group and control group.Observation group was given evidence-based nursing，while control group only received general clinical nursing.The incidence of complications，patients′ psychological status and patients′ and their families′satisfaction degree were compared between the two groups.Results The total incidence of complications of observation group was lower than that of control group （P<0.05）.The post-nursing SAS and SDS score of observation group were significantly lower than those of control group （P<0.05）.The patients′ satisfaction degree with medical staff of observation group pre-，intra-and post-operation were higher than those of control group （P<0.05）.Conclusion Evidence-based nursing applied in patients with calculous cholecystitis during the perioperative period can effectively reduce the incidence of complications，make the patients maintain a good state of mind and improve their satisfaction，which is worthy of clinical promotion.
+　　[Key words]Evidence-based nursing；Calculous cholecystitis；Cholecystectomy；Effect
+　　结石性胆囊炎是目前世界上最常见的肝胆疾病之一[1]，由于结石大小、位置等的不同有不同的临床表现[2]。其中最主要的临床表现为右上腹痛、发热、寒战、黄疸等[3]。因为患者经常右上腹痛难忍，患者就容易产生焦虑、暴躁等不良情绪，导致患者的?g后恢复效果变差，因此，要对患者进行有效的身体及精神护理。循证护理是根据多年的临床实践经验，综合考虑然后制定出适合患者的术后恢复方案，用以帮助患者的术后恢复[4]。本研究探讨循证护理用于结石性胆囊炎围术期的效果，现报道如下。
+　　1资料与方法
+　　1.1一般资料
+　　选择2016年5月～2017年5月进行过胆囊切除术的胆囊结石患者120例，男性70例，女性50例，年龄在35～57岁，平均（47.8±5.3）岁。将患者分为观察组、对照组，每组60例。两组患者的一般资料差异无统计学意义（P>0.05），具有可比性。本实验已经过医学理论委员会的批准。
+　　1.2方法
+　　观察组采用循证护理的方法，具体内容包括以下几方面。
+　　1.2.1确立问题 针对患者的并发症问题，展开相关的循证查找和护理[5]。   　　1.2.2 制定循证护理方案 （1）建立循证护理结石性胆囊炎患者的小组；（2）通过图书馆、网络等方式查找关于结石性胆囊炎患者的资料；（3）整合资料并展开小组讨论，总结前人对结石性胆囊炎患者的护理经验；（4）结合本次研究的结石性胆囊炎患者情况，在疼痛方面、心理方面、并发症护理方面、体位护理方面、家庭配合方面等展开循证护理，具体包括[6]以下几个方面。① 疼痛护理：要求护理人员准确评估患者的疼痛程度，给患者详细讲解相关疼痛知识；②心理护理：需要护理人员主动关心、安慰患者，降低患者紧张、恐惧等不良情绪，提高治疗和护理的依从性，从而提高治疗效果；③并发症要求：要求护士能够在预防方面做到排除危险因素、降低发生率，处理方面做到对已有并发症及时实施措施；④体位护理：需要护理人员及时巡视病房，增加患者的翻身次数，避免压疮的发生，增加患者的舒适度；⑤家庭支持，护理人员应鼓励其家属多与患者交流，在病情允许的情况下鼓励患者进行自我护理，建立战胜疾病的信心[7]。对照组采用常规的临床护理，具体内容如下。①保持病室及床单干净整洁，病室环境安静舒适，减少探视人员时间，利于患者休息，避免交叉感染；②稳定患者的情绪：起病急和剧烈的疼痛刺激常给患者心理 造成较大的恐慌，护士对患者的倾诉可采取同感性倾听，给予简单和直接的解释，如有条件可给予书面资料或图片配合说明，使患者卧床休息，提供安静的环境等[8]。
+　　1.3评价指标
+　　对比两组患者的并发症发生率、心理健康状况以及患者对医护人员的护理满意度。检查结石性胆囊炎患者术后是否发生并发症；患者的心理健康状况依据SAS和SDS进行评估（SDS按症状出现频度评定，分4个等级：没有或很少时间，少部分时间，相当多时间，绝大部分或全部时间。抑郁评定的领临界值为T=53，分值越高，抑郁倾向越明显[9]）；患者对医护人员护理的满意度则通过医院自制的满意度调查表来进行确定，满意度调查表的内容主要就是医护人员的专业技能、护理态度以及患者及其家属对医护人员的信任度[10]。
+　　1.4统计学处理
+　　采用SPSS 17.0来对数据进行统计学处理，计量资料用均数±标准差（x±s）表示，采用t来检验，计数资料用百分比表示，采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1两组总并发症发生率的比较
+　　观察组的总并发症发生率低于对照组（P<0.05）（表1）。
+　　2.2两组护理前后SAS、SDS评分的比较
+　　护理前，观察组患者的SAS的评分为（61.21±7.15）分，对照组患者的SAS评分为（63.26±5.37）分，护理前，观察组患者的SDS的评分为（65.29±4.26）分，对照组患者的SDS的评分为67.11±3.27分；护理后观察组患者的SAS的评分为（45.27±6.15 ）分，对照组患者的SAS的评分为（52.37±7.01）分；护理后观察组患者的SDS的评分为（44.69±5.61）分，对照组患者的SDS的评分为（50.21±5.97）分；护理前两组患者的上述评分差异无统计学意义（P>0.05），护理后，观察组患者的上述评分均明显低于对照组，差异有统计学意义（P<0.05）。
+　　2.3两组对医护人员满意度的比较
+　　观察组术前、术中、术后对医护人员的满意度高于对照组（P<0.05）（表2）。
+　　3讨论
+　　根据调查显示，结石性胆囊炎发病率越来越高，成年人的发病率已达到20%[11]。结石性胆囊炎一旦久不治疗，就容易引发胆囊癌变[12]。
+　　目前最常见的治疗结石性胆囊炎的方法是手术[13]，但是手术会对患者的身体造成一些损伤，会对患者的心理造成一些负担，从而让患者产生惊恐，暴躁、害怕、紧张的不良情绪。然而传统的普通护理方式已经无法解决患者心理上的问题了[14]。循证护理会根据患者的实际情况来进行分析，寻找证据，再结合医护人员专业的护理知识以及患者自己的愿望，最终制定出符合实际的最佳护理方案，对患者进行循证护理，能够有效地缓解患者的心理压力，帮助其排除不良情绪，提高治疗效果[15]。
+　　本次研究针对观察组患者的实际情况，寻找证据，制定出一份最佳的循?C护理方案，而对照组的患者还是进行传统的普通护理。本研究中，观察组患者并没有出现较多的并发症；观察组患者情绪明显好于对照组；观察组患者SAS、SDS的评分明显好于对照组；患者对护理人员的专业技能等方面的信任度也是观察组高于对照组。若是并发症发生率较高，就会对患者的身体造成较大的伤害，延缓患者的康复，而患者本身的不良情绪和对医护人员的不信任也会影响患者的康复。而循证护理就可以有效地解决这些问题，预防并发症的发生，促进患者心理健康。
+　　综上所述，循证护理对结石性胆囊炎患者恢复具有良好的效果，值得临床推广。
+
+

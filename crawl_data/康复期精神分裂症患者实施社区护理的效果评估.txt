@@ -1,0 +1,25 @@
+
+ 　　【摘要】 目的：评估康复期精神分裂症患者实施社区护理的效果。方法：收集本院2014年9月-2015年10月收治的56例康复期精神分裂症患者，将其分为对照组（实施常规护理）与护理组（实施社区护理）两组，每组28例。护理前后分别采用阳性与阴性症状量表（PANSS）、功能缺陷筛选量表（SDSS）以及治疗态度与自知力问卷表（ITAQ）行康复效果评定。结果：护理组PANSS评分、SDSS评分、ITAQ评分、用药依从率、肇事肇祸发生率、复发率以及再住院率均明显优于对照组，比较差异均有统计学意义（P<0.05）。结论：针对康复期精神分裂症患者，对其实施社区护理能够显著提高服药依从率，减少复发率及肇事肇祸等不良事件发生率。
+　　Effect of Community Nursing on Schizophrenia during Convalescence/SU Shi-yun.//Medical Innovation of China，2017，14（11）：079-082
+　　【Abstract】 Objective：To evaluate the effect of community nursing on schizophrenia during convalescence.Method：56 patients with schizophrenia in our hospital were selected from September 2014 to October 2015，they were divided into control group （routine nursing）and nursing group （community nursing），28 cases in each group.Before and after nursing，the positive and negative symptoms scale（PANSS），function defect screening scale（SDSS） and treatment attitude and self-knowledge questionnaire（ITAQ） were used to evaluate the rehabilitation effect.Result：PANSS score，SDSS score， ITAQ score， medication compliance rate， hit and cause an accident incidence， recurrence rate， and hospitalization rates of nursing group were significantly better than those of control group，the differences were statistically significant（P<0.05）.Conclusion：For patients with schizophrenia，the implementation of community nursing can significantly improve the compliance rate，reduce the recurrence rate and the incidence of adverse events such as the accident.
+　　【Key words】 Convalescence； Schizophrenia； Community nursing； Nursing effect
+　　First-author’s address：Zaozhuang Mental Health Center，Zaozhuang 277103，China
+　　doi：10.3969/j.issn.1674-4985.2017.11.022
+　　为了改善患者的精神及社会功能，本院对在2014年9月-2015年10月收治的28例康复期精神分裂症患者实施护理，效果理想，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料 56例均为本院自2014年
+　　9月-2015年10月收治的康复期精神分裂症患者，（1）纳入标准：①所有患者均满足CCMD-3中有关精神分裂症的诊断及分期标准；②曾住院接受过1～2个月的系统治疗，同时达到痊愈标准；③对本次研究知情并同意。（2）排除标准：①合并其他严重躯体疾病者；②有药物依赖史及酒精依赖史者[1-4]。将56例患者按数字奇偶法分为护理组与对照组两组，每组28例。对照组男16例，女12例；年龄21～76岁，平均（44.15±6.41）岁；病程1～8年，平均（5.14±1.61）年。护理组男17例，女11例；年龄21～74岁，平均（44.20±6.38）岁；病程1～8年，平均（5.20±1.91）年。两组患者的一般资料比较差异均无统计学意义（P>0.05），具有可比性。
+　　1.2 方法 对照组进行电话随访以督促其按时服药、定期复查等常规护理，护理组实施护理，具体如下：科室组织康复医师、护理人员及护士长等成立一个小组，并由小?M成员深入到社区，开展指导宣教，发放健康教育手册，组织召开有关精神分裂症内容的讲座，开辟防治知识宣传栏等[4]。同时，护理人员需对每一位患者建立一份完整的健康档案，并根据档案内容开展一对一的指导及宣教活动，详细向患者及其家属讲解引发本病复发的相关危险因素、复发先兆表现、治疗方法、治疗预后、预防措施等事项，以帮助患者充分了解自身疾病，帮助其提高自我保护能力[5]。用药指导：针对已确诊的患者，详细告知其即使在治愈后仍然需要坚持服药治疗。针对第一次发病的患者，需嘱咐其维持用药治疗至少2年；针对第二次发病的患者，嘱咐其维持用药治疗至少3年；而针对第三次发病的患者，嘱咐其不可自行停药，需长期坚持服药治疗[6]。此外，需详细向患者讲解抗精神病类药物的治疗效果、用药副作用以及注意事项等知识。向患者及其家属详细讲解长期遵医嘱服药的重要性，告知其不可擅自增减药量、自行停药以及更换药物[7]。鼓励患者加入社会活动中来：嘱咐患者每天定期参加运动，同时注意保证充足的睡眠；鼓励患者多参加社会活动，有利于保持乐观平稳的心态，注意尽量避免出现激动、紧张、悲伤等情绪。每天按时作息，养成规律的睡眠习惯，不可熬夜或者颠倒睡眠[8-12]。   　　1.3 观察指标 在护理前，护理6、12个月后，分别采用阳性与阴性症状量表（PANSS）、功能缺陷筛选量表（SDSS）以及治疗态度与自知力问卷表（ITAQ）行康复效果评定。其中，PANSS量表采用7级评分标准，分数越低，症状越轻。SDSS分数越低，症状越轻。ITAQ分数越高，态度及自知能力越强。记录两组患者的复发率、再住院率以及肇事、肇祸等不良事件发生率。
+　　1.4 统计学处理 本次研究所得数据使用SPSS 11.0统计学软件处理，计量资料采用（x±s）表示，比较采用t检验，计数资料采用率（%）表示，比较采用 x2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组PANSS评分比较 两组护理前PANSS评分比较，差异无统计学意义（P>0.05）；护理6、12个月后，护理组PANSS评分均分别明显低于各时期的对照组（P<0.05），见表1。
+　　2.2 两组ITAQ评分比较 两组护理前ITAQ评分比较，差异无统计学意义（P>0.05）；护理6、12个月后，护理组ITAQ评分均分别明显高于各时期的对照组（P<0.05），见表2。
+　　2.3 两组SDSS评分比较 两组患者护理前的SDSS评分比较差异无统计学意义（P>0.05）；护理6、12个月后，护理组SDSS评分均分别明显低于各时期的对照组（P<0.05），见表3。
+　　2.4 两组用药依从率、复发率及再住院率比较 护理12个月后，护理组遵医嘱按时用药者26例，用药依从率为92.86%；对照组18例，依从率为64.29%，护理组明显高于对照组（P<0.05）。护理组12个月内再复发者2例，复发率为7.14%；再住院者1例，再住院率为3.57%。对照组12个月内再复发者13例，复发率为46.42%；再住院者6例，再住院率为21.43%，护理组复发率及再住院率均分别明显低于对照组（P<0.05）。
+　　2.5 两组患者的肇事、肇祸等不良事件发生率比较 护理组12个月内不良事件发生率为7.14%（2/28），明显低于对照组的42.86%（12/28）（P<0.05）。
+　　3 讨论
+　　精神分裂症的主要表现为，患者出现思维异常以及精神活动与现实脱离等症状[13]。本病具有病因复杂、病症极易迁延、难愈等特征，往往导致患者丧失适应社会的能力[14]。积极接受治疗可在一定程度上延缓患者精神衰退[15]，通常情况下，在经过急性期治疗之后，精神分裂症患者便进入康复期治疗，康复期治疗是整个疾病期治疗的重要阶段[16]。因此，在此阶段实施有效的护理干预对缓解患者的症状、提高用药依从率、降低复发率显得尤为重要[17]。
+　　对康复期精神分裂症患者实施护理，通过深入社区进行健康宣教，有利于促进患者及其家属掌握疾病的相关知识，促进其加入自我管理计划中来[18]。同时建议患者家属动态监护患者，对其病情及情绪变化过程进行密切监测并做出反应，有助于提高患者的用药依从性、减少不良事件的发生[19]。此外，通过指导患者形成规律的生活习惯，教会其熟知自护技能，能够有效避免引发复发的风险因子，降低复发率[20]。
+　　本研究中，护理组PANSS评分、SDSS评分、ITAQ评分、用药依从率、肇事肇祸发生率、复发率以及再住院率均分别明显优于对照组（P<0.05）。护理干预能够显著增强患者的社会功能及社会适应能力、提高用药依从率、减少社会缺损、降低复发率，对改善患者的生活具有重大意义，值得临床上推广及应用。
+
+

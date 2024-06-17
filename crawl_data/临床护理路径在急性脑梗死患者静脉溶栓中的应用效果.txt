@@ -1,0 +1,30 @@
+
+ 　　【摘要】 目的：分析应用临床护理路径在急性脑梗死患者静脉溶栓治疗过程中的效果。方法：将112例急性脑梗死并进行静脉溶栓治疗的患者随机分成观察组和常规组，每组56例。观察组患者按照临床护理路径进行护理，而常规组患者则采用常规的护理措施进行护理。结果：两组患者在入院到静脉溶栓治疗时间、平均住院费、平均住院日、溶栓治疗成功率及患者满意度比较，观察组优于常规组，差异有统计学意义（P0.05）。结论：急性脑梗死患者在静脉溶栓治疗过程中使用护理临床路径可以提高溶栓治疗成功率，降低患者住院费用及平均住院日天数，但不能降低其并发症的发生。
+　　doi：10.14033/j.cnki.cfmr.2017.17.032 文?I标识码 B 文章编号 1674-6805（2017）17-0066-02
+　　The Application Effects of Clinical Nursing Pathway in Patients with Acute Cerebral Infarction after Intravenous Thrombolysis Treatment/HUANG E-lie，WANG Fang.//Chinese and Foreign Medical Research，2017，15（17）：66-67
+　　【Abstract】 Objective：To study the application effects of clinical nursing pathway in patients with acute cerebral infarction after intravenous thrombolysis treatment.Method：112 cases of acute cerebral infarction after intravenous thrombolysis therapy patients were randomly divided into the observation group and the conventional group，each group was 56 cases.Patients in the observation group taken clinical nursing path for nursing care，and patients in the conventional group used the routine of nursing care.Result：Two groups of patients in the hospital to intravenous thrombolysis treatment time，average hospitalization，the average days of hospital stay，thrombolysis treatment success rate and patients’ satisfaction in the observation group were better than those in the conventional group（P<0.05），and the two groups in the incidence of complications after intravenous thrombolysis had no statistical difference（P>0.05）.Conclusion：Acute cerebral infarction patients in the process of intravenous thrombolytic therapy using clinical nursing path can improve thrombolysis treatment success rate，reduce the patient’s hospitalization expenses and the average days of hospital stay，but can not reduce the complications.
+　　【Key words】 Acute cerebral infarction； Intravenous thrombolysis； Clinical nursing path
+　　First-author’s address：The Fourth Affiliated Hospital of Guangxi Medical University，Liuzhou 545005，China
+　　近年来我国的缺血性脑血管病发病率逐年增高，它有着较高的致残率和致死率，严重影响患者及其家庭生活质量。目前该病有效的治疗方法是使用阿替普酶进行静脉溶栓，可以有效改善患者症状和预后[1]。同时如果能在静脉溶栓过程中做好临床护理，在很大程度上能够提高治疗的临床效果，降低并发症的发生，促进患者恢复神经功能，从而提高患者的生活质量。临床护理路径，是由专业医学人员针对某个疾病或某个手术所做的病患照顾计划流程表[2]。它是一种新型的护理模式的体现，使得护理工作执行起来更加全面，护理过程更加程序化和标准化，具有标准高、效率高等特点[3]。笔者所在科从2012年将临床护理路径应用于急性脑梗死静脉溶栓患者护理治疗中，取得良好的临床护理效果，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2012年6月-2016年6月笔者所在科诊断急性脑梗死并行静脉溶栓治疗的患者112例，按照随机化的原则分为观察组和常规组各56例。其中，观察组男37例，女19例，年龄52～78岁，平均（57.2±5.5）岁。常规组男31例，女25例，年龄57～76岁，平均（56.3±7.8）岁。两组患者性别、年龄、教育程度、经济状况等比较差异无统计学意义（P>0.05），有可比性。   　　1.2 方法
+　　1.2.1 常规组 遵医嘱实施常规的静脉溶栓治疗后护理。
+　　1.2.2 观察组 在常规护理的基础上，按照静脉溶栓临床护理路径的时间和内容流程进行严格的动态护理，内容如下。
+　　1.2.2.1 入院第1天 （1）入院宣教：介绍病房环境、设施和设备，作息时间，陪护制度，安全规定，入院安全评估。介绍主管医生、主管护士、病区主任及护士长。（2）入院安全评估：完成“入院评估表”“预防跌倒/坠床危险因素评估”，必要时进行“压疮高危因素评估”及“危重患者风险评估”。根据评估结果实施防护措施，追踪防护措施是否有效。（3）遵医嘱测量生命体征并记录。（4）遵医嘱执行各项治疗：溶栓患者及时完善溶栓前检查（抽血、CT、床边心电图），建立两条静脉通道，评估是否需要留置胃管、尿管，需要置管者必须在溶栓前执行。更换病员服，测量体重，持续心电监护及低流量吸氧，测快速血糖，准确使用静脉溶栓药物，密切监测血压并做好记录。维持血压低于150/90 mm Hg，或遵医嘱控制血压，但避免血压过低。密切观察有无皮肤黏膜、牙龈、颅内出血；过敏性休克；意识状态及肢体功能加重等并发症的发生，备好抢救车，做好抢救准备。溶栓后绝对卧床24 h，避免不必要的注射。
+　　1.2.2.2 住院第2～7天 健康宣教：告知患者疾病的专科要点，饮食注意事项，告知患者使用药物的名称、作用、不良反应及注意事项等；指导患者正确服用口服药，并观察用药后反应；协助床上良肢位的摆放，指导康复功能训练；指导并协助患者洗漱、入厕，防止跌倒；测量生命体征并记录；根据患者情况，做好心理护理，及时安排患者完成各项辅助检查；检查患者检查结果回报情况；了解患者的大便情况，指导患者加强粗纤维饮食，多饮水，保持大便通畅。
+　　1.2.2.3 住院第8～20天 注意观察患者病情变化；测量生命体征并记录；正确执行医嘱，加强巡视液体；指导并协助患者服用口服药；指导并监督患者床上良肢位的摆放，加强康复功能锻炼；注意观察用药后反应，并告知患者自我观察的方法；指导并协助患者洗漱、入厕，防止跌倒；了解患者的大便情况，指导患者加强粗纤维饮食，多饮水，保持大便通畅。
+　　1.2.2.4 出院前1天 为患者测量生命体征；告知患者办理出院手续的流程及所需要准备的资料；出院心理辅导，指导患者出院后康复治疗及功能锻炼；告知该疾病发病的征兆和预防方法，并指导患者饮食，保持良好的生活、作息习惯等；告知出院后安全注意事项。
+　　1.2.2.5 出院当天 帮助患者办理出院手续、交费等事项；指导患者办理出院手续指导患者出院?б┑恼?确服用方法；予患者或家属出院小结，门诊病历本和疾病证明书；交代患者或家属门诊复查的时间，如有不适，随时来诊；告知患者与病区的联系方式，送患者出院至病区门口。
+　　1.3 观察指标
+　　统计两组患者入院到静脉溶栓治疗时间、平均住院费用、平均住院日天数、患者满意度、溶栓治疗成功率及静脉溶栓后并发症的发生率等临床指标。
+　　1.4 统计学处理
+　　研究数据采用SPSS 22.0软件包进行处理。计量资料以（x±s）表示，采用t检验，计数资料以率（%）表示，采用字2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　两组患者入院到静脉溶栓治疗时间、平均住院费用、平均住院日、溶栓治疗成功率及患者满意度比较，观察组优于常规组，差异有统计学意义（P<0.05），而两组静脉溶栓后并发症的发生率比较差异无统计学意义（P>0.05），见表1和表2。
+　　3 讨论
+　　急性脑梗死患者占神经科患者的大部分，临床脑梗死治疗的关键是在“时间窗”内通过使用静脉溶栓药物，如阿替普酶使得闭塞的责任血管再通，恢复血流，挽救“缺血半暗带”的缺血脑组织，改善脑组织代谢，并恢复神经功能，减轻临床症状和降低神经功能缺失[4]。对于急性脑梗死患者而言，从发病入院后到开始静脉溶栓治疗的时间，越早越好，血管再通时间越早，挽救的神经元越多，临床效果越佳[5]。同时，因为使用静脉溶栓，临床具有一定的风险和并发症。最常见的是静脉溶栓后24 h内发生症状性颅内出血[6]，这更需要细致和系统的护理。笔者的研究结果显示，应用临床护理路径组（观察组）和使用常规方法护理组（常规组）相比，在入院到静脉溶栓治疗时间、平均住院费、平均住院日天数明显要低，差异有统计学意义（P<0.05）。而观察组在溶栓治疗成功率及患者满意度高于常规组，差异有统计学意义（P<0.05）。而两组的静脉溶栓后并发症发生率比较，差异无统计学意义（P>0.05）。这些结果提示，在使用临床路径后，临床护理路径内容坚持以患者为中心，从患者入院到出院，都有着计划性、标准化的工作流程，从而减少了护士在工作中的盲目性及无效护理。通过静脉溶栓前准备、静脉溶栓中护理及静脉溶栓后护理等针对性的干预措施，全方位地保证静脉溶栓效果，在临床上取得了较好的效果。近年来，传统的医学及护理理念转变到“生物-心理-社会”医学模式[7]，临床护理路径在临床护理工作中也得到重点体现及广泛应用[8]。
+　　本研究中两组的并发症发生率比较差异无统计学意义（P>0.05），考虑与本研究的样本量偏少有关。同时，本研究还存在一些局限性，如本研究未将患者脑梗死严重程度、血压、血糖、血脂等可能影响溶栓效果等因素进行校正。本课题组拟在今后的研究中，进行更大样本量的前瞻性研究来证实本研究结果。
+　　综上，临床护理路径在急性脑梗死静脉溶栓患者中具有较好的临床效果，不仅可以提高患者的静脉溶栓成功率及满意度，还可以降低患者平均住院日和住院费用，甚至有可能降低静脉溶栓并发症发生率，从而使得患者更好更快地恢复健康，值得在临床进一步推广应用。
+
+

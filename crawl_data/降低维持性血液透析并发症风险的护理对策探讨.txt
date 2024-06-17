@@ -1,0 +1,31 @@
+
+ 　　【摘要】 目的：探讨降低维持性血液透析并发症风险的护理对策。方法：收集笔者所在医院血液透析患者90例，随机分为试验组和对照组，各45例。对照组给予常规护理，试验组给予针对性护理干预及健康教育。治疗结束后，比较患者动静脉内瘘并发症发生率、护理满意度及并发症评分情况。结果：干预后与对照组相比，试验组动静脉内瘘并发症总发生率较低，差异有统计学意义（P<0.05）；干预组总满意率较高，差异有统计学意义（P<0.05）；干预组高血压、低血压、肌肉?d挛及心力衰竭等并发症评分较高，差异有统计学意义（P<0.05）。结论：通过对维持性血液透析患者提供护理对策，能够显著降低并发症发生率，增高护理满意度。
+　　doi：10.14033/j.cnki.cfmr.2017.16.028 文献标识码 B 文章编号 1674-6805（2017）16-0052-02
+　　Nursing Strategies for Reducing the Risk of Maintenance Hemodialysis Complications/TAN Chun-mei，XU Wen-hua，KUANG Li-xia.//Chinese and Foreign Medical Research，2017，15（16）：52-53
+　　【Abstract】 Objective：To explore the nursing strategies to reduce the risk of maintenance hemodialysis complications.Method：90 cases of hemodialysis patients in the author’s hospital were randomly divided into experimental group and control group，with 45 cases of each group.The control group was given routine nursing，the experimental group was given targeted nursing intervention and health education.At the end of treatment，the incidence rate of complications，nursing satisfaction and complications were compared.Result：After intervention compared with the control group，the internal arteriovenous fistula complications occurrence rate of experimental group was lower，the difference was statistically significant（P<0.05）.The total satisfaction rate was higher，the difference was statistically significant （P<0.05）.The hypertension，hypotension，muscle spasm，heart failure and other complications were higher，the differences were statistically significant（P<0.05）.Conclusion：The nursing measures for patients with maintenance hemodialysis can significantly reduce the incidence of complications and increase the satisfaction degree of nursing.
+　　【Key words】 Maintenance hemodialysis； Complication； Nursing intervention
+　　First-author’s address：The Fifth Hospital Affiliated to Zhongshan University，Zhuhai 519000，China
+　　维持性血液透析治疗广泛应用于急性肾损伤、慢性肾功能衰竭等肾脏终末疾病[1]，借助血液透析能够改善患者尿毒症症状，使更多终末肾病患者得以存活，并有效提高患者的生活质量，但是透析治疗无法替代肾脏全部的代谢功能和内分泌功能，此类患者病史长，轻者出现皮肤干燥、骚扰等皮肤并发症[2]，重者出现由于代谢紊乱导致肝性脑病、动脉粥样硬化等严重并发症，甚至威胁患者的生命健康[3]。因此，及时发现透析过程中出现的并发症、及早采取适宜的治疗措施，能够降低死亡率。本试验为维持性血液透析患者提供护理干预以降低并发症风险，获得显著的治疗效果，报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　收集2015年8月-2016年8月在笔者所在医院治疗的90例血液透析患者，均诊断为慢性肾功能不全尿毒症，其中男52例，女38例，年龄50～79岁，平均（55.48±6.32）岁；随机分为试验组和对照组，各45例。试验组患者年龄50～75岁，平均（55.03±5.92）岁；对照组患者年龄52～79岁，平均（56.84±5.88）岁。两组一般资料比较差异无统计学意义（P>0.05）。
+　　1.2 纳入及排除标准
+　　纳入标准：诊断参考《2015 JSD治疗临床指南：维持性血液透析的起始血透》[4]，患者行血液透析，本试验经医院伦理委员会批准，患者家属签署知情同意书。排除标准：手术指证或近1年内进行重大手术；造血功能障碍等严重疾病，急慢性感染；艾滋病等传染性疾病患者；既往神经功能异常、认知功能障碍者；合并肿瘤。   　　1.3 方法
+　　1.3.1 对照组 护理人员与患者进行沟通交流，透析前行密切监测，持续性透析进行过程中观察患者脉搏、心率及血压等各项指标。术后帮助患者进行握拳练习，尽量避免术侧发力，定期更换创口敷料，确保切口的干燥和清洁，出现渗血和渗液情况时应及时进行对应处理[5]。
+　　1.3.2 试验组 （1）心理护理。患者对持续性透析的相关知识不了解，难免会出现紧张情绪影响恢复速度，因此护理人员应予以心理护理减轻患者精神负担[6]。通过交流了解患者的个人情况，建立良好的护患关系，借助画册或知识宣传海报等使患者了解血压透析的作用、方法、目的及潜在并发症风险等，树立战胜病魔的心理，主动配合医疗人员进行治疗。医护人员通过熟练的技术操作及人际沟通技巧，倾听患者治疗中出现的问题并帮助解决，以消除患者焦虑、紧张及抑郁等心理问题。尊重并鼓励患者保持乐观向上的态度应对治疗。（2）健康指导。入院前3个月内禁止患者从事剧烈运动和体力劳动，饮食方面选择富含高维生素、优质蛋白质为主的易消化食物[7]。针对肥胖患者，叮嘱其控制体重，积极参加体育锻炼，根据医嘱服用利胆消炎药物。有极小部分患者可能存在术后脂肪泻的情况，需进行饮食结构的调节，并注意个人卫生问题。（3）内瘘并发症的护理。术后48 h内禁止屈肘，维持患肢抬高状态，降低肿胀出现[8]。护理人员每日检查血管吻合口情况，确保瘘管畅通，若出现异常及时告知主治医师。选择技术熟练的护理人员进行穿刺，以预防出血，避免一个部位反复进行穿刺，拔针后应用弹力绷带进行包扎。注意患者是否存在出血情绪，治疗时尽量避免使用程序超滤，应应用均速平稳超滤，维持血压至正常水平。预防血栓方面，应避免反复穿刺至静脉壁内膜受损，并对狭窄血管进行扩张性穿刺以提高血流量。（4）饮食护理。严格执行肾病患者饮食要求，糖尿病患者予以糖尿病饮食。予以患者必须的营养和热量，避免负氮平衡，以增强机体免疫功能。限制饮水量，避免水肿，降低皮肤感染发生率[9]。
+　　1.4 观察指标
+　　两组患者进行相应的干预前后采用调查问卷的形式对患者持续性透析后容量性高血压、心力衰竭及肌肉痉挛等情况进行评价，总分100分，分数越高并发症发生越少，患者生存质量越高。发放医院自制的护理满意度调查问卷，分为满意、基本满意及不满意，并统计两组的护理满意程度。护理满意度=（满意+基本满意）/总例数×100%。
+　　1.5 统计学处理
+　　采用 SPSS 17.0软件对所得数据进行统计分析，计量资料以（x±s）表示，采用t检验；计数资料以率（%）表示，采用字2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者动静脉内瘘并发症发生率比较
+　　干预后试验组动静?}内瘘并发症总发生率为11.11%，低于对照组的53.33%，差异有统计学意义（P<0.05），见表1。
+　　2.2 两组患者护理满意程度比较
+　　干预后试验组总满意率为95.56%，高于对照组的68.89%，差异有统计学意义（P<0.05），见表2。
+　　2.3 两组患者并发症评分情况比较
+　　干预后与对照组相比，试验组高血压、低血压、肌肉痉挛及心力衰竭等并发症评分较高，差异有统计学意义（P<0.05），见表3。
+　　3 讨论
+　　提高维持性血压透析患者相应护理干预质量的首要问题，即是提高护理人员的素质，进行规范化专业培训，保证护理人员掌握良好的业务水平及业务能力，富有较强的责任心，在进行透析护理干预中及时发现治疗中出现的问题并解决问题[10]。在持续性血液透析过程中可能存在失衡综合征、高血压及心力衰竭等并发症，若不及时发现并治疗，能够威胁患者生命，导致患者死亡。因此，提供合适的护理对策尤为关键[11]。研究显示，与对照组相比，试验组动静脉内瘘并发症总发生率较低，总满意率较高，高血压、低血压、肌肉痉挛及心力衰竭等并发症评分较高，差异均有统计学意义（P<0.05）。证实大部分患者进行心理护理、健康指导等护理干预后，并发症的控制得到了解决。这说明，选择应选择正确的透析模式，并针对每位患者制订个性化的透析处方，及时掌握透析时间及脱水量，选药适当，监控患者出凝血状态，合理用药，能够显著降低并发症等意外事故的发生率。
+　　本试验通过对90例血液透析患者的动静脉内瘘并发症发生率、护理满意度及并发症评分情况进行观察，证实了通过对维持性血液透析患者提供护理对策，能够显著降低并发症发生率，提高护理满意度。
+
+

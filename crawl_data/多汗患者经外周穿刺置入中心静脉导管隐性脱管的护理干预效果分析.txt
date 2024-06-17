@@ -1,0 +1,32 @@
+
+　　[摘要] 目的 探讨多汗患者经外周穿刺置入中心静脉导管（PICC）隐性脱管的护理干预效果。 方法 选择2013年1～12月在河北医科大学第二医院呼吸一科住院并接受PICC导管留置的患者，根据随机原则将符合标准的100例患者分为两组，各50例。对照组采用PICC留置导管常规护理方法，观察组应用改变固定方式及换药频率的护理方法。观察两组患者的隐性脱管发生率、经济费用、患者护理满意度及焦虑改善情况。 结果 观察组和对照组隐性脱管总发生率（10%比28%）比较，差异有统计学意义（χ2=5.07，P < 0.05）；观察组和对照组经济费用[（996.50±48.7）比（1044.96±46.1）元]比较，差异有统计学意义（t = 4.34，P < 0.05）；观察组和对照组护理满意度（96%比52%）比较，差异有统计学意义（χ2=6.72，P < 0.05）；护理后，观察组SAS评分[（50.1±11.3）分]低于对照组[（61.8±10.5）分]（t = 11.24，P < 0.05）及护理前[（64.1±8.2）分]（t = 12.69，P < 0.05）。 结论 改变固定方式及换药频率的护理方法能明显降低多汗患者PICC隐性脱管的发生率，减少经济费用，提高患者的护理满意度及改善患者的焦虑状况，值得临床护理推广应用。
+　　[中图分类号] R473.5 [文献标识码] A [文章编号] 1673-7210（2015）06（b）-0113-03
+　　Analysis of nursing intervention effect on recessive pipe in sweaty patients with peripherally inserted central catheter
+　　YE Liyun WANG Boli LIU Yan ZHANG Lingli LI Honglin
+　　The First Department of Respiration Medicine， the Second Hospital of Hebei Medical University， Hebei Province， Shijiazhuang 050000， China
+　　[Abstract] Objective To investigate the effect of nursing intervention on recessive pipe in sweaty patients with peripherally inserted central catheter （PICC）. Methods 100 patients accepted PICC of the First Department of Respiration Medicine in the Second Hospital of Hebei Medical University from January to December 2013 were selected and randomly divided into two groups， 50 cases in each group. The control group was given PICC catheter routine nursing care， the observation group was given fixed frequency， dressing change method. Incidence rate of recessive pipe， economic cost， nursing satisfaction of patients， anxiety improvement of patients between two groups were observed. Results Total incidence rate of recessive pipe between observation group and control group （10% vs 28%） was compared， with statistical difference （χ2=5.07， P < 0.05）； the economic cost between observation group and control group [（996.50±48.7） vs （1044.96±46.1） yuan] was compared， with statistical difference （t = 4.34， P < 0.05）； nursing satisfaction between observation group and control group （96% vs 52%） was compared， with statistical difference （χ2=6.72， P < 0.05）； after nursing care， SAS score of observation group [（50.1±11.3） scores] was lower than that of control group [（61.8±10.5） scores]（t = 11.24， P < 0.05） and before nursing care [（64.1±8.2） scores]（t = 12.69，P < 0.05） respectively. Conclusion Change of fixation method and dressing frequency can significantly reduce the incidence rate of recessive pipe of PICC， reduce the cost， improve nursing satisfaction of patients and improve the anxiety of patients， it is worthy of popularization and application in clinical nursing.   　　[Key words] Peripherally inserted central catheter； Recessive pipe； Sweaty patient； Nursing intervention
+　　经外周穿刺置入中心静脉导管（peripherally inserted central catheter，PICC）是由外周静脉（贵要静脉、肘正中静脉、头静脉）穿刺插管，其尖端位于上腔静脉或锁骨下静脉的导管[1-5]。主要应用于以下情况：有缺乏外周血管通道倾向者；需长期静脉输液、反复输血或血制品者；输注刺激性强的药物，如化疗等；输注高渗性或黏稠性液体，如胃肠外营养液、脂肪乳等。在应用过程中导管脱管是最常见的并发症之一，其发生率为5%～31%[6]。PICC导管脱出严重影响导管的使用，是导管维护的难点。笔者前期研究[7]已发现，多汗患者较少汗患者更容易发生PICC导管隐性脱管，且不易被发现，关于多汗患者的PICC导管隐性脱管循证依据目前研究较少，也没有一个固定的关于隐性脱管的定义。本研究中笔者通过对观察组患者的PICC导管采取预防性护理干预措施：改变固定方法，增加换药频次，与常规换药的对照组进行比较，通过设定的护理干预措施预防隐性脱管的发生，以减少因导管脱管给患者带来的经济、心理、生理负担，并降低护理风险，避免护患纠纷，同时为临床护理实践提供循证依据。
+　　1 资料与方法
+　　1.1 一般资料
+　　选择2013年1～12月在河北医科大学第二医院（以下简称“我院”）呼吸一科住院并接受PICC导管留置的患者，均符合PICC导管留置的相关要求：插管部位均无放射治疗史、静脉血栓形成史、外伤史或血管外科手术史、皮肤损伤或过敏史等；凝血功能无异常；所有患者均为一次插管成功；穿刺部位选择肘窝下2横指处的贵要静脉、肘正中静脉或头静脉。纳入标准：根据参考文献[7]，纳入轻、中度出汗的患者进行研究（轻度出汗：躯体出汗增多，但内衣干燥；中度出汗：出汗有时浸湿内衣，但可忍受），PICC置管均1周以上。排除标准：PICC导管留置部位发生皮肤过敏症状等无法更好地应用透明敷料固定导管的患者及沟通困难、表达不清楚的患者。根据随机原则将符合标准的100例患者分为两组，即对照组和观察组，各50例。两组年龄、性别、文化水平、多汗程度及并发症发生情况等比较，差异无统计学意义（P > 0.05），具有可比性。见表1。两组患者均了解本次研究内容，且研究内容符合我院医学伦理委员会的要求。
+　　1.2 方法
+　　1.2.1 材料 PICC导管（购自山东百多安医疗器械有限公司）、3MHP型（10 cm×12 cm）透明敷贴、选用康惠尔3533型（10 cm×10 cm）水胶体敷料。
+　　1.2.2 护理干预方法 依据纳入标准将纳入的100例多汗患者分为对照组和观察组，各50例。由具有PICC导管穿刺资格的护理人员按标准方法进行PICC导管留置。对照组采用常规护理方法，每周换药1次，如果穿刺处有汗液或其他污染时则及时更换，PICC留置管采用透明敷贴进行固定。观察组改变固定方法、换药频率：患者每3天更换1次导管固定贴膜，如有汗液或其他污染时则及时更换固定敷贴，同时于近穿刺点2 cm处，在导管上透明敷贴下加贴1条长10 cm、宽1 cm的水胶体敷料；并对患者进行插管后的健康教育，以预防隐性脱管。详细记录两组患者的基本信息，如姓名、性别、床号、病案号、诊断、PICC置管时间、出汗等级、置管长度及每次更换敷料时导管的长度。
+　　1.3 观察指标
+　　观察两组患者的隐性脱管发生率、经济费用、患者护理满意度。观察时间为4周。导管脱出程度的判断：以穿刺点导管刻度为标记，脱出1～<2 cm为轻度脱出、2～<3 cm为中度脱出、≥3 cm为重度脱出[8]。
+　　1.4 焦虑评判标准
+　　采用焦虑自评量表（self-rating anxiety scale，SAS）对患者的焦虑情况进行评判。SAS标准分的分界值为50分，其中50～59分为轻度焦虑，60～69分为中度焦虑，≥70分为重度焦虑[9]。
+　　1.5 统计学方法
+　　采用SPSS 17.0统计软件对数据进行分析和处理，计量资料以均数±标准差（x±s）表示，两两比较采用t检验，计数资料采用χ2检验，以P < 0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组观察指标比较
+　　两组隐性脱管发生率比较，差异有统计学意义（χ2=5.07，P < 0.05）；两组经济费用比较，差异有统计学意义（t = 4.34，P < 0.05）；两组患者护理满意度比较，差异有统计学意义（χ2=6.72，P < 0.05）。见表2。
+　　表2 两组观察指标比较
+　　2.2 两组患者SAS评分比较
+　　两组护理前SAS评分比较，差异无统计学意义（P > 0.05）；护理后，观察组SAS评分低于对照组（t = 11.24，P < 0.05）和护理前（t = 12.69，P < 0.05）。见表3。
+　　表3 两组患者SAS评分比较（分，x±s）
+　　3 讨论
+　　PICC与外周静脉输液技术相比，大大减少了对需要长期输液患者的穿刺次数，并且明显延长了留置时间[10]。研究表明，PICC亦可缩短患者的住院天数，且更为经济、操作简单和安全[11]。随着PICC在临床中的广泛应用，发现在应用过程中较易发生导管脱管的并发症[12-13]。临床研究发现，导管脱出原因主要有导管固定方法不正确、置管后患者的防范意识不强、无菌贴膜覆盖不严、护理人员操作失误、患者带管活动意外脱管等原因[14]。明显的导管脱管易于发现，但对于多汗患者来说，较容易发生隐性脱管，且不易被发现，严重增加了护理难度及患者的心理负担[15]。关于多汗患者隐性脱管发生率高的循证医学资料较少，笔者认为，多汗患者较易发生隐性脱管可能是患者出汗较多时，敷贴容易松脱，黏附性差，导管易松动，护理人员、患者及其家属不容易发现，等到脱出较多时导管已不能使用，明显增加了患者的经济费用。因此，如何固定导管、降低导管脱出意义重大。   　　本研究对多汗患者采用及时更换导管固定贴膜的方法，每3天更换1次导管固定贴膜，以防止导管松动。研究发现，导管位置可在穿刺点周围2 cm内活动，如固定不当则较易发生脱管，尤其是上肢内收外展时导管位置容易在插管位置周围2 cm范围内发生变动。因此笔者于近穿刺点2 cm处，在导管上透明敷贴下加贴1条长10 cm、宽1 cm的水胶体敷料。因水胶体敷料具有可吸收渗液等特点，可减少敷贴松动。对于多汗患者如果不及时更换固定敷料则会产生隐性脱管的潜在危险，如果过频更换固定敷料则会增加患者的经济负担。本护理干预结果显示，隐性脱管发生率明显降低；在无菌情况下，将水胶体敷料一块剪成多块使用，可在一定程度上减少患者的经济费用；护理人员能及时对导管情况进行观察，并加以防范措施和健康教育，降低隐性脱管发生率，因此极大提高了患者的护理满意度、减轻了患者的焦虑状态。但对隐性脱管的原因及如何进行更好的护理措施需要在临床护理中进一步研究。
+　　总之，改变导管的固定方法及换药频率可明显降低多汗患者PICC隐性脱管的发生率，减少经济费用，提高患者的护理满意度及改善患者的焦虑状况，值得临床护理推广应用。
+
+

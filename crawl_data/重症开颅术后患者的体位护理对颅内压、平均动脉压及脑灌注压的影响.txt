@@ -1,0 +1,31 @@
+
+ 　　[摘要]目的 探?重症开颅术后患者的体位护理对颅内压（ICP）、平均动脉压（MAP）及脑灌注压（CPP）的影响。方法 选取2015年3月～2016年2月于我院接受开颅术治疗的重症颅脑损伤患者40例。所有患者均进行0°、10°、20°、30°以及40°体位的改变，分别比较不同体位时患者的ICP、MAP及CPP，并作相关性分析。结果 患者体位在0～40°时ICP水平呈逐渐下降趋势，差异有统计学意义（P<0.05）。患者体位在0～40°时MAP水平呈逐渐下降趋势，差异有统计学意义（P<0.05）。患者体位在0～30°时CPP水平分别为（69.7±5.5）、（70.2±4.4）、（71.1±3.9）和（74.5±3.6）mmHg，呈逐渐上升趋势，而体位在40°时患者CPP为（63.5±3.5）mmHg，显著低于0～30°时的CPP，差异均有统计学意义（t=6.015，P=0.000；t=7.537，P=0.000；t=9.173，P=0.000；t=13.856，P=0.000）。经相关性分析，体位与重症开颅术后患者ICP、MAP均呈显著负相关关系（r=0.732，P=0.000；r=0.757，P=0.000）。结论 体位护理对重症开颅术后患者的ICP、MAP以及CPP均有一定影响，其中体位为30°～40°时患者ICP与MAP水平可能存在明显下降，同时CPP水平上升，有利于患者预后。
+　　[中图分类号] R651.1 [文献标识码] A [文章编号] 1674-4721（2017）04（a）-0172-03
+　　Influence of posture nursing on intracranial pressure，mean arterial pressure and cerebral perfusion pressure in patients with critical conditions undergone craniotomy
+　　SUN Jie LIU Bing-lan LEI Yuan-hua
+　　Department of Surgery Ward Two，the Second People′s Hospital，Shenzhen Baoan People′s Hospital （Group） in Guangdong Province，Shenzhen 518108，China
+　　[Abstract]Objective To explore the influence of posture nursing on intracranial pressure （ICP），mean arterial pressure （MAP） and cerebral perfusion pressure （CPP） in patients with severe conditions undergone craniotomy.Methods A total of 40 patients with severe craniocerebral injury who were provided with craniotomy from March 2015 to February 2016 were selected.All patients were nursed in 0°，10°，20°，30° and 40° postures.The ICP， MAP and CPP were compared in different positions，and the correlation analysis was performed.Results The level of ICP was gradually decreased ranging from 0° to 40°with statistical differences （P<0.05）.The MAP level was also decreased gradually at 0° to 40°，which was displayed statistical differences （P<0.05）.The levels of CPP was （69.7±5.5），（70.2±4.4），（71.1±3.9），（74.5±3.6） mmHg were gradually increased at 0° to 30°.At 40°，the level of CPP was（63.5±3.5） mmHg，significantly lower than those at 0° to 30° with statistical differences （t=6.015，P=0.000；t=7.537，P=0.000；t=9.173，P=0.000；t=13.856，P=0.000）.By correlation analysis，posture was in great negative correlation with ICP and MAP in patients with critical conditions after craniotomy （r=0.732，P=0.000；r=0.757，P=0.000）.Conclusion Posture nursing has a certain influence on the levels of ICP，MAP，and CPP in patients with critical conditions undergone craniotomy.Among them，posture at 30°to 40°，the levels of ICP and MAP are both decreased，and CPP is in rise simultaneously，which is beneficial to patient′s prognosis.   　　[Key words]Critical condition；Posture；Intracranial pressure；Mean arterial pressure；Cerebral perfusion pressure
+　　?B脑损伤属于外科较为常见的疾病之一，该病具有病情重、复杂多变、并发症发生高、致残率高以及病死率高的特点[1]。其中大部分重症颅脑损伤患者均伴有颅内血肿以及脑出血等，需进行开颅手术治疗[2]。而开颅术后患者颅内压（intracranial pressure，ICP）、平均动脉压（mean arterial pressure，MAP）以及脑灌注压（cerebral perfusion pressure，CPP）均会出现一定的改变，且受多种因素影响，进一步会影响患者治疗及预后效果[3]，因此，对重症开颅术后患者进行有效的护理降低ICP对改善治疗效果以及预后均有重要意义。鉴于此，本文研究重症开颅术后患者的体位护理对ICP、MAP及CPP的影响，现报道如下。
+　　1 资料与方法
+　　1.1一般资料
+　　选取2015年3月～2016年2月于我院接受开颅术治疗的重症颅脑损伤患者40例。纳入标准：①所有患者给予持续有创ICP监测；②监测期间维持血压稳定。其中男23例，女17例；年龄32～67岁，平均（48.7±8.3）岁。所有患者均签署知情同意书，且经医院伦理委员会批准。
+　　1.2研究方法
+　　所有患者在开颅术后均采用美国生产的MPM-1监护仪进行有创ICP监测，使用颅骨钻孔将微型传感器置入患者颅内，并确定传感器密切接触颅脑内的蛛网膜下腔、硬脑膜下以及脑实质等部位，随后进行测量。同时，通过抬高患者床头，使其进行0°、10°、20°、30°以及40°体位的改变，并分别测定不同体位的ICP，且采用心电监护仪测定MAP，最后通过MAP减去ICP计算得出CPP。每变化一种体位则间隔5 min后进行测量，且每种体位均保证无头部侧倾、颈部过伸等异常姿势出现，保证测量的准确性。
+　　1.3观察指标
+　　对比不同体位患者的ICP、MAP以及CPP水平，并与体位作相关性分析。
+　　1.4统计学方法
+　　采用SPSS 21.0统计学软件对数据进行分析，计量资料以均数±标注差（x±s）表示，采用t检验，多组间的比较采用方差分析，计算F值，相关性分析使用Spearman法进行评价，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1 不同体位患者ICP水平的比较
+　　患者体位在0～40°时ICP水平呈逐渐下降趋势，差异有统计学意义（P<0.01）。
+　　2.2 不同体位患者MAP水平的比较
+　　患者体位在0～40°时MAP水平呈逐渐下降趋势，差异有统计学意义（P<0.01）。
+　　2.3 不同体位患者CPP水平的比较
+　　患者体位在0～30°时CPP水平分别为（69.7±5.5）、（70.2±4.4）、（71.1±3.9）和（74.5±3.6）mmHg，呈逐渐上升趋势，而体位在40°时患者CPP为（63.5±3.5）mmHg，显著低于0～30°时的CPP，差异均有统计学意义（P<0.01）。
+　　2.4 体位与重症开颅术后患者ICP、MAP相关性分析
+　　经相关性分析，体位与重症开颅术后患者ICP、MAP均呈显著负相关关系（r=0.732，P=0.000；r=0.757，P=0.000）。
+　　3 讨论
+　　在临床开颅术治疗中，患者的ICP会由多种因素通过出现病理生理性变化导致升高，从而易导致患者出现脑移位以及脑膨出等不良结果，病情严重者甚至会出现脑疝以及脑呼吸衰竭等严重并发症[4-6]。有研究报道表明，在治疗过程中ICP升高是致残、致死的主要原因，而低血压或CPP过低也会导致继发性脑损害的发生[7-8]。随着医疗水平的不断进步以及医疗器械的不断发展，ICP监测与心电监护开始普遍应用于对患者的ICP、MAP以及CPP的实时监测中。主要目的是通过对上述指标的监测，从而保证脑组织足够血供，进一步满足脑组织的氧供以及糖分需要[9-10]。但上述3种指标受多种因素所影响，其中患者的体位的影响作用较为明显。
+　　本研究结果发现，患者体位在0～40°时ICP水平呈逐渐下降趋势。这说明随着患者体位的不断升高，其ICP水平会在一定程度上降低。其中主要原因可能在于[11-12]，随着体位的不断增高，患者脑脊液顺着脊髓方向转移，从而使得脑部脑脊液容量减少，进一步改善静脉引流，导致患者脑内静脉压下降，因此，抬高患者体位是一种有效的降低ICP方法。与此同时，患者体位在0～40°时MAP水平呈逐渐下降趋势。提示随着患者体位的逐渐增高，其MAP水平会逐渐下降。究其原因，笔者认为，体位会对患者血流动力学造成直接影响，当患者从0°体位逐渐变成90°体位时，由于受重力的影响，会使得上半身30%左右的血液转移至周围静脉，从而使得其血压明显下降[13]。其中张金俏等[14]的研究报道显示，对于危重症患者，血压的稳定有利于其ICP的稳定，对临床上改善患者预后具有极其重要的意义，因此，给予重症开颅术后患者合理的体位护理是维持患者MAP在正常值范围内的关键手段。此外，有研究报道表明，单方面追求ICP的下降，可能会降低患者CPP，从而对预后效果产生一定影响[15]。这与本文结果相似，患者体位在0～30°时CPP呈逐渐上升趋势，而体位在40°时患者CPP显著降低，在30°～40°时为最佳状态。另外，本文结果通过相关性分析发现，体位与重症开颅术后患者ICP、MAP均呈显著负相关关系。这说明体位升高对患者ICP以及MAP均有显著增高作用。但在40°时患者的CPP显著下降，因此，笔者认为体位30°～40°护理更有利于重症开颅术后患者的恢复。可有效降低ICP，同时可增加CPP，避免脑供血不足等不良反应的发生。同时，本文也提示在今后的研究中，应该加大样本量，对体位进行更加精确的细分，以寻找到最佳的体位。   　　综上所述，30°～40°体位护理可有效降低患者ICP与MAP水平，同时提高脑灌注量，有利于重症开颅术后患者的康复。
+
+

@@ -1,0 +1,24 @@
+
+　　实验组手术时间、术中出血量、住院时间均优于常规组， 差异均具有统计学意义 （P<0.05）。实验组患者仅1例出现眼眶血肿， 并发症发生率为2.5%；常规组患者中出血性休克、脑脊液鼻漏各2例， 眼眶血肿4例， 并发症发生率为20.0%；实验组并发症发生率明显低于常规组， 差异有统计学意义（P<0.05）。结论 改进术前护理有利于减少全鼻窦炎术中出血量， 缩短手术时间和康复时间， 值得临床借鉴和应用推广。
+　　DOI：10.14163/j.cnki.11-5547/r.2016.32.076
+　　【Abstract】 Objective To research influencing effect by modified preoperative nursing on intraoperative hemorrhage of pansinusitis. Methods A total of 80 patients with pansinusitis were randomly divided into experimental group （received modified preoperative nursing） and conventional group （received conventional nasal nursing）， with 40 cases in each group. Comparison was made on intraoperative and postoperative condition between the two groups. Results The experimental group had operation time as （40.5±10.4） min， intraoperative bleeding volume as （121.5±5.5） ml， and hospital stay time as （5.9±0.6） d. The conventional group had operation time as （70.3±11.4） min， intraoperative bleeding volume as （264.2±6.5） ml， and hospital stay time as （12.5±2.2） d.
+　　The experimental group had all better operation time， intraoperative bleeding volume and hospital stay time than the conventional group， and the differences all had statistical significance （P<0.05）. The experimental group had 1 case with hematoma of orbit， with incidence of complications as 2.5%. The conventional group had 2 cases with hemorrhagic shock， 2 cases with cerebrospinal fluid rhinorrhea， and 4 cases with hematoma of orbit， with incidence of complications as 20.0%. The experimental group had much lower incidence of complications than the control group， and the difference had statistical significance （P<0.05）. Conclusion Modified preoperative nursing is beneficial in reducing intraoperative hemorrhage of pansinusitis， shortening operation time and recovery time. It is worth clinical reference， application and promotion.
+　　【Key words】 Pansinusitis； Preoperative nursing； Intraoperative hemorrhage
+　　全鼻?]炎属于临床耳鼻喉科常见疾病之一， 鼻塞、流鼻涕、头疼等是患者的主要症状表现， 其对患者生存质量影响较大。全鼻窦炎具有诱发因素复杂、根治率低、复发率高等特点， 主要采用功能性内窥镜鼻窦外科手术进行治疗[1-4]。本文选取本院收治的80例全鼻窦炎患者作为观察对象， 现汇报总结如下。
+　　1 资料与方法
+　　1. 1 一般资料 选取2015年5月～2016年9月本院收治的80例全鼻窦炎患者作为观察对象， 按照硬币法随机分为实验组和常规组， 各40例。实验组男23例， 女17例， 年龄24～65岁， 平均年龄（43.6±7.3）岁；病程3～8年， 平均病程（3.6±1.7）年；常规组男22例， 女18例， 年龄25～67岁， 平均年龄（45.4±7.5）岁；病程3～7年， 平均病程（3.8±1.6）年。两组患者的一般资料比较， 差异无统计学意义（P>0.05）， 具有可比性。   　　1. 2 方法
+　　1. 2. 1 术前准备工作 所有患者入院后在门诊接受有关检查， 医护人员对其进行心理干预和护理指导， 立即安排手术。术前30 min内给予患者0.5 mg阿托品、0.1 g鲁米那钠行肌内注射；手术室护士将患者迎入手术室之后立即给予100 mg杜冷丁行肌内注射， 术中对患者血压进行监测， 确保血压维持在正常值范围内[5， 6]。采用相同的手术方法并由职称在副主任医师以上级别的人员为两组患者进行手术， 手术步骤如下：首先充分开放全鼻窦， 将病变消除并保留有关结构， 在保存黏膜的基础上确保通气和引流无碍， 最后按照功能性内窥镜鼻窦外科手术的方式加以治疗。
+　　1. 2. 2 实验组 给予改进术前护理， 严格遵医嘱予以8万U庆大霉素、5 mg地塞米松、0.5 ml浓度为1%的麻黄素液、30 ml生理盐水的混合液行鼻腔超声雾化吸入处理， 30 min/次， 2次/d， 连续治疗3 d。需要注意的是， 进行超声雾化吸入之前， 需要对鼻周、鼻前庭进行擦拭消毒， 采用浓度为75%酒精棉签处理即可， 连续进行3次， 然后对鼻腔采用浓度为2.8%的高渗盐水冲洗[7]， 确保鼻腔通气程度得以增加。静脉注射5 mg地塞米松、3 g头孢呋辛， 2次/d。超声雾化吸入治疗前后需要对患者血压进行监测。
+　　1. 2. 3 常规组 给予常规鼻科护理， 患者在门诊时， 即给予5 mg地塞米松、3 g头孢呋辛进行静脉注射， 连续治疗7 d， 2次/d。对鼻周、鼻前庭后进行消毒处理， 采用200 ml生理盐水对鼻腔进行冲洗， 2次/d。采用64 μg布地奈德对双侧鼻腔进行喷雾处理[8]， 2次/d， 早、晚各喷1次即可。
+　　1. 3 观察指标 观察并记录两组患者的手术时间、术中出血量， 对其术后是否出现出血性休克、脑脊液鼻漏、眼眶血肿等并发症进行判定， 并对其术后住院时间进行记录。
+　　1. 4 统计学方法 采用SPSS22.0统计学软件进行统计分析。计量资料以均数±标准差（ x-±s）表示， 采用t检验；计数资料以率（%）表示， 采用χ2检验。P<0.05表示差异具有统计学意义。
+　　2 结果
+　　2. 1 两组患者手术时间、术中出血量、住院时间对比 实验组手术时间为（40.5±10.4）min， 术中出血量为（121.5±5.5）ml， 住院时间为（5.9±0.6）d；常规组手术时间为（70.3±11.4）min， 术中出血量为（264.2±6.5）ml， 住院时间为（12.5±2.2）d；实验组手术时间、术中出血量、住院时间均优于常规组， 差异均具有统计学意义 （P<0.05）。
+　　2. 2 两组患者并发症发生情况对比 实验组患者仅1例出现眼眶血肿， 并发症发生率为2.5%；常规组患者中出血性休克、脑脊液鼻漏各2例， 眼眶血肿4例， 并发症发生率为20.0%；实验组并发症发生率明显低于常规组， 差异有统计学意义（P<0.05）。
+　　3 讨论
+　　全鼻窦炎在临床中非常多见， 其在很大程度上影响患者的身心健康和生活质量。功能性内窥镜鼻窦外科手术是临床治疗该病的常用方法， 其不仅可以促使鼻窦、鼻腔通气引流得到改善， 还能尽快吸收鼻窦黏膜炎症， 恢复其正常功能[9-12]。然而， 大多数全鼻窦炎患者的病程都比较长， 再加上鼻腔、鼻窦黏膜的炎症性变化， 导致炎性细胞浸润、新生血管不断增多， 所以术中存在广泛出血的情况， 常规肾上腺素止血处理效果并不理想。术中出血会影响手术视野， 也会延长手术用时， 甚至增加术后并发症的危险性， 故改进术前护理非常关键。
+　　术前指导患者通过超声雾化的方式充分吸入地塞米松、庆大霉素、麻黄素三种药物的混合液， 可促进鼻黏膜血管收缩， 发挥抗炎、抗感染的治疗作用， 从而减少和控制术中出血。需要注意的是[13-16]：①应用地塞米松、麻黄素等药物时会导致患者血压有所升高， 但3 h后即可恢复正常， 所以必须对患者进行严密监测， 若有必要可遵医嘱应用降压药物；②庆大霉素的肾毒性和耳毒性作用较强， 需明确其禁忌证；③术前3 d必须做好相应的护理干预， 这是术前改进护理必不可少的内容。
+　　本次研究结果显示， 实验组手术时间为（40.5±10.4）min， 术中出血量为（121.5±5.5）ml， 住院时间为（5.9±0.6）d；常规组手术时间为（70.3±11.4）min， 术中出血量为（264.2±6.5）ml， 住院时间为（12.5±2.2）d；实验组手术时间、术中出血量、住院时间均优于常规组， 差异均具有统计学意义 （P<0.05）。实验组患者仅1例出现眼眶血肿， 并?l症发生率为2.5%；常规组患者中出血性休克、脑脊液鼻漏各2例， 眼眶血肿4例， 并发症发生率为20.0%；实验组并发症发生率明显低于常规组， 差异有统计学意义（P<0.05）。
+　　综上所述， 改进术前护理有利于减少全鼻窦炎术中出血量， 缩短手术时间和康复时间， 值得临床借鉴和应用推广。
+
+

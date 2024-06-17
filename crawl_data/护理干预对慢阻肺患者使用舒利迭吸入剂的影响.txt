@@ -1,0 +1,33 @@
+
+　　[摘要] 目的 探究护理干预对慢性阻塞性肺疾病（COPD）患者使用舒利迭吸入剂的影响。 方法 选取我院呼吸内科2010年1月～2012年1月期间收治的COPD患者80例分为观察组和对照组，每组40例，两组患者均接受舒利迭吸入剂治疗，在此基础上观察组由专职护士给予护理干预。比较两组患者吸入方法的掌握情况、COPD急性发作率以及生活质量（quality of life，QOL）评分，评价干预措施对治疗的影响。 结果 观察组吸入方法的正确掌握率明显高于对照组，而COPD急性发作率显著低于对照组，观察组心理功能、躯体功能和社会功能的评分都高于对照组，差异均具有统计学意义（P<0.05）。 结论 对COPD患者的护理干预可提高舒利迭的正确使用率和患者自我管理依从性，改善患者病情，降低急性发作率，提高患者的生活质量，效果显著。
+　　[中图分类号] R587.2 [文献标识码] B [文章编号] 1673-9701（2014）32-0087-03
+　　Influence of seretide inhalanttherapeutic effect of chronic obstructive pulmonary disease patient with nursing intervention
+　　WU Lingli
+　　The First People's Hospital of Fuzhou City in Jiangxi Province， Fuzhou 344400， China
+　　[Abstract] Objective To explore the influence of seretideinhalant therapeutic effect of chronic obstructive pulmonary disease patient with nursing intervention. Methods From January 2010 to January 2012， 80 patients diagnosed with chronic obstructive pulmonary disease（COPD） from the Respiratory Medicine Department of author's hospital were randomly selected as the research object， divided them into the observation group（n=40） and the control group （n=40）. Both two groups received regular guidance about inhalant treatment of seretide. And on this basis， theobservation group took nursing intervention provided by specific-duty nurses. The influences of nursing intervention were measured by comparing mastery condition of inhaling method， exacerbation rates of COPD and quality of living （QOL） evaluation respectively for the two groups. Results The rate of correct mastery of inhaling method of observation group was significantly higher than that of control group， while the exacerbation rate of COPD was lower than control group. The grades of mental function， physical function as well as social function of observation group were all higher than control group and had significant differences（P<0.05）. Conclusion Nursing intervention for patients with chronic obstructive pulmonary disease increase correct usage of seretide and compliance of self management， it can improve symptoms and decrease incidence rate ofacute episodes. At last heighten patients' live quality that worth clinical popularization.
+　　[Key words] Chronic obstructive pulmonary disease； Seretide inhalant； Nursing intervention； Follow-up observation
+　　慢性阻塞性肺疾病（COPD）是以反复咳嗽、咳痰、呼吸急促以及困难等为主要表现的慢性支气管炎和（或）肺气肿，该病常常是以气流受阻、具有可逆性以及伴有气道高反应性为主要特征[1]。COPD可造成巨大的社会经济负担。有研究显示，至2020年， COPD将成为世界疾病经济负担的第 5 位[2]。临床上一般为此类患者进行抗炎治疗，舒利迭吸入剂是一种沙美特罗和丙酸氟替卡松混合制剂，能缓解支气管痉挛、减轻炎症。本研究选取COPD稳定期患者作为研究对象，给予舒利迭吸入剂治疗，并予以观察组护理干预，观察护理干预在治疗中的作用。   　　1 资料与方法
+　　1.1 一般资料
+　　病例来源于我科2010年1月～2012年1月收治的COPD患者80例，分为观察组和对照组各40例。纳入标准：①符合2007年COPD全球倡议诊断标准[3]；②一个月内未发生急性加重发作；③两周内未使用糖皮质激素；④48 h内未使用长效或短效支气管扩张剂。排除标准：①患者心肝肾脑等重要脏器功能不全；②精神失常及神志不清者；③不能按要求随访者。观察组男26例，女14例；年龄47～70岁，平均（56.5±6.2）岁；病程4～17年，平均（11.2±4.6）年。对照组男28例，女12例；年龄53～72岁，平均（58.3±7.4）岁；病程6～15年，平均（10.4±5.3）年。两组性别、年龄、病程等一般资料差异无统计学意义（P>0.05）。
+　　1.2方法
+　　两组均给予 COPD 舒利迭吸入剂（药名：舒利迭，厂家：Glaxo Operations UK Limited，规格：50 μg/250 μg 60泡，国药准字号： H20090241）治疗的常规护理，即按疾病护理常规进行药物治疗、病情观察和一般护理干预。观察组在此基础上给予特殊护理指导，即通过专职护士应用药物模具，给予训练、讲解、动作演示，教会患者正确使用吸入剂，并针对吸入气体的方法、口含嘴的包裹、准纳器使用等过程给予护理干预，教会患者掌握操作要点、有关药理知识，出院全程跟踪、指导，提高吸入剂使用的正确率及依从性。两组患者出院后均嘱定期复诊，半年后评估患者情况。
+　　1.3评价指标[4]
+　　①发药1周后及患者出院时，评估患者掌握吸入方法的情况。②患者自觉以咳嗽、咳痰、胸闷、气促症状其中一项或几项明显加重为急性发作，统计两组患者在6个月的随访中急性发作的次数。③采用生活质量评价量表（QOL），通过问卷调查对包括躯体功能、心理功能、社会功能和物质生活四个维度进行评分，得分越高说明生活质量越高。
+　　1.4统计学处理
+　　采用SPSS 20.0软件进行统计学分析，对所有计量资料进行正态分布检验，符合正态分布的以均数±标准差（x±s）表示，组间比较采用t检验；计数资料采用χ2检验。P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1吸入方法掌握情况
+　　比较观察组和对照组在发药后1周和出院时的用药正确率情况（表1），差异均有统计学意义（P<0.05），观察组的使用方法掌握程度高于对照组。
+　　2.2急性发作情况
+　　在6个月的随访期间，观察组7例患者发生COPD急性发作，对照组16例患者发生急性发作，观察组患者COPD急性发生率（17.5%）低于对照组（40.0%），存在显著性差异（χ2=4.942，P=0.026）。
+　　2.3生活质量评分（QOL）
+　　采用生活质量测评表对两组患者生活质量进行评估，结果见表2。观察组患者在躯体功能、生理功能及社会功能上评分均高于对照组，差异具有显著性（P<0.05）。而在物质生活方面两者的差异无统计学意义（P>0.05）。
+　　表2 观察组和对照组患者生活质量评分比较（x±s，n=40）
+　　注：与对照组比较具有统计学意义（cP<0.05）
+　　3 讨论
+　　COPD是呼吸系统疾病常见病、多发病，易反复发作，给患者行吸入剂治疗是常规方案之一[5]。COPD治疗指南建议：重度及极重度COPD患者应长期使用长效支气管舒张剂，以减轻症状及急性加重的风险，但临床上吸入剂品种繁多，患者不能熟练掌握吸入剂的操作要点及相关知识，造成药物浪费，吸入剂只进入患者的口腔中，没有吸入气管中，达不到预期效果，出院后因缺乏指导与监管，而不能坚持规范治疗，易复发，从而增加其住院次数[6]。舒利迭吸入剂是一种新型的糖皮质激素和吸入型长效β2受体激动剂，是利用呼吸道可吸入的独特性质，将药物吸入呼吸道和肺泡来治疗疾病的一种方法，可使药物直接作用于支气管的病变部位，与口服、针剂疗法相比具有用药少、见效快、不良反应少、无创伤性和使用方便等优点[7]。该药已作为可逆性气道阻塞性疾病的常规治疗选择在临床上获得了广泛的应用。若患者能正确、规范使用，则能显著改善患者肺功能，明显控制咳嗽、咳痰、气促等症状，提高其生活质量。
+　　本研究通过对80例使用舒利迭吸入剂治疗的COPD稳定期患者进行护理干预，探究其对治疗效果的影响。结果显示，进行护理干预的患者在用药后1周及出院时正确使用吸入剂的比例明显高于对照组（χ2=4.178、8.658，P<0.05）。研究表明正确使用吸入剂可使高达35.3%的药粒沉积分布于肺内，不正确使用肺内沉积量及治疗效果则大大降低[8]。说明护理干预对药剂的正确使用以及获得预期疗效有重要意义，这需要医护人员提高自身业务水平，做好COPD患者用药的指导工作，特别是对于老年患者或文化程度低的患者需强化吸入剂的使用教育，反复纠正，以提高患者使用的正确性和有效性。
+　　目前我国COPD患者对疾病认知缺乏、生理功能减退、心理脆弱以致不能有效应对疾病的危险因素使患者发生病情急性加重甚至呼吸衰竭危及生命[9，10]，本研究中在COPD急性发作的发生率上，观察组明显低于对照组，差异有统计学意义（P<0.05），说明COPD 患者的教育和管理是COPD防治工作中不可缺少的重要部分。医护人员在进行护理干预时应向患者灌输疾病的相关知识，提高患者对自身病情的认知能力，使其认识急性期与稳定期治疗的重要性，积极主动地配合治疗，提高依从性，从而控制病情，减少复发，降低病死率。
+　　生活质量评分是生理-心理-社会医学模式的综合性指标，从该评分结果来看，观察组在心理功能、躯体功能和社会功能上的评分均高于对照组（P<0.05），但是在物质生活方面两者的差异不具有显著性（P>0.05）。表明通过护理干预不仅可以指导患者正确地使用舒利迭吸入剂提高疗效，使患者的躯体功能得到改善；并且通过建立良好的医患关系，做好患者的心理疏导工作，增强患者对抗疾病的信心，感受到来自家庭、社会的支持，使患者在心理功能和社会功能上也较之前有所提高。   　　综上所述，通过护理干预对COPD患者使用舒利迭治疗进行指导，可以提高患者对疾病的认识和吸入剂的正确使用率，改善患者肺功能，减少疾病的急性发作，从各方面提高了患者的生活质量。本研究证实护理干预取得了较优的临床效果，有重要的社会价值，值得临床推广应用。
+
+

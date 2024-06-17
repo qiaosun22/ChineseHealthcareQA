@@ -1,0 +1,27 @@
+
+ 　　[摘要]目的 研究颅内动脉瘤介入手术治疗的患者采用护理干预方式进行护理对患者术后的影响，探讨护理干预在预防并发症中的作用。方法 选取2013年3月～2016年3月我院收治的106例颅内动脉瘤患者作为研究对象，所有患者均采用介入手术治疗，按随机数字表法分为两组，每组各53例。常规组患者术后进行常规护理，干预组患者术后进行护理干预。比较两组患者的心理状态、生活质量、护理满意度以及并发症情况。结果 护理前，两组患者的SAS、SDS以及ADL评分比较，差异无统计学意义（P>0.05）；护理后，干预组患者的SAS以及SDS评分均低于对照组，ADL评分高于对照组，差异有统计学意义（P<0.05）。干预组患者对护理的满意度（94.34%）明显高于常规组（79.25%），差异有统计学意义（P<0.05）。干预组患者并发症发生率（5.66%）明显低于常规组（22.64%），差异有统计学意义（P<0.05）。结论 护理干预可促进颅内动脉瘤介入手术患者的恢复，改善患者心理状态和生活质量，降低并发症发生率，提高患者满意度，值得临床应用及推广。
+　　[中图分类号] R473.6 [文献标识码] A [文章编号] 1674-4721（2017）10（a）-0194-03
+　　[Abstract]Objective To explore the clinical effect of nursing intervention in the prevention of complications after the intervention therapy of intracranial aneurysm.Methods 106 patients with intracranial aneurysm treated in our hospital from March 2013 to March 2016 were selected as subjects.All patients were treated with interventional surgery and were randomly divided into two groups according to the random number table method，53 cases in each group.The conventional group adopted the conventional nursing care，the intervention group adopted the nursing intervention.The psychological state，quality of life，nursing satisfaction and complications for two groups were compared.Results Before intervention，the the SAS，SDS and ADL scores between two groups were compared，and the difference was not statistically significant （P>0.05）.After intervention，the SAS and SDS scores of intervention group were lower than those in the conventional group，the ADL scores were higher than that in the conventional group，and the differences were statistically significant （P<0.05）.The nursing satisfaction of intervention group （94.34%） were higher than that in the conventional group （79.25%），and the differences were statistically significant （P<0.05）.The incidence of complications in the intervention group （5.66%） was significantly lower than that in the conventional group （22.64%），and the difference was statistically significant （P<0.05）.Conclusion After the intervention therapy of intracranial aneurysm，the nursing intervention can promote the patient′s fast recovery，improve their psychological state and quality of life，reduce the incidence rate of complications and enhance the patient′s clinical satisfaction.It is worthy of clinical application and promotion.
+　　[Key words]Nursing intervention；Intracranial aneurysm；Intervention therapy；Complications
+　　?B内动脉瘤是临床上较为常见的脑部肿瘤，主要指颅内动脉壁上出现瘤样突起，动脉血管发生病变[1]的一种疾病。颅内动脉瘤起病急、发展快、致死率高，因此早期治疗是关键[2]。据临床数据显示[3]，约1/3颅内动脉瘤患者由于瘤体破裂而直接死亡，若发生二次出血，死亡率高达80%，严重威胁患者的生命安全。随着介入治疗的不断发展，目前临床上以介入手术作为治疗颅内动脉瘤的最佳方式，但术后容易出现不同程度的功能障碍及并发症，若不进行有效的护理干预，预后不够理想[4-5]。本研究选取我院收治的106例颅内动脉瘤患者作为研究对象，探讨护理干预对患者术后的影响，现报道如下。   　　1资料与方法
+　　1.1一般资料
+　　选取2013年3月～2016年3月我院收治的106例颅内动脉瘤患者作为研究对象，本研究经我院医学伦理委员会批准通过。纳入标准：①经颅内动脉血管造影检查符合颅内动脉瘤诊断标准[6]的患者；②符合介入治疗手术指征的患者；③自愿参加本次研究的患者。排除标准：①有介入治疗禁忌症的患者；②复发性颅内动脉瘤患者；③合并其他严重疾病对研究有影响的患者。按随机数字表法将其分为两组，每组各53例。常规组男29例，女24例；年龄42～76岁，平均年龄（58.4±4.5）岁；肿瘤部位：前交通动脉27例，后交通动脉12例，大脑中动脉9例，椎动脉5例。干预组男30例，女23例；年龄40～79岁，平均年龄（58.6±4.8）岁；肿瘤部位：前交通动脉28例，后交通动脉10例，大脑中动脉10例，椎动脉5例。两组一般资料比较，差异无统计学意义（P>0.05），具有可比性。
+　　1.2方法
+　　常规组患者采用常规护理，包括低脂、维生素饮食，保持大便通畅，患者禁烟禁酒，注意保温。合并慢性疾病患者应针对性给予内科治疗，排尿困难者留置导尿管。术后观察患者下肢皮肤温度、颜色等，防止形成深静脉血栓。干预组患者在上述基础上给于早期护理干预。包括：①术后监控。术后密切观察患者中心静脉压、脉搏、血压等情况，出?F静脉压下降或引流管有血液流出时，考虑可能出现术后出血，及时采取相应措施。同时观察胃肠减压引流的流量、颜色等，适当采用胃黏膜保护剂保护胃黏膜。术后留置导尿管并观察24 h尿量，每天检测肾功能，防止尿路感染。②预防肺部感染。术后监控患者肺功能，及时采用雾化吸入的方式进行排痰，鼓励患者多翻身，协助扣背排痰。③出院指导。出院时叮嘱患者多休息，防止疲劳过度，避免情绪激动，保持良好心态。避免进食刺激性食物，保障睡眠充足，避免剧烈运动，并按时服药，每个月来院复查等。
+　　1.3观察指标
+　　观察两组患者的心理状态、生活质量、护理满意度以及并发症情况。采用焦虑自评量表（SAS）、抑郁自评量表（SDS）对患者心理状态进行评估[7-8]，正常：<50分（<53分）；轻度焦虑（抑郁）：50～59分（53～62分）；中度焦虑（抑郁）：60～69分（63～72分）；重度焦虑（抑郁）：≥70分（>72分）。采用日常生活质量量表（ADL）评估患者生活质量情况[9]，满分100分，分值越高，生活质量越好。自制满意度调查量表评估患者满意度，满分100分，满意：≥90分；一般：80～89分；不满意：<80分。满意度=（满意+一般）例数/总例数×100%。
+　　1.4统计学方法
+　　采用SPSS 18.0统计学软件进行数据分析，计量资料用均数±标准差（x±s）表示，两组间比较采用t检验；计数资料采用率表示，组间比较采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1两组患者心理状态及生活质量评分的比较
+　　护理前，两组患者的SAS、SDS以及ADL评分比较，差异无统计学意义（P>0.05）；护理后，干预组患者的SAS以及SDS评分均低于对照组，ADL评分高于对照组，差异有统计学意义（P<0.05）（表1）。
+　　2.2两组患者护理满意度的比较
+　　干预组患者的护理满意度明显高于常规组，差异有统计学意义（P<0.05）（表2）。
+　　2.3两组患者并发症情况的比较
+　　干预组患者的并发症发生率明显低于常规组，差异有统计学意义（P<0.05）（表3）。
+　　3讨论
+　　颅内动脉瘤是临床常见的颅脑血管疾病，在患者出现情绪激动、疲劳、暴躁等情绪时，血压骤然升高，容易导致瘤体破裂，造成脑出血，威胁患者生命安全[10]。临床上对颅内动脉瘤的发病机制尚未完全明确，多数学者认为与感染、创伤、先天性因素有关[11-12]。虽然目前临床上采用介入治疗效果较好，但术后较多发生的并发症、不良事件严重影响患者预后情况。
+　　据研究结果提示[13]，颅内动脉瘤介入治疗患者术后实施常规护理虽然能保障患者日常的饮食，监控病情的变化，但最终结果仍然有所欠缺。早期护理干预可有效预防并发症的发生，监控病情变化情况，从而配合医生进行抢救。尤其在术后对患者进行护理干预，可巩固治疗效果，降低病情恶化，促进患者恢复[14-15]。本研究对我院颅内动脉瘤介入治疗术后的患者进行研究，结果提示，护理后干预组SAS、SDS以及ADL评分均明显高于常规组，差异有统计学意义（P<0.05），提示护理干预通过有效的心理干预，从而明显改善患者心理状态，降低抑郁、焦虑评分，提高患者生活质量，起到促进患者恢复的作用。两组患者并发症发生率比较，干预组患者并发症发生率仅为5.66%，明显低于常规组的22.64%，差异有统计学意义（P<0.05），提示通过护理干预，每天给予患者排痰、导尿、心理指导、观察病情等，可以有效观察病情的变化，预防并发症的发生。术后出院指导也使护理得到延续，从而促进患者的预后。干预组患者满意度高达94.34%，明显高于常规组的79.25%，差异有统计学意义（P<0.05），也进一步提示护理干预更符合患者的需求。
+　　综上所述，护理干预可促进颅内动脉瘤介入手术患者的恢复，改善患者心理状态和生活质量，降低并发症发生率，提高患者满意度，值得临床应用及推广。
+
+

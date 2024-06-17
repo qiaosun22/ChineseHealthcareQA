@@ -1,0 +1,28 @@
+
+ 　　【摘要】 目的 分析优质护理在消毒供应中心的效果。方法 本院2015年1～6月采取常规护理方法工作， 2015年7～12月开展优质护理， 随机各抽取40000件消毒灭菌物品进行检查， 比较实施优质护理前后工作人员工作压力、医疗器械处理合格率、手术室及各科室满意率情况。结果 工作人员优质护理实施后的工作压力评分（55.6±6.2）分显著低于实施前的（66.4±3.7）分， 差异具有统计学意义（t=6.691， P<0.05）。优质护理实施后清洗、分类方面合格率显著高于实施前（χ2=1942.407、1760.555， P<0.05）， 而包装、灭菌合格率较实施前差异无统计学意义（χ2=2.272、0.257， P>0.05）。优质护理实施后， 病房、门诊等180名医院工作人员满意度（99.4%）较实施前（92.8%）显著提高， 差异具有统计学意义（χ2=10.702， P<0.05）。结论 在消毒供应中心实施优质护理效果显著， 可提高工作人员工作效率和临床各科室满意率， 建议推广使用。
+　　DOI：10.14163/j.cnki.11-5547/r.2016.34.089
+　　Analysis of application effect by high quality nursing in disinfection supply center HOU Yun-xiang， LIN Hai-hua， YANG Jing-jing， et al. Disinfection Supply Center， Shenzhen City Third People’s Hospital， Shenzhen 518112， China
+　　【Abstract】 Objective To analyze effect by high quality nursing in disinfection supply center. Methods During January～June 2015， our hospital conducted conventional nursing， followed by high quality nursing during July～December 2015. A total of 40000 sterilization materials were randomly selected for examination. Comparison was made on staff pressure， qualified rate of medical equipment management， and satisfaction degree of operating room and other departments before and after implement of high qualitynursing. Results After high quality nursing， staff pressure score was much lower as （55.6±6.2） points than （66.4±3.7） points before， and the difference had statistical significance （t=6.691， P<0.05）. After high quality nursing， qualified rates ofcleaning and classification were obviously higher than those before （χ2=1942.407， 1760.555， P<0.05）， while the difference inqualified rates ofpackaging and sterilization had no statistical significance（χ2=2.272， 0.257， P>0.05）. After high quality nursing， satisfaction degree by 180 medical staff in ward and outpatient department （99.4%）was much higher than that before implement of high quality nursing （92.8%）， and the difference had statistical significance （χ2=10.702， P<0.05）. Conclusion Implement of high quality nursing in disinfection supply center shows excellent effect. This method can improve work efficiency and satisfaction degree in clinical departments， and it is recommended for promotion and application.
+　　【Key words】 High quality nursing； Disinfection supply
+　　消毒供??中心是为医院提供无菌医疗器械的场所， 是污染医疗用品的集中处理点[1]， 质量好坏直接影响院内感染预防工作、临床护理质量、医院是否损失及患者的安危， 故规范、管理、控制消毒供应中心的日常工作为临床护理工作的重中之重[2]。本院在消毒供应中心推行了优质护理活动， 取得了一定研究成果。报告如下。
+　　1 资料与方法
+　　1. 1 一般资料 选取2015年1～12月在本中心20名工作人员， 年龄22～52岁， 平均年龄（40±6.6）岁， 均具有职业资格证和特殊工种合格证。本中心在2015年1～6月采取常规护理方法工作， 2015年7～12月开展优质护理， 随机各抽取40000件消毒灭菌物品物品进行检查。   　　1. 2 方法 本中心2015年1～6月采取常规护理方法工作， 2015年7～12月开展优质护理， 具体优质护理方法如下。
+　　1. 2. 1 开展学习， 树立“以患者为中心”的优质护理理念， 对各层次人员进行分类培训， 提高其理论知识水平及实践能力， 巩固理论和专业知识， 提高专科技能水平， 学习更好地合作沟通， 提升对本工作价值意识。
+　　1. 2. 2 制定科学化工作流程， 依据新的《医院消毒供应中心管理规范》、《医院消毒供应中心清洗消毒及灭菌技术操作规范》、《医院消毒供应中心清洗消毒及灭菌效果监测标准》、《医院消毒供应中心技术操作规程》等文件， 将工作由程序化、标准化转变为规范化， 事后处理转变为事前管理， 修订质量管理系统， 落实人员岗位职责， 优化工作流程及设备操作规范等。
+　　1. 2. 3 合理排班， 每个区设组长1名， 保证工作质量， 积极有效地调度工作人员工作时间， 必要时适当增加工作人员， 合理安排其休息， 更快、更高效的保证手术器械供应， 减少其周转时间， 保证消毒和灭菌设备的合理运转。
+　　1. 2. 4 了解各科室器械性能、结构及使用方式， 按使用顺序摆放消毒灭菌物品， 以表格形式对各个部门物品进行分类， 避免相互混淆， 提供人性化服务。
+　　1. 2. 5 对每个操作环节都制定详细的质量评价标准， 并保证为所有人员熟知， 把控每个环节的质量控制， 所有医疗物品必须经处理达标后才可以进入下一环节， 对于未达标的要重新处理至达标为止。
+　　1. 2. 6 制定完善的岗位制度、操作流程及质控管理目标， 需在问题发生前进行预防， 严格按照国家标准， 对消毒灭菌用品进行质量检查， 保证质量。
+　　1. 3 观察指标及评定标准 由参加本研究的工作人员填写Beck-Srivaatava压力量表， 该表由46个项目组成， 选项分为0、1、2、3共四个档位， 总分138分， ≤35分为轻度压力、36～70分为中度压力、71～138分为重度压力。统计优质护理服务实施前后清洗、分类、包装和灭菌的合格率， 且分别从手术室、门诊和病房随机各抽取60名（共180名）工作人员进行满意率调查。
+　　1. 4 统计学方法 采用SPSS17.0统计学软件对数据进行统计分析。计量资料以均数±标准差（ x-±s）表示， 采用t检验；计数资料以率（%）表示， 采用χ2检验。P<0.05表示差异具有统计学意义。
+　　2 结果
+　　2. 1 实施优质护理前后工作人员的工作压力情况比较 工作人员优质护理实施后的工作压力评分显著低于实施前， 差异具有统计学意义（t=6.691， P<0.05）。见表1。
+　　2. 2 实施优质护理前后清洗、分类、包装、灭菌情况比较 优质护理实施后清洗、分类方面合格率显著高于实施前（χ2=1942.407、1760.555， P<0.05）， 而包?b、灭菌合格率较实施前差异无统计学意义（χ2=2.272、0.257， P>0.05）。见表2。
+　　2. 3 180名医院工作人员实施优质护理前后满意情况比较 优质护理实施后， 病房、门诊等180名医院工作人员满意度较实施前显著提高， 差异具有统计学意义（χ2=10.702， P<0.05）。见表3。
+　　3 讨论
+　　消毒供应中心承担着全院器械的清洗、消毒、包装、灭菌及供应， 品种多且杂， 涉及科室广且需较快运转速度， 其服务质量与患者生命安全有着密切的关系须高度重视[3-6]， 常规护理下消毒供应中心的消毒情况存在一定的漏洞[7]。优质护理指在基础护理的基础之上进一步深化护理内涵， 使护理服务更加专业化[8-13]。实施优质服务建立科学合理的管理体制 实施优质服务活动， 建立科学合理的管理体制， 体现消毒供应中心应有的地位和特殊服务价值， 有利于合理调配护理人力、物力资源和统一规范服务程序和标准[14-18]。提高医院护理服务的质量需要改变消毒供应中心工作理念， 以优质护理服务模式作为护理的主要模式。
+　　护理部对消毒供应中心也表示理解与支持， 此举同样影响优质护理服务的顺利进行， 由本科牵头召开护理部主持的全体会议， 将开展优质护理服务的目的、范围、方法以报告形式宣讲， 争取科室人员的理解与支持， 使本科室优质护理服务试点工作得到顺利开展。
+　　综合以上工作， 降低了工作人员的工作压力， 提高了各科室对消毒供应的满意度， 所有物品清洗、分类、包装、灭菌合格率均得到提高。其中清洗、分类与包装在实施优质护理后合格率显著高于实施前（P<0.05）。灭菌方面因原本合格率已有99.95%， 提升空间有限， 且实施优质护理后合格率达到99.96%。
+　　综上所述， 消毒供应中心开展优质护理可有效提高护理人员的工作效率和工作质量， 保证医疗器械质量安全， 降低不良事件的发生， 提升消毒供应中心的服务品质， 对于保证患者治疗安全和临床疗效具有重要意义， 值得推广。
+
+

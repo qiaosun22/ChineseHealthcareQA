@@ -1,0 +1,23 @@
+
+　　[摘要] 目的 比较不同护理方式对慢性肾功能衰竭患者情绪的影响。 方法 选择该院收治的60例慢性肾功能衰竭患者，随机均分为对照组（常规护理）和观察组（综合护理）。使用SDS、SAS和SCL-90评分对两组患者的情绪状况进行评定。 结果观察组患者SDS和SAS评分均优于对照组，两组比较差异有统计学意义（P<0.05）；除“敌意”和“恐怖”两项外，观察组SCL-90评分均显著高于对照组，差异有统计学意义（P<0.05）。 结论 综合护理可显著改善慢性肾功能衰竭患者的焦虑和抑郁等不良情绪，有利于提高治疗效果和生存质量。
+　　[中图分类号] R472 [文献标识码] A [文章编号] 1674-0742（2014）05（a）-0161-02
+　　[Abstract] Objective To compare the effect of different care approaches on the mood of patients with chronic renal failure. Methods 60 cases of patients with chronic renal failure treated in our hospital were randomly divided into the control group （routine nursing） and the observation group （integrated nursing）. SDS， SAS and SCL-90 scores were used to evaluate the emotional status of the patients. Results The SDS and SAS scores of the observation group were significantly better than those of the control group， the differences were statistically significant （P<0.05）. Except "hostility" and "terror" these two items， the SCL-90 score of the observation group was much higher than that of the control group （P<0.05）. Conclusion Integrated care can significantly improve the anxiety， depression and other negative emotional status of the patients with chronic renal failure. It helps improve the clinical efficacy and quality of life.
+　　[Key words] Routine care； Integrated care； Chronic renal failure； Mood 慢性肾功能衰竭是由多种慢性病因导致的肾实质广泛性损伤，出现代谢物蓄积及水电解质、酸碱平衡紊乱等一系列内分泌功能失调[1]。多数慢性肾功能衰竭患者均存在不良情绪反应，严重影响生活质量[2]。该研究以该院2010年1月―2012年10月间收治的60例慢性肾功能衰竭患者为研究对象，旨在比较不同护理方式对慢性肾功能衰竭患者情绪的影响，现报道如下。
+　　1 资料与方法
+　　1.1 一般材料
+　　选取该院收治的60例慢性肾功能衰竭患者，按不同护理方式随机均分为对照组和观察组。对照组患者男19例，女11例，年龄31～75岁，平均（52.48±5.43）岁；病因：慢性肾小球肾炎12例，慢性肾盂肾炎6例，高血压肾病5例，糖尿病肾病5例，狼疮肾炎2例。观察组患者男18例，女12例，年龄33-80岁，平均（52.42±5.16）岁；病因：慢性肾小球肾炎10例，慢性肾盂肾炎7例，高血压肾病5例，糖尿病肾病7例，狼疮肾炎1例。
+　　1.2 方法
+　　对照组患者给予常规护理；观察组患者给予综合护理，具体方法如下：
+　　1.2.1 心理支持 慢性肾功能衰竭患者长期遭受病痛折磨，加上治疗费用昂贵，社会支持系统缺失，容易产生羞耻、抑郁等不良心理状态。护理人员应加强自身业务素质及心理素质的建设，积极与患者交流沟通，详细讲解临床治疗方法、并发症和注意事项等，增强病人治疗的信心。
+　　1.2.2 健康宣教 健康宣教是针对疾病的病因、发病机制和治疗等相关知识进行宣教的方式。护理人员应针对慢性肾功能衰竭有关知识积极宣教，使患者充分了解到肾功能损害的不可逆性及治疗的长期性，组织患者参加健康知识讲座，使患者正确对待慢性肾功能衰竭的治疗。
+　　1.2.3 饮食和运动指导 护理人员应全面指导患者的饮食及运动，告知科学的饮食和运动方式，少食盐及低脂的食物，多摄入含优质蛋白丰富的食物，并进行适量的运动，避免因饮食不当或运动方法不对导致病情的加重。
+　　1.2.4 家庭和社会支持 护理人员应强化患者的家属和社会的积极作用，劝导患者的家属给予更多的鼓励和安慰，减轻其心理压力。并鼓励患者多参加社会活动，增强对生活的信心。
+　　1.3 观察指标
+　　比较两组患者的抑郁状态量表（SDS）、焦虑自评量表（SAS）和症状自评量表（SCL-90）评分的差异。
+　　1.4 统计方法
+　　该研究采用SPSS17.0软件进行数据统计分析，计量资料用t检验，定性资料比较用χ2检验。
+　　3 讨论   　　慢性肾功能衰竭是临床常见疾病，近年来发病率逐渐升高，对患者生活质量造成严重影响[3]。临床多采取肾脏替代治疗维持患者的生命，患者易出现焦虑、忧郁甚至绝望等心理障碍，致使患者免疫力下降，严重影响了临床疗效及患者的生活质量[4]。
+　　随着医疗护理模式的不断转变，根据患者的病情采取针对性的综合护理能有效提高患者临床疗效和与生活质量[5]。多项研究表明，对慢性肾功能衰竭患者从心理支持、健康宣教、饮食和运动指导、家庭和社会支持等方面给予综合护理至关重要[6-7]。护理人员应充分了解患者的心理需求，多方面消除或减少不良情绪[8]，加强服务观念，多关心体贴患者，与患者建立平等和信任的人际关系，同时加强自身业务素质及心理素质的建设，针对慢性肾功能衰竭有关知识采取多种宣教方式积极宣教，在饮食及运动方面进行全面指导，并劝导患者的家属给予更多的鼓励和安慰，并鼓励患者多参加社会活动，增强对生活的信心。该研究结果显示，两组患者护理前SDS和SAS评分比较，差异无统计学意义（P>0.05），护理后观察组SDS和SAS评分均显著优于对照组，差异有统计学意义（P<0.05）。在SCL-90评分方面，除“敌意”和“恐怖”2个项目外，观察组SCL-90评分均明显高于对照组，差异有统计学意义（P<0.05），其中以焦虑、抑郁、偏执、强迫、躯体化和人际关系敏感等6个因子最显著。说明随着患者综合护理的进行，其焦虑、抑郁和敏感等不良情绪也逐渐消失，显著提高了治疗疾病的信心。
+　　综上所述，对慢性肾功能衰竭患者采取综合护理措施，可显著改善患者的焦虑和抑郁等不良情绪，使其保持良好的心理状态，增强治疗的信心，有效提高了患者的临床治疗效果和生存质量。
+
+

@@ -1,0 +1,31 @@
+
+　　[摘要] 目的 探讨胸外科手术后护理干预降低患者疼痛的临床效果。 方法 选择2013年6月～2014年6月本院收治的70例胸外科手术患者，随机平均分为实验组35例和对照组35例，对照组患者给予常规护理，实验组患者在常规护理的基础上给予疼痛护理干预，比较两组患者术后1个月内的VAS评分以及对护理工作的满意程度。 结果 实验组患者在疼痛护理干预下，镇痛药物的使用时间以及VAS评分均明显低于对照组，且实验组患者对护理工作的满意度更高，差异有统计学意义（P<0.05）。 结论 胸外科术后的患者给予疼痛护理干预，能显著缓解疼痛感，降低患者的抑郁和焦虑情绪，提高预后，值得临床推广应用。
+　　[中图分类号] R473.6 [文献标识码] B [文章编号] 1674-4721（2014）09（c）-0142-03
+　　Efficacy observation of implementation of pain nursing intervention in patients having received thoracic surgery
+　　LI De-xue
+　　The Fourth Department of Surgery，People′s Hospital Guangde County in Anhui Province，Guangde 242200，China
+　　[Abstract] Objective To investigate the clinical effect of nursing intervention on reducing the pain of patients having received thoracic surgery. Methods Seventy thoracic surgical patients admitted to our hospital from June 2013 to June 2014 were selected and randomly and evenly divided into the experimental group with 35 patients and the control group with 35 patients.The control group was given conventional nursing and the experimental group was given pain nursing intervention on the basis of conventional nursing work.The VAS scores and nursing satisfaction degrees of the two groups within 1 month after the surgery were compared. Results Under the pain nursing intervention，the experimental group had significantly shorter usage time of analgesic drugs and lower VAS score than the control group，and higher nursing satisfaction，with statistically significant differences （P<0.05）. Conclusion The application of pain nursing intervention to the patients having received thoracic surgery can remarkably relieve pain，reduce depression and anxiety and improve prognosis，thereby worthy of clinical promotion and application.
+　　[Key words] Thoracic surgery department；Pain；Nursing intervention
+　　胸外科手术常常由于创伤大导致患者康复慢，且常常出现剧烈疼痛，甚至导致机体其他系统的功能产生变化，目前对疼痛的认识不断深入，发现疼痛是组织细胞病理变化及炎症反应的表现，是机体对外来入侵进行防御的重要紧急信号[1]。术后对患者进行适当的护理干预，能减少患者的疼痛程度，并能保护呼吸、循环系统的正常功能[2]，本研究对35例胸外科手术患者术后进行疼痛护理干预，获得满意效果。
+　　1 资料与方法
+　　1.1 一般资料
+　　选择2013年6月～2014年6月本院收治的70例胸外科手术患者为研究对象，其中男性36例，女性34例，年龄23～58岁，平均（43.9±7.2）岁，其中肺癌20例、食管癌17例、胸部创伤26例、肺大疱7例，所有患者均无恶性病变，排除合并严重肝肾功能不全、有精神病史等患者。将所有患者随机平均分为实验组35例和对照组35例，两组患者的一般资料差异无统计学意义（P>0.05），具有可比性。
+　　1.2 方法
+　　对照组患者采用常规护理，严密监测患者的各项生命体征，做好管道护理，注意无菌操作和切口护理，防止并发症，剧烈疼痛的患者根据医嘱给予镇痛治疗[3]。实验组患者在常规护理的基础上对疼痛采取干预措施，具体方法如下。①评估：术前对患者的原发病和相关因素进行评估，并从手术因素、心理情绪等方面进行护理干预，并于术后及时测评患者的疼痛情况，及时进行疼痛治疗并总结选择有效的止痛措施；②心理干预：取得患者的信任，建立良好的关系，加强与患者交流，对患者的基本情况进行介绍，讲解疼痛与心理状况的关系，使患者对疼痛等问题有所了解，帮助患者减轻对疼痛问题的压力，告知患者止痛药物可能产生的不良反应，鼓励患者自我暗示，提高患者对疼痛的耐受性；③疼痛护理：术后指导教育患者闭目，进行深慢呼吸或采用缓慢的腹式呼吸，缓解紧张程度，疼痛时通过音乐视频等方式转移患者的注意力，并及时给予安抚，帮助患者更换至舒适的体位，根据患者疼痛情况给予适量的药物镇痛，尽量在患者出现疼痛前进行药物治疗，镇痛药物治疗后无明显作用的患者需要进行疼痛评价，并选择更加适当的镇痛方案进行治疗；④健康教育：对胸外科的患者来说，术前疼痛缓解有关的健康教育能够正确描述疼痛情况，降低患者对镇痛药物的依赖性，患者通过对疼痛的认知能够了解正确的疼痛评估方法，加强患者对深呼吸、咳痰、早运动重要性的认识[4]。   　　1.3 评价标准[5]
+　　记录两组患者的镇痛药物使用时间，采用视觉模拟评分法（VAS）对患者的疼痛情况进行评价，以0～10分表示，其中0分：无痛；1～3分：轻微疼痛但是可以忍受；4～6分：出现疼痛，对睡眠产生影响，但可忍受；7～10分：患者疼痛渐感剧烈，疼痛难以忍受。调查患者对护理工作的满意程度，满意度=（非常满意+较满意）例数/总数×100%。
+　　1.4 统计学处理
+　　所得数据均采用SPSS 15.0统计学软件进行分析，计数资料的比较采用χ2检验，计量资料的比较采用t检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者VAS评分及镇痛药物使用时间的比较
+　　实验组患者的VAS疼痛评分显著低于对照组，差异有统计学意义（P<0.05）；且其镇痛药物使用时间明显短于对照组，差异有统计学意义（t=3.57，P<0.05）（表1）。
+　　表1 两组患者VAS评分及镇痛药物使用时间的比较（x±s）
+　　与对照组比较，*P<0.05
+　　2.2 两组患者对护理工作满意度的比较
+　　患者出院时通过护理满意度调查问卷对住院期间的护理工作进行评价，实验组患者对护理工作的满意度明显高于对照组，差异有统计学意义（P<0.05）（表2）。
+　　表2 两组患者对护理工作满意度的比较[n（%）]
+　　与对照组比较，χ2=3.92、*P<0.05
+　　3 讨论
+　　胸外科手术常常因较大的创伤或者其他刺激因素导致患者出现疼痛，造成限制性功能障碍，并且剧烈疼痛可能导致心动过速、血压升高甚至心肌梗死、呼吸衰竭等严重不良事件[6]。疼痛能够造成交感神经兴奋，反射性抑制胃肠道的功能，同时引发患者烦躁、抑郁、焦虑等不良情绪，影响睡眠，从而导致机体的恢复速度减慢[7]。然而抑郁和焦虑等不良情绪还会降低疼痛的阈值，导致机体内源性镇痛物分泌减少，而延长加重疼痛程度，且形成恶性循环[8]。有研究显示，胸外科手术患者的手术切口、创伤面积以及对肌肉骨骼神经的损伤，患者留置的导管对胸膜产生的刺激，都会增加患者手术后疼痛程度[9]，并且使患者的心理负担加重，导致精神压力较大，对胸外科手术的患者手术前后给予心理干预，以降低患者的心理负担，对患者术后的疼痛情况以及治疗效果均有积极的促进作用[10]。本研究中，在患者手术前进行健康宣传教育，并根据患者的评估情况进行心理干预，对患者的疼痛、抑郁、焦虑情况进行实时监测后对症治疗，结果显示，实验组患者的VAS评分显著低于常规护理的对照组，且镇痛药物使用时间也明显短于对照组，差异均有统计学意义，因此实施心理干预能够有效提高患者的疼痛耐受性，降低患者焦虑、抑郁等情绪以及对镇痛药物的依赖性，且笔者在研究中发现，对患者进行护理干预后可促进患者的伤口恢复。
+　　综上所述，手术前后对胸外科行手术治疗的患者进行护理干预，能够有效缓解疼痛，促进患者康复，且能够提高患者对护理工作的满意度，增进护患关系，提高预后，值得在临床推广应用。
+
+

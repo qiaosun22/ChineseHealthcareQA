@@ -1,0 +1,29 @@
+
+ 　　[摘要]目的 探讨综合护理干预对晚期肝癌患者免疫功能的影响。方法 选取2014年3月～2016年3月我院收治的晚期肝癌患者96例，按数字随机原则分为观察组与对照组，各48例，对照组采用常规护理方案，观察组给予综合护理干预，比较两组患者免疫功能水平及生活质量变化，并记录两组护理满意度。结果 与干预前比较，两组干预后外周血淋巴细胞亚群及Th1型细胞因子含量各项水平均有提高，差异有统计学意义（P<0.05）；干预后观察组外周血淋巴细胞亚群水平显著高于对照组，血清Th1型细胞因子含量显著高于对照组，差异均有统计学意义（P<0.05）；与对照组比较，观察组躯体、角色等QLQ-30各维度得分及总分均明显提高，差异均有统计学意义（P<0.05）。结论 综合护理干预晚期肝癌患者可有效提高患者免疫功能，值得临床推广应用。
+　　[中图分类号] R735.7 [文献标识码] A [文章编号] 1674-4721（2017）03（c）-0180-04
+　　[Abstract]Objective To explore the effect of comprehensive nursing intervention on the immune function of patients with advanced liver cancer.Methods 96 patients with advanced liver cancer in our hospital from March 2014 to March 2016 were randomly divided into observation group and control group according to the random principle，48 cases in each group.The control group was treated routine nursing method，the observation group was treated nursing intervention，the immune function and quality of life were compared between the two groups，and the nursing satisfaction of the two groups were recorded.Results Compared with before intervention，the two groups after the intervention of peripheral blood lymphocyte subsets and factor in type Th1 cells and the levels were increased，there were significant differences （P<0.05）；the observation group after the intervention of peripheral blood lymphocyte subsets was significantly higher than that of control group， the serum levels of Th1 type cytokine content was significantly higher than that of control group，with significant difference（P<0.05）；compared with the control group，the role of body dimensions QLQ-30 score and total score in observation group were significantly improved，the differences were significant（P<0.05）.Conclusion the comprehensive nursing intervention for patients with advanced liver cancer can effectively improve the immune function of patients，it is worthy of clinical application.
+　　[Key words]Comprehensive nursing intervention；Advanced liver cancer；Immune function；Quality of life
+　　肝癌是临床上十分常见的恶性肿瘤之一，具有较高的发病率。由于肝癌早期症状较为隐匿，患者就诊时常已发展至晚期，晚期肝癌患者临床症状主要表现为肝区疼痛、出血水肿等，严重影响患者的生活质量[1-2]。现阶段，多以非手术的放化疗形式进行晚期肝癌病情的治疗控制，护理是医疗服务的重要组成部分之一，有效的护理措施以及护理质量对于治疗和康复的效果十分重要。研究表明[3-4]，晚期肝癌患者由于病情?M展迅速，身体消耗较为严重，多出现不同程度的免疫功能低下，有效的护理干预可有效提高患者免疫功能，对改善患者生活质量具有重要促进作用。本研究以我院收治的晚期肝癌患者作为研究对象，旨在探讨综合护理干预对晚期肝癌患者免疫功能的影响。
+　　1资料与方法
+　　1.1一般资料
+　　选取2014年3月～2016年3月我院收治的晚期肝癌患者96例，随机分为对照组和观察组，各48例。所有患者主要症状均以肝区疼痛、消化道出血、继发感染并伴有不同部位转移，符合世界卫生组织（WHO）晚期肝癌的相关诊断标准，并排除其他原发恶性肿瘤、严重药物不良反应及精神疾病患者。对照组男26例，女22例；平均年龄（38.9±6.5）岁；病程0.5～6年，平均（3.81±1.07）年；文化程度高中及以上9例，初中25例，小学12例，文盲2例。观察组男24例，女24例；平均年龄（40.7±4.8）岁；病程0.5～5.5年，平均（3.36±1.12）年；文化程度高中及以上11例，初中20例，小学14例，文盲3例。两组性别、年龄、病程、文化程度等一般资料比较，差异无统计学意义（P>0.05），具有可比性。所有患者均签署知情同意书，本研究经医院伦理委员会批准。   　　1.2方法
+　　1.2.1治疗方法 治疗均给予吉西他滨（Eli Lilly and Company，批准文号：进口药品注册证号H20110535）静脉滴注，剂量：800～1000 mg/m2，第1、8天；顺铂（Hospira Australia Pty Ltd.，批准文号：注册证号H20140372）静脉滴注，剂量：20 mg/m2，1次/d，连用5 d，以21 d为1个周期，所有患者至少接受2个化疗周期的治疗。
+　　1.2.2护理方法 对照组给予常规护理方案，为患者营造温馨、舒适的病房环境，指导患者合理饮食，培养良好的生活方式。观察组给予综合护理干预，具体方法如下。①健康宣教：通过讲座、发放健康知识手册等形式定期给予患者及家属肝癌相关疾病的知识宣教，为其详细讲解镇痛泵的使用目的与意义。②行为干预：晚期肝癌患者机体免疫力较低，易引起并发感染，故应定期为其更换被褥及衣物，为患者做好个人卫生及皮肤护理。保持患者病室内的环境的舒适，从而保证患者充足的睡眠时间；在饮食方面建议患者多食用易消化、高纤维素等食物，避免食用辛辣刺激性食物。此外还应定时为患者翻身、按摩，做好预防性护理，避免压疮的发生。在个人条件允许的情况下，鼓励患者根据个人爱好参与简单的文化娱乐活动，放松心态，以缓解患者疼痛。③心理干预：大部分癌症患者由于自身生活质量下降、经济负担过重等原因会产生不同程度的抑郁、焦虑、恐惧等不良心理情绪，降低患者疼痛阈值，从而加重疼痛感知，严重者甚至拒绝治疗。此时护理人员应多与患者进行沟通交流，给予患者针对性的心理疏导，满足其情感需求，同时做好患者家属的思想工作，使其给予患者更多的关心和鼓励，减轻患者心理负担与精神压力，帮助患者摆脱恐惧、绝望情绪。④疼痛护理：晚期肝癌患者多伴有较严重的疼痛症状。针对患者年龄、教育背景、生活状况等个人情况建立患者疼痛档案，并给予适宜的药物镇痛干预，告知患者及家属止痛药物的用法用量，并记录其效果与副作用，直到疼痛被控制。必要时还可辅以穴位按压、按摩、音乐疗法、放松疗法等非药物镇痛进行治疗。
+　　1.3观察指标
+　　①比较两组干预前后外周血CD3+、CD4+、CD4+ /CD8+、自然杀伤（NK）细胞数量淋巴细胞亚群、血清肿瘤坏死因子（TNF-α）、白细胞介素-2（IL-2）、干扰素（IFN-γ）等Thl型细胞因子含量变化情况。②采用欧州癌症治疗研究组织生活质量测定量表（European organzation for research and treatment of cancer quality of life-C30，EORTC QLQ-C30）[5]，评价两组干预前后生活质量，量表分为躯体、角色、情绪、社会及认知共5个维度，共30个条目，分数越高，代表患者生活质量越高。③设计护理满意度调查表，调查两组患者的护理满意度。满意度=（非常满意+满意）/总例数×100%[6]。
+　　1.4统计学方法
+　　采用SPSS 17.0统计学软件对数据进行处理，计量资料以x±s表示，组间比较采用t检验，计数资料采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1两组治疗前后外周血淋巴细胞亚群情况的比较
+　　两组干预前外周血淋巴细胞亚群各项水平比较，差异无统计学意义（P>0.05）；与干预前比较，两组干预后外周血淋巴细胞亚群各项水平均有不同程度提高，差异有统计学意义（P<0.05）；干预后观察组外周血淋巴细胞亚群水平显著高于对照组，差异有统计学意义（P<0.05）（表1）。
+　　2.2两组Th1型细胞因子含量变化的比较
+　　两组干预前各项Th1型细胞因子含量水平比较，差异无统计学意义（P>0.05）；与干预前比较，两组干预后各项Th1型细胞因子含量水平均有不同程度提高，差异有统计学意义（P<0.05）；干预后观察组血清Th1型细胞因子含量显著高于对照组，差异有统计学意义（P<0.05）（表2）。
+　　2.3两组生活质量评分的比较
+　　两组干预前各项生活质量评分比较，差异无统计学意义（P>0.05）；与护理干预前比较，干预后两组患者QLQ-30各维度得分及总分均显著提高，差异有统计学意义（P<0.05）；与对照组比较，观察组躯体、角色等QLQ-30各维度得分及总分均明显提高，差异均有统计学意义（P<0.05）（表3）。
+　　2.4两组护理总满意度的比较
+　　观察组患者护理总满意度为97.92%，显著高于对照组的83.33%，差异有统计学意义（P<0.05）（表4）。
+　　3讨论
+　　研究表明，部分晚期肝癌患者在治??过程中会出现不同程度的发热、腹痛、局部血肿感染等不良反应，降低患者的生活质量[7-8]。常规护理干预在晚期肝癌患者的临床护理中缺乏一定的针对性和有效性，护理效果往往不甚理想[9]。在晚期肝癌患者的治疗中辅以行为、心理、疼痛干预为一体的综合护理干预可满足患者的心理需求，对提高患者的生活质量，维持患者生命尊严具有重要意义[10-12]。
+　　本研究结果显示，与干预前比较，两组干预后外周血淋巴细胞亚群及Th1型细胞因子含量各项水平均有不同程度提高；干预后观察组外周血淋巴细胞亚群水平显著高于对照组，血清Th1型细胞因子含量显著高于对照组，差异均有统计学意义（P<0.05），表明综合护理干预应用于晚期肝癌患者可有效提高患者免疫系统的防御功能。此外，综合护理干预针对肝癌晚期患者治疗过程中所出现的不适症状及疼痛准备了预见性护理干预[13-14]，并辅以非药物镇痛治疗，比较两组生活质量，结果与对照组比较，观察组躯体、角色等QLQ-30各维度得分及总分均明显提高，差异均有统计学意义（P<0.05），提示综合护理干预可有效减轻患者癌性疼痛程度，提高患者生活质量，对促进患者预后恢复具有重要意义。   　　综上所述，综合护理干预晚期肝癌患者可有效提高患者免疫功能及生活质量，效果显著，值得临床推广应用。
+
+

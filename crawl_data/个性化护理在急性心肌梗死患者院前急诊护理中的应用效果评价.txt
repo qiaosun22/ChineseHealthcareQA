@@ -1,0 +1,26 @@
+
+ 　　[摘要] 目的 研究急性心肌梗死患者在院前急诊护理中接受个性化护理的效果。 方法 择取我院2016年1月～2017年1月期间收治的86例急性心梗患者，根据患者的接诊时间先后顺序划分为个性组和常规组，每组各43例，常规组患者接受常规急诊护理，个性组患者接受个性化护理，对比两组患者的出诊时间、急救时间和入院时间及诊断率、转运和急救的成功率。 结果 个性组患者的出诊时间（49.1±15.8）s、急救时间（19.2±5.7）min、入院时间（2.15±0.31）h均短于常规组的出诊时间（94.2±21.7）s、急救时间（38.6±6.1）min、入院时间（3.03±0.37）h，组间存在统计学差异（P<0.05）；个性组患者的诊断率97.7%、转运成功率100.0%和急救的成功率95.3%均优于常规组诊断率83.7%、转运成功率86.0%和急救的成功率81.4%，组间存在统计学差异（P<0.05）。 结论 急性心肌梗死患者在院前急诊护理中接受院前个性化护理，能有效减少患者的急救时间、出诊时间、入院时间，提高诊断率、转运和急救的成功率，具有重要的临床意义，值得推广应用。
+　　[中图分类号] R473.5 [文献标识码] B [文章编号] 1673-9701（2017）17-0145-03
+　　[Abstract] Objective To study the effect of personalized care in pre-hospital emergency care of patients with acute myocardial infarction. Methods A total of 86 patients with acute myocardial infarction admitted in our hospital from January 2016 to January 2017 were chosen and divided into personality group （n=43） and routine group （n=43） according to the order of patients' admissions. Patients in the routine group were treated with routine emergency care， and patients in personality group were treated with personalized care. The visiting time， first aid time， admission time， the diagnosis rate， and the success rates of transport and first aid between the two groups of patients were compared. Results The visit time （49.1±15.8） s， the first aid time （19.2±5.7） min， and the admission time （2.15±0.31） h in the personality group were shorter than those in the routine group （94.2±21.7） s，（38.6±6.1） min and （3.03±0.37） h， and there was significant difference in the data between the two groups （P<0.05）. The diagnostic rate （97.7%）， the success rate of transport（100.0%） and the success rate of first aid（95.3%） in the personality group were better than the diagnostic rate （83.7%）， the success rate of transport （86.0%） and the success rate of first aid （81.4%） in the routine group， and the difference in the data between the two groups was statistically significant（P<0.05）. Conclusion Prehospital personalized care in prehospital emergency care for patients with acute myocardial infarction can effectively reduce the visiting time， first aid time， and admission time of patients， and can improve the diagnosis rate and the success rates of transport and first aid. The personalized care has important clinical significance and is worthy of popularization and application.
+　　[Key words] Personalized care； Acute myocardial infarction； Emergency care
+　　心肌梗死是常?的一种心血管危重病，多种因素均会致使急性冠状动脉出现血液供给障碍，心肌在长时间缺血的状态下会导致心肌部分坏死，且由于急性心梗发作机制较为复杂，病情急，极易出现坏死，进而对患者的生命安全产生严重威胁[1-2]。我院择取2016年1月～2017年1月期间收治的86例急性心梗患者，研究院前急诊护理中实施个性化院前护理的临床效果，并将研究报道如下。   　　1 资料与方法
+　　1.1 一般资料
+　　择取我院2016年1月～2017年1月期间收治的86例急性心梗患者，根据患者接诊时间的先后顺序划分为个性组和常规组，每组各43例，其中个性组男29例，女14例，年龄44～71岁，平均（54.1±5.7）岁，常规组中男30例，女13例，年龄45～71岁，平均（54.2±5.6）岁。所有患者的接诊症状均为腹部不适、呼吸困难、大汗以及胸痛，且满足WHO（世界卫生组织）的急性心梗相关诊断标准[3]。两组患者的基线资料比较无统计学差异（P>0.05），具有可比性。
+　　1.2 ?o理方法
+　　常规组患者接受常规院前急诊护理，医护人员在接到电话了解情况后前往现场，详细检查患者全身，对患者的生命体征进行密切关注，行18导联心电图，对患者的发病病情进行准确评估，并根据评估结果与患者表征施以常规抢救措施，主要的措施为吸氧、镇痛、建立静脉通路、抗血凝以及扩张血管，部分患者伴有心房颤动、心律失常和心搏骤停，应对症处理。
+　　个性组患者接受个性化护理。①及时出诊：制定妥善的出诊规范制度，加强对医护人员的培训工作，提升医护人员的专业素质，当接到急救电话时应简明询问相关情况，及时派车前往，到达现场后查看患者病情，指导患者家属对患者进行基础急救。②急救护理：在进行急救时，医护人员应当保证环境安静，严禁患者剧烈活动，部分患者胸部存在压榨性疼痛，因此在给药时要与患者进行沟通和交流，帮助患者平缓情绪。在急救的过程中，护理人员要帮助医师快速建立静脉通路，根据患者的实际病情建立额外的通路，奠定后期药物治疗的基础。对患者的体征进行密切关注和检测，预防并发症，针对已经出现的并发症应对症处理，将急救护理的整个过程详细记录在案。③心理护理：急性心梗患者的病情较急，且疼痛剧烈，患者在发病时会产生焦虑、消极等负性情绪，不利于急救和病情。所以护理人员应用言语和动作来帮助患者平复情绪，此外护理人员还应保证急救动作快速准确，消除患者的不安心理，充分信任医护人员。④转运护理：患者的病情被稳定且得到一定缓解后，应将患者转运至医院中进行深入治疗，在正式转运到医院前，应与患者的监护人或家属进行适当沟通，如患者的病情和治疗方法等，在患者家属和监护人的同意下才能够转运，且应在达成一致的第一时间转运。在转运的过程中，护理人员应当通知院方进行接待患者的相关准备，指导患者平卧，不要移动，保证静脉通路的通畅性，对患者的呼吸情况保持密切关注，抵达医院后，院前抢救人员应该将患者的详细情况介绍给交接医生，如患者病情、体征和症状等，保证患者得到有效、准确的后续治疗。
+　　1.3 观察指标
+　　观察并对比两组患者的出诊时间、急救时间、入院时间以及诊断率、转运和急救的成功率[3]。
+　　1.4 统计学方法
+　　采用SPSS19.0统计学软件处理数据，计量资料以均数±标准差（x±s）表示，采用t检验，计数资料采用χ2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者的出诊时间、急救时间、入院时间比较
+　　个性组患者的出诊时间、急救时间、入院时间均短于常规组，组间存在统计学差异（P<0.05），见表1。
+　　2.2 两组患者的诊断率、转运和急救成功率比较
+　　个性组患者的诊断率、转运和急救成功率均优于常规组，组间存在统计学差异（P<0.05），见表2。
+　　3讨论
+　　相关文献表明[5-7]，急性心梗的临床死亡率较高，且预后不佳，此类情况与院前急救有紧密的关系。有数据显示[8]，急性心梗患者在未入院的情况下死亡概率高达45%，因此必须做好院前急救工作，提升患者的生存率。传统的院前急救更多的关注点在急救措施方面，如预防并发症、抗凝、镇痛、建立静脉通路和血管扩张剂等，而忽视了院前急救护理[9-11]。本研究个性组患者在原有的院前急救基础上，强化了护理措施，加入个性化护理措施。
+　　本研究结果显示，个性组的出诊、急救和入院时间均短于接受常规措施的常规组患者，个性化的护理措施中强化了护理人员的人文意识和人文素养，让医护人员对于护理工作的理解有了更高的认识，在整个院前急救的过程中贯彻以人为本的理念。在个性化护理中，加强了对患者的心理护理，急性心梗通常情况下均会给患者带来较大的痛感和痛苦，患者由于痛感强烈会出现烦躁、焦虑等负性情绪，甚至对急救产生了抵触心理，而心理护理能够在较大程度上平复患者的不安情绪，促进院前急救的开展，并且能够明显改善患者入院后的遵医行为[12-13]。出诊的实际反应时间与出诊的及时性成正比，传统的出诊方案措施中往往没有给予患者及其家属足够的关心，导致患者及家属因不了解情况而起到反作用，甚至威胁到患者的生命安全，直接影响到院前急救的开展情况，个性化护理的实施强化培训了医护人员的急救操作和专业知识，且医护人员更加关心患者及家属的实际需求和诉求，能有效减少急救和入院的时间[14]。个性化护理的实施使个性组患者的转运成功率、诊断率和急救成功率等指标均显著提升。医护人员只有在急救中与患者家属多加交流才能够对患者的病情有更为详细的了解和掌握，并进行准确诊断，根据诊断情况制定针对性的抢救措施，并告知院方进行相关的急救准备，提高患者的生存率[15]。
+　　综上，急性心肌梗死患者在院前急诊护理中接受院前个性化护理，能够有效减少患者的受急救时间、出诊时间、入院时间，提高诊断率、转运和急救的成功率，具有重要的临床意义，值得推广应用。
+
+

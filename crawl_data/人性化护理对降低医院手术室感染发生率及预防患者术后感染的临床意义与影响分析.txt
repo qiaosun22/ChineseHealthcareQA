@@ -1,0 +1,31 @@
+
+ 　　【摘要】 目的 探讨人性化护理对降低医院手术室感染发生率及预防患者术后感染的临床意义与影响。方法 912例手术室行外科手术的患者， 随机分为对照组及观察组， 各456例。对照组采用常规手术室护理， 观察组采用人性化护理。比较两组患者手术室感染发生率、术后恢复时间、住院时间、物体表面菌落数、手表面菌落数、手术室空气菌落数。结果 观察组手术室感染发生率4.61%低于对照组9.87%， 术后恢复时间（6.8±2.1）d及住院时间（11.6±2.3）d短于对照组[（11.2±2.5）、（16.8±2.5）d]， 差异均有统计学意义（P<0.05）。观察组物体表面菌落数（2.00±0.02）cfu/m3、手表面菌落数（1.01±0.10）cfu/m3、手术室空气菌落数（82.50±29.14）cfu/m3均低于对照组[（4.11±0.07）、（8.13±1.04）、（273.50±87.40）cfu/m3]，
+　　差异均有统计学意义（P<0.05）。结论 人性化护理能有效降低医院手术室感染发生率， 提高手术室无菌程度， 减少患者术后恢复时间， 具有积极的临床意义。
+　　DOI：10.14163/j.cnki.11-5547/r.2017.18.088
+　　【Abstract】 Objective To explore the clinical significance and impact of humanistic nursing to reduce the incidence of hospital operating room infection and prevent postoperative infection. Methods A total of 912 patients undergoing surgery in operation room were randomly divided into control group and observation group， with 456 cases in each group. The control group received conventional operating room nursing， and the observation group received humanistic nursing. Comparison were made on incidence of operating room infection， postoperative recovery time， hospitalization time， number of surface colonies， number of hand surface colony and number of airborne colonies in operating room in two groups. Results The observation group had lower incidence of operating room infection as 4.61% than 9.87% in the control group， and shorter postoperative recovery time as （6.8±2.1） d and hospitalization time as （11.6±2.3） d than the control group [（11.2±2.5） and （16.8±2.5） d]. Their difference had statistical significance （P<0.05）. The observation group had lower number of surface colonies as （2.00±0.02） cfu/m3， number of hand surface colony as （1.01±0.10） cfu/m3 and number of airborne colonies in operating room as （82.50±29.14） cfu/m3 than the control group [（4.11±0.07）， （8.13±1.04） and （273.50±87.40） cfu/m3]，
+　　and their difference had statistical significance （P<0.05）. Conclusion Humanistic nursing can effectively reduce incidence of hospital operating room infection， improve the degree of sterility in operating room， and reduce the recovery time of patients. So it has a positive clinical significance.
+　　【Key words】 Hospital operating room infection； Humanistic nursing； Clinical significance
+　　手?g室感染是医源性感染发生的高发科室， 术后感染的发生不仅增加了患者的身心痛苦， 严重者甚至对生命造成威胁。手术室感染的发生与手术室的工作质量关系密切， 因此严格手术室管理规章制度， 加强对手术室人员管理， 控制手术室感染率， 对降低患者的感染风险有重要作用。而这也对手术室护理人员提出了更高的要求。手术室护理人员不仅要具备过硬的职业技能素质， 还需具备综合的服务护理理念， 展开优质护理服务[1]。本研究分析人性化护理对降低医院手术室感染发生率及预防患者术后感染的临床意义， 现具体汇报如下。   　　1 资料与方法
+　　1. 1 一般资料 选取2016年2月～2017年2月在本院手术室行外科手术的912例患者为研究对象。所有患者均符合外科手术要求， 均采用常规手术方式， 排除腹腔镜手术及急诊手术。其中， 头颈手术10例， 胸部手术26例， 五官科手术98例， 四肢手术276例， 腹部手术502例。将912例患者随机分为对照组及观察组， 各456例。观察组男248例， 女208例，
+　　年龄19～73岁， 平均年龄（48.6±10.3）岁；对照组男233例， 女223例， 年龄18～76岁， 平均年龄（50.2±11.4）岁。两组患者性别、年龄等一般资料比较， 差异无统计学意义（P>0.05）， 具有可比性。
+　　1. 2 方法
+　　1. 2. 1 对照组 采用常规手术室护理， 包括常规术前准备、术中配合及术后护理。
+　　1. 2. 2 观察组 采用人性化护理方法， 具体如下。
+　　1. 2. 2. 1 术前健康教育 手术前应向患者详细讲解手术注意事项、术后可能出现的并发症、术后康复治疗等， 明确向患者阐明术后诱发感染的危险因素， 使患者充分认识到术后感染的危害性， 降低因患者自身原因导致的感染；加强患者的营养补充， 提升其免疫能力， 并根据患者病情指导术前运动锻炼， 以增强患者抗感染能力。
+　　1. 2. 2. 2 术前无菌准备 术前清洁皮肤、备皮是手术的重要前提， 备皮情况的好坏对于切口愈合速度及是否发生感染有重要影响。护理人员应嘱咐患者采用抗菌皂液进行沐浴， 严格对其手术部位皮肤消毒及剔除毛发， 注意尽量避免对皮肤造成损伤。对于需要做肠道准备的患者， 做好清洁灌肠， 并于术前预防性服用抗菌药物。医务人员手术前应认真洗手， 双手是院内感染的重要传播媒介， 应使用含抗菌药物洗剂对手部彻底清洁[2]。
+　　1. 2. 2. 3 术中无菌操作 手术过程中严格无菌操作， 手术室器械要求能够耐高温及耐湿， 手术辅料应严格湿压灭菌， 确保手术范围内的所有器械及敷料均为无菌状态；手术接台间隙应保持自然通风10 min， 稀释空气中细菌指数， 严格遵循手术室灭菌制度及无菌技术操作规范， 尽量缩短手术直接暴露时间， 提高术中无菌操作质量[3]。
+　　1. 2. 2. 4 手术室人员培训 对手术室的所有工作人员进行医院感染知识培训， 定期学习医院感染控制和消毒灭菌的新方法和新标准， 加强对医院感染的敏感性。
+　　1. 3 观察指标 统计手术室感染发生率， 观察患者术后恢复时间及住院时间；统计手术室感染各指标情况， 包括物体表面菌落数、手表面菌落数、手术室空气菌落数。
+　　1. 4 医院手术室感染标准 根据卫计委（原卫生部）医院2011年感染协调控制组发布的《医院感染的诊断标准》进行判断， 切口感染需经切口分泌物细菌学检查进行确认[4]。
+　　1. 5 统计学方法 采用SPSS17.0统计学软件进行统计分析。计量资料以均数±标准差（ x-±s）表示， 采用t检验；计数资料以率（%）表示， 采用χ2检验。P<0.05表示差异具有统计学意义。
+　　2 结果
+　　2. 1 两组患者医院手术室感染情况、术后恢复时间、住院时间比较 观察组手术室感染发生率4.61%低于对照组9.87%， 术后恢复时间（6.8±2.1）d及住院时间（11.6±2.3）d短于对照组[（11.2±2.5）、（16.8±2.5）d]， 差异均有统计学意义（P<0.05）。见表1。
+　　2. 2 两组患者手术室各项感染指标比较 观察组物体表面菌落数（2.00±0.02）cfu/m3、手表面菌落数（1.01±0.10）cfu/m3、手术室空气菌落数（82.50±29.14）cfu/m3均低于对照组[（4.11±0.07）、（8.13±1.04）、（273.50±87.40）cfu/m3]， 差异均有统计学意义（P<0.05）。见表2。
+　　3 讨论
+　　手术室不同于普通病房， 其作为集中手术的治疗场所， 对室内无菌环境的要求较高， 手术室护理管理工作好坏直接影响到手术室感染发生率， 继而影响患者的临床疗效和预后。造成手术室感染的原因很多， 包括手术的创面过大、暴露时间过长， 手术医师的无菌操作不规范、手术室消毒灭菌管理不合格以及麻醉引发的感染等[5]。针对这一系列高危因素， 本研究采用人性化的手术护理方法， 术前护理人员应为患者创造良好的手术环境， 积极做好备皮、肠道准备、药物准备等， 并做好患者的心理指导， 减少患者紧张恐惧情绪对手术的影响[6-8]。术中配合好手术医生做好无菌操作， 严格依据手术室无菌操作规范执行。术后及时清理患者皮肤上的血迹， 确保患者身体洁净， 并告知患者手术顺利， 使患者放松心态并积极配合恢复治疗。恢复过程中定期进行切口消毒及更换辅料， 观察切口恢复情况， 一旦发现异常及时通知医生处理[6]。另外， 还需加强手术室的卫生管理， 确保手术室的严格通风消毒， 手术中使用的各类器械及物品严格消毒后再保存， 一次性物料使用时应确保包装的完整性及有效性， 使用后需进行消毒后才能外运[9-11]。
+　　本研究结果显示， 观察组手术室感染发生率4.61%低于对照组9.87%， 术后恢复时间（6.8±2.1）d及住院时间（11.6±2.3）d
+　　短于对照组[（11.2±2.5）、（16.8±2.5）d]， 差异均有统计学意义（P<0.05）。观察组物体表面菌落数（2.00±0.02）cfu/m3、
+　　手表面菌落数（1.01±0.10）cfu/m3、手术室空气菌落数（82.50± 29.14）cfu/m3均低于对照组[（4.11±0.07）、（8.13±1.04）、（273.50± 87.40）cfu/m3]， 差异均有统计学意义（P<0.05）。
+　　综上所述， 人性化护理对降低医院手术室感染发生率有显著效果， 值得在临床推广使用。
+
+

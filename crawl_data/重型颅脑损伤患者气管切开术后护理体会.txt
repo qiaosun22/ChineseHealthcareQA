@@ -1,0 +1,27 @@
+
+ 　　【摘要】 目的 对重型颅脑损伤患者行气管切开术治疗的护理要点进行分析。方法 98例行气管切开治疗的重型颅脑损伤患者， 按照入院先后顺序分为为观察组和对照组， 各49例。观察组给予针对性护理， 对照组仅给予常规方式护理。比较两组患者治疗情况。结果 观察组中无死亡病例， 对照组死亡5例（10.20%）。观察组死亡率低于对照组， 差异具有统计学意义 （χ2=5.269， P<0.05）。观察组治疗中6例（12.24%）出现肺部感染， 5例（10.20%）出现导管阻塞， 不良反应发生率为22.45%；对照组治疗中17例（34.69%）出现肺部感染， 14例（28.57%）出现导管阻塞， 不良反应发生率为63.27%；观察组不良反应发生率明显低于对照组， 差异具有统计学意义 （χ2=16.667， P<0.05） 。结论 对气管切开治疗重型颅脑损伤患者实施针对性护理， 可实现对术后并发症的有效控制， 帮助其稳定病情， 对于后期治疗具有重要意义。
+　　DOI：10.14163/j.cnki.11-5547/r.2016.32.082
+　　Nursing experience after tracheotomy in severe craniocerebral injury patients WAN Shan-shan. Liaoning Changtu County Central Hospital， Tieling 112599， China
+　　【Abstract】 Objective To analyze key point in experience after tracheotomy in severe craniocerebral injury patients. Methods A total of 98 patients with severe craniocerebral injury， who received tracheotomy， were divided by admission order into observation group and control group， with 49 cases in each group. The observation group received targeted nursing， and the control group received conventional nursing measures. Treatment conditions were compared between the two groups. Results The observation group had no death case， and the control group had 5 death cases （10.20%）. The observation group had lower death rate than the control group， and the difference had statistical significance （χ2=5.269， P<0.05）. The observation group had 6 cases （12.24%） with pulmonary infection and 5 cases （10.20%） with tube obstruction， with incidence of adverse reactions as 22.45%. The control group had 17 cases （34.69%） with pulmonary infection and 14 cases （28.57%） with tube obstruction， with incidence of adverse reactions as 63.27%. The observation group had obviously lower incidence of adverse reactions than the control group， and the difference had statistical significance （χ2=16.667， P<0.05）. Conclusion Implement of targeted nursing for severe craniocerebral injury patients can effectively control postoperative complications and stabilize disease condition. This method contains important significance for further treatment.
+　　【Key words】 Severe craniocerebral injury； Tracheotomy； Nursing effect
+　　护理颅脑损伤为临床高发病症， 多由交通事故、建筑施工等导致。重型颅脑损伤患者常伴随气道阻塞、呼吸衰竭的?Y状， 对患者生命造成直接威胁[1]。为确保生命安全， 临床多采用气管切开术进行紧急处理， 帮助患者气道在短时间内恢复畅通， 避免出现脑部乏氧以及脑水肿等症状[2， 3]。但该疗法也存在较大局限性， 外界空气直接进入到气道， 会导致气道出现各类并发症， 影响后续治疗[4]。为此， 必须采取对应护理方案对术后并发症进行有效预防与控制。现主要对该类患者术后护理要点进行分析与总结， 详见如下。
+　　1 资料与方法
+　　1. 1 一般资料 选取本院2015年11月～2016年10月接诊的98例行气管切开治疗的重型颅脑损伤患者， 按照入院先后顺序分为观察组和对照组， 各49例。对照组男25例， 女24例， 年龄34～56岁， 平均年龄（42.17±4.77）岁；由车祸导致20例， 施工坠落15例， 暴力12例， 其他2例。观察组男22例， 女27例， 年龄28～59岁， 平均年龄（45.71±4.68）岁；由车祸导致18例， 施工坠落17例， 暴力13例， 其他1例。两组患者性别、年龄等一般资料比较， 差异无统计学意义（P>0.05）， 具有可比性。   　　1. 2 方法 行气管切开术后， 对照组仅给予常规方式护理， 包括对患者基本生命体征（血压、心率、体温等）严格观察， 同时按照医嘱对术后进行护理。观察组则给予针对性护理对策， 具体表现在以下几方面。
+　　1. 2. 1 术前护理 因该类患者就诊时病症已较为严重， 患者及家属情绪均较为激动。术前护理人员告知患者与家属实施气管切开手术治疗的必要性， 增加患者对治疗的配合度。同时， 术前需对患者综合体征进行观察， 预测术中可能存在的突发症状， 并做好相应准备[2， 5]。
+　　1. 2. 2 术后隔离监护 行气管切开后， 外界空气直接进入到呼吸道， 将增加各种致病细菌感染的几率。为此， 术后需对患者进行重症隔离， 并对病房进行严格灭菌处理。对家属探视的次数进行严格控制。室内需定时进行紫外线消毒， 使用医用含氟剂对地面进行处理， 室温控制在20℃左右， 空气湿度维持在65%上下[6]。确保术口纱布随时处于干燥、清洁的状态， 一旦出现渗液需及时更换。
+　　1. 2. 3 无菌护理 在进行日常护理中， 需严格按照无菌操作的方式进行， 保证患者所接触或使用的设备（包括吸氧管、湿化器等）满足无菌条件， 每12小时更换1次。在对痰液较稀患者进行吸痰操作时， 护理人员需穿戴隔离衣。术后每5小时使用碘伏液消毒1次[3]。
+　　1. 2. 4 体位护理 行气管切开术治疗患者， 术后需保持平卧状态， 并减少活动量。若必须搬动身体时， 要保证头、颈部以及上腹部在一条直线上， 并防止套管出现脱落。待患者基本稳定后， 可将头部抬高30℃左右[7-9]。及时告知患者导管的作用与重要性， 降低非人为性拔管的发生率。
+　　1. 2. 5 气道湿化护理 该类手术后多数患者会出现气道干燥脱水的症状， 从而导致痰液干结而不易排出。护理中需结合患者特点， 及时给予气道湿化护理。可采用滴注生理盐水的方式进行处理（事先将生理盐水备好， 将静脉注射器去针头后直接放于内套管内滴注， 速度控制在4滴/min， 共滴注4 ml）。
+　　1. 2. 6 预防导管堵塞护理 若治疗中患者出现呼吸困难、烦躁等症状， 需即刻将导管取出进行检查。此外， 护理中需缩短导管分泌物清理的时间， 1 h/次， 避免出现结痂[4， 10-13]。
+　　1. 2. 7 注重基础护理 口腔清洁对于该类患者极为重要， 使用专用口腔清理液对患者进行护理， 防止病菌在口腔繁殖而增加肺部感染率[14-16]。鼻饲患者在进食时， 需将头部抬高， 以免出现反流。
+　　1. 3 观察指标 对比两组死亡情况及不良反应发生情况（包括肺部感染及导管阻塞）。
+　　1. 4 统计学方法 采用SPSS19.0统计学软件进行统计分析。计量资料以均数±标准差（ x-±s）表示， 采用t检验；计数资料以率（%）表示， 采用χ2检验。P<0.05表示差异具有统计学意义。
+　　2 结果
+　　2. 1 两组死亡情况比较 观察组中无死亡病例， 对照组死亡5例（10.20%）。观察组死亡率低于对照组， 差异具有统计学意义 （χ2=5.269， P<0.05） 。
+　　2. 2 两组不良反应发生情况比较 观察组治疗中6例（12.24%）出现肺部感染， 5例（10.20%）出现导管阻塞， 不良反应发生率为22.45%；对照组治疗中17例（34.69%）出现肺部感染， 14例（28.57%）出现导管阻塞， 不良反应发生率为63.27%；观察组不良反应发生率明显低于对照组， 差异具有统计学意义 （χ2=16.667， P<0.05） 。
+　　3 讨论
+　　气管切开是治疗并发气道阻塞、呼吸衰竭的重型颅脑损伤患者的主要方式， 但因气道与外界直接相通， 空气在未经处理的情况下直接进入呼吸道， 将增加感染、呼吸道脱水等症状， 不利于后续治疗[17-20]。
+　　在本次研究中， 主要对49例气管切开患者实施针对性护理， 从气道湿化、预防导管阻塞、无菌护理以及体位指导等多方面进行干预， 实现对术后肺部感染的有效控制。结果显示， 观察组中无死亡病例， 对照组死亡5例（10.20%）， 观察组死亡率低于对照组， 差异具有统计学意义 （χ2=5.269， P<0.05）。观察组治疗中6例（12.24%）出现肺部感染， 5例（10.20%）出现导管阻塞， 不良反应发生率为22.45%；对照组治疗中17例（34.69%）出现肺部感染， 14例（28.57%）出现导管阻塞， 不良反应发生率为63.27%；观察组不良反应发生率明显低于对照组， 差异具有统计学意义 （χ2=16.667， P<0.05）。
+　　综上所述， 对气管切开治疗重型颅脑损伤患者实施针对性护理， 可实现对术后并发症的有效控制， 帮助其稳定病情， 对于后期治疗具有重要意义。
+
+

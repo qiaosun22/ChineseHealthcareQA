@@ -1,0 +1,31 @@
+
+　　[摘要] 目的 探讨综合护理干预对妊娠高血压综合征孕妇及围生儿结局的影响，以指导临床护理。 方法 选取2013年8月～2014年8月本院收治的116例妊娠高血压综合征患者，将其按照随机数字表法分为观察组与对照组，各58例。对照组予常规护理，观察组予综合护理干预。对比入院时、分娩前两组的SF-36健康调查量表各维度得分，并统计妊娠结局。 结果 分娩前，观察组SF-36量表各维度评分均显著高于对照组，亦明显高于入院时，上述差异均有统计学意义（P<0.05）。观察组剖宫产、胎盘早剥、产后出血、先兆子痫的发生率及子痫出现率均显著低于对照组，差异有统计学意义（P<0.05）。 结论 联合应用多种有效护理方案，开展综合护理干预有助于提升孕妇健康状况并改善妊娠结局，值得推广。
+　　[中图分类号] R473.71 [文献标识码] A [文章编号] 1674-4721（2015）08（b）-0167-03
+　　Influence study of comprehensive nursing intervention on the pregnant women with pregnancy-induced hypertension syndrome and the outcome of perinatal infants
+　　DENG Shao-qiang HUANG Qing-ping
+　　Department of Quality Control，Shangli County People′s Hospital of Pingxiang City in Jiangxi Province，Shangli 337009，China
+　　[Abstract] Objective To investigate the effects of comprehensive nursing intervention on the pregnant women with pregnancy-induced hypertension syndrome and the outcome of perinatal infants，so as to guide clinical nursing. Methods 116 patients with pregnancy-induced hypertension admitted to our hospital from August 2013 to August 2014 were selected.According to random number table method，they were divided into observation group and control group，with 58 cases in each group.The control group was given regular nursing，observation group was given comprehensive nursing intervention.Scores of each factor in SF-36 healthy survey scales in two groups on admission and before pregnancy was compared，and pregnancy outcomes was analyzed. Results Before pregnancy，scores of each factor in SF-36 scales in observation group were significantly higher than those in the control group，and also significantly higher than those on admission.The above difference was statistically significant（P<0.05）.Cesarean section rate，placental abruption，postpartum hemorrhage，incidence rate of pre-eclampsia and eclampsia in observation group were significantly lower than those in the control group，and the difference was statistically significant（P<0.05）. Conclusion Combined with the application of multiple effective nursing protocols，the implementation of comprehensive nursing intervention is helpful in improving the health status of pregnant women and enhancing pregnancy outcome，which is worthy of promotion.
+　　[Key words] Comprehensive nursing intervention；Pregnancy-induced hypertension syndrome；Perinatal outcome
+　　妊娠高血压综合征的发病率较高，可进而导致水肿、蛋白尿、子痫等症状，威胁母婴生命安全[1]。其病因较为复杂，难于预防，临床多认为疾病早期行有效的医疗干预可有效改善孕妇及围生儿结局，且已提出部分具备推广价值的护理方案，如心理护理、行为干预、健康教育、饮食干预等[2-5]。鉴于各种护理方案侧重点不同，但均能起到一定作用，本研究探讨联合应用多种有效护理方案，以形成优势互补，进一步提升护理效果。   　　1 资料与方法
+　　1.1 一般资料
+　　选取2013年8月～2014年8月本院收治的116例妊娠高血压综合征患者，将其按照随机数字表法分为观察组与对照组，各58例。观察组年龄22～38岁，平均（25.8±2.4）岁；平均孕周（26.4±1.8）周；轻度、中度、重度者比例31∶19∶8。对照组年龄22～36岁，平均（25.4±2.6）岁；平均孕周（26.8±1.4）周；轻度、中度、重度者比例32∶18∶8。两组在年龄、孕周等一般资料差异无统计学意义（P>0.05），具有可比性。纳入标准：妊娠20～30周；参考《妇产科学》（第7版，乐杰）相关标准诊断为妊娠高血压综合征；知情同意。排除合并肾动脉狭窄、肾上腺肿瘤、原发性高血压、糖尿病等疾病患者。本研究已获得院伦理委员会批准。
+　　1.2 方法
+　　所有患者入院后及时行相关检查，并给与常规治疗，护理方案如下。
+　　1.2.1 对照组 行常规护理：督促定期产检；要求遵医嘱用药；告知保健、营养、孕期注意事项等健康教育内容；建立个人档案；重症患者予专人护理；住院患者密切监护生命体征；密切关注并发症表现，一旦察觉相关迹象，立即上报并行有效处理。
+　　1.2.2 观察组 在对照组基础上行综合护理干预：①心理护理。医护人员主动与患者深入沟通，安慰并疏导其不良情绪；利用焦虑及抑郁自评量表筛选焦虑及抑郁患者，行合理情绪疗法干预。②行为干预。编写并向孕妇及家属分发健康行为手册；督促患者多休息、保持周围环境干净、无不必要刺激；鼓励患者适度运动；指导患者认识异常症状，要求在出现水肿、恶心呕吐等症状时立即就医等；指导患者开展各种自我检测。③饮食干预。向患者推荐高蛋白、低盐餐点，鼓励患者食用蔬菜水果；④强化健康教育。开展健康教育培训，详细告知妊娠期高血压的成因、对母婴的影响、相关并发症、治疗方案、抢救措施等；讲解各项医院检查及自我检查的作用；⑤其他干预。鼓励患者参与音乐活动，保持其健康心理；邀请家属参与健康教育培训。
+　　1.3 观察指标
+　　①应用SF-36健康调查量表评价患者入院时、分娩前的一般状况，各维度评分均换算为百分制，分数越高越好。本量表包括8个子维度：4项躯体健康子维度，即生理功能（PF）、生理职能（RP）、躯体疼痛（BP）、一般健康状况（GH）；4项精神健康子维度，即活力（VT）、社会功能（SF）、情感智能（RE）、精神健康（MH），同时以上述维度的总分计算健康变化（HT）。项目得分计算公式：（实际得分-可能最低分）/（可能最高分-可能最低分）×100。②统计围生儿结局，包括剖宫产率、胎盘早剥、产后出血、先兆子痫及子痫出现率。
+　　1.4 统计学方法
+　　采用SPSS 19.0统计学软件处理数据，计量资料用x±s表示，行t检验，计数资料用%表示，行卡方检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组SF-36健康调查量表得分的比较
+　　两组入院时各子维度评分差异无统计学意义（P>0.05），而至分娩时，两组上述维度评分均有显著升高（P<0.05），且观察组各维度得分均显著高于对照组（P<0.05）（表1）。
+　　2.2 两组围生儿结局的比较
+　　观察组剖宫产率显著低于对照组，且胎盘早剥、产后出血、先兆子痫的发生率及子痫出现率均显著低于对照组，上述差异有统计学意义（P<0.05）（表2）。
+　　表2 两组围生儿结局的比较[n（%）]
+　　3 讨论
+　　妊娠高血压是产科严重疾病，研究指出，其为子痫、新生儿呼吸窘迫等不良妊娠结局的独立影响因素[6-7]，因而需要积极应对。鉴于其可导致患者血压升高，既往治疗与护理多集中于降压、解除肌肉痉挛、镇静、扩容、利尿等，同时根据患者实际情况予对症处理，具备一定疗效，但部分研究则指出，其疗效有待提升，患者妊娠不良结局出现率仍较高[8]。本研究中，对照组仅行常规治疗及护理，孕妇妊娠前SF-36量表各维度得分多不超过80分，且胎盘早剥、产后出血、先兆子痫及子痫出现率仍然较高。为解决该问题，医护人员进行了深入研究，并提出了部分较为可靠的辅助护理方案。如程东雁[8]认为，患者存在焦虑、抑郁等不良心理，可能导致其治疗效果，故推荐开展情绪支持、认知重建等心理护理方案改善不良心理；盘娟等[9]认为，可以通过降低钠盐摄入等饮食干预措施提升血压控制效果；段冬梅[10]则指出，健康教育可使患者全面认识疾病，提高患者遵医行为率。考虑到上述护理方案注重点不同，但均能达到相似的效果，本研究通过联合应用进一步提升了护理效果，研究结果证实，护理后观察组患者SF-36评分显著高于对照组（P<0.05）。
+　　本研究所应用的不同护理措施彼此互补，存在相辅相成作用，具体表现：①强化健康教育可使患者有效认识疾病，能够主动避免各种不良生活习惯，且在出现各种异常症状后能够合理面对，从而降低其悲观、恐惧心理，巩固了心理干预效果。②行为干预是健康教育的衍生，重点针对于督促患者主动开展有助于预防疾病发展的活动，避免可能导致疾病恶化的行为。③饮食干预是行为干预的衍生，旨在保证患者的营养供应，又能够通过饮食控制血压。④其他干预措施保障了孕妇的社会支持，能够提升患者应对能力，避免不良心理。
+　　在明确患者自身身心健康已得到有效调整的基础上，本研究分析了围生儿结局，结果表明，观察组剖宫产、胎盘早剥、产后出血、先兆子痫及子痫出现率均显著低于对照组（P<0.05），说明综合护理干预还有助于协调母婴发育，提示综合护理干预有助于提高患者血压控制效果，其机制可能与健康的心理有助于稳定内分泌，进而提升机体对血压的自我调节功能有关[11-12]。张蓉萍等[13]的研究亦表明，心理健康是改善妊娠结局的重要措施，这在其他大量研究中亦有表现[14-15]。   　　综上所述，综合护理干预对妊娠高血压综合征患者及围生儿结局均有积极影响，但考虑到新型护理措施正不断涌现，我们认为综合护理干预的具体措施不应该仅局限于本研究所指出的5类，还需要通过不断研究持续性补充。
+
+

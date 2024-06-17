@@ -1,0 +1,39 @@
+
+　　[摘要] 目的 观察护理干预对甲状腺全切除手术患者疼痛的影响。 方法 选择2013年3月～2014年3于内蒙古医科大学附属医院月行甲状腺全切除手术104例患者，将其随机分为研究组与对照组，每组各52例。研究组患者给予护理干预，对照组给予常规护理。观察两组患者术后视觉模拟评分法（VAS）疼痛评分、护理前后焦虑自评量表（SAS）评分、抑郁自评量表（SDS）评分、血压、心率的变化情况。 结果 经护理，术后24、48 h研究组患者VAS评分分别为（2.31±0.12）、（1.76±0.09）分，均低于对照组[（3.95±0.20）、（3.42±0.24）分]，差异均有统计学意义（P < 0.05）；研究组SAS[（38.38±2.25）分]、SDS[（39.34±2.04）分]，均优于对照组[（48.71±2.32）、（49.44±3.2）分]，差异均有统计学意义（P < 0.05）；研究组收缩压、舒张压、心率[（110.13±8.23）mm Hg（1 mm Hg=0.133 kPa）、（69.85±8.14）mm Hg、（82.31±9.76）次/min]均优于对照组[（122.17±12.46）mm Hg、（90.08±7.23）mm Hg、（94.52±10.37）次/min]，差异均有统计学意义（P < 0.05）。 结论 对甲状腺全切除患者行护理干预能够有效降低患者的术后疼痛感，改善患者心理状态，效果显著，具有临床应用价值。
+　　[中图分类号] R473.6 [文献标识码] C [文章编号] 1673-7210（2014）10（a）-0085-03
+　　Influence of nursing intervention on pains of patients undergoing total thyroidectomy operation
+　　LI Lijuan1 LI Chenguang2▲ WANG Dongmei1
+　　1.Department of General Surgery， the Affiliated Hospital of Inner Mongolia Medical University， Inner Mongolia Autonomous Region， Huhhot 010059， China； 2.Department of Sight Testing， the Affiliated Hospital of Inner Mongolia Medical University， Inner Mongolia Autonomous Region， Huhhot 010059， China
+　　[Abstract] Objective To observe the effect of nursing intervention on pains of patients undergoing operation of total thyroidectomy. Methods 104 cases with total thyroidectomy operation from March 2013 to March 2014 in the Affiliated Hospital of Inner Mongolia Medical University were selected， and they were randomly divided into study group and control group， with 52 cases in each group. Patients in the study group were given nursing intervention， whereas patients in the control group were given the conventional nursing. The postoperative pain score of VAS， the scores of SAS and SDS， heart rate， blood pressure before and after nursing of patients in two groups were observed. Results After nursing， VAS scores of study group in 24 h and 48 h after the operation were （2.31±0.12） scores and （1.76±0.09） scores respectively， both lower than those of the control group [（3.95±0.20）， （3.42±0.24） scores]， the differences were statistically significant （P < 0.05）. Scores of SAS and SDS in the study group were （38.38±2.25） scores and （39.34±2.04） scores， better than those of the control group [（48.71±2.32）， （49.44±3.2） scores]， the differences were statistically significant （P < 0.05）. In the study group， SBP was （122.17±12.46） mm Hg （1 mm Hg=0.133 kPa）， DBP was （90.08±7.23） mmHg， HR was （94.52±10.37） times/min， all better than those of the control group [（122.17±12.46） mm Hg， （90.08±7.23） mm Hg， （94.52±10.37） times/min]， the differences were statistically significant （P < 0.05）. Conclusion Nursing intervention for the patients undergoing total thyroidectomy can effectively reduce postoperative pains and improve the psychological state of patients， which is of significant effect. Therefore， it has the value of clinical application.   　　[Key words] Nursing intervention； Total thyroidectomy； Pains
+　　甲状腺全切除术对恶性淋巴瘤及甲状腺癌具一定治疗效果，但外科手术会为患者带来生理上的痛苦，同时，由于疾病本身及手术等刺激，患者易在术后出现心理应激反应如焦虑，可能降低对疼痛的耐受程度，增加患者痛苦，影响患者术后生活质量及治疗效果[1-2]。基于此，本研究分析护理干预对甲状腺全切除手术患者疼痛的影响，现将结果报道如下：
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2013年3月～2014年3月于内蒙古医科大学附属医院行甲状腺全切除手术的104例患者，随机分为研究组与对照组。研究组52例，男女比例29∶23；年龄31～54岁，平均（39.47±2.15）岁；原发病：甲状腺肿瘤6例（11.54%），弥漫性甲状腺肿7例（13.46%），结节性甲状腺肿39例（75.00%）。对照组52例，男女比例28∶24；年龄32～55岁，平均（40.18±1.97）岁；原发病：甲状腺肿瘤8例（15.38%），弥漫性甲状腺肿6例（11.54%），结节性甲状腺肿38例（73.08%）。两组患者年龄、性别、原发病等基线资料差异无统计学意义（P > 0.05），具有可比性。
+　　1.2 纳入与排除标准
+　　纳入标准：甲状腺疾病符合临床相关诊断标准者；均签署手术治疗及护理同意书者；无相关禁忌证者[3-4]。排除标准：术后复发者；甲状腺未分化癌者；颈部大血管及气管与甲状腺癌相粘连者；淋巴结转移患者；不配合护理方案者[5]。
+　　1.3 方法
+　　对照组予常规护理，患者入院后对进行相关知识宣传教育，术前做好准备工作，术后监测患者各项体征[6-7]。研究组予护理干预，具体方式如下：①心理护理干预，护理人员积极与患者进行沟通交流，对患者的心理情况进行评估，对心理状态不稳定的患者予及时疏导；例如对担心手术疼痛与预后效果的患者，护理人员用专业知识为其解答疑虑，包括手术体位、麻醉方式、解剖特点、疼痛原理等的介绍，缓解患者的焦虑、紧张情绪。②认知护理干预，患者住院期间对其进行手术相关内容的介绍，如手术目的、预后效果等，使患者及其家属对甲状腺全切除术具备基本认知。③体位护理干预，术前指导患者进行手术体位练习，术中为患者垫上背垫，保持患者头部稳定性与舒适性，降低术后疼痛感的出现率。④疼痛护理干预，术后根据患者的疼痛程度指导其正确的起身方式，减少头颈部的活动，降低疼痛感。
+　　1.4 疗效观察指标
+　　观察两组患者术后视觉模拟评分法（VAS）进行疼痛评分：满分为10分，≤3分为轻微疼痛；>3～6分为中度疼痛，能够忍受；>6～10分为强烈疼痛，难以忍受[8]。观察护理前后的心理情况，依据焦虑自评量表（SAS）、抑郁自评量表（SDS）进行评分：50分为焦虑或抑郁分界线；50～59分为轻度焦虑及抑郁；>59～69分为中度焦虑及抑郁；>69分为重度焦虑及抑郁[9]。观察两组患者术后患者收缩压（SBP）、舒张压（DBP）、心率（HR）变化情况，对结果进行统计学分析[10]。
+　　1.5 统计学方法
+　　采用SPSS 18.0统计学软件进行数据分析，计量资料数据用均数±标准差（x±s）表示，两组间比较采用t检验；计数资料用率表示，组间比较采用χ2检验，以P < 0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者术后VAS疼痛评分比较
+　　术后1 h两组患者的VAS疼痛评分比较，差异无统计学意义（P > 0.05）；术后24、48 h研究组患者的疼痛评分显著低于对照组，差异均有统计学意义（P < 0.05）。见表1。
+　　表1 两组患者术后疼痛评分比较（分，x±s）
+　　注：与对照组比较，*P < 0.05
+　　2.2 两组患者护理前后的心理状态
+　　护理前两组患者的SAS及SDS评分比较，差异无统计学意义（P > 0.05）；护理后，两组患者的心理状态均较护理前有所改善，其中研究组患者SAS及SDS评分均优于对照组，差异均有统计学意义（P < 0.05）。见表2。
+　　表2 两组患者护理前后的心理状态（分，x±s）
+　　注：与对照组护理后比较，*P < 0.05；SAS：焦虑自评量表；SDS：抑郁自评量表
+　　2.3 护理后两组患者术后血压及心率水平比较
+　　护理后研究组患者的SBP、DBP、HR水平均显著优于对照组，差异均有统计学意义（P < 0.05）。见表3。
+　　表3 护理后两组患者术后血压及心率水平比较（x±s）
+　　注：与对照组比较，*P < 0.05；1 mm Hg=0.133 kPa；SBP：收缩压；DBP：舒张压；HR：心率
+　　3 讨论
+　　近年来的相关研究表明，甲状腺全切除术由于在体位、解剖位置、麻醉方法等方面具一定特殊性，同时手术本身即能够对患者产生应激刺激，因此可能导致患者术前焦虑，术后肾上腺分泌过量造成心率加快，血压升高，身心不适会加剧术后的疼痛感，影响患者的生活质量与后期配合治疗的积极性[11-12]。本研究选取104例行甲状腺全切除手术的患者，随机分为研究组与对照组，其中研究组52例，予以护理干预，通过对患者进行全方位、多方式的护理，尽量减少可能加剧患者疼痛感知度的因素，降低患者疼痛感，并取得了一定疗效。
+　　观察两组患者手术后的VAS疼痛评分结果，可得两组患者在术后1 h时疼痛评分无显著差异，但在术后24 h及48 h研究组的VAS评分分别为（2.31±0.12）分和（1.76±0.09）分，显示轻度疼痛，且均显著低于对照组，说明护理干预能够有效降低甲状腺全切手术患者的疼痛，该结果与刘海燕等[13]的相关研究结果一致。该结果与手术前后护理干预相关，首先患者住院期间由医护人员进行相关注意事项及疼痛知识的宣教，患者能够在有关知识的指导下正确避开可能引起术后疼痛的内外部因素；其次，术中护理人员垫好患者背部，保持头部稳定性与舒适性，从而能够减轻术后由于体位原因带来的疼痛感；最后，手术后医护人员对患者进行了起身指导，有效避免了因活动头部造成疼痛。   　　观察两组患者护理前后的心理状态可得，护理前两组患者的心理状态无显著差异，护理后研究组的SAS、SDS评分均显著优于对照组。当患者产生焦虑或抑郁心理时，会激活胆囊的收缩素，该收缩素能够促进疼痛传导，造成患者疼痛感加剧，另外，躯体疼痛的患者通常表现为严重抑郁或泛发性的焦虑，即抑郁及焦虑情绪与患者的术后疼痛呈正相关[14]。由此，护理干预通过在术前对患者进行疾病及手术的认知护理干预减轻患者的紧张、不安情绪，通过心理疏导改善患者的焦虑、抑郁的心理状态，使患者保持积极、乐观的心理状态，进而降低术后疼痛。
+　　观察两组患者护理后的血压及心率水平，可得研究组的血压与心率均显著低于对照组，说明经护理，研究组患者的肾上腺分泌逐渐恢复正常，血压与心率开始下降，手术应激刺激的影响减退。上述结果证明护理干预通过多方面的护理改善患者心理状态，减轻术后疼痛感，可以有效降低甲状腺全切除手术对患者的应激刺激，提升患者术后的生活质量，保障治疗效果。另外，医护人员还可根据患者的具体情况，使用药物或器械辅助止痛，进一步减轻患者的疼痛感，但考虑到药物可能造成不良反应以及止痛器械的费用问题，使用应遵循适量原则[15]。
+　　综上所述，对甲状腺全切除患者行护理干预能够有效降低患者的术后疼痛感，改善患者心理状态，效果显著，具有临床应用价值。
+
+

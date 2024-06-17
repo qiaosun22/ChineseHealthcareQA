@@ -1,0 +1,33 @@
+
+ 　　[摘要] 目的 分析全程护理干预对自体DC/CIK细胞维持治疗的肺腺癌患者的临床疗效。 方法 选择2014年4月～2015年6月我院呼吸内科接诊的60例自体DC/CIK细胞治疗的肺腺癌患者作为研究对象。按照随机法将患者分为观察组和对照组，各30例。对照组在维持治疗后给予常规护理干预，观察组在对照组常规护理干预的基础上给予全程护理干预。复查患者肝肾功能，比较两组护理前后肝、肾功能检测指标变化、临床疗效及护理满意度。 结果 两组患者护理干预后，ALT、AST水平均降低，对照组TBIL水平降低，观察组TBIL水平下降。护理后两组患者的肝功能检测差异具有统计学意义（P<0.05）。护理后，两组患者CysC、SCr、CCr肾功能检测指标变化差异有统计学意义（P<0.05）。观察组患者总缓解率为83.33%，明显高于对照组的36.67%，两组患者临床疗效差异有统计学意义（P<0.05）。对照组总满意率为63.33%，观察组总满意率为90.00%，两组患者护理满意度差异有统计学意义（P<0.05）。 结论 全程护理干预自体DC/CIK细胞治疗的肺腺癌患者后，患者肝肾功能影响小，临床疗效显著，取得较高护理满意度，该种护理模式值得在临床广泛应用推广。
+　　[中图分类号] R473.73 [文献标识码] B [文章编号] 1673-9701（2016）15-0150-04
+　　[Abstract] Objective To analyze the clinical curative effects of whole course nursing intervention on autologous DC/CIK cells maintenance therapy for patients with lung adenocarcinoma. Methods 60 patients with lung adenocarcinoma treated with autologous DC/CIK cells who were admitted to the Department of Respiratory Medicine in our hospital from April 2014 to June 2015 were selected as research subjects. The patients were evenly assigned to the observation group and the control group according to the randomization method， with 30 patients in each group. The control group was given regular nursing intervention after maintenance therapy， and the observation group was given whole course nursing intervention on the basis of regular nursing intervention. Patient's liver and kidney functions were re-examined. Changes of test indicators of liver and kidney functions， clinical effects and nursing satisfaction degree before and after nursing were compared between the two groups. Results After nursing intervention in the two groups of patients， the levels of ALT and AST both decreased. The TBIL level was decreased in the control group， and the TBIL level was reduced in the observation group. There was statistical difference of liver function between the two groups of patients after nursing （P<0.05）. After nursing， the difference of changes of indicators of liver function CsyC， SCr， CCr was significant（P<0.05）. The overall remission rate in the observation group was 83.33%， significantly higher than that of 36.67% in the control group. The difference of clinical effects between the two groups was significant（P<0.05）. The overall satisfaction grate in the control group was 63.33%， and the overall satisfaction rate in the observation group was 90.00%. The difference of satisfaction rate between the two groups was significant（P<0.05）. Conclusion After comprehensive nursing intervention for patients with lung adenocarcinoma treated by autologous DC/CIK cells maintenance therapy the effects on liver and kidney functions are minor， the clinical effects are significant， and the nursing satisfaction rate is higher. Therefore this nursing mode is worthy of clinical widespread application and promotion.   　　[Key words] Immunotherapy； DC/CIK cells； Lung adenocarcinoma； Liver and kidney function； Whole course nursing intervention
+　　据相关数据部门统计[1]，全球最常见癌症当属肺癌，其中60%肺癌患者在确诊时已属晚期。肺腺癌属于非小细胞癌，是临床上肺癌常见组织学类型。据统计肺腺癌患者占肺癌患者的一半以上。手术、放疗、化疗等常规治疗方法临床应用疗效差。伴随生物分子技术和现代医学免疫学的飞速发展，临床上广泛应用自体免疫细胞疗法进行肿瘤治疗。近年来[2，3]，树突状细胞（dendritic，DC）/细胞因子诱导的杀伤细胞（cytokine-induced killer cell，CIK）对肺腺癌的治疗效果显著[4]。临床实践表明[5，6]，维持治疗后的合理护理模式严重影响治疗的临床疗效。本研究就自体DC/CIK细胞维持肺腺癌患者给予不同模式的护理干预，探讨护理对自体DC/CIK细胞维持治疗的肺腺癌患者的临床疗效。现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选择2014年4月～2015年6月我院呼吸内科接诊的60例自体DC/CIK细胞维持治疗肺腺癌患者作为研究对象。随机分为观察组和对照组，每组各30例。入选标准[7]：经病理学确诊为肺腺癌，年龄20～60岁，影像学资料显示病灶至少一处，预计生存期>3个月。本项研究患者知情且同意，并已签订意见同意书，且获得我院伦理委员会批准。两组患者在性别、年龄、病程、分期等一般资料方面差异无统计学意义（P>0.05），具有可比性。见表1。
+　　1.2 方法
+　　1.2.1 对照组 给予常规护理干预。
+　　1.2.2 观察组 在对照组常规护理干预基础上给予全程护理干预。①入院时干预：普及有关DC/CIK细胞维持治疗的相关知识及治疗机制，讲述肺腺癌发生的主要原因，使患者对此种治疗方式形成一定的概念。DC/CIK细胞维持治疗是通过体外培养患者自身免疫细胞进行肿瘤的治疗，不存在排异现象，是其他常规治疗的补充，杀伤肿瘤细胞作用强，清除手术残留；讲解全程护理干预对患者病情的积极作用及该护理模式成功护理的案例，增加患者治疗信心；了解并满足患者的住院需求[8]。②住院期间干预：注意观察患者住院期间的各类症状，及时给予相应护理。采取合理的方式及时与患者进行沟通，善于倾听患者的诉说，建立良好的医患关系。鼓励患者以积极乐观的态度面对肿瘤疾病。③回输细胞时的干预：细胞回输1 d前告知患者，及时讲解回输的方法及相关注意事项，抽取60例肺腺癌患者外周静脉血100 mL，使用离心机转速为3000 r/min下离心5～10 min，将单个核细胞进行分离。分离出的单核细胞首先用10%生理盐水连续洗涤至3次。随后对单个核细胞分别进行DC和CIK培养。培养当日先用含有各种细胞因子的培养基培养DC细胞，换液时间为半天；用无血清生长培养基培养CIK细胞，平均每2～3天更换一次培养基。连续培养8 d后，于第9天细胞成熟时，混合CIK细胞进行联合培养。在细胞培养第11天，检测细菌、真菌等微生物培养情况，待各项指标达到标准后，收集DC/CIK细胞。用无菌生理盐水连续洗涤收集的细胞3次，将培养好的细胞分装成5袋，在每个输液袋中加入5%人血清蛋白。患者每天回输1袋，规定每6次为1个疗程，连续治疗2个疗程；④出院时的干预：嘱托患者按时进行下次治疗的时间，通常是第1次治疗时间为3～5个月，治疗1个月后再进行第2次治疗，再隔1个月进行第3次治疗。叮嘱患者及家属注意出院后的饮食习惯，主要为清淡食物。每天保持充足睡眠，鼓励患者多去户外活动锻炼身体。
+　　结束治疗后，抽取所有患者静脉血5 mL，检测两组患者肝肾功能各项指标变化情况，评价各自护理模式干预后两组患者的临床治疗疗效及对所用护理模式的满意度。
+　　1.3 观察指标
+　　1.3.1 临床疗效评价标准[9，10] 分为以下4个等级：完全缓解（CR）、部分缓解（PR）、疾病稳定（SD）、疾病进展（PD），总缓解率=（CR+PR）/总病例数×100%。
+　　1.3.2 护理满意度评价标准 向患者发放我院自制满意度调查表，分值100分，分设10个大题。根据分值划分为以下4个等级：非常满意：90～100分；满意：80～89分；比较满意：70～79分；不满意：70分以下。总满意率=（非常满意+满意+比较满意）/总病例数×100%。
+　　1.3.3 肝功能检测指标 门冬氨酸氨基转移酶（AST）、丙氨酸氨基转移酶（ALT）、血清总胆红素（TBIL）。
+　　1.3.4 肾功能检测指标 血清胱抑素C（CysC）、血肌酐（SCr）、内生肌酐清除率（CCr）。CysC正常范围值0.88～1.09 mL/min；SCr女性正常范围值53.0～88.0 μmol/L，男性正常范围值70.0～106.0 μmol/L；CCr女性正常范围值（95±20）mL/min，男性正常范围值（105±20）mL/min。
+　　1.4 统计学分析
+　　选择SPSS18.0统计学软件进行数据统计，计量资料以均数±标准差（x±s）表示，比较采用t检验，计数资料比较采用χ2检验，等级资料比较采用秩和检验（Wilcoxon两样本比较法）进行，P<0.05为差异具有统计学意义。
+　　2 结果
+　　2.1 两组患者护理前后肝功能检测指标变化比较
+　　两组患者护理干预后，ALT、AST及TBIL水平均下降，观察组下降更显著。护理后两组患者的肝功能检测差异具有统计学意义（P<0.05）。见表2。
+　　2.2 两组患者护理前后肾功能检测指标变化比较
+　　护理后两组患者CysC、SCr、CCr肾功能检测指标比较差异有统计学意义（P<0.05）。见表3。   　　2.3 两组患者临床疗效比较
+　　观察组患者总缓解率为83.33%，明显高于对照组总缓解率36.67%，两组患者临床疗效差异有统计学意义（P<0.05）。见表4。
+　　2.4 两组患者护理满意度比较
+　　对照组总满意率为63.33%，观察组总满意率为90.00%，明显高于对照组，两组患者护理满意度差异有统计学意义（P<0.05）。见表5。
+　　3 讨论
+　　据临床相关数据统计[11-14]，肺癌现已成为我国癌症死亡的主要原因，近几年的发病率呈上升趋势，严重威胁着人们的身心健康。肺腺癌占据肺癌患者的一半以上。新型的治疗方法当属自体DC/CIK细胞维持治疗，DC得名于其特殊的形态，典型树突状。在细胞学上DC属于异质性细胞群体，MHC-Ⅱ类分子、黏附分子、辅助刺激分子等能在DC细胞表面得到显著表达，从非免疫组织进行迁移，迁移至淋巴器官后，使T细胞得以活化并且进行增殖。DC细胞是抗原传递最为高效的细胞，经过临床专家的广泛研究之后，DC成为抗肿瘤疫苗中的主要成分。树突能捕获和呈递肿瘤相关抗原，使CTL和T细胞的繁殖能在其辅助下进行。因此，DC在维持和激发机体免疫应答中的作用显著。CIK细胞能杀死一定数量的T淋巴细胞及肿瘤细胞。大量研究表明[15-17]，CIK细胞特异性能使肿瘤细胞及肿瘤细胞分泌的各种因子溶解。在DC和T细胞的共同作用下，CIK细胞能发挥其消除肿瘤细胞的能力，提高疫苗效果。将DC和CIK进行组合能达到长期控制肿瘤生长的作用，使肿瘤患者全身抗肿瘤活性增强。此方法与传统化疗、手术等常规方法相比能显著提高治疗的疗效且对患者的毒副作用小。但长期临床实践结果显示，自体DC/CIK细胞维持治疗后相应的护理模式在一定程度上影响治疗疗效。本研究针对以上原因，研究全程护理干预对采用自体DC/CIK细胞维持治疗肺腺癌患者的临床疗效影响，旨在为临床治疗肺腺癌提供高效安全的护理模式。
+　　本研究结果显示，30例患者在常规护理基础上给予全程护理，ALT、AST水平均升高，TBIL水平下降至（10.23±1.05）μmol/L；常规护理干预的患者，ALT、AST、TBIL水平升高，ALT水平由护理前的（35.46±8.79）U/L，升高至（48.78±10.03）U/L，护理后各检测指标与全程护理干预患者比较差异有统计学意义。比较两种护理模式干预的患者肾功能检测指标的变化，结果显示，常规护理干预的患者护理后的CysC恢复至正常范围值（0.90±0.21）mL/min，SCr、CCr水平恢复程度低。全程护理干预的患者护理后CysC、SCr、CCr水平均恢复至正常范围值，SCr水平为（90.79±13.03）μmol/L。可见全程护理能显著降低患者的肝肾功能损害，从而在一定程度上保护患者的肝肾功能。相比相关报道[18]，本研究所用的全程护理能显著降低患者肝功能损害。全程护理干预的30例患者，25例病情得到明显好转，总缓解率为83.33%；常规护理干预的30例患者，仅有11例患者病情得到缓解，总缓解率为36.67%。该结果符合相关报道[19]，给予自体DC/CIK细胞治疗的肺腺癌患者全程护理干预，能提高患者临床治疗疗效。给予常规护理干预的患者，护理总满意率为63.33%；给予全程护理的患者总满意率为90.00%，明显高于某研究[20]报道的满意率，可见护理满意度得到明显提高。
+　　综上，全程护理干预自体DC/CIK细胞治疗的肺腺癌患者后，对患者肝肾功能影响小，临床疗效显著，取得较高护理满意度，该种护理模式值得在临床广泛应用推广。
+
+

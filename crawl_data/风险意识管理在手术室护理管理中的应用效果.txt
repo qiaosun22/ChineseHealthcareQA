@@ -1,0 +1,32 @@
+
+ 　　[摘要]目的 探?风险意识管理应用在手术室护理管理中的效果。方法 选取2015年1月～2016年9月在我院接受手术治疗的600例患者，随机均分为实验组和对照组，每组各300例。实验组应用风险意识管理，对照组接受手术室常规护理，对比两组发生的风险事件、投诉纠纷情况、对护理的满意程度，并评价其临床效果。结果 实验组发生风险合计13例（4.33%），相比对照组风险事件发生总数33例（11.00%）大幅减少，差异有统计学意义（P<0.05）。实验组患者的医疗纠纷和投诉均为1例，对照组投诉15例，纠纷8例，实验组明显减少，差异有统计学意义（P<0.05）。实验组对护理满意度各项评分相比对照组明显更高，差异有统计学意义（P<0.05）。结论 风险意识管理的应用，通过逐步增强护理人员自身的风险意识，护理人员更加应认真仔细工作，可以减少各类风险的发生，对于减少医疗纠纷、缓解医患关系以及增强患者对于护理团队的满意度都具有重要的意义，值得临床推广。
+　　[中图分类号] R473.6 [文献标识码] A [文章编号] 1674-4721（2016）12（b）-0165-03
+　　Application effects of risk awareness management in nursing management of operating room
+　　DUAN Min1 SHI Lei2
+　　1.Operation Room，People′s Hospital of Wuning County in Jiangxi Province，Wuning 332300，China；2.No.2 Department of Surgery，People′s Hospital of Wuning County in Jiangxi Province，Wuning 332300，China
+　　[Abstract]Objective To explore the application effects of risk awareness management in the nursing management of operating room.Methods A total of 600 patients undergoing surgical treatment in our hospital from January 2015 to September 2016 were randomly divided into experimental group and control group，with 300 patients in each group.Risk awareness management was applied in the experiment group，and regular nursing was applied in the control group.The occurrence of risk events，complaints and disputes，the degree of satisfaction towards nursing care were compared between two groups and clinical effects were evaluated.Results There were 13 cases （4.33%） of risk events in the experimental group，significantly lower than 33 cases （11.00%） in the control group，and the difference was statistically significant （P<0.05）.In the experimental group，medical dispute and complaint was seen in 1 case respectively，significantly lower than 15 complaints and 8 disputes in the control group，and the difference was statistically significant （P<0.05）.The scores of nursing satisfaction in the experimental group was significantly higher than that in the control group，and the difference was statistically significant （P<0.05）.Conclusion The application of risk awareness management is gradually strengthened by the nursing staff′s own risk consciousness，and the nurses are more careful in the work，which can reduce the occurrence of various kinds of risks.It is of great significance to reduce the medical disputes，relieve the doctor-patient relationship，and enhance the satisfaction of the patients to the nursing team，which is worthy of clinical promotion.   　　[Key words]Operation room；Risk management；Satisfaction
+　　现阶段我国的医疗现状不容乐观，医疗过程中护理纠纷也是频频发生，减少及避免事故的发生已经成为目前医务人员不可忽视的问题。风险管理理论近阶段在医疗卫生的管理中开始被广泛应用，是一种非常先进的管理理论[1]。手术室是患者接受手术救治的重要场所，手术室内的护理工作具有量多、时长、高效等特点[2]。手术室由于其性质的特殊，是风险高发的地方，术中存在很多变数，安全隐患以及危险因素多且复杂，往往难以预防，手术室的管理至关重要，更应包括风险管理。手术室护理工作的管理在护理日常工作中每个环节都有所体现，能否处理好护理工作甚至直接影响手术的成功，也对患者的恢复情况有影响[3]。重视手术室的风险管理，提升护理质量，对于维持手术室的秩序、对患者及医护人员都有重要的意义。现报道我院给予手术患者给予风险意识管理护理取得的效果如下。
+　　1资料与方法
+　　1.1一般资料
+　　选择2015年1月～2016年9月在我院接受手术治疗的600例患者，所有患者在此期间只在我院行手术治疗，若在外院接受过手术治疗的患者不予纳入，所有手术均经过医院医疗委员会同意批准，所有患者均知情同意并签署了知情同意书；每个月手术患者随机均分为两份，后相加作为实验组和对照组，每组300例。对照组中，男性172例，女性128例；年龄7～78 岁，平均（42.3±6.9）岁；病程2 h～12年，平均（4.3±0.8）年；微创手术130例，开放式手术170例。实验组中，男181例，女119例；年龄3～85岁，平均（39.3±7.2）岁；病程12 h～18年，平均（4.5±1.1）年；微创手术143例，开放式手术157例。两组患者性别、年龄、病程、术式等一般资料比较，差异无统计学意义（P>0.05），具有可比性。
+　　1.2护理方法
+　　对照组予以术前访视、仪器准备、手术器械准备等手术室常规护理，而实验组在此基础上施行风险管理的手术室护理模式，具体如下。
+　　1.2.1术前的风险管理 在患者进入手术室后，手术室责任护士对患者的年龄、性别、床号、住院号、手术时间、疾病诊断、手术方式、手术名称等各项相关信息进行严格的核对，与患者交流，确保患者各项基本信息与手术通知单完全符合。手术室护理人员综合评估患者全身情况，对患者的疾病史、过敏史以及其他手术外伤史进行确认，同时应密切观察患者的肢体功能和生命体征情况。如果患者意识清醒，那么核实工作均应由患者亲自完成；如不清醒，应由家属代替完成。在术前应预先评估患者可能在术中出现的风险与意外，并提前准备应对措施[4]。
+　　1.2.2术中的风险管理 针对不同的手术，护理人员要在术前准备好所有的手术器材和用具，如消毒液、手术服装、无菌单等，并反复核查，确保材料准备齐全完备，同时对所要用的药品进行常规检查核对，保证无误，调整好患者的体位和舒适度，以便手术。术中，暴露应完全，床挡装好避免意外发生。术中严格无菌要求，集中注意力，积极配合医生，在手术后检查患者的切口缝线情况、清点好手术器械和用具并反复核实清楚。在缝合前应检查清楚，避免物品遗落在患者体内。术中药剂的使用量要严格遵医嘱，药品名称应与医生反复确认，并核查患者基本资料、剂量、时间及药品种类等，确保药物使用正确。同时要对输液袋进行检查，确保无包装质量问题后使用。给予抗生素时，要先行过敏测试，避免患者出现变态反应；如有变态反应，则不予使用。需要输血时，须正确书写配血单送往血库，拿血袋时核对好血型、血量、测试结果等，要保证信息相符；在确定没有问题后将血液取回，在手术室再次核实后再输血，输血过程中观察患者的反应。术中要密切注意生命体征，瞳孔、血压、心率等监测指标，出现问题及时报告医生[5]。在手术室管理过程中应坚持“以人为本”，合理安排医护人员的作息时间，避免疲劳工作所带来的风险[6]。
+　　1.2.3术后的风险管理 术后如需送检标本时，应将病理单填写全面，标本标识正确，待申请通过审核后送病检。术后处理好术中产生的污物，安排相关人员处理，器材完好的送去消毒等工作。出于自我保?o，护理人员也应尽可能地将危险因素、可能出现的问题给患者家属解释清楚，以取得家属的理解。护理人员要加强自身学习，护士只有不断地强化培训专业知识，才可以提高风险防范的“免疫力”[7]。手术室护理相关人员要提升自我风险意识，应定期组织相关学习。
+　　1.3观察指标
+　　对比两组患者在术前意外、准备失误、记录错误、操作失误、术后感染五方面的发生率，发生的医疗纠纷和投诉的数量。护理满意度则采用自行设计的优质护理调查表对患者调查，该表包含了16个问题，手术工作满意度、服务态度满意度、专业技术满意度、生活指导满意度共4个方面，总分为100分，每个方面分数为25分，分数越高，患者对护理工作的满意度越高[8]。
+　　1.4统计学分析
+　　采用SPSS 17.5软件对数据进行处理，计量资料用均数±标准差（x±s）表示，采用t检验，计数资料用百分率（%）表示，采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1两组患者风险发生情况的比较
+　　实验组发生各类风险13例（4.33%），对照组为33例（11.00%），两组发生风险所占比例比较，差异有统计学意义（P<0.05）（表1）。
+　　2.2两组医疗纠纷与投诉的比较
+　　两组患者投诉与医疗纠纷比较，实验组显著低于对照组。其中实验组投诉1例，对照组投诉15例，差异有统计学意义（χ2=12.59，P<0.05）；实验组医疗纠纷1起，对照组8起，差异有统计学意义（χ2=5.53，P<0.05）。
+　　2.3两组患者对护理满意度评分的比较
+　　实验组患者对于护理满意度4个方面的评分均较对照组高，差异有统计学意义（P<0.05）（表2）。   　　3讨论
+　　手术室风险是在术中相关危险因素导致的致死、致伤等事件，手术室由于性质的特殊性，常常有较高频率的风险发生[9]。随着我国社会的快速发展，医疗水平也在逐渐进步，但是医疗水平的发展并没有很大程度增强手术室的风险意识，医疗纠纷仍然层出不穷[10]。手术室的风险虽然不可能完全地避免，但是可以采取有效手段来尽量地减少风险以及事故的发生[11]。手术室的护理也是重要的一环，其对于外科手术的重要性也是毋庸置疑的。相关研究显示，由于手术室护理存在其特殊性，所以发生风险事件也是尤为突出的，在伤患处理、常规护理以及配合抢救等环节中，提高管理风险意识，对于患者预后的改善具有重要的临床意义[12]。
+　　风险管理的护理管理模式的有效实施，确实能显著提高手术室的护理工作质量。本研究的结果显示，实验组发生风险事件总数相比对照组明显降低，差异有统计学意义。实验组患者的投诉与医疗纠纷事件数较对照组明显减少，差异有统计学意义。实验组患者对于护理满意度的4个方面评分都比对照组高，差异有统计学意义。由此可见，在手术室护理工作中实施风险意识管理模式，相关护理人员对手术室的护理工作更加积极负责地完成，大幅提高了手术室的护理质量。风险意识管理的手术室护理模式能够有效帮助医患减少手术室发生风险事件的概率，保证了手术的安全流畅，更加提高了患者对于手术治疗的效果以及对治疗的满意程度，从而提高了手术室的护理质量，使患者对于护理更加满意，减少了医疗纠纷的发生[13-15]。
+　　综上所述，风险意识管理在手术室的护理中具有重要的作用，有效减少了各种手术带来的相关风险，减少了医疗纠纷事件的发生，也提高了患者对于患者服务的满意程度，在日常的手术室护理工作中有重要的临床价值，应该大力推广。
+
+

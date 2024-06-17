@@ -1,0 +1,35 @@
+
+　　[摘要] 目的 探讨延伸护理干预对胸腰椎骨折患者出院后身心健康恢复的影响。 方法 回顾性分析2012年2月～2014年2月浙江省台州市黄岩区中医院骨科病房胸腰椎骨折患者62例，将未实施延伸护理干预的31例作为对照组，实施延伸护理干预的31例作为观察组，对照组实施传统复诊及电话随访，观察组实施延续护理干预，比较两组出院时和出院后4周心理状态和生活质量。 结果 出院时对照组和观察组生活质量分别为（6.36±1.31）、（6.45±1.26），差异无显著性（t=0.28，P>0.05）；出院第4周生活质量比较，对照组和观察组分别为（5.34±1.28）、（4.24±1.41），差异有显著性 （t=3.22，P<0.01）；出院时SAS评分和SDS评分，对照组分别为（43.35±5.14）、（44.62±5.56），观察组分别为（42.41±6.36）、（43.39±5.47），差异无显著性（t=0.64～0.88，P>0.05）；出院第4周SAS评分和SDS评分，对照组分别为（39.14±6.17）、（39.31±6.42），观察组分别为（35.27±5.19）、（36.26±5.31），差异有显著性（t=2.03～2.67，P<0.05）。 结论 延伸护理干预能显著改善胸腰椎骨折出院后心理状态，提高生活质量。
+　　[中图分类号] R473.6 [文献标识码] B [文章编号] 1673-9701（2014）31-0085-03
+　　Influence of extended care intervention on physical and mental health recovery in thoracolumbar fractures after discharge
+　　CAI Wei1 WANG Linghua2 LIN Juxian1 XU Qiang2 ZHU Rangteng2 GUAN Minchang2
+　　1.Department of Orthopedics， Huangyan Hospital of Traditional Chinese Medicine in Zhejiang Province， Taizhou 318020，China；2. Department of Orthopedics， Taizhou Enze Medical Center Luqiao Hospital， Taizhou 318050，China
+　　[Abstract] Objective To investigate the influence of extended care intervention on physical and mental health recovery in thoracolumbar fractures after discharge. Methods A total of 62 patients with thoracolumbar fracture were retrospectively analysed from the department of orthopedics， Huangyan Hospital of traditional Chinese medicine in Zhejiang Province， from february 2012 to february 2014， thirty-one patients before extended care intervention were selected as the control group and thirty-one patients after extended care intervention were selected as the observation group. The control group adopted the traditional return visit and telephone follow-up and the observation group adopted extended care intervention， then the mental state and quality of life was compared when and after discharge between the two groups. Results The quality of life when released from the hospital， the score was（6.36±1.31）and （6.45±1.26） in control group and in observation group respectively， there were no significantly difference between the two groups （t=0.28， P>0.05）. The quality of life on the fourth week after discharged， the score was（5.34±1.28）and（4.24±1.41）in control group and in observation group respectively， there were significantly difference between the two groups（t=3.22， P<0.01）.The SAS and SDS when released from the hospital， the score was（43.35±5.14）and （44.62±5.56）in control group and in observation group respectively， there were no significantly difference between the two groups （t=0.64-0.88， P>0.05）. while the SAS and SDS on the fourth week after discharged， the score was（39.14±6.17）and（39.31±6.42）in control group respectively， the score was（35.27±5.19）and（36.26±5.31）in observation group respectively， there were significantly difference between the two groups（t=2.03-2.67， P<0.05）. Conclusion Extended care intervention can improve mental state in thoracolumbar fractures after discharge， and it also can improve the quality of life.   　　[Key words] Extended care intervention； Thoracolumbar fractures； Quality of life； Mental state
+　　延续护理服务是面向有医疗性护理需求的出院患者提供的医疗护理、康复促进、健康指导等服务，是住院护理服务的延伸[1]。由于胸腰椎骨折患者需卧床时间长、恢复慢，易发生压疮、便秘等并发症[2]，甚至出现消极情绪[3]，严重影响患者生命健康及生存质量[4]。延续护理服务可以跟踪患者出院后病情的变化，通过心理和行为指导，提供针对性的专科护理措施，从而提高生活质量。2012年2月～2014年2月浙江省台州市黄岩区中医院骨科对胸腰椎骨折术后出院患者采用延续护理干预，取得良好效果。现报道如下。
+　　1资料与方法
+　　1.1临床资料
+　　回顾性分析2012年2月～2014年2月浙江省台州市黄岩区中医院骨科病房胸椎或腰椎骨折患者62例，其中男35 例，女 27例；年龄20～50岁，平均（38.48±8.57）岁，住院时间20～40 d；将未实施延续护理干预的31例作为对照组，实施延续护理干预的31例作为观察组，对照组出院后予传统复诊及电话随访，观察组出院后予延续护理干预。两组的年龄、性别、部位、住院时间等均具有可比性（P>0.05），见表1。
+　　表1 两组患者的性别、部位、年龄、住院时间比较
+　　1.2 排除标准
+　　①治疗前有心理疾病者；②胸腰椎联合骨折或畸形者；③治疗前无生活自理能力者；④资料不全者。
+　　1.3 延续护理干预
+　　1.3.1 成立延续护理小组 2013年2月由研究者和专家讨论后，提出延续护理小组成员必须具备以下条件：①具有2年以上脊柱外科责任护士的工作经历；②脊柱外科专科护士；③良好的沟通、协调及表达能力；④脊柱外科工作中带教老师或骨干护士。根据以上条件随机选出8名护士，由研究者对其进行系统培训。培训内容重点突出胸腰椎骨折延续护理健康教育的内容和方法与家庭访视的规范和方法以及资料收集的内容和要求。培训结束后，由研究者对护士进行理论知识考核与模拟病例考核。研究者和专科责任护士主要负责胸腰椎骨折患者出院和家访时的评估。胸腰椎骨折延续护理小组成员共同负责胸腰椎骨折患者出院后的随访工作，并对胸腰椎骨折患者出院后的饮食、用药、心理卫生、康复锻炼、复诊、并发症的观察及护理、依从性等通过定时随访进行监督，保证胸腰椎骨折延续护理的顺利进行。
+　　1.3.2制订延续护理计划 ①出院前评估：出院前3 d由研究者和专科责任护士对患者进行全面评估，主要包括心理状态和生活质量等；②建立患者的信息档案：内容包括姓名、性别、年龄、住址、电话、文化程度和爱好、胸腰椎骨折及手术情况、饮食和睡眠状况、精神和心理状况及需重点观察指导的护理问题等，并约定最有效的沟通方式；③出院前健康教育：对患者给予针对性的健康教育及指导，出院当天制定出院后护理计划，包括康复锻炼、饮食、服药、复诊等内容；④制订延续护理计划：告知患者及其家属出院后由延续护理小组成员每周五下午采取一对一延续护理；⑤收集患者资料：出院后第4周由研究者和专科责任护士进行家庭访视，并填写相应的量表。
+　　1.3.3 延续护理实施 ①护理支持：延续护理小组成员继续给予局部护理，并进行饮食、睡眠、体位等方面指导，多进食优质蛋白食物，宜进食富含维生素、纤维素及易消化食物，禁食烟酒及辛辣食物，多饮水，每日饮水量1500 mL避免脱水造成大便干结[5]；保持床铺柔软平整、清洁干燥，预防压疮发生，鼓励患者咳嗽，以利于增加肺活量，及时清除呼吸道分泌物；②功能训练：指导患者作抬腿、抬臀、五点支撑等，并过渡到在腰围的支持下离床活动，保持脊椎过伸位，避免弯腰动作，行走时双手撑腰[6]；③心理支持：胸腰椎骨折患者常存在消极情绪，影响疾病康复。延续护理小组成员根据患者思想动态，针对患者不同文化层次、职业、社会地位等采取相应的教育方法，增强其对战胜疾病的信心，避免出现抑郁和焦虑等心理，鼓励患者表达自己的真实感受，发泄不愉快情绪或培养多种兴趣，以缓解负性心理[7]；④家庭社会支持：向家属介绍家庭支持对提高患者生存质量的正性作用，使患者得到更多的关心和照顾。
+　　1.3.4 家庭访视 研究者和专科责任护士在患者出院后第4周进行家庭访视，填写胸腰椎骨折患者随访记录单。对患者身体状况的评估：如心理状态采用焦虑自评量表（Self rating Anxiety Scale，SAS）和抑郁自评量表（Self rating Depression Scale，SDS）评分进行评估[8]；生活质量（Quality of life，QOL）评估[9]：包括身体功能、角色功能、情绪功能、社会功能4个方面进行评估。
+　　1.4 统计学方法
+　　采用SPSS 17.0统计学软件进行分析，计量资料以（x±s）表示，采用t检验，计数资料比较采用χ2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　两组出院时SAS和SDS比较，差异无显著性（t=0.64～0.88，P>0.05）；两组出院第4周SAS和SDS比较，观察组显著低于对照组（t=2.03～2.67，P<0.05）。两组出院时QOL比较，差异无显著性（t=0.28，P>0.05）；出院4周后QOL比较，观察组显著低于对照组（t=3.22，P<0.01）。见表2。
+　　表2 两组胸腰椎骨折患者出院时和出院第4周心理状态和
+　　生活质量比较（x±s，n=31）
+　　3讨论
+　　3.1延伸护理干预的意义
+　　延续护理是具有高级实践经验的护士对患者在疾病康复过程或稳定过程中提供家庭随访服务及详尽的出院后实施计划。吉云兰等[10]对高血压患者采用个体化延续护理，显著提高了患者生理机能和心理社会机能。近年来，延续护理干预逐渐应用于骨科术后患者，但有关延续护理干预对胸腰椎骨折术后心理状态和生活质量的影响国内外报道不多。传统的护理模式特别强调对胸腰椎骨折患者住院期间进行综合干预，出院后患者只能通过门诊复诊来获取相关的疾病知识和康复信息，随着时间的延续，患者的遵医行为明显下降[11]。   　　张素超[12]研究表明，延伸护理服务可使患者经常接受到来自医院的健康指导，可有效改善患者不良生活习惯，提高患者遵医行为，从而达到对疾病的控制。本研究显示，延续护理干预可显著改善患者生活质量（t=3.22，P<0.01）。通过延续护理干预，出院第4周SAS和SDS比较，对照组分别为（39.14±6.17）、（39.31±6.42），观察组分别为（35.27±5.19）、（36.26±5.31），差异有显著性（t=2.03～2.67，P<0.05），提示延续护理干预可显著改善患者消极情绪，与文献基本相符。提示延续护理可有效提高治疗效果，促进患者康复。
+　　3.2延伸护理干预的必要性
+　　胸腰椎骨折是临床较为常见的骨科疾病。由于胸腰椎骨折患者多为年轻患者，为家庭顶梁柱，如果需平卧时间较长，不能继续工作和正常生活，严重者可造成全瘫、截瘫等严重不良后果，多数患者在心理上难以接受，甚至对生活失去信心，会出现焦虑、抑郁等不良情绪，严重影响患者的生活质量。
+　　传统意义上的护理模式往往局限于患者住院期间，由于场地、时间和人员的各种限制而导致护理和健康教育的远期效果不是很理想，特别对需要长期康复训练的功能障碍患者出院后会出现护理断层，不利于疾病的痊愈和功能恢复。延伸护理模式是基于人文关怀理论之上，能够有效弥补传统护理模式的不足。延伸护理小组成员定期与患者接触，通过语言与非语言行为直接或间接地影响患者感觉、认识、情绪、态度和行为，从而减轻或消除患者不良的心理反应。
+　　有研究表明[13]，胸腰椎骨折后3个月内是进行康复训练的最佳时机，并且出院后 1 个月内是患者及其家属康复护理指导的关键时期。早期有序地开展康复护理训练有利于预防术后并发症，防止下肢肌肉萎缩，促进胸腰椎骨折患者功能康复[14]。延伸护理通过指导胸腰椎骨折患者康复训练的方法及注意事项，使患者的运动和日常自理能力获得最大限度的康复[15]。因此，延伸护理干预是胸腰椎骨折患者一种有成本效益的健康护理，具有良好的社会效益及经济效益。
+　　综上所述，胸腰椎骨折患者容易出现消极情绪，使生活质量明显下降。延伸护理干预可有效减轻患者消极心理，改善生活质量。开展延续护理服务可以满足人们群众看病和就医的需求，提高医院服务质量和运行效率，有效提高治疗效果，促进患者康复，对缓解“看病难、看病贵”问题具有重要意义。
+
+

@@ -1,0 +1,34 @@
+
+ 　　[摘要] 目的 分析?t养一体化护理模式对老年卒中后遗症期患者康复的影响。 方法 选择我院2014年3月～2015年12月收治的150例老年卒中后遗症期患者作为本次的研究对象，分为常规组与实验组，每组均75例患者。常规组患者采取一般护理模式，实验组患者采取医养一体化护理模式，对比两组的护理效果。 结果 护理前两组患者ADL评分无明显差异（P>0.05），护理后12个月实验组评分明显高于常规组（P<0.05）；护理前两组患者抑郁评分无明显差异（P>0.05），护理后实验组评分明显低于常规组（P<0.05）；随访期间，实验组2例患者复发，复发率为2.67%（2/75），常规组8例患者复发，复发率为10.67%（8/75），实验组卒中复发率明显低于常规组（P<0.05）。实验组与常规组平均医疗服务费用分别为（53355.26±1992.33）元与（57145.22±1785.23）元，实验组费用略低，两组费用无显著性差异（P>0.05）。 结论 对老年卒中后遗症期患者采取医养一体化护理模式的应用效果显著，可有效改善患者不良情绪，提高日常生活能力，促进疾病的早日康复。
+　　[中图分类号] R473.4 [文献标识码] B [文章编号] 1673-9701（2017）08-0157-04
+　　[Abstract] Objective To analyze the effect of integrated medical care model on rehabilitation of elderly patients with stroke sequelae. Methods 150 cases of elderly patients with stroke sequelae in our hospital from March 2014 to December 2015 were selected as the study subjects. They were divided into two groups including the conventional group and the experimental group， with 75 cases in each group. The patients in conventional group was treated with the general care model， and the the patients in experimental group was used integrated medical care model.The nursing effects between the two groups were compared. Results There were no significant differences in ADL scores between the two groups before care（P>0.05）. The ADL score of the experimental group was significantly higher than that of the conventional group at 12 months after treatment （P<0.05）. There was no significant difference in depression scores between the two groups before treatment（P>0.05）. And the depression score of the experimental group was significantly lower than that of the conventional group after treatment（P<0.05）. There were 2 patients with recurrence in the experimental group through follow-up， and the recurrence rate was 2.67%（2/75）. While there were 8 patients with recurrence in the conventional group through follow-up，and the recurrence rate was 10.67% （8/75）， indicating that the recurrence rate in the experimental group was significantly lower than that in the conventional group（P<0.05）. The average cost of medical treatment in the experimental group and the conventional group was（53355.26±1992.33） and（57145.22±1785.23） respectively. The cost of the experimental group was slightly lower， and there was no significant difference between the two groups（P> 0.05）. Conclusion The application effect of taking the integrated medical care model is significant for elderly patients with stroke sequelae.It can effectively improve the negative emotions of patients and ability of daily life and improve the early recovery of the disease.   　　[Key words] Elderly； Stroke sequelae； Rehabilitation； Medical care integration
+　　近些年来，随着社会老龄化程度的加剧，导致老年卒中的发病率逐年递增，虽然在急性期患者通过积极的临床干预可挽救其生命，但是多数患者仍然存在后遗症[1，2]。有关研究指出[3，4]，75%左右的老年卒中患者存在不同程度的劳动能力丧失情况，导致患者身心健康与日常生活能力受到了严重的影响，增加了患者的痛苦，给患者家庭、社会带来了沉重的负担。所以对老年卒中后遗症期患者采取积极有效的临床干预的意义重大，其中医养一体化护理模式属于一类新型的医养结合护理模式，可集养老、护理、医疗、康复、生命关怀、心理关爱为一体[5]。为对该类护理模式的应用效果进行更加深入的临床分析，本文将相关资料总结如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选择我院2014年3月～2015年12月收治的150例老年卒中后遗症期患者作为本次的研究对象，所有患者均经过美国脑卒中临床诊断标准确诊[6]，所有患者病程均≥12个月，均处于卒中后遗症期，伴有肢体功能障碍情况，未出现语言障碍情况，对本次实验均知情同意；同时将伴有肝、肾功能不全，恶性进行性高血压，恶性肿瘤，呼吸功能衰竭，伴有精神病史的患者排除。
+　　计算机随机分组方案分为常规组与实验组，每组均75例患者。常规组男40例，女35例，年龄61～87岁，平均（74.23±3.52）岁；实验组男41例，女34例，年龄60～86岁，平均（74.22±3.48）岁。将两组老年卒中患者的基础资料进行统计分析后表示无明显差异（P>0.05），说明具有良好的可比性。
+　　1.2 方法
+　　常规组：采取一般护理模式，即嘱咐家庭成员照顾好患者，且护理人员进行相应的指导，告知患者应居住在家中，家庭成员为患者实施生活护理，每隔1个月护理人员进行电话随访1次，了解患者实际病情，并指导其正确用药。
+　　实验组：采取医养一体化护理模式，主要内容包括：（1）设置养老会所：应将会所设置在社区，且距离医院的路程不长，在会所内可设置游艺中心，提供麻将、台球、书法、扑克、唱歌厅等，可供老年人群娱乐，还可设置餐厅、康复训练室、理疗室、阅览室、健康管理中心等，有利于供老年患者进行康复理疗。可将会所设置为普通养护区与专业护理区，其中前者可供非疾病老年人群使用。由医院选派主任医师、主治医师、护士长、康复治疗师、护士等对会所进行管理，其中实验组患者均安排至专业护理区进行日常护理[6-7]。（2）安排日常生活：上午可组织老年患者集体读书、看报、绘画、书法、唱歌等，秉持自愿参与的原则，下午可组织患者玩台球、扑克、麻将等作业训练，并依据患者肢体功能合理进行选择，晚饭后可指导患者在卧位状态进行冥想，可配合轻柔舒缓的音乐等，利于辅助患者入睡[8]。（3）建立与社会的联系：每隔3个月组织养老会所内身体恢复良好、知识丰富的老年患者前往医院相关科室对住院患者进行1次讲座，凭借自身的康复经验进行讲解，可让医院住院患者切身体会到康复效果[9]。（4）建立与医院的联系：每例患者应戴好胸牌，胸牌上标识有医院专科护士、家属的联系电话，出现特殊情况可即刻联系到医护人员，并在第一时间到达，做好相应的处理[10-11]。其中主管医生对住院收治指征严格掌握，等到老年患者病情处于恢复期或者达到出院标准后可由医院转送至养老会所进行养护。
+　　1.3 评价指标与判定标准
+　　1.3.1 ADL评分 采取Barthel指数评定量表进行评价，包括进食、洗澡、刮脸、刷牙等，轻度残疾为评分超过60分，中度残疾为40～60分，重度残疾为20～39分，完全残疾低于20分[12]。
+　　1.3.2 抑郁情绪评分 选择汉密尔顿抑郁量表（HAMD）进行评价，无抑郁症状为评分低于8分，轻度抑郁为≥8分，中度抑郁为≥17分，重度抑郁为≥24分[13]。
+　　1.3.3 比较两组患者卒中复发率。
+　　1.3.4 比?^两组患者医疗服务费用。
+　　1.4 统计学方法
+　　采用SPSS20.0的统计学软件对数据进行统计分析，计数资料用百分比、率表示，比较行χ2检验，计量资料用均数±标准差（x±s）表示，比较行t检验，P<0.05为差异具有统计学意义。
+　　2 结果
+　　2.1 两组患者护理前后ADL评分比较
+　　护理前两组患者评分无明显差异（P>0.05），护理后12个月实验组评分明显高于常规组（P<0.05），见表1。
+　　2.2两组患者护理前后的抑郁评分比较
+　　护理前两组患者抑郁评分无明显差异（P>0.05），护理后实验组评分明显低于常规组（P<0.05），见表2。
+　　2.3 两组患者卒中复发率比较
+　　实验组随访中有2例患者复发，复发率为2.67%（2/75），常规组8例患者复发，复发率为10.67%（8/75），实验组卒中复发率明显低于常规组（χ2=5.486，P<0.05）。
+　　2.4 两组患者医疗服务费用比较
+　　实验组与常规组平均医疗服务费用分别为（53355.26±1992.33）元与（57145.22±1785.23）元，实验组费用略低，两组费用无显著性差异（t=0.901，P>0.05）。住院费用是该类疾病患者经济负担的一项重要内容，其住院费用来自卒中后复发再住院，结果显示实验组医疗服务费用低于常规组，减少了该类疾病需要的医疗费用支出。
+　　3 讨论
+　　对于卒中后遗症期患者来说，进行康复护理的目的在于利于健侧肢体代偿部分患侧的功能，帮助患者维持现有的功能，利于获得最大程度的生活自理状态[14，15]。医养一体化护理模式的护理目标在于最大程度上帮助患者增强或者恢复自理能力，并强调进行自我护理，利于将自我照顾潜能最大程度上发挥出来，使得患者能够积极主动地参与到日常生活活动中[16，17]。有关研究指出[18]，休闲娱乐活动对于肢体功能残疾的患者具有一定的治疗作用，分析其原因可能是由于在娱乐过程中，有利于帮助老年卒中后遗症期患者心态得到及时的调整，早日适应疾病。另外，从生理、病理角度进行分析可知，适当参加休闲娱乐活动有利于该类疾病患者的神经系统、循环系统、免疫消化系统、肌肉骨骼系统得到良好的运转[19]。脑卒中后遗症期患者在渡过急性期、恢复期后，将会使得运动功能处于平台期，但是仍然具有进一步改善的可能。目前我国家庭康复护理具有一定的随意性与盲目性，社区家庭康复护理工作未系统开展，对该类疾病患者出院后给予家庭护理效果往往不是十分理想。本次研究结果显示，实验组患者护理后的ADL评分明显优于常规组，说明实验组护理干预模式有利于患者生活能力的提高与生活质量的改善。   　　医养一体化护理模式可帮助患者有效调整不良心态，脑卒中常见的一类并发症为脑卒中后抑郁，可导致患者运动、语言、行走等能力降低[20]。本次研究对实验组患者建立养老会所，可根据其兴趣爱好选择合适的休闲方式，包括麻将、书法、绘画、唱歌、扑克等，可帮助患者有效舒缓压力，利于获取良好的情绪，分析其中的原因可能是由于运动可以促进大脑分泌一类内啡肽类物质。本次研究结果显示，实验组患者护理后的抑郁症状评分明显优于常规组。
+　　医疗养一体化护理模式可帮助该类疾病患者出院后完成及时、有效、连续的康复护理，降低疾病再次复发概率。有关研究指出卒中复发危险因素包括高血脂、高血压、糖尿病、心脏病、不良生活方式、心理健康状况等。高血压为主要危险因素，且音乐等治疗方案有利于帮助人体降低收缩压。本次研究结果显示，实验组护理后的卒中复发率明显低于常规组。住院费用是该类疾病患者经济负担的一项重要内容，其住院费用来自卒中后复发再住院，且本次研究结果显示，实验组医疗服务费用低于常规组，减少了该类疾病需要的医疗费用支出，这是由于医养一体化护理模式可使得患者疾病复发率与再住院率明显降低，使得由于该类疾病所需的各项医疗费用支出减少。
+　　综上情况可知，对老年卒中后遗症期患者采取医养一体化护理模式的应用效果显著，可有效改善患者不良情绪，提高日常生活能力，促进疾病的早日康复。
+
+

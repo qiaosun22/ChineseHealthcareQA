@@ -1,0 +1,49 @@
+
+　　Nursing experience of 89 cases of laparoscopic cholecystectomy
+　　Abstract： Objective: To investigate the nursing skills after laparoscopic cholecystectomy, in order to provide reference for future clinical nursing. Methods: This study randomly selected in our hospital in 2013 January ~2013 year in June during laparoscopic cholecystectomy in patients with 89 cases, were randomly divided into control group and observation group, the control group was given conventional nursing, the observation group in the control group based on the diet nursing, nursing of drainage tube, complications nursing, to compare and analyze the nursing effect and nursing satisfaction of two groups of patients. Results: in the observation group, the complication rate of 10.20% was less than that of the control group (χ 40% 2=24.0000, P=0.0000); nursing satisfaction of observation group was 95.92% higher than the control group obviously (χ 2=30.6100, P=0.0000) 65%. Conclusion: laparoscopic cholecystectomy patients diet nursing, nursing of drainage tube, complication nursing comprehensive postoperative nursing, can effectively reduce the complications, improve nursing satisfaction, promote the harmonious relationship between doctor and patient, nursing effect is significant, worthy of wide application and spreading in clinical practic
+　　keyword：laparoscopic; cholecystectomy; postoperative nursing
+　　腹腔镜胆囊切除术凭其疼痛轻、创伤小、术后恢复快、遗留瘢痕小等优势，成为了微创外科十分常见的术式之一[1]。胆囊息肉、胆囊结石、慢性胆囊炎患者在未伴有禁忌症的状况下，均可进行该术式，而给予腹腔镜下胆囊切除术患者正确的术后护理也相当之重要[2]。为此，我院2013年1月~2013年6月期间，给予89例行腹腔镜下胆囊切除术患者不同的术后护理服务，护理效果差异显著，现将其报道如下。
+　　1 临床资料和方法
+　　1.1 研究对象
+　　本研究随机选取我院2013年1月~2013年6月期间行腹腔镜下胆囊切除术患者89例，其中男性22例，女性67例；年龄24~73岁，平均年龄（50.89±8.75）岁；56例胆囊结石，21例胆囊息肉，12例慢性胆囊炎；住院时间3~24d，平均住院时间（5.16±1.71）d。将89例患者采用随机数字法随机分为对照组和观察组，对照组40例，观察组49例，两组患者在性别构成比、年龄、住院时间等基线资料方面比较差异无统计学意义（P>0.05），分组具有高度可比性，入选患者依从性好，在知情同意下签署相关的协议，自愿接受治疗并参与本次研究。
+　　1.2 治疗方法
+　　89例患者均行腹腔镜下胆囊切除术：于患者气管插管全麻情况下，建立人工气腹，通过“三孔法”往患者腹腔插入腹腔镜手术器械，将Calot暴露，并行胆囊管以及胆囊的分离处理，行胆囊以及胆囊动脉夹闭处理后，于近胆囊处行胆囊管凝断处理，检查胆囊管以及胆囊动脉夹牢固后，选电钩行胆囊剥离处理，胆囊床电凝止血，最后选碎石吸附器或者取石网篮取出胆囊以及结石[3]。术后，对照组给予患者常规护理，观察组则在对照组基础之上给予患者饮食护理、引流管护理、并发症护理。
+　　1.3 观察指标
+　　观察两组患者并发症的发生情况，主要包括恶心呕吐、术区出血、胆漏、皮下气肿等；与此同时，选用我院的护理满意度问卷表，进行问卷调查，统计很满意和满意的具体例数，计算出患者对护理工作的满意度。
+　　1.4 统计学方法
+　　本研究采用SPSS18.0软件包对所得的数据进行统计学分析，计量资料采用表示，组间比较采用t检验，计数资料采用率表示，χ2检验，检验标准α=0.05，P< α则具有统计学意义。
+　　2 结果
+　　2.1 两组患者并发症情况对比
+　　观察组49例患者中术后出现2例恶心呕吐，1例术区出血，1例胆漏，1例皮下气肿，行对症治疗后，患者病情得以好转；对照组40例患者中术后出现5例恶心呕吐，4例术区出血，4例胆漏，3例皮下气肿，行对症治疗后，患者病情得以好转。观察组的并发症率为10.20%明显少于对照组的40.00%（P<0.05），差异有统计学意义，详见表1。
+　　表1 两组患者并发症情况对比分析（例，%）
+　　
+　　
+　　
+　　
+　　
+　　
+　　2.2 两组满意度对比
+　　观察组的护理满意度为95.92%明显高于对照组的65.00%（P<0.05），差异有统计学意义，详见表2。
+　　表2 两组患者满意度对比分析（例，%）
+　　
+　　
+　　
+　　
+　　
+　　
+　　3 讨论
+   　　腹腔镜胆囊切除术较传统开腹手术操作更简单，创伤较小，致使临床治疗极易忽视该术式给患者带来的并发症，一旦引发并发症便可能造成严重后果，极大程度地影响患者的生存质量和生活质量。为了有效减少患者术后并发症的发生，本研究观察组给予患者术后饮食护理、引流管护理、并发症护理，取了较满意的护理效果，具体内容如下：
+　　3.1 术后饮食护理
+　　术后患者禁食，待其肛门恢复排气后方可进流质饮食。流质饮食1~2d后，若患者恢复状况较好，则可以进半流饮食。若患者由于麻醉或者手术创伤等因素引发恶心呕吐，轻者行保守治疗，重者则行10mg甲氧氯普胺肌肉注射，并引导患者取适宜体位，降低恶心呕吐带来的不适[4]。待患者恢复正常饮食后，仍应杜绝辛辣及油腻等食物。
+　　3.2 术后引流管护理
+　　腹腔镜下胆囊切除术后很少放置引流管，若患者有留置引流管，护理人员应该注意对引流管的护理。保证引流管的畅通性，避免其受压、扭曲。若发现引流管堵塞，应主动积极地寻找堵塞原因，灵活地采取通管或再置引流管等解决方法。另外，护理人员应该清楚地明白引流管的引流液状是诊断腹腔内出血、胆漏的重要依据，所以务必要详细观察并记录引流液的引流量以及颜色，若发现引流量出现异常现象，应及时报告医生，尽早处理。
+　　3.3 术后并发症护理
+　　（1）术区出血是腹腔镜下胆囊切除术的严重并发症之一，若患者出现腹胀或血压大幅度下降现象，引流液出现大量血性液体现象，应及时报告医生，并积极配合医生行重新开腹止血处理。（2）胆漏，但其在临床上少见，严重时亦会对
+　　
+　　患者生命产生影响。若发生胆漏，应对其行及时处理，才能避免其进一步恶化。（3）皮下气肿，临床上很少发生，当患者术后出现肩部酸痛或胸腹部皮肤肿胀，护理人员均应怀疑其是否并发皮下气肿，然后行进一步确诊，轻者给予半卧位、吸氧等治疗，重者则给予切开排气治疗。
+　　本研究结果显示，观察组49例患者中术后出现2例恶心呕吐，1例术区出血，1例胆漏，1例皮下气肿，行对症治疗后，患者病情得以好转；对照组40例患者中术后出现5例恶心呕吐，4例术区出血，4例胆漏，3例皮下气肿，行对症治疗后，患者病情得以好转。观察组的并发症率为10.20%明显少于对照组的40.00%（P<0.05），和国内外相关研究结论基本一致[5]。
+　　综上所述，给予腹腔镜下胆囊切除术患者饮食护理、引流管护理、并发症护理等全面术后护理，能有效地减少并发症的发生，提高护理满意度，促进医患和谐，护理效果显著，值得在临床实践中广泛的应用和推广。
+　　
+　　
+
+

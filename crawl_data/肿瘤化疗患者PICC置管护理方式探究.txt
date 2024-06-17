@@ -1,0 +1,29 @@
+
+ 　　【摘要】 目的：研究肿瘤化疗患者PICC置管的并发症及护理方式。方法：将笔者所在医院2015年10月-2016年3月肿瘤化疗患者56例分两组，所有患者行PICC置管，A组在PICC置管过程中采用常规护理干预；B组在PICC置管过程中采用预见性护理干预。就两组患者护理前后焦虑、抑郁心理评分和护理的满意度、PICC置管的并发症发生率进行比较。结果：B组护理的满意率明显高于A组，PICC置管的并发症发生率明显低于A组（P<0.05）。两组患者护理之前焦虑、抑郁心理评分对比差异无统计学意义（P>0.05），而护理后B组患者焦虑、抑郁心理评分低于A组（P<0.05）。结论：肿瘤化疗患者PICC置管期间给予预见性护理，可有效减轻患者不良情绪，减少置管并发症的发生，提升患者对护理服务的满意度，值得推广应用。
+　　doi：10.14033/j.cnki.cfmr.2017.17.031 文献标识码 B 文章编号 1674-6805（2017）17-0064-02
+　　Complications and Nursing Methods of PICC Catheter in Patients with Tumor Chemotherapy/LU Li-juan，CHEN Yue-mei.//Chinese and Foreign Medical Research，2017，15（17）：64-65
+　　【Abstract】 Objective：To study the complications and nursing methods of PICC catheter in patients with tumor chemotherapy.Method：In our hospital from October 2015 to March 2016，56 tumor chemotherapy patients were divided into two groups，all patients underwent PICC catheter，A group was used conventional nursing intervention in PICC tube process；B group was used the foreseeable nursing intervention in the PICC tube process.The two groups of patients before and after nursing anxiety，depression score and nursing satisfaction，PICC catheter complications were compared.Result：The nursing satisfaction in B group was significantly higher than that in A group，PICC catheter complication rate in B group was significantly lower than that in A group（P<0.05）.Two groups of patients before nursing anxiety，depression score difference was not significant（P>0.05），and after nursing，B group patients with anxiety，depression score were lower than the A group（P<0.05）.Conclusion：The predictive nursing of patients with tumor chemotherapy during PICC catheterization can effectively reduce the adverse emotions of patients，reduce the incidence of catheter complications，improve patient satisfaction with nursing services，it is worthy of popularization and application.
+　　【Key words】 Tumor chemotherapy patients； PICC catheter； Complications； Nursing methods
+　　First-author’s address：Xianning Center Hospital，Xianning 437100，China
+　　近年?恚?随着人们生活压力增大，生活习惯改变，饮食结构改变，加上环境恶化等因素的影响，肿瘤发病率逐年升高，且有年轻化趋势。化疗是多数中晚期肿瘤患者或早期肿瘤患者术后常见治疗方法，可维持患者生命，延长其生存期。而化疗药物的输注传统用静脉注射方式，需多次注射和拔管，可增加患者的痛苦，降低其化疗的依从性，还容易带来感染等并发症风险。经外周静脉穿刺中心静脉置管（PICC）可避免多次穿刺所带来的痛苦，适用于肿瘤化疗患者化疗药物输注，可减轻患者痛苦，提高其化疗的依从性，确保化疗效果和患者生活质量的提高。但肿瘤化疗患者PICC置管期间护理不当可增加并发症发生风险，如管道脱出、静脉炎、管道堵塞、移位等，给患者带来痛苦的同时也影响了化疗效果，需采取有效措施积极预防并发症的发生，并及时处理并发症[1]。本研究探讨了肿瘤化疗患者PICC置管的并发症及护理方式，报道如下。
+　　1 资料与方法   　　1.1 一般资料
+　　将笔者所在医院2015年10月-2016年3月肿瘤化疗患者56例分两组，所有患者均接受化疗治疗，并采用PICC置管。所有患者对本研究均知情同意，签署同意书。A组男15例，女13例。年龄28～73岁，平均（58.61±2.66）岁。消化系统肿瘤、胸部肿瘤、头颈部肿瘤、其他部位肿瘤各有9例、6例、5例和8例。B组男16例，女12例。年龄28～72岁，平均（58.14±2.61）岁。消化系统肿瘤、胸部肿瘤、头颈部肿瘤、其他部位肿瘤各有10例、6例、5例和7例。两组患者一般资料比较差异无统计学意义（P>0.05），有可比性。
+　　1.2 方法
+　　所有患者行PICC置管，先确定静脉和穿刺点，佩戴无菌手套，严格执行无菌操作，消毒穿刺点周围皮肤，最后用生理盐水预冲导管、连接帽、穿刺针和肝素帽，并穿刺静脉固定导管。
+　　A组在PICC置管过程中采用常规护理干预。B组在PICC置管过程中采用预见性护理干预，具体如下：（1）心理疏导。对患者进行心理疏导，缓解其对PICC置管的焦虑和紧张感，可根据患者喜好播放舒缓轻音乐等方式转移其注意力，并以亲切温和的态度跟患者聊天，讨论其感兴趣的话题，减轻其焦虑情绪。（2）健康教育。对患者和家属进行PICC置管相关知识的介绍，说明置管并发症的危害性，提高患者的认知和依从性，使其更好配合医护人员的工作，加强并发症预防意识。（3）并发症预防。第一，为预防穿刺点感染，需严格执行无菌操作，对穿刺点周围皮肤进行严格消毒，并加强患者机体营养干预，提高其免疫力。必要时遵医嘱给予抗生素。第二，为预防穿刺点渗血，需告知患者穿刺后避免过度运动，并在穿刺后进行压迫止血，化疗前严格监测患者凝血功能和血常规，并在穿刺点用无菌辅料覆盖，对出血较多者需用少量凝血酶进行覆盖。第三，静脉炎的发生与置管中导管造成血管膜损伤等相关，因此，需提高操作者的穿刺熟练度，提高一次穿刺成功率，并选择粗直静脉，减少对血管内膜的损伤。穿刺速度合适，在推进导管时可一边推注生理盐水一边推进导管。对静脉炎者可用喜疗妥和黄金散外敷。第四，为预防血栓形成，需增加患者饮水量，采用尿激酶溶栓。第五，为预防导管堵塞和脱出，需进行正确冲管和封管，避免导管打折，并嘱咐患者避免活动量过大，沐浴时需做好固定措施。在输液完成后需及时用生理盐水冲管，并及时封管。若发生堵塞，需用注射器抽出血块。导管脱出者需进行严格消毒，重新妥善固定。
+　　1.3 观察指??
+　　对比两组患者护理前后焦虑、抑郁心理评分和护理的满意度（非常满意、比较满意和不满意）、PICC置管的并发症发生率。
+　　1.4 统计学处理
+　　所得数据以SPSS 21.0软件处理，计量资料以（x±s）表示，采用t检验，计数资料以率（%）表示，采用字2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者护理前后焦虑、抑郁心理评分比较
+　　两组患者护理前焦虑、抑郁心理评分对比差异无统计学意义（P>0.05），而护理后B组患者焦虑、抑郁心理评分低于A组，差异有统计学意义（P<0.05），见表1。
+　　2.2 两组患者护理满意度比较
+　　B组护理的满意率明显高于A组，差异有统计学意义（P<0.05），见表2。
+　　2.3 两组患者PICC置管的并发症发生率比较
+　　B组PICC置管的并发症发生率明显低于A组（P<0.05）。其中，A组2例穿刺点渗血，4例静脉炎，4例导管堵塞。B组仅1例静脉炎，见表3。
+　　3 讨论
+　　肿瘤为常见疾病，可分良性肿瘤和恶性肿瘤。近年来，化疗已经成为肿瘤患者治疗的主要手段之一，通过化疗，可有效对癌细胞增殖、扩散和转移等进行抑制，并消灭肿瘤细胞[2-3]。PICC置管术是利用导管从外周静脉进行穿刺，导入心脏的一种静脉穿刺技术，可延长置管时间，提高患者生活质量。但PICC置管期间若护理不当可出现一系列并发症，影响治疗效果，增加患者身心痛苦，降低其生活质量，因此，需加强对肿瘤化疗患者PICC置管的并发症的有效预防，给予合理、有效、科学的护理干预[4-5]。肿瘤化疗患者PICC置管护理不当可引发多种并发症，包括穿刺点感染、渗血、静脉炎、血栓、导管堵塞和脱出等。通过对并发症发生原因的分析，并预见性采用预防措施，可有效减少或预防并发症的发生，促进治疗效果的提高，减轻患者痛苦，加速患者康复。另外，在肿瘤化疗患者PICC置管过程中需全程做好患者的心理疏导和健康教育工作，减轻其不良情绪，提高其对置管知识的认知和配合度，对于预防并发症的发生也有重要作用[6-7]。
+　　本研究结果显示，B组护理的满意率明显高于A组，PICC置管的并发症发生率明显低于A组，护理后B组患者焦虑、抑郁心理评分低于A组，说明肿瘤化疗患者PICC置管期间给予预见性护理，可有效减轻患者不良情绪，减少置管并发症的发生，提升患者对护理服务的满意度，值得推广应用。
+
+

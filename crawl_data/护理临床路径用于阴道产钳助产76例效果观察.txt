@@ -1,0 +1,46 @@
+
+　　[摘要] 目的 评价护理临床路径在阴道产钳助产产妇中的实施效果。 方法 选择2011年1月~2013年3月重庆医科大学附属第一医院实施阴道产钳助产的产妇126例为研究对象，其中实施临床路径产妇76例设为研究组，50例未实施护理临床路径为对照组。收集两组产妇预后、平均住院天数、住院费用、孕妇及家属满意度等资料进行统计学分析。 结果 研究组产妇预后率（67.11%）优于对照组（61.00%），差异有统计学意义（P < 0.05）。研究组住院天数[（3.83±1.06） d]少于对照组[（4.11±1.35）d]，差异有高度统计学意义（P < 0.01）；研究组住院费用[（6365.35±152.14）元]少于对照组[（6503.04±179.27）元]，差异有高度统计学意义（P < 0.01）。研究组孕妇及家属满意率（92.13%）明显优于对照组（87.35%），差异有统计学意义（P < 0.05）。 结论 阴道产钳助产临床路径的实施可提高孕妇预后，缩短住院天数，降低住院费用，从而提高医疗质量，节约医疗资源。
+　　[中图分类号] R197.32[文献标识码] B[文章编号] 1673-7210（2014）06（a）-0133-03
+　　
+　　The effect of clinical nursing pathways used in 76 cases of maternal obstetric forceps delivery
+　　CHEN Jia LUO Xin YANG Xiaochang WANG Longqiong▲
+　　Department of Obstetrics, the First Affiliated Hospital of Chongqing Medical University, Chongqing 400016, China [Abstract] Objective To evaluate the implementation effect of clinical nursing pathways in forceps delivery. Methods 126 cases of maternal obstetric forceps delivery from January 2011 to March 2013 in the First Affiliated Hospital of Chongqing Medical University were chosen as study objects. Among those, 76 cases were implemented the clinical pathway as study group, while 50 cases were not implemented clinical nursing path as the control group. The data of respective maternal prognosis, average hospitalization days, hospitalization costs, pregnant women and family satisfaction in two groups were collected and statistically analyzed. Results The study group of maternal prognosis (67.11%) was better than that of the control group (61.00%), the difference was statistically significant (P < 0.05). About the average hospitalization days, the study group [(3.83±1.06) d] was shorter than the control group [(4.11±1.35) d], the difference was high statistically significant (P < 0.01). While the cost of hospitalization of the study group [(6365.35±152.14) yuan] was less than that of the cost of the control group [(6503.04±179.27) yuan], the difference was high statistically significant (P < 0.01). The pregnant women and family satisfaction rate of study group (92.13%) was significantly better than that of the control group (87.35%), the difference was statistically significant (P < 0.05). Conclusion The implementation of forceps delivery of clinical pathways can improve the prognosis of pregnant women, shorten the hospital days, reduce hospitalization expenses, and improve the maternal and family satisfactions, so as to improve the quality of medical cares and save medical resources.
+　　[Key words] Clinical pathway; Forceps delivery; Maternal prognosis; Patient satisfaction
+　　临床路径是由医师、护士及相关人员共同制订的，针对某一特定诊断或手术做最恰当的有顺序性和时间性的医疗护理整体工作计划，是控制医疗费用和保证医疗护理治疗的有效手段[1-2]。重庆医科大学附属第一医院（以下简称“我院”）于2011年起在部分科室对部分病种实行临床路径管理，我院产科于2011年起部分对阴道产钳助产产妇施行临床路径管理，取得良好的效果，现报道如下：
+　　1 资料与方法
+　　1.1 一般资料
+　　选择2011年1月~2013年3月于我院行阴道产钳助产的产妇126例为研究对象，均为单胎。实施阴道产钳助产的指征参照《临床诊疗指南-妇产科学分册》[3]，包括：第二产程延长；因胎儿窘迫或产妇情况需缩短第二产程者；胎头吸引术失败者，再检查可行低位产钳者进行助产；产妇及家属知情同意。其中施行临床路径管理的76例产妇的纳入标准[3]：①第一诊断符合ICD-10:062.0-062.2/063.1/068，行阴道产钳助产术ICD-9-CM-3:72.0-072.2。②当产妇合并其他疾病，但住院期间不需要特殊处理也不影响第一诊断的临床路径流程实施时，可以进入路径。③阴道产钳助产诊断明确。其中实施临床路径产妇76例设为研究组，研究组患者年龄25~31岁，平均（28.00±3.52）岁；孕龄37~40周，平均（38.00±2.53）周；平均产次（2.0±0.3）次。其余50例未实施护理临床路径为对照组，患者年龄27~31岁，平均（29.00±1.63）岁；孕龄37~41周，平均（39.00±2.14）周；平均产次（2.0±0.5）次。两组年龄、孕龄、产次等一般资料比较差异无统计学意义（P > 0.05），具有可比性。
+   　　1.2 方法
+　　对照组采用传统的医疗模式，按常规医嘱进行治疗、护理和宣教。研究组采用阴道产钳助产临床路径进行分娩前后的护理。由科主任、责任医师、护士长、责任护士及助产士共同制订阴道产钳助产的护理临床路径：①完成产妇入院评估，向其介绍医院环境、床位医师及护士、作息制度及探视时间等，协助医师完成产妇各项常规检查：如血常规、尿常规、凝血功能、血型、感染性疾病筛查（乙肝、丙肝、艾滋病、梅毒等，孕期未查者）、心电图、B型超声、肝肾功能、电解质、胎心监护等。②术前对产妇进行术前准备、术前心理护理。③术后按照《抗菌药物临床应用指导原则》执行，并根据患者的病情决定抗菌药物的选择与使用时间。④术后住院恢复3~5 d，协助医师，根据产妇产后恢复情况，选择的检查项目：血、尿常规，电解质等。同时根据产妇的病情，协助执行术后抗菌药的选择与使用时间。密切观察产妇情况，对其进行心理护理、生活护理，指导及帮助产妇早开奶、早吸吮、术后活动、健康教育等。出院标准：①一般情况良好，体温正常；②子宫复旧良好；③会阴切口无红肿；④阴道流血量少。变异及原因分析：①本路径以阴道分娩方式终止妊娠，若为剖宫产则进入剖宫产临床路径；②因手术并发症需要进一步治疗。
+　　1.3 评价指标
+　　①住院天数：指产妇从住院当天到出院当天的天数；②住院费用：住院产生的医疗费；③孕妇及家属满意度：入院时发放满意度调查表，由孕妇及家属填写，出院时收回并进行统计分析；④产妇预后：主要包括产妇产后发生产后出血、尿潴留、会阴侧切伤口愈合不良发生率[4]。其评价标准为产后出血是指胎儿娩出后24 h内阴道流血量超过500 mL。尿潴留是指膀胱内积有大量尿液而不能排出，B超提示残余尿≥300 mL。会阴侧切伤口愈合不良是指会阴切口愈合处有炎性反应，如红肿、硬结、血肿、积液等但未化脓。
+　　1.4 统计学方法
+　　数据采用SPSS 17.0软件进行统计学分析，计量资料数据用均数±标准差（x±s）表示，两组间比较采用t检验；计数资料用率表示，组间比较采用χ2检验，以P < 0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组产妇住院时间和住院费用比较
+　　研究组住院天数[（3.83±1.06）d]少于对照组[（4.11±1.35）d]，住院费用少于对照组[（6365.35±152.14）元比（6503.04±179.27）元]，两组比较差异均有高度统计学意义（P < 0.01）。见表1。
+　　
+　　表1 两组住院天数及住院费用比较（x±s）
+　　
+　　
+　　
+　　
+　　2.2 两组产妇及家属满意度比较
+　　通过对产妇及家属满意度的调查发现，研究组中70例（92.13%）满意，对照组中43例（87.35%）满意，差异有统计学意义（P < 0.05）。
+　　2.3 两组产妇预后情况比较
+　　产妇预后通过尿潴留、会阴侧切伤口愈合不良、产后出血来评估，研究组分别为20、30、1例，对照组分别为15、15、1例。研究组产妇预后率（67.11%）高于对照组（61.00%），差异有统计学意义（P = 0.012）。见表2。
+　　
+　　表2 两组产妇预后情况比较（例）
+　　
+　　
+　　
+　　 注：与对照组比较，χ2=6.24，*P = 0.012
+　　
+　　3 讨论
+　　临床路径管理是指针对一个病种，制订出医院内医务人员必须遵循的诊疗模式，使患者从入院到出院依照该模式接受检查、手术、治疗、护理等医疗服务[5]。它不仅是控制和降低医疗成本的有效途径之一，对于医院在顺应医疗制度改革、建立和保持竞争优势等方面也至关重要[6]。而护理临床路径是其重要的组成部分，就产科而言，护理人员根据不同的病种，依循对应的临床路径表单，将产妇从入院到出院实施系统、动态、连续及有针对性的护理工作，并对每天的护理工作进行效果评价，是整体护理工作的细致深化，也是从制度流程上保证护理质量的不断提高的有效措施[7]。
+　　我院从2011年开始实施临床路径管理，我院产科大力响应，对数种产科常见合并症与并发症实施了路径管理[8]。从表1可以看出，按照临床路径对产钳助产后的产妇进行护理，使其发生产后出血、尿潴留及会阴侧切伤口愈合不良率显著降低。另外对产妇的产后饮食、精神、心理都予以更加细致的护理，协同提高了产妇的预后。
+　　同时本研究显示，在缩短经产钳助产后产妇的平均住院日方面，实施护理临床路径也体现出了良好的效果。临床路径以缩短平均住院日、合理支付医疗费用为特征，按病种设计最佳的、标准化的诊疗流程。一方面根据病情制订合理的诊疗计划，同时对住院时间和费用也进行合理安排，减少诸多不必要、欠合理的医护行为，不仅增强了护理行为的合理性与计划性，使其在规定时间内实现并达到预期治疗效果，对降低医疗成本，抑制医疗费用的增长，减轻患者的经济负担也颇有成效[9-10]。
+　　另外，本研究的数据也证实实施护理临床路径还可有效提高产钳助产的产妇及家属的满意度。分析其原因，主要是因为实施护理临床路径后，不仅帮助产妇及其家属深入了解产钳助产的诊疗流程，避免过度的紧张与焦虑，明晰大致的住院时间及费用，并且通过护理宣教，使产妇及家属对产钳助产的认知层次和理解能力都得到了提升，减少了潜在的医疗纠纷与医患矛盾。这种诊疗与护理过程的“透明化”，既取得了产妇的积极配合与信任，也增进了护患之间的交流与沟通，对营造团结协作的护患氛围，进一步提高诊疗护理效率起到了显著的效果[11-12]。
+　　综上所述，通过阴道产钳助产护理临床路径的实施应用，不仅有效地改善母体预后，同时也降低了产妇的住院天数、医疗费用，还提高了产妇及家属的满意度。作为一种科学的医疗管理模式，相信随着临床路径的应用及推广，对深入提高产科整体护理水平将大有裨益。
+
+

@@ -1,0 +1,27 @@
+
+　　[摘要] 目的 探究心理护理和人文关怀对乳腺癌患者术后康复的影响。 方法 选择2013年6月～2014年8月在本院进行乳腺癌手术治疗的患者63例，按照入院治疗的先后顺序分为实验组（32例）和对照组（31例）。对照组患者术后采用常规护理；实验组在对照组的基础上从心理和人文关怀的角度上加强对患者的护理。护理后，应用SCL-90评分和QOL量表对两组患者的心理状态和生存质量进行评价。 结果 护理后，实验组患者的SCL-90评分各项指标均显著低于对照组，差异有统计学意义（P<0.05）。两组患者的生理、心理、社会及环境的QOL评分比较，差异有统计学意义（P<0.05）。 结论 乳腺癌手术后，从心理及人文关怀角度加强对患者的护理，能有效缓解患者术后产生的不良情绪，明显改善患者的心理健康状况，明显提高患者的生存质量。
+　　[中图分类号] R471 [文献标识码] A [文章编号] 1674-4721（2015）05（c）-0182-03
+　　[Abstract] Objective To explore the effects of humanistic care as well as psychological care on the rehabilitation for patients after breast cancer surgery. Methods 63 patients who received the surgery of breast cancer in our hospital from June 2013 to August 2014 were selected，and were assigned to experiment group of 32 patients and control group of 31 patients according to admission order.Patients in control group were given regular nursing care after the surgery；experiment group was given strengthened nursing care from the perspective of psychological and humanistic care on the basis of the control group.After the nursing care，SCL-90 score and QOL scale were applied to assess the psychological status and life quality of patients between two groups. Results After the nursing care，SCL-90 scores of each index for patients in experiment group was all significantly lower than that in control group respectively，with statistical difference（P<0.05）.Scores on physiological，psychological，social and environmental life quality compared between two groups was significantly different respectively，with statistical difference（P<0.05）. Conclusion After the surgery of breast cancer，strengthening patients′ nursing from the perspective psychological and humanistic care is able to effectively alleviate patients′ negative emotions induced after the surgery.Patients′ conditions of psychological health are significantly enhanced，and their life quality is significantly improved.
+　　[Key words] Humanistic care；Psychological nursing；Breast cancer；Postoperative rehabilitation
+　　乳腺癌作为临床较为常见的恶性肿瘤之一，给患者的身心健康及生命安全造成严重威胁。目前临床主要通过手术对患者乳房进行切除[1]，尽管手术治疗的临床效果良好，但手术治疗对患者身体造成不可复原的破坏，给患者的生理和心理造成了双重伤害，从而对患者术后的生存质量造成严重影响[2]。消除乳腺癌患者术后出现的心理问题，能够促使其早日康复。本研究从心理及人文关怀角度加强了对乳腺癌患者的术后护理，患者的心理状态及生活态度得以改善。
+　　1 资料与方法
+　　1.1 一般资料
+　　收集2013年6月～2014年8月在本院进行手术治疗的乳腺癌患者63例，所有入选患者全部为女性，年龄28～53岁，平均（35.3±6.2）岁。排除精神疾病、处于妊娠期和哺乳期的妇女，心、肝、肾、肺等重要器官出现功能性障碍及患有免疫系统疾病的患者。其中腺癌26例、乳头状癌17例、导管癌14例、其他6例，Ⅰ期19例、Ⅱ期27例、Ⅲ期12例、Ⅳ期5例，所有患者均经病理证实且全部完成手术治疗。按照入院的先后顺序将所有患者分为实验组（32例）和对照组（31例），两组患者的年龄、患病程度等一般资料比较，差异无统计学意义（P>0.05），具有可比性。   　　1.2 方法
+　　对照组患者于术后行常规护理干预。
+　　实验组患者在对照组的基础上从心理及人文角度方面加强对患者的护理。术后随时保证有充足的护理人员在患者身边进行护理，护理过程中要保持病室的安静整洁，护理人员熟练掌握护理技术的理论知识及操作，树立良好的医护形象。在日常护理过程中要经常关心、安慰、鼓励患者，多倾听患者的倾诉，给予其精神支持，满足患者被尊重和被关爱的心理。向患者讲解有关乳腺癌的相关知识及术后的注意事项，提高患者对疾病的认知，对于患者提出的问题要耐心为其解释，加强心理疏导，纠正患者的不良情绪。及时了解患者的病情变化，采用循序渐进的方法积极与患者进行沟通和交流，使患者逐步接受自己的病情，树立良好的心态。在沟通过程中要注意方式方法，言语缓和，语气和蔼，尽量减少不良情绪的刺激。同时还应积极鼓励同病房的患者进行交流，提高其社会归属感，减少紧张及焦虑的情绪，尽量将经济条件、文化层次及病情程度接近的患者安排在同一病室。
+　　1.3 观察指标
+　　进行不同的护理干预后，采用症状自评量表（SCL-90）对两组患者的心理状态作出评价。SCL-90共有90个项目，包括思维、情感、行为等广泛的精神状态评价内容，本表采用0～4分五个等级对患者的精神状态进行评定，评分为：0分表示无，1分表示较轻，2分表示中等，3分表示较重，4分表示严重[3]。
+　　在对患者的心理状态进行评价的同时，采用生存质量（QOL）量表从生理、心理、社会及环境四个方面对两组患者的生存质量状况进行评定，总分为60分。调查总分>50分为生存质量良好；41～50分为生存质量较好；31～40分为生存质量一般；21～30分为生存质量较差；≤20分为生存质量极差[4]。
+　　1.4 统计学方法
+　　采用SPSS 19.0统计软件对数据进行分析，计量资料以x±s表示，采用t检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者SCL-90分值变化情况的比较
+　　护理结束后，实验组患者的各项SCL-90评分均明显低于对照组，差异有统计学意义（P<0.05）（表1）。
+　　2.2 两组患者QOL评分的比较
+　　护理后，实验组患者的生理、心理、社会及环境的QOL评分均明显高于对照组，差异有统计学意义（P<0.05）（表2）。
+　　3 讨论
+　　乳腺癌手术后，患者不仅要承受躯体上的不适，还要经受心理上的巨大打击。特别是术后乳房缺失引起的心理缺陷[5]，术后治疗的各种副作用、肿瘤复发、转移等给患者造成的心理恐惧及来自家庭、社会等各方面的压力，极大程度地增加了患者的心理负担，严重影响了患者术后的生存质量，部分患者甚至对生活失去信心，产生自杀倾向[6]。因此，术后从心理及人文关怀等角度加强对患者的护理是十分必要的。
+　　相关研究发现，心理护理对乳腺癌患者术后的不良情绪有良好的干预治疗作用[7]，能有效改善患者的心理状态，提高术后患者治疗的依从性，从而提高患者的生存质量[8-9]。为此本院从心理及人文关怀方面加强对乳腺癌患者术后的临床护理，从躯体感受、自我概念、家庭及社会沟通等方面疏导乳腺癌患者术后存在的心理障碍，减少患者的负面情绪，消除患者的心理障碍，帮助患者树立信心，提高其生存质量。本研究在加强患者的护理后，患者SCL-90的各项评分均低于采用常规护理进行干预的患者。表明加强对患者的心理护理，可明显缓解患者的抑郁、焦虑、偏执等不良情绪，其精神状态得到显著改善[10]。本研究通过QOL量表对采用不同护理方法进行干预的患者进行评分，发现加强心理护理后，患者QOL评分明显高于采用常规护理进行干预的患者，加强对患者的心理护理，能显著提高其生存质量[11-14]。
+　　综上所述，从心理及人文关怀角度加强对患者的临床护理，能够改善患者术后的心理状态，有助于提高患者的生存质量。乳腺癌的治疗是一个漫长的过程，在治疗疾病的同时，应对患者的心理健康保持高度重视，这样才能使其保持良好的心理状态，乐观地面对日后的生活。
+
+

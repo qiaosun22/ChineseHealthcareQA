@@ -1,0 +1,27 @@
+
+ 　　[摘要] 目的 探讨急性胰腺炎内科保守治疗的观察要点和护理干预有效方法。方法 随机将方便选取2015年1月―2016年10月该院内科收治的94例急性胰腺炎患者分为两组。实验组47例，予以患者临床护理路径行综合护理；对照组47例，给予患者常规护理。观察两组疗效及住院时间，统计患者护理满意度。结果 实验组中转手术2例，对照组中转手术3例，余下患者内科治疗均有效治愈，无死亡病例，实验组治疗有效率（95.7%）与对照组比较（93.6%）差异无统计学意义（P>0.05）。实验组患者平均住院时间（13.5±2.6）d，患者护理满意评分（97.4±2.2）分，两项指标均优于对照组，差异有统计学意义（P<0.05）。结论 急性胰腺炎内科保守治疗临床疗效良好，基于临床路径给予患者综合护理能有效提高护理质量，值得临床推广使用。
+　　[中图分类号] R473 [文献标识码] A [文章编号] 1674-0742（2017）04（a）-0157-03
+　　Study on the Internal Conservative Treatment of Acute Pancreatitis and Nursing Analysis
+　　HE Jin-xiao
+　　Digestive System Department， Jintan District People’s Hospital， Changzhou， Jiangsu Province， 213200 China
+　　[Abstract] Objective To study the observation key points of internal conservative treatment of acute pancreatitis and effective methods of nursing intervention. Methods 94 cases of patients with acute pancreatitis admitted and treated in our hospital from January 2015 to October 2016 were convenient selected and randomly divided into two groups with 47 cases in each， the experimental group adopted the clinical nursing path line comprehensive nursing the control group adopted the routine nursing， and the curative effect， length of stay of the two groups were observed and the nursing satisfactory degree of patients was counted. Results 2 cases and 3 cases were converted to operation respectively in the experimental group and in the control group， and the other patients were effectively cured by the internal conservative treatment， and there were no death cases， and there was no statistical difference in the treatment effective rate between the experimental group and control group（95.7% vs 93.6%）（P>0.05）， and the average length of stay and nursing satisfactory degree score in the experimental group were respectively（13.5±2.6）d and（97.4±2.2）points， which were better than those in the control group， and the differences were statistically significant（P<0.05）. Conclusion The clinical curative effect of internal conservative treatment of acute pancreatitis is good， and the general nursing based on the clinical path can effectively improve the nursing quality， and it is worth clinical promotion and application.
+　　[Key words] Acute pancreatitis； Conservative treatment； Clinical observation； Nursing
+　　急性胰腺炎是胰腺及周??组织被胰腺分泌的消化酶自身消化所引起的急性化学性炎症反应，具有起病急、变化快、病情复杂、并发症多等特点，存在一定死亡风险，需早期及时治疗，以控制病情，极高生存几率[1]。内科保守治疗是临床公认的急性胰腺炎有效治疗方法，但为了保证治疗效果，综合、有效的临床护理必不可少。现以2015年1月―2016年10月该院收治的94例急性胰腺炎患者为例对急性胰腺炎内科保守治疗效果与护理方法进行分析和研究，现报道如下。   　　1 资料与方法
+　　1.1 一般资料
+　　方便选取该院收治的94例急性胰腺炎患者为研究对象，全部患者病症表现均符合《急性胰腺炎诊治指南》（2014版）[2]相关诊断标准，知晓该研究目的并签署同意书。病例排除标准：①合并其它急腹症；②APACHE II评分≤8 分；③严重感染征象或出现ARDS等手术指征；④外科手术后转入；⑤合并严重基础疾病、肿瘤等影响疗效观察者；⑥合并认知功能障碍等依从性差，无法配合该研究者。随机将入选病例均分为两组。实验组（47例）：男30例，女17例；患者年龄16～88岁，平均年龄（47.2±6.4）岁。对照组（47例）：男28例，女19例；患者年龄17～86岁，平均年龄（47.9±5.8）岁。两组患者一般资料差异无统计学意义（P>0.05），具有可比性。
+　　1.2 方法
+　　1.2.1 治疗方法 两组患者均行内科保守治疗，具体内容如下：①禁食；②胃肠减压；③营养支持；④维持电解质及酸碱平衡；⑤应用抗生素预防感染；⑥建立静脉通道，联合用药质子泵抑制剂（泮托拉唑钠或奥美拉唑）、注射用生长抑素（乙己苏）或注射用醋酸奥曲肽（培新）抑制胰腺分泌；⑦其它对症治疗，包括镇静止痛、解除Oddi括约肌痉挛、止吐、补水、物理降温、纠正低氧血症等。
+　　1.2.2 护理方法 对照组患者行常规护理，护理程序及步骤采用一般方法。主要护理内容如下：①严格监测生命体征，密切观察病情变化；②遵医嘱给药；③心理疏导；④急性胰腺炎健康宣教；⑤营养支持期间管道护理及病情缓解后饮食指导。实验组患者按临床护理路径行综合护理，即患者内科治疗过程中的各个护理环节和步骤根据患者疾病转归情况和医师意见来制定和实施，更具针对性和专业性。具体护理方法如下：①组建护理小组，由护士长或有资历的高等级护士担任组长，组长负责临床护理工作的统筹安排、指导和监督。②组织全员进行1次专科培训，强化护士专业技能、提升护士工作责任感和使命感。③制定标准化临床护理路径表，量表以时间为横轴，设计出不同治疗时期内适合患者的理想护理手段，护理内容以临床护理指南为指导，由小组全员共同商议制定，以集思广益，力求全面，见表1。④明确护士职责，要求护理工作均严格按照护理路径表执行，并记录执行时间及签名，换班时床头交接，由组长负责工作的监督和检查。
+　　1.3 观察指标
+　　观察两组患者住院时间，自制调查表统计患者对护理服务的满意度，主要调查内容包括护理技能、护理态度、护理及时性等，满分100分，患者评分越高，满意度越高。内科治疗期间中转手术者视为保守治疗无效，护理服务不记录观察指标。
+　　1.4 统计方法
+　　数据以SPSS 16.0 统计学软件进行分析，计量资料以（x±s）表示，结果t检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　内科治疗期间，实验组2例患者中转手术，对照组3例患者中转手术，余下患者经内科治疗病症均得到有效缓解和控制，无死亡病例，治疗有效率分别为实验组95.7%和对照组93.6%，组间比较差异无统计学意义（P>0.05）。实验组患者平均住院时间比对照组短，护理满意评分比对照组高，比较差异有统计学意义（P>0.05）。
+　　3 讨论
+　　急性胰腺炎临床表现多样，病情进展复杂，潜在并发症发生风险高，行内科保守治疗时，加强病情观察和生命体征检测至关重要[3]。该研究中，实验组临床护理工作将严密生命体征监测和病情观察作为治疗期间的重点，其主要观察要点包括：①定时测量体温、呼吸、脉搏和血氧饱和度；②动态血压监测；③定时测量并记录患者的血、尿淀粉酶；④血糖、血气观察；⑤记录24 h尿量；⑥观察患者神智变化，腹部特征及腹痛性质、范围、程度等。发现异常要立即上报，及时正确处理[4]。
+　　临床护理路径是基于系统理论，根据诊断或疾病制定的一种新型治疗护理模式，它以每日护理标准为计划，以提高工作效率和质量为目标，更具系统性和预见性[5]。该研究中，基于临床路径拟定的护理表适用于第一诊断为轻症的急性胰腺炎患者，其护理内容参照优质护理，注重病情观察的同时也加强了对患者的心理护理及健康宣教。但与对照组比较，其在护理内容的实施方面更为规范，更有计划，特别是针对患者入院治疗不同阶段提出的护理重点，能够有效给予护理人员工作指导。其主要护理要点包括以下几项：患者入院之初，以做好病房安排和家属接待为关键，保证患者能够快速及时的接受诊断和治疗；患者接受治疗期间，护理人员要以全面生命体征监测和病情观察为重点，积极遵医嘱给予患者有效治疗并通过心理护理消除患者不良情绪，提高依从性；待患者病情稳定后，以腹部症状、胃肠功能观察和血淀粉酶监测为关键，注重从患者营养支持到自主进食的过渡，同时加强健康宣教，直至患者出院，予以其系统出院指导[6]。
+　　该研究结果显示，实验组与对照组内科保守治疗有效率均在90%以上，与赵应芬[7]报道的保守治疗急性胰腺炎有效率一致。而有效病例中，实验组患者治疗时间明显缩短，患者对护理满意度的评分也高于对照组，比较差异有统计学意义（P<0.05），与唐金莉等[8]报道的临床护理路径下急性胰腺炎患者的住院时间（12.8±2.6）d 相近。这与临床路径下护理工作实施更为规范、完整密切相关，其应用能有效避免护理工作中出现的遗漏的疏忽，对提高诊疗及护理质量具有积极意义。
+　　综上所述，急性胰腺炎内科保守治疗临床疗效良好，基于临床路径给予患者综合护理能有效提高护理质量，有助于?s短内科治疗时间，促进护患和谐值得临床推广使用。
+
+

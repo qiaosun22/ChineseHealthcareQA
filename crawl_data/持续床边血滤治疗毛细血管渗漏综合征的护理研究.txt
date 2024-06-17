@@ -1,0 +1,26 @@
+
+ 　　[摘要]目的 探讨持续床边血滤治疗毛细血管渗漏综合征的护理要点。方法 选取2014年12月～2015年7月本院收治的接受持续床边血滤治疗的毛细血管渗漏综合征患者136例作为研究对象，选取整合护理方案之前的68例患者作为对照组，护理方案改进后接受护理的68例患者为实验组。对比患者及其家属、医生对护士工作的满意度。结果 患者及其家属的满意度在护理优化后，实验组护理满意度、应急处理的满意度及人文关怀的满意度明显的高于对照组，差异有统计学意义（P<0.05）；实验组总体满意度（94.12%）明显的高于对照组的（80.88%），差异有统计学意义（P<0.05）。结论 持续床边血滤治疗毛细血管渗漏综合征的护理方案进行优化后能够明显提高患者、家属以及医生的满意度，提高工作效率，缓解护患关系，值得在临床实践中深入探索、推广应用。
+　　[中图分类号] R473.6 [文献标识码] A [文章编号] 1674-4721（2016）07（a）-0195-03
+　　[Abstract]Objective To analyze the nursing points of continuous bedside blood filtration in treating capillary leak syndrome.Methods 136 capillary leak syndromepatients who accepted continuous bedside blood filtration from December 2014 to July 2015 of our hospital were selected as study objects.68 patients who accepted nursing before integrating nursing programs were selected as control group and 68 patients who accepted nursing after improvement of nursing program were selected as experimental group.The nursing points were studied.The satisfaction degree of patients，their familiesand doctors to nurses′ work in two groups were compared.Results Satisfaction of patients and their families after nursing optimization，the nursing quality satisfaction degree，emergency management satisfaction degree and humanistic concern satisfaction degree in experimental group were obvious higher than that of control group，and the difference between two groups was statistical significance （P<0.05）；The total satisfaction rate was 94.12% in experimental group，obvious higher than that was 80.88% in control group，and the difference between two groups was statistical significance （P<0.05）.Conclusion After optimization the nursing project of continuous bedside blood filtration in treating capillary leak syndrome，which can obvious enhance the satisfaction degree of patients，their familiesand doctors，enhance work efficiency，Alleviate the relationship between nurse and patient，and is worth to deep explore and popularize using in clinicalpractice.
+　　[Key words]Capillary leak syndrome；Continuous bedside blood filtration；Cicrocirculation；Nursing experience
+　　毛细血管渗漏综合征（capillary leak syndrome，CLS）在临床上属于因炎症反应过度而导致的毛细血管通透性突变[1-3]，是一种会导致体液严重失衡，造成多器官功能损伤、全身水肿，甚至死亡的危重病症，由于大量的炎性介质释放，导致毛细血管内皮细胞收缩、损伤，细胞连接分离，出现裂隙，最终导致血管通透性增高，血管内物质渗出到组织中，使得组织间隙胶体渗透压升高，从而出现一系列临床症状。常见的临床表现症状为低血压、低尿量、低蛋白血症或全身水肿等等，临床常规补液治疗对病情起不到有效改善的作用。在临床实践中，连续性床旁血液滤过（continuous renal replacement therapy，CRRT）治疗效果显著，在治疗过程中，护理的质量能够影响到治疗的临床效果。本文通过探讨优化CRRT治疗CLS的护理方案，为临床护理工作提供相关理论与实践依据，改善患者预后疗效，并减少患者家属的经济、精神负担[4-6]，现报道如下。   　　1资料与方法
+　　1.1一般资料
+　　选取2014年12月～2015年7月本院收治的接受CRRT治疗的CLS患者136例作为研究对象，选取整合护理方案之前的68例作为对照组，护理方案改进后接受护理的68例作为实验组。实验组中男38例，女30例，年龄21～62岁，平均（40.87±7.47）岁，身高（151±37.8）cm，体重（42.4±33.8）kg。对照组中男40例，女28例，年龄21～61岁，平均（39.52±7.96）岁，身高（153±39.4）cm，体重（44.3±42.7）kg。两组患者一般资料比较，差异无统计学意义（P<0.05）（表1），具有可比性。护理人员由固定的10名责任护士组成。本研究经过所有患者及其家属的知情同意以及医院相关部门的批准后实施。
+　　1.2护理方法
+　　1.2.1对照组 采用常规护理，给予血滤治疗上下机护理，血滤治疗期间定时进行生命体征的监测，病情观察，心理护理及宣教。在对照组护理结束后对参与护理的护士发放问卷调查，得出在护理过程中患者急需或迫切需要解决的问题如：①防止长时间治疗引起的管路堵塞；②如何在长时间卧床治疗过程中防止压疮的发生并提供舒适体位；③如何进行呼吸道的管理；④如何加强交接班内容[7-8]。
+　　1.2.2实验组 在对照组的基础上给予问卷调查并加以护理[10]。①防止堵管：准确记录出入量，每1 h记录静脉压、跨膜压情况，当出现压力增加时及时加入肝素或予盐水冲管路，协助患者翻身时尽量减少因流量不足引起的报警，并且充分与患者沟通、告知如何减少流量不足引起的报警以减少堵管的风险。在意识不清醒的患者中做好肢体约束工作，当患者出现烦躁时报告医生适当使用药物治疗，防止烦躁时引起的管路弯曲、折叠。②给予舒适的体位并防止压疮：由于持续床边血滤治疗时间6～8 h，加之此类患者有大量的蛋白质及体液渗漏，循环不稳定，全身皮肤黏膜水肿，极易出现皮肤溃破及压疮的发生，所以既要防止压疮发生，也要防止患者在长时间的治疗中感到体位的不舒适。防止压疮发生需做好以下内容：保持床单整洁，必要时给予上气垫床或水垫，在水肿明显的部位给予其他防压疮器具如水袋、气袋、防压垫等，最重要的是翻身后患者的体位要保持功能位置，顺应性体位，在需要支撑或受力点轮流悬空，在不悬空时给予软枕或水袋垫入。每次翻身认真检查皮肤情况并记录描述皮肤情况，发现问题及时处理[11]。③呼吸道管理：清醒的患者鼓励排痰，可以对患者一边拍背一边鼓励其咳嗽；由于CLS患者病情特殊性，期间肺间质渗出使肺的顺应性下降，换气效率降低，导致气体交换障碍。使用呼吸机辅助呼吸，根据病情选择合适的呼吸模式，临床上常采用SIMV加PSV模式。做好气道护理，及时清理呼吸道，在分离呼吸机管路吸痰时应将高流量的氧气单管放在气道上并迅速给予吸痰，吸痰时间<15 s/次，吸痰完毕及时连接呼吸机管路，及时清理呼吸机管路的积水，按医嘱给予湿化气道[12-13]。④强调床边交接班：将每项需要交接的血滤机上的数据在仪器上进行实地交接，并有交接时的实时数据记录本，除了数据上做好各种管道的交接、告知交接等，一旦出现问题及时处理解决。
+　　1.3评价方法
+　　在两组患者治疗及护理结束后均对患者及其家属、医生发放问卷调查，分3个条目，调查对护士满意度主要包括：护理质量、应急处理、人文关怀三个方面。非常满意为5分；满意为4分；不满意为3分，每个条目分数相加，得分越高满意度越大，反之越差。满意度=非常满意+满意
+　　1.4统计学处理
+　　数据用Excel制表，将每个临床患者的原始资料分别输入表内，然后对原始资料进行整理，根据不同类别进行分类汇总分析，采用SPSS 20.0统计学软件对数据进行处理，计量资料采用t检验，计数资料采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1两组患者调查内容情况的比较
+　　实验组患者护理质量满意度、应急处理满意度、人文关怀满意度明显高于对照组，差异有统计学意义（P<0.05）（表2）。
+　　2.2两组患者总满意度的比较
+　　实验组的总满意度明显高于对照组，差异有统计学意义（P<0.05）（表3）。
+　　3讨论
+　　临床中有诸多原因会导致患者出现CLS，作为系统性炎症反应综合征的严重并发症，其主要的临床症状表现为低血压、低尿量、低蛋白血症或全身水肿等，除此以外还会诱导细胞因子、炎症介质等大量释放，临床表现较为复杂且病情一般较为危重，临床常规补液治疗对病情的治疗起不到有效改善的作用，甚至当患者病情严重时会发生多器官功能障碍综合症（multiple organ dysfunction syndrome，MODS），进一步发展为多器官功能衰竭（multiple organ failure，MOF）而导致患者死亡。目前认为手术、严重感染等重大创伤并发全身炎症反应综合征是导致毛细血管渗漏的主要原因，由于全身炎症反应综合征会激活促炎细胞因子，从而形成炎症级联反应，由于大量的炎性介质释放，导致毛细血管内皮细胞收缩、损伤，细胞连接分离，出现裂隙，最终导致血管通透性增高，血管内物质渗出到组织中，使得组织间隙胶体渗透压升高，从而出现一系列临床症状。
+　　CRRT治疗能够清除血液中分子量<50 000 D的物质，绝大多数的细胞因子以及炎症介质的分子量处于这个范围[14-15]，因此CRRT能够应用于GLS。本研究显示，实验组患者护理质量满意度、应急处理满意度、人文关怀满意度明显高于对照组，且实验组的总体满意度明显高于对照组。
+　　综上所述，通过对CLS的护理方案进行优化发现，该护理方案能够显著提升患者、家属和医生的满意度，降低并发症发生率，值得在临床上进行广泛推广应用。
+
+

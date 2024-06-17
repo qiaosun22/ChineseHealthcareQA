@@ -1,0 +1,38 @@
+
+　　[摘要] 目的 探讨细节护理联合心理干预对呼吸道疾病患者焦虑、抑郁情绪的影响。 方法 选取2013年7月～2014年6月在本院住院治疗的172例呼吸道疾病患者为研究对象，采用随机抽样法将其分为A、B组，B组患者采用常规护理方案进行干预，A组患者在此基础上采取细节护理联合心理干预进行护理，对比两组患者的住院时间、护理满意度、不良情绪评分等指标。 结果 B组患者及其家属对护理干预的满意率明显低于A组，组间差异有统计学意义。护理干预前，A组患者的SAS与SDS评分与B组比较差异无统计学意义（P>0.05）；护理干预后，A组患者的SAS与SDS评分分别为（42.6±2.4）分和（45.6±5.1）分，明显低于B组的（58.9±3.4）分和（57.4±3.3）分，组间差异有统计学意义（P<0.05）。A组患者的平均住院时间明显短于B组，组间差异有统计学意义（P<0.05）。 结论 对呼吸道疾病患者采用细节护理联合心理干预方案，能有效疏导其不良情绪，提升治疗的依从性，建立和谐医患关系，避免医患纠纷，缩短患者的住院时间，提升治疗效率与护理质量，为减轻患者痛苦、提高预后质量创造条件。
+　　[中图分类号] R437.5 [文献标识码] B [文章编号] 1674-4721（2014）09（c）-0134-03
+　　Influence of detail nursing combined with psychological intervention to respiratory diseases patients with anxiety，depression emotion
+　　HAN Xue-fei HUANG Li-sha GUO Na-na
+　　Department of Respiratory，People′s Hospital of Luohu District in Shenzhen City，Shenzhen 518001，China
+　　[Abstract] Objective To explore the influence of detail nursing combined with psychological intervention to respiratory diseases patients with anxiety，depression emotion. Methods 172 patients with respiratory diseases hospitalized in our hospital from July 2013 to June 2014 were selected as the research objects，they were divided into group A and group B by random sampling method，group B was given routine nursing plan to intervene，group A was given detail nursing combined with psychological intervention on the basis of this，hospital time，nursing satisfaction and bad mood score and other indexes of patients of two groups were compared. Results Patients and their families satisfaction to nursing intervention in group B were lower than those of group A，the difference was statistically significant between the two groups.Before nursing intervention，the SAS and SDS scores of patients in group A had no obvious difference which were compared with the group B，it had no statistical significance（P>0.05），after nursing intervention，the SAS and SDS scores of patients in group A were （42.6±2.4） scores and （45.6±5.1） scores respectively，it significantly lower than those of patients of group B [（58.9±3.4） score and （57.4±3.3） scores]， the difference was statistically significant between the two groups （P<0.05）.Average hospital stay of group A was significantly shorter than that of group B， the difference was statistically significant between the two groups （P<0.05）. Conclusion Using detail nursing combined with psychological nursing intervention program to treat patients with respiratory diseases，it can effectively ease the bad mood，improve treatment compliance，build a harmonious doctor-patient relationship，avoid medical disputes，shorten their hospital stay，enhance treatment efficiency and nursing quality，relieve patients′ pain，create conditions to enhance quality of prognosis.   　　[Key words] Detail nursing；Psychological intervention；Respiratory disease；Bad emotion
+　　呼吸道疾病是一种病变区域集中在支气管、肺部、胸腔的常见疾病[1-2]，病情较轻的患者易出现咳喘、胸闷、胸痛等症状[3-4]，严重者则可能出现呼吸困难，甚至因呼吸衰竭而死亡，对患者的生命安全威胁较大[5-6]。本研究选取在本院住院治疗的172例呼吸道疾病患者为研究对象，对其中86例患者采用细节护理联合心理干预方案护理，以深入探讨细节护理联合心理干预对呼吸道疾病患者焦虑、抑郁情绪的影响。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2013年7月～2014年6月在本院住院治疗的172例呼吸道疾病患者为研究对象，采用随机抽样法将其分为A、B组，每组各86例。参与本次研究的172例患者均通过望诊、血气分析、肺部影像学检查、实验室检查与支气管镜检查[3]，存在鼻塞流涕、干咳、喷嚏、咽痛、全身发热、头痛乏力、咽部充血、扁桃体肿大等[4]临床症状或体征，被确诊为呼吸道疾病。其中男93例，女79例；年龄16～77岁，平均（56.3±4.9）岁；病程7～42 d，平均（25.3±4.4） d；支气管哮喘42例，慢性肺源性心脏病与慢性支气管炎各30例，感染性喉炎36例，肺炎34例。两组患者的一般资料差异无统计学意义（P>0.05），具有可比性。
+　　1.2 护理干预方法
+　　1.2.1 B组 B组患者采用常规护理方案进行干预治疗：行一般疾病指导，引导患者以正确的方式对待流涕、干咳等症状；要求患者避免剧烈运动等可能不利于预后的活动；常规交流，引导患者以合理的态度对待疾病；指导用药。其他还可按需指导饮食、日常作息等。
+　　1.2.2 A组 A组患者在此基础上采取细节护理联合心理干预进行护理。①放松性练习：医护人员每日于晨起早饭后、午饭后及晚间9点前后在患者间开展放松性练习活动，包括播放舒展性的音乐，指导患者取仰卧位，在舒缓音乐中放松身心，摒除杂念；②认知性干预：护理人员通过适当语言鼓励患者、灌输呼吸道疾病基本知识、列举该疾病治愈率等方式，帮助患者建立战胜疾病的信心，排遣其不良情绪，提升治疗的依从性；③家庭性心理干预：研究表明，患者家属情绪对患者自身情绪具有直接影响，因此医护人员要作好家属沟通工作，提升患者家属的治疗信心与基本疾病常识，告知家属必要的情绪流露及辅助治疗方法，通过鼓励患者、促进家属间沟通交流等方式，利用积极心理暗示提升患者治疗的依从性，以获得最佳治疗效果；④时刻关注患者生命体征的变化情况，作好详细准确的记录工作，加强医患间的沟通交流，构建和谐友好的医患关系，取得患者的信任，提升治疗效果。
+　　参与本次研究的两组患者出院前需在值班护士的指导下填写抑郁自评量表（SDS）、焦虑自评量表（SAS）及满意度调查问卷，填写完成后由护士当场收回并统一管理，收回率为100%。
+　　1.3 评价标准
+　　1.3.1 满意度评价标准 出院前组织患者填写满意度调查问卷，问卷需从医疗环境、治疗态度、技术程度、咨询细致度、尊重性、信任性等方面进行满意度打分[5]，不满意：≤4分；满意：5～7分；非常满意：8～10分。
+　　1.3.2 不良情绪评分标准 采用SDS与SAS量表对患者的不良情绪进行评分，其中SAS为四级评分，1～4分分别表示“偶尔”“有时”“时常”“总是”4个标准[6-7]，标准分=总分×1.25，正常：≤49分；轻度焦虑：50～59分；中度焦虑：60～69分；重度焦虑：≥70分。SDS同样为四级评分，A～D分别表示“很少或从无”“偶尔”“时常”“绝大部分时间”4个标准[8-9]，标准分=总分×1.25，正常：≤49分；轻度抑郁：50～59分；中度抑郁：60～69分；重度抑郁：≥70分。
+　　1.4 统计学处理
+　　采用SPSS 19.0统计学软件对数据进行处理，计量资料用均数±标准差（x±s）表示，组间比较采用t检验，计数资料用率（%）表示，组间比较采用χ2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者对护理满意度的比较
+　　B组患者及其家属对护理干预的总满意率明显低于A组，组间比较差异有统计学意义（P<0.05）（表1）。
+　　表1 两组患者对护理满意度的比较（n）
+　　与B组比较，χ2=11.1971、*P<0.05
+　　2.2 两组患者SAS、SDS评分的比较
+　　护理干预前，A组患者的SAS与SDS评分与B组比较，差异无统计学意义（P>0.05）；护理干预后，A组患者的SAS与SDS评分与B组比较，差异有统计学意义（P<0.05）（表2）。
+　　表2 两组患者SAS、SDS评分的比较（分，x±s）
+　　与同组干预前比较，*P<0.05；与B组干预后比较，#P<0.05
+　　2.3 两组患者住院时间的比较
+　　A组患者的平均住院时间为（7.6±3.4） d，明显短于B组的（13.2±4.3） d，组间差异有统计学意义（P<0.05）。
+　　3 讨论
+　　呼吸道疾病往往严重影响患者的正常呼吸，进而影响日常生活和工作，因此容易导致严重的焦虑及抑郁情绪，对疾病治疗及患者的预后均有负面作用[7-8]。本研究结果显示，护理干预前，A、B组患者的SAS及SDS均>60分，充分显示出降低患者负面情绪的急迫性，与杨惠琴等[9]的研究结果相似。
+　　本研究结果显示，采用联合护理方案的A组患者的护理满意度为98.84%，高于使用常规护理方案的B组，说明加强细节护理与心理干预，能有效增加患者及其家属对护理的满意度，利于临床治疗效果的提升，对进一步减轻患者的痛苦、增加治疗依从性等具有积极的意义。   　　细节护理干预的意义在其他一系列研究中亦有表现，如王淑芳等[10]认为，全面护理干预能有效提升支气管哮喘的治疗效果，其中全面护理干预与细节护理干预基本含义类似，充分证实该护理方案能够有效保证患者的治疗效果。
+　　除此之外，笔者还发现，参与本次研究的两组患者接受护理干预后，不良情绪均较干预前有所缓解，表明细节护理联合心理干预方案较传统护理方法，能有效降低患者治疗过程中产生焦虑、抑郁等不良情绪的概率，有助于帮助其建立战胜疾病的信心[11]，使患者在积极、乐观、向上的心理状态下配合医护人员的工作[12]，以和谐医患关系[13]，减少医患纠纷、缩短治疗时间，提升治疗效率与质量，为患者早日回归正常生活提供条件。
+　　综上所述，对呼吸道疾病患者采用细节护理联合心理干预方案，能有效疏导其不良情绪，提升治疗依从性，和谐医患关系，避免医患纠纷，缩短患者的住院时间，提升治疗效率与质量，为减轻患者的痛苦、提高预后质量创造条件，值得在临床推广。
+
+

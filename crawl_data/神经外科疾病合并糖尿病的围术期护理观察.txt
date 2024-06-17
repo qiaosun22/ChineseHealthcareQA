@@ -1,0 +1,32 @@
+
+ 　　[摘要] 目的 ?^察分析神经外科疾病合并糖尿病患者的围术期护理措施及其效果。 方法 选取2015年5月―2016年4月期间在该院接受治疗的神经外科疾病合并糖尿病患者80例，随机分为观察组和对照组各40例。对照组患者实施常规护理措施，观察组则针对患者病情实施定制化护理，在此基础上观察对比两组患者在围术期是否出现各种不良反应如低血糖、伤口感染等，并观察两组患者是否出现糖尿病急性并发症等。结果 观察组患者围术期低血糖发生率明显低于对照组（P<0.05）；观察组患者围术期感染发生率明显低于对照组（P<0.05）；观察组患者在围术期糖尿病急性并发症发生率明显低于对照组（P<0.05）。结论 神经外科疾病合并糖尿病患者的围术期护理非常重要，针对患者病情实施定制化护理措施，有助于降低患者围术期低血糖、感染等不良反应的发生率，同时也可以降低糖尿病急性并发症的发生率，值得临床推广应用。
+　　[中图分类号] R587.1 [文献标识码] A [文章编号] 1672-4062（2017）09（b）-0018-03
+　　Observation on Nursing During the Perioperative Period of Diseases in the Department of Neurosurgery and Diabetes
+　　LI Feng
+　　Department of Neurosurgery， Tancheng First People’s Hospital， Tancheng， Shandong Province， 276100 China
+　　[Abstract] Objective To observe and analyze the nursing measures and effect during the perioperative period of diseases in the department of neurosurgery and diabetes. Methods 80 cases of patients with diseases in the department of neurosurgery and diabetes in our hospital from May 2015 to April 2016 were selected and randomly divided into two groups with 40 cases in each， the control group adopted the routine nursing measures， while the observation group adopted the customized nursing according to the diseases， and the adverse reactions such as hypoglycemia and wound infection of the two groups were compared， and the diabetes acute complications of the two groups were observed. Results The incidence rate of hypoglycemia during the perioperative period in the observation group was obviously lower than that in the control group（P<0.05）， and the incidence rate of infection during the perioperaitve period in the observation group was obviously lower than that in the control group（P<0.05）， and the incidence rate of diabetes acute complications during the perioperative period in the observation group was obviously lower than that in the control group（P<0.05）. Conclusion The perioperative nursing of patients with diseases in the department of neurosurgery and diabetes is very important， and we should implement the customized nursing measures according to the diseases， which contributes to reducing the incidence rate of adverse reactions such as hypoglycemia and infection during the perioperative period， at the same time， it also can reduce the incidence rate of diabetes acute complications， and it is worth clinical promotion and application.
+　　[Key words] Diseases in the department of neurosurgery； Diabetes； During the perioperation period； Nursing； Curative effect   　　随着人们生活水平的提高以及生活方式的改变，近年来我国居民中糖尿病的发病率不断攀高。临床上患有神经外科疾病合并糖尿病的患者也越来越多。糖尿病作为一种全身性疾病，对患者各项身体机能具有严重影响，对于需要进行手术治疗的神经外科患者而言，糖尿病无疑增加了手术切口的愈合难度，同时提高了患者在手术期间发生感染的几率，部分患者还会出现严重的并发症，其中高渗性非酮症糖尿病昏迷具有较高的死亡率。基于以上信息，临床上对于神经外科合并糖尿病患者需要实施特别护理，从而减少患者围术期发生低血糖、感染等不良反应的几率，并做好相关预防措施，避免患者出现严重糖尿病并发症，保证手术顺利完成，促进患者术后恢复，该次研究选取2015年5月―2016年4月收治的80例患者为研究对象进行分析，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取在该院接受治疗的神经外科疾病合并糖尿病患者80例作为研究对象，所有患者均实施神经外科手术，将其随机分为观察组和对照组各40例。观察组中男性24例、女性16例，年龄在25～68岁，平均年龄（42.8±5.6）岁，其中脑出血12例、开放性颅脑损伤8例、脑膜瘤7例、颅骨骨折6例、继发性癫痫2例、神经纤维瘤3例、颅内动脉瘤2例；对照组中男性25例，女性15例，年龄在24～65岁，平均年龄（45.8±4.9）岁，其中脑出血10例、开放性颅脑损伤10例、脑膜瘤8例、颅骨骨折5例、继发性癫痫3例、神经纤维瘤3例、颅内动脉瘤1例。所有患者符合糖尿病诊断标准，无其他严重基础性疾病如肝肾衰竭等。两组患者在性别、年龄、病情等基础资料方面的差异无统计学意义（P>0.05），具有可比性。
+　　1.2 方法
+　　对照组患者接受常规护理措施，观察组患者则接受针对性的全面护理，具体包括以下几个方面内容。
+　　心理护理：神经外科疾病患者由于发病部位的特殊性，使得患者对即将开展的手术往往存在一定恐惧焦虑情绪，如果这种负面情绪得不到及时消除，将会对手术过程和手术效果产生直接影响。因此护理人员要针对患者病情、心理状态、文化水平等相关资料实施对应的心理干预，通过与患者进行积极沟通交流，帮助患者消除对手术的负面心理；护理人员还要为患者介绍手术成功案例，帮助患者树立战胜疾病的信心，并有效提高患者对各项治疗措施的配合程度，保证各项治疗措施顺利开展。在手术完成后需要注意的是，糖尿病患者的手术切口恢复起来相对困难，而且耗时较长，术后容易发生各种并发症，这些因素大大提高了患者出现负面情绪如焦虑、暴躁等的几率，因此需要护理人员及时做好心理护理，促使患者理解并配合治疗。
+　　术前护理：手术前护理人员要对患者进行一个综合评价，并结合其病史掌握患者身体状态，注意患者曾经发生过的并发症，做好各项生命指标的监测记录。糖尿病血糖控制水平对于手术效果具有至关重要的影响，因此在手术前必须做好血糖控制工作。由于糖尿病是一种慢性疾病，血糖水平受到多个因素影响，因此护理人员要提前与患者以及患者家属做好沟通，引导患者高度重视手术前的血糖控制。护理人员也要根据患者具体情况选择对应药物，并全面监测患者血糖波动图谱，据此调节胰岛素用量，务必将患者血糖控制在7.1～8.5 mmol/L范围内，同时还要检查患者尿液，保证尿糖、尿酮为阴，手术前需要将患者糖化血红蛋白水平控制在7%以下。为了提高手术成功率，护理人员还要结合患者病情制定对应的食谱，引导患者养成科学饮食习惯，鼓励患者进行一定程度的运动。手术前护理人员要对患者进行全面检查，并做好相关准备工作。为了减轻患者术中心理压力，护理人员要提前向患者介绍手术过程和需要注意的地方，并做好预防措施，避免患者出现低血糖、感染等不良反应。
+　　术后护理：手术完成后要全面监测患者各项生命体征，记录患者心率、血压的波动情况；还要检查患者瞳孔是否存在扩大显效、关注患者自主意识状态，如果发现患者存在异常，需要立即向主治医师报告，并对患者实施针对性治疗措施。在患者术后恢复时期，护理人员要加强日常生活方面的护理，具体来讲，要及时帮助患者完成翻身动作，为患者实施拍背；可以教会患者家属相关动作要领；观察患者呼吸情况，对于存在呼吸道分泌物潴留的情况要及时清除，保证患者呼吸畅通；为了预防患者发生褥疮，要及时更换床单，并保证床单干燥；对于留置导尿管的患者要做好排尿，并清洗患者会阴部。术后护理人员要高度关注患者切口情况，观察是否有液体渗出，同时还要观察引流管情况以及引流液的颜色；术后要全面监测患者血糖水平，并根据监测结果调整用药，保证患者血糖水平在正常范围内；注意患者术后发生各种并发症的可能性，常见并发症包括酮症酸中毒、医源性低血糖等等，一旦发生并发症，立即采取必要措施；保证患者术后营养支持，并引导患者进行简单的功能训练。为患者制定科学的饮食方案，保证其营养吸收，鼓励患者进行早期功能训练，有助于肢体功能恢复，同时这些操作也有助于控制患者血糖。
+　　1.3 观察指标
+　　观察对比两组患者在围术期是否发生不良反应以及相关并发症等，当患者血糖低于3.9 mmol/L为低血糖；当患者出现糖尿病酮症酸中毒、高渗性非酮症糖尿病昏迷、乳酸酸中毒及低血糖昏迷等为严重并发症。
+　　1.4 统计方法
+　　采用SPSS 17.0统计学软件处理实验数据，计数资料用[n（%）]表示，使用χ2检验，P<0.05 为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者围术期低血糖发生率对比
+　　观察组患者围术期发生低血糖2例，低血糖发生率为5.0%，?φ兆榛颊呶?术期发生低血糖9例，低血糖发生率为22.5%，结果显示观察组明显低于对照组，差异有统计学意义（χ2=3.25，P=0.012<0.05）。
+　　2.2 两组患者围术期感染发生率对比
+　　观察组患者围术期发生感染4例，感染发生率为10.0%，对照组患者围术期发生感染14例，感染发生率为35.0%，结果显示观察组感染发生率明显低于对照组，差异有统计学意义（χ2=4.33，P=0.021<0.05）。   　　2.3 两组患者围术期糖尿病急性并发症发生率对比
+　　观察组患者在围术期发生糖尿病急性并发症1例，发生率为2.5%，对照组患者围术期发生糖尿病急性并发症8例，发生率为20.0%，结果显示观察组糖尿病急性并发症发生率明显低于对照组，差异有统计学意义（χ2=5.21，P=0.014<0.05）。
+　　3 讨论
+　　神经外科手术相对其他手术的风险更高，而且患者术后容易发生各种并发症。当患者合并存在糖尿病的时候，其血糖控制水平将直接影响到手术效果以及术后恢复，尤其是围术期的血糖水平，对手术成功率具有至关重要的作用。如果血糖控制效果不理想，患者在术后容易发生严重并发症如糖尿病酮症酸中毒、高渗性非酮症糖尿病昏迷等，这些并发症将严重威胁到患者生命安全以及预后。
+　　为了有效控制神经外科手术合并糖尿病患者的血糖水平，需要针对患者个体情况制定科学的护理方法。该次研究针对观察组患者实施综合护理，分别在术前、术中以及术后各个阶段实施对应的护理措施，术前要做好患者的心理工作，消除患者存在的紧张焦虑情绪，帮助患者树立战胜疾病的信心；术中要保证患者血糖处于正常水平，根据患者血糖控制水平合理调整相关药物的用量，并做好相关并发症的预防工作；术后严密监测患者各项生命体征，对于存在异常的患者及时采取措施；帮助患者在恢复时期完成翻身等动作，为患者制定科学食谱，保证其营养支持，引导患者进行早期恢复训练。
+　　该次研究结果显示，观察组患者在围术期的低血糖?l生率、感染发生率都明显低于对照组，而且观察组的糖尿病急性并发症发生率也明显低于对照组，这充分说明神经外科疾病合并糖尿病患者的围术期护理非常重要，针对患者病情实施定制化护理措施，有助于降低患者围术期低血糖、感染等不良反应的发生率，同时也可以降低糖尿病急性并发症的发生率，因此对于患者安全渡过围术期、术后早日恢复具有重要作用和意义，值得临床推广应用。
+
+

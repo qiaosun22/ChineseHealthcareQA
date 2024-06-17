@@ -1,0 +1,72 @@
+
+　　[摘要] 目的 观察综合护理干预在糖尿病肾病（DN）血液透析患者中的应用效果，以期改善患者预后。 方法 选取本院血液透析中心2010年10月～2013年12月接收的104例糖尿病肾病血液透析患者为研究对象，按照抽签随机取样法将其分为对照组（n=52）和干预组（n=52）。对照组给予常规护理措施;干预组在此基础上行综合性护理干预。比较两组患者干预前后各临床病理生理指标（血红蛋白、总蛋白、白蛋白、肌酐、尿素氮、收缩压及舒张压）;比较两组患者相关并发症发生率，采用SF-36生活质量评价量表比较两组患者生活质量。 结果 干预前，两组患者各临床病理生理指标无统计学意义（P>0.05）;干预后，观察组BUN、SBP显著低于对照组（P<0.05），其余各指标显著高于对照组（P<0.05）。观察组心力衰竭、内瘘感染等并发症发生率均显著低于对照组（P<0.05），生理功能、心理职能等各项评分均显著低于对照组（P<0.05）。 结论 综合性护理干预能够显著改善行血液透析DN患者的各项透析指标及血压，降低并发症，改善其生活质量，值得在临床上推广应用。
+　　[中图分类号] R473.5 [文献标识码] B [文章编号] 2095-0616（2015）02-108-04
+　　Application of comprehensive nursing intervention in patients with diabetic nephropathy in hemodialysis
+　　ZHANG Guiyan
+　　The Nephrology of Shenzhen Chinese Traditional Medical，Shenzhen 518033，China
+　　[Abstract] Objective To observe the effect of comprehensive nursing intervention in patients with diabetic nephropathy （DN） in hemodialysis in order to improve the prognosis of the patients. Methods 104 cases of patients with diabetic nephropathy in hemodialysis，admitted into the hemodialysis center of our hospital from October 2010 to December 2013，were selected as the research object and randomly divided into the control group （n=52） and intervention group （n=52）.The patients in the control group were given routine nursing measures while patients in the intervention group were given comprehensive nursing intervention based on the nursing in the control group.Various clinical pathological and physiological indexes （hemoglobin，total protein，albumin，creatinine，urea nitrogen，systolic and diastolic blood pressure） of the patients in two groups were compared before and after intervention and the incidence of related complications were compared between the two groups.The life quality of the patients in two groups was also compared according to the SF-36 life quality evaluation scale. Results Before intervention， there was no difference of clinical pathological and physiological index between the two groups of patients （P<0.05）.After intervention，BUN and SBP of the patients in the observation group were significantly lower than those of the control group （P<0.05），but the rest of the indexes were significantly higher than those in control group （P<0.05）.Heart failure and fistula infection rate and other complication incidences in the observation group were significantly lower than those of the control group （P<0.05） and the scores of physiological and psychological function were significantly lower than those in control group （P<0.05）. Conclusion The comprehensive nursing intervention can significantly improve the dialysis index and blood pressure of the patients with DN in hemodialysis，reduce complications and also can improve their lifer quality，which is worthy of clinical application.   　　[Key words] Diabetic nephropathy;Hemodialysis;Nursing intervention
+　　糖尿病肾病（diabetic nephropathy，DN）是临床上常见的糖尿病并发症，其引发的终末期肾功能衰竭也是糖尿病患者死亡的主要原因，血液透析由于能够清除体内毒素和过多水份，补充体内需要的物质，纠正电解质和酸碱平衡紊乱，成为目前应用最为广泛的DN治疗方法[1-2]。但是有文献报道[3-4]，DN患者血液透析过程中会出现低血压、低血糖、感染等并发症，同时患者承受着来自疾病本身和治疗方式的双重压力，容易出现焦虑等不良情绪，不利于疾病的治疗。近年来，综合性护理干预措施被逐渐广泛应用于临床改善患者身体机能及心理状态，但是其在行血液透析DN患者中的应用鲜有报道，本文对此进行初步探讨，以期改善患者预后，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取本院血液透析中心2010年10月～2013年12月接收的104例DN血液透析患者为研究对象，按照抽签随机取样法将其分为对照组（n=52）和干预组（n=52）。所有患者均知情同意，排除有心脏、肝脏等重大器官功能不全的患者，精神疾病和依从性差的患者，不能正确表达主观感受患者。两组患者一般资料比较差异无统计学意义（P>0.05）。见表1。
+　　1.2 方法
+　　对照组给予常规护理措施。包括：（1）一般性的生活和护理指导;（2）发放健康教育手册;（3）回答患者或家属提出的健康及生活问题。干预组在对照组基础上行综合性护理干预，包括：（1）心理干预：患者入院后，给予其一个舒适洁净的环境进行治疗和休息，同时基于普通常识性心理学知识和原理，采取劝导、鼓励等方式，询问患者存在的心理问题，通过暗示疗法使患者接受治疗者的观念，从而解除心理压力和负担，充分发挥其主动能动性，使其积极配合治疗护理。（2）认知干预：针对性地进行疾病宣教和有关知识讲解，并且详细的向患者介绍血液透析治疗积极作用，同时介绍自觉配合治疗且成功的病例或请成功病例现身说法。（3）生活干预：教会患者学会限制水份摄入并记录出入水量，控制甜食，定时定量，少食多餐，适当补充维生素及微量元素，多食谷类及绿叶蔬菜等，避免高磷饮食，如动物肝脏、海米等，勿吃油炸食物，禁止暴饮暴食，禁烟禁酒;鼓励患者适当参加有氧运动，如散步，每次运动时间30～60min，每周4～6次，以出现轻度气喘、疲乏及出汗为运动充分标准。（4）用药干预：详细告诉患者及家属所用药物的名称、剂量、作用、副作用及注意事项等，强调遵医嘱定时、定量服药，提醒其透析可丢失水溶性维生素，需补充叶酸、B族维生素、维生素C，但不能过量，嘱透析过程经常低血压的患者透析前可停服1次降压药。
+　　1.3 观察指标
+　　比较两组患者干预前后各临床病理生理指标，包括：血红蛋白（hemoglobin，HGB）;总蛋白（total protein，TP）;白蛋白（albumin，ALB）;肌酐（creatinine，Cr）;尿素氮（blood urea nitrogen，BUN）;收缩压（systolic blood pressure，SBP）;舒张压（diastolic blood pressure，DBP）。比较两组患者相关并发症（失衡综合征、心力衰竭、?瑞?感染、高血压等）发生率。采用SF-36生活质量评价量表比较两组患者生活质量。
+　　1.4 统计学处理
+　　所有数据均以SPSS17.0进行分析，计数资料以率或构成比表示，行x2检验;计量资料以（）表示，行t检验，以P<0.05表示差异有统计学意义。
+　　2 结果
+　　2.1 两组患者干预前后各临床病理生理指标比较
+　　干预前，两组患者各临床病理生理指标无统计学意义（P>0.05）;干预后，观察组BUN、SBP显著低于对照组（P<0.05），其余各指标显著高于对照组（P<0.05）。见表2。
+　　表1 两组患者临床资料比较
+　　组别 n 性别（男/女） 年龄（岁） 糖尿病病程（年） 慢性肾功能衰竭病程（年）
+　　对照组 52 29/23 52.6±11.4 6.92±2.58 1.97±0.34
+　　干预组 52 31/21 53.0±11.2 7.01±2.53 1.95±0.36
+　　t/x2 0.158 0.317 0.191 0.205
+　　P 0.843 0.772 0.803 0.796
+　　表2 两组患者各临床病理生理指标比较（）
+　　组别（n） 时间 血红蛋白
+　　（g/L） 总蛋白
+　　（U/L） 白蛋白
+　　（g/L） 肌酐
+　　（μmol/L） 尿素氮
+　　（mmol/L） 收缩压
+　　（mm Hg） 舒张压
+　　（mm Hg）
+　　对照组（52） 干预前 81.2±16.4 60.3±6.09 32.6±4.76 61.7±8.41 8.98±0.64 150.4±15.7 72.6±20.2
+　　干预后 84.5±16.7 64.7±5.98 35.2±5.02 63.3±8.30 7.14±0.72 140.3±13.1 75.9±10.5
+　　干预组（52） 干预前 81.4±15.9 60.8±5.78 32.4±4.39 60.9±8.54 8.91±0.67 152.1±15.3 71.9±20.8
+　　干预后 89.7±17.3 68.3±6.54 39.1±5.18 67.4±8.65 5.25±0.48 132.2±10.1 80.5±9.26
+　　t1 0.193 0.363 0.091 0.536 0.487 0.405 1.21   　　P1 0.795 0.638 0.827 0.545 0.556 0.621 0.098
+　　t2 8.01 6.69 5.28 5.64 3.58 10.6 7.52
+　　P2 0.003 0.005 0.009 0.007 0.019 0.000 0.004
+　　注：t1，P1表示干预前“干预组VS对照组”;t2，P2表示干预后“干预组VS对照组”
+　　表3 两组患者各并发症发生率比较[n（%）]
+　　组别 n 心力衰竭 失衡综合征 低血糖 低血压 ?瑞?感染 高血压
+　　对照组 52 12（23.1） 18（34.6） 16（30.8） 19（36.5） 6（11.5） 18（34.6）
+　　干预组 52 3（5.77） 7（13.5） 0 8（15.4） 0 7（13.5）
+　　x2 6.31 6.37 18.90 5.05 6.36 5.37
+　　P 0.012 0.010 0.000 0.024 0.011 0.21
+　　表4 两组护理干预后SF-36评分比较（，分）
+　　组别 n 生理功能 心理职能 躯体疼痛 总体健康 活力 社会功能
+　　对照组 52 75.60±6.42 76.80±7.23 73.10±8.18 68.90±4.75 76.90±8.36 75.40±7.43
+　　干预组 52  82.30±10.70 87.60±9.45 85.30±10.4 82.70±6.08 88.10±10.7 90.36±8.51
+　　t 9.73 9.41 8.78 11.60 10.30 13.40
+　　P 0.000 0.001 0.002 0.000 0.000 0.000
+　　组别 n 情感职能 精神健康 躯体相关生活质量 心理相关生活质量 总得分
+　　对照组 52 77.30±9.50 74.20±6.38 78.00±5.19 76.10±7.04 115.20±7.34
+　　干预组 52 86.20±10.1 90. 90±7.65 91.20±6.84 92.30±10.7 142.60±10.8
+　　t 7.94 10.10 11.50 13.70 8.06
+　　P 0.004 0.000 0.000 0.044 0.003
+　　2.2 两组患者相关并发症的比较
+　　观察组心力衰竭、内瘘感染等并发症发生率均显著低于对照组（P<0.05）。见表3。
+　　2.3 两组患者护理干预后生活质量比较
+　　观察组生理功能、心理职能等各项评分均显著低于对照组（P<0.05）。见表4。
+　　3 讨论
+　　DN是由糖尿病引起的微血管病变而导致的肾小球硬化，血液透析是利用半透膜的原理，将血液和透析液进行物质交换来维持患者生命的一种医疗手段，相较于肾移植，其具有操作简单、价格低廉等优点，成为DN最为主要的治疗方法。但是研究表明[5-7]血液透析是一件重大的负性生活事件，作为应激源，可引发个体强烈而持久的应激反应，导致患者出现焦虑、烦躁等负面情绪，进而出现机体免疫功能的抑制、内分泌和代谢的变化，严重影响患者生活质量和生存期。另外，有文献报道[8-10]，DN患者进入终末期肾病后，其内分泌系统功能减退，应激发生时血糖调节失调，使其在透析期间出现低血糖、低血压等不良反应。因此，如何有效地控制DN患者血液透析过程中不良情绪，避免低血糖等并发症发生，提高患者的生存质量，已经成为全球关注的问题。
+　　研究发现[11-13]，综合性护理干预在缓解患者焦虑、加速其身体恢复等方面效果优于一般护理，本研究对此进行初步探讨，结果显示：干预前，两组患者各临床病理生理指标无统计学意义（P>0.05），干预后，观察组BUN、SBP显著低于对照组（P<0.05），其余各指标显著高于对照组（P<0.05），证实了综合性护理干预对于改善血液透析DN患者各项透析指标及血压效果优于常规护理。考虑是由于护理人员的专业指导可以使患者了解与疾病相关的健康知识，提高患者的健康意识，纠正不良的健康行为，促进身体康复干预后。观察组各并发症发生率均显著低于对照组（P<0.05），SF-36生活质量量表各项评分均显著低于对照组（P<0.05）。提示综合性护理干预采取有针对性的干预措施，使患者减轻心理负担，合理饮食、合理用药、规律充分透析，毒素得到控制，营养状况有所改善，能够降低并发症的发生，同时能够重建患者积极心理防卫机能，增强患者信心进而提高其生活质量。对于DN患者血液透析过程护理要点，本研究总结如下：加强心理干预，及时发现焦虑等不良情绪，解除心理压力和负担，充分发挥其主动能动性;加强认知干预，详细的向患者介绍血液透析治疗积极作用;加强生活和用药干预，使患者合理饮食、运动，正确用药。值得一提的是，本研究中对于综合性护理干预的患者，建议其在透析前停用胰岛素，透析过程中鼓励患者少量进食，透析后、进餐前按常规剂量注射胰岛素，晚餐时可继续使用胰岛素，同时，加强了患者保护内瘘的指导，使得观察组未有低血糖、内瘘感染的发生。
+　　综上所述，综合性护理干预能够显著改善行血液透析DN患者的各项透析指标及血压，降低并发症，改善其生活质量，值得在临床上推广应用。
+　　（下转第页）
+　　（上接第页）
+
+

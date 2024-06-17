@@ -1,0 +1,33 @@
+
+　　[摘要] 目的 探讨集束化循证护理方案对支气管哮喘患者预后的影响。 方法 将我院收治的110例支气管哮喘患者随机分为干预组和对照组各55例，对照组采用常规护理方式，干预组实施集束化护理方法。比较两组患者肺功能、焦虑自评量表（SAS）评分以及生活质量测定量表（EORTC QLQ-C30）得分。 结果 两组患者护理后，干预组PEFR、25%FRF、50%FRF、75%FRF均显著高于对照组，差异有统计学意义（P<0.05）；护理后两组患者的SAS得分均显著降低，其中干预组SAS得分显著低于对照组，差异有统计学意义（P<0.05）。护理后两组患者EORTC QLQ-C30量表各维度及总健康状况评分显著高于护理前（P<0.05），其中干预组各指标得分显著优于对照组，差异有统计学意义（P<0.05）。 结论 以循证医学为基础的集束化护理方案能够有效改善患者的肺功能，促进患者心理健康恢复，提高患者的生活质量，具有显著的社会意义，值得临床推广。
+　　[中图分类号] R473.5 [文献标识码] B [文章编号] 1673-9701（2014）32-0093-04
+　　Intervention and prognosis effect of bundle evidence-based nursing program in patients with bronchial asthma
+　　WEI Fang1 WANG Yingshuo2
+　　1.Department of Respiration， the Central Hospital of Lishui City in Zhejiang Province， Lishui 323000，China；2.Department of Respiratory Medicine，Children's Hospital Affiliated to Medical College of Zhejiang University， Hangzhou 310058，China
+　　[Abstract] Objective To explore the prognosis effect of bundles care in patients with bronchial asthma. Methods A total of 110 cases of bronchial asthma patients selected in our hospital were randomly divided into intervention group and control group with 55 cases in each group， the control group received routine nursing care， the intervention group underwent bundles care methods. Compared two groups of patients with pulmonary function， self rating Anxiety Scale （SAS） score and quality of life scale （EORTC QLQ-C30） score. Results After nursed intervention group PEFR， 25%FRF， 50%FRF， 75%FRF were significantly higher than those in the control group， the difference was statistically significant when compared between the two groups （P<0.05）；Two groups of patients after the treatment the scores of SAS were significantly lower，in the intervention group SAS scores were significantly lower than that of the control group， the difference was statistically significant compared with between the two groups（P<0.05）. Two groups of patients after the treatment EORTC QLQ-C30 scale dimensions and total score was significantly higher than that in health care before （P<0.05），the intervention group each index was significantly better than the control group， the difference between the two groups were compared with statistical significance（P<0.05）. Conclusion Based on evidence-based medicine of bundles care can effectively improve bronchial asthma patients pulmonary function，promote recovery in mental health，improve the quality of life of patients， with significant social significance， and worth the clinical promotion.   　　[Key words] Bundles of care； Bronchial asthma； Anxiety； Quality of life
+　　支气管哮喘是临床上常见的疾病，主要是支气管-气管对外界反应过度敏感所致[1]。支气管哮喘的防治工作非常严峻，其中多数患者本身对哮喘相关知识了解有限，一旦发病会严重影响患者的生活质量，导致患者情绪焦躁；而焦躁的情绪又会进一步加重患者的病情[2]。集束化循证护理（bundles of care）方案[3]是指以循证医学为基础，将目前已经被证实的有效的一系列护理方案集合在一起，给住院患者提供最好护理的一种方法；该理念充分体现了以人为本的原则，是由美国健康促进研究所率先提出，并开始受到广大医务工作者的重视。本研究将集束化循证护理方案应用于支气管哮喘患者，观察患者护理后的负性情绪、生活质量、肺功能等改善情况，以期为防治气管哮喘护理工作提供一项新的措施，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2011年6月～2013年6月我院收治的110例支气管哮喘患者作为研究对象，男74例，女36例；年龄17～76岁，平均（47.3±9.4）岁；病程3～57年，平均（28.4±11.2）年。按照支气管哮喘分级标准[4]：轻度47例，中度41例，重度22例；其中合并高血压23例，合并冠心病17例，合并糖尿病13例。纳入标准：①符合全球哮喘防治创议（GINA方案，2006）关于支气管哮喘诊断标准[5]；②所有患者均采用吸入激素等治疗；③患者具有独立沟通能力；④取得患者及其家属同意。排除标准：①肾炎、肝炎等感染性疾病者；②严重心、肺、肾等重要器官疾病；③精神障碍或无自主行为能力者。将符合标准的110例患者按照随机数字表法分为干预组55例和对照组55例，两组患者的性别、年龄、病程、疾病程度等一般资料比较，差异无统计学意义（P>0.05），具有可比性，见表1。
+　　表1 两组患者一般资料比较
+　　1.2 方法
+　　两组患者住院期间均接受相关药物治疗及健康教育，健康教育内容包括：哮喘相关危险因素预防、药物注意事项、饮食结构等；对照组给予常规护理方法：对患者排痰进行指导，给予适当心理护理干预，向患者讲解疾病注意事项，指导正确用药方法等；出院后对患者进行电话随访，跟踪患者病情。干预组采用集束化护理：①成立专门健康教育小组和责任护士：对患者进行哮喘知识教育，教育的方式包括口头交流、讨论会、宣传单、视频、幻灯片等；介绍的内容主要集中于哮喘的发病机制、发病典型症状、如何避免过敏原以及可能出现并发症等；并对相关情况详细说明防治措施。②体位：患者以坐位或半坐位为宜，背部垫一软垫，并将前臂平放在桌上，注意保暖；若患者有排痰需求，则根据患者的舒适度采用不同的体位。③配合氧疗：及时监测患者血气指标，若患者氧分压较低时则给予吸氧，氧流量控制在（1～3）L/min，氧气需湿化。④心理护理：让患者了解虽然哮喘不能根治，但是可以通过适当的措施控制病情，注意缓解患者焦虑的情绪。解决患者的问题时要细致、耐心，给予患者充分的安慰、关心和体贴。当患者疾病发作时应着重让患者分散注意力，并给予积极安慰。⑤指导用药：让患者知道吸入激素是控制哮喘最有效的方法。向患者及其家属详细介绍常用药物的名称、用法、用量及副作用，掌握正确给药方法。另外告诉患者激素吸入是局部给药，相比于静脉给药不良反应较少。⑥出院后指导：建议患者对病情进行记录，及时与负责医生沟通；指导家属协助患者出院后进行持续呼吸功能、身体康复训练，并制定合理的膳食计划；嘱患者少食油腻、甜食以及碳酸性饮料；多注意补充水和微量元素，每日少食多餐。两组患者进行为期6个月的家庭随访或电话随访，并进行必要检查。
+　　1.3 观察指标
+　　①采用M314523型肺功能仪（北京中西远大科技有限公司）对患者护理后肺功能进行测定，监测指标包括：呼气高峰流量（PEFR）、25%肺活量最大呼气流速（FRF）、50%FRF和75%FRF。②采用Zung焦虑自评量表[6]（Self-Rating Anxiety Scale，SAS）对患者焦虑情绪进行评价，SAS标准分的分界值为50分，其中50～59分为轻度焦虑，60～69分为中度焦虑，70分以上为重度焦虑。③采用生活质量测定量表[7]（EORTC QLQ-C30）对患者的生活质量进行评价，该量表共有五项：躯体、角色、情绪、社会、认知，共30个条目；得分越高说明患者的生活质量越高。所有调查问卷均由患者独立完成，问卷当场发放、当场回收；共发放110份，回收110份，回收率100%。
+　　1.4 统计学方法
+　　采用SPSS17.0统计学软件进行检验，计量资料均以（x±s）表示，采用t检验，率的比较采用χ2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者护理后肺功能比较
+　　两组患者护理后，干预组PEFR、25%FRF、50% FRF、75%FRF均显著高于对照组，差异有统计学意义（P<0.05），见表2。
+　　表2 两组患者护理后肺功能比较（x±s，L/s）
+　　2.2 两组患者护理前后SAS得分比较
+　　护理后两组患者的SAS得分均显著降低，其中干预组的SAS得分显著低于对照组，差异有统计学意义（P<0.05），见表3。
+　　表3 两组患者护理前后SAS得分比较（x±s，分）
+　　2.3 两组患者护理前后生活质量得分比较
+　　护理后两组患者的EORTC QLQ-C30量表各维度及总健康状况评分显著高于护理前，差异有统计学意义（P<0.05）；其中干预组的各指标得分显著优于对照组，差异亦有统计学意义（P<0.05），见表4。
+　　3 讨论
+　　支气管哮喘是临床上常见的呼吸系统疾病，该病无法根治，但通过吸入糖皮质激素能够有效控制病情。糖皮质激素需要长期吸入，因此病情的控制程度取决于患者治疗的依从性。由于哮喘反复发作，给患者带来极大的痛苦和精神负担，导致患者治疗的依从性难以持续[8]；特别是多数患者对疾病相关知识了解甚少，对自身病情认识不足，导致患者出现焦虑抑郁症状，影响患者的依从性和治疗效果。程哲等[9]调查显示，哮喘的反复发作会影响患者的活动能力；另外哮喘发作时所带来的喘息、胸闷会给患者造成较大痛苦，使其生活质量明显降低[10]。常规护理可以提高患者住院时的治疗依从性，但哮喘病程较久，一旦出院患者的各方面需求难以得到及时的满足。   　　集束化护理（bundles of care）是指集合一系列通过有循证基础的治疗及护理措施，来处理某种难治的临床疾患。它是由美国健康促进研究所[11]（the institute for healthcare improvement， IHI）首先提出的，其目的在于帮助医务人员为患者提供尽可能优化的医疗护理服务和护理结局。“集束化护理”理念的形成是将循证理念引入床边管理并为慢性疾病患者普遍存在的某种疾病创造最佳的实践指南[12]。其概念是指针对某一类或某一例患者实施的一组护理干预措施，该组措施中的每一项干预都是经过临床证实能改善患者结局的。在执行过程中，必须持续地执行该集束化干预措施中的每一项，不能间断或选择性地应用其中的某一项或几项，否则就违反了集束化护理干预策略的精髓[13]。近年来，国内一些学者也探索性地将“集束化”理念应用于临床实践中。在国外集束化干预的应用已渐趋普遍，但在国内尚处于探索阶段。本研究通过对支气管哮喘患者采用以循证医学为基础，个性化集束化护理，探讨该理论在支气管哮喘护理中的作用。
+　　本研究两组患者护理后，干预组PEFR、25%FRF、50%FRF、75%FRF均显著高于对照组；说明集束化护理作为用药的重要治疗手段，可显著提高药物的治疗效果，改善患者的肺功能。哮喘患者由于活动受限、临床症状明显等原因不能完全融入到社会生活中，久而久之会产生焦虑、自卑情绪[12]。以循证医学为基础的集束化护理手段重视患者的心理需求，通过培训、宣讲等手段让专业知识普及至每个患者；特别是对药物的用法、用量、不良反应等重点讲解，操作性强，更能有效缓解患者的焦虑情绪。本研究中干预组SAS得分显著低于对照组，说明集束化护理能够促进患者的心理健康恢复，快速帮助患者融入集体生活。生活质量的高低直接决定慢性疾病的康复；刘飞等[14]在研究中提出，对于慢性疾病的患者，在治疗中要特别注意提高患者的生活质量，生活质量越高，越有利于疾病康复。集束化护理着重增加了对患者康复锻炼、膳食计划、护理指导等内容，结果显示两组的生活质量均显著高于护理前，而干预组的生活质量又显著高于对照组，提示虽然常规护理也能够提高患者的生活质量，但集束化护理更能显著提高患者的生活质量，对患者的疾病康复、心理负性情绪调节具有重要意义。
+　　综上，集束化护理干预能够有效改善患者肺功能，促进心理健康恢复，提高患者生活质量，具有显著的社会意义，值得临床推广。
+
+

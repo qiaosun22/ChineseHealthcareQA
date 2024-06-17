@@ -1,0 +1,23 @@
+
+ 　　[摘要] 目的 探究综合干预对充血性慢性心力衰竭（CHF）并糖尿病（DM）护理效果。 方法 选取2015年11月―2016年11月收治的92例CHF并DM患者临床资料进行分析，将其分为对照组（46例）与研究组（46例），对照组行常规干预，研究组行综合干预，比较两组临床相关指标水平以及生活质量。 结果 研究组相关指标水平显著优于对照组（P<0.05），研究组生活质量各项评分与对照组相比显著低（P<0.05）。 结论 CHF并DM运用综合护理干预可有效提升临床疗效，提升患者自我管理能力，从而促进生活质量改善。
+　　[中图分类号] R473 [文献标识码] A [文章编号] 1672-4062（2017）01（b）-0013-02
+　　[Abstract] Objective To study the nursing effect of general intervention on congestive chronic heart failure and diabetes. Methods 92 cases of CHF and DM patients admitted and treated in our hospital from November 2015 to November 2016 were selected and divided into two groups with 46 cases in each， the control group adopted the routine intervention， while the research group adopted the general intervention， and the clinical related indexes level and quality of life were compared between the two groups. Results The related index level in the research group was obviously better than that in the control group（P<0.05）， and various scores of quality of life in the research group were obviously lower than those in the control group（P<0.05）. Conclusion The general nursing intervention for CHF and DM can effectively improve the clinical curative effect and improve the self-management ability of patients thus promoting the improvement of quality of life.
+　　[Key words] CHF； Comprehensive intervention； DM； Study
+　　充血性慢性心力衰竭（CHF）为各种心脏疾病在终末阶段的表现，属于复杂一种症候群；而糖尿病（DM）为一种多见代谢性疾病，且发病率呈上升趋势[1-2]。当CHF与DM并发时，将加大临床治疗难度，且多预后不良，因而临床需配合有效护理。为明确综合干预对CHF并DM的护理效果，该院针对性选取2015年11月―2016年11月收治的92例患者资料予以分析，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2015年11月―2016年11月该院收治的92例CHF并DM患者临床资料进行分析，将其分为对照组（46例）与研究组（46例）。对照组男女比例26：20，年龄46～72岁，平均（59.14±8.23）岁；病程1～4年，平均（2.86±1.07）年。研究组男女比例25：21，年龄47～73岁，平均（59.36±8.31）岁；病程1～5年，平均（2.92±1.11）年。所有患者均签署知情同意书，该次研究的方案经医学伦理委员会的批准，两组基线资料比较差异无统计学意义（P>0.05），具可比性。
+　　1.2 方法
+　　对照组予以常规护理干预，主要有吸氧护理、用药指导、饮食护理等；研究组予以综合护理干预，具体为：①对患者血糖、血压、心率等进行监测，并详细记录，当相关指标出现异常时，及时通知主治医生；②予以健康教育，向患者详细介绍疾病相关知识，包括疾病成因、治疗方式、相关注意事项等，提高临床依从性；③通过主动与患者交流，准确把握患者心理状态，对不良情绪进行疏导；④指导患者养成良好生活方式，通过患者个体情况，算出每日所需热量，制定合理化个体性饮食方案；并依据患者病情，制定合理运动方案；帮助控制患者体质量、血糖值，叮嘱其戒烟、戒酒；⑤在患者用药过程中，予以药物原理、目的、作用等讲解，指导其按时按量服药，合理科学控制血压、血糖，减少血糖波动。
+　　1.3 统计方法
+　　该研究数据均以SPSS 17.0统计学软件进行统计学分析，正态计量资料采用（x±s）表示，采用t检验，计数资料用[n（%）]来表示，采用χ2检?，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 比较两组相关指标情况
+　　研究组相关指标水平优于对照组（P<0.05），见表1。
+　　2.2 比较两组生活质量
+　　研究组生活质量各项评分与对照组相比低（P<0.05），见表2。
+　　3 讨论
+　　该次研究中，研究组相关指标水平优于对照组，研究组与对照组相比生活质量各项评分显著低。此次研究结果与秦?Z?Z等人[2]相似，表明综合护理通过对患者进行健康教育、用药、饮食与运动指导、心理疏导等多方面干预，可有效提高患者自我管理能力，促进心功能改善，从而提升生活质量。对于CHF并DM患者，临床治疗过程中有效控制血糖对患者预后具有重要影响，血糖水平的控制可使心肌游离脂肪酸（FFA）的氧化程度减轻，从而加强葡萄糖的利用，进而改善CHF并DM患者心功能与心肌代谢状态[3-4]。由于患者疾病认知水平较低，因而影响血糖控制情况，综合干预中护理人员对患者进行健康教育，可加强其对疾病相关知识的认知，从而达到服药依从性的提升。其次，通过介绍不良生活习惯对疾病造成的影响，使患者认识到正确饮食、运动的重要性，可有效矫正患者不良生活方式，提升机体免疫能力，临床疗效提升[5]。在患者用药期间，对药物原理、治疗效果、意义等进行介绍，可有效提高患者自律性与主动性，从而提高用药效果，促进预后改善。此外，对患者进行心理护理，能够安抚患者紧张、恐惧、焦虑等负面情绪，提升其治疗信心，有助于病情控制，血糖、血压稳定，预后显著改善。
+　　综上所述，综合干预应用于DM并CHF临床护理中，可促进临床疗效提升，患者生活质量改善，具有临床推广与应用价值。
+
+

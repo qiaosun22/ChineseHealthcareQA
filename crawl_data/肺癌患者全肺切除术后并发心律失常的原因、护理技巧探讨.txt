@@ -1,0 +1,25 @@
+
+ 　　[摘要]目的 对肺癌患者全肺切除术后并发心律失常的原因进行分析，并提出相关护理对策。方法 选择2015年3月～2017年3月在我院接受全肺叶切除术的肺癌患者68例，根据患者术后是否发生心律失常分为对照组和观察组，观察组为术后发生心律失常患者12例，对照组为术后未发生心律失常患者56例，统计两组患者相关数据，分析术后并发心律失常的原因，并提出对应的护理对策。结果 全肺叶切除术后心律失常发生的原因与年龄、吸烟史、肺功能受损史、心脏病史、手术时间、术中出血量、术后低氧血症、术后血液动力学改变、术后纵膈摆动、术后剧烈疼痛、术后便秘有相关性，且差异有统计学意义（P<0.05）；经Logistic回归分析，全肺叶切除术后心律失常的独立危险因素有：年龄>65岁、肺功能受损史、心脏病史、术后低氧血症、术后血液动力学改变，且差异有统计学意义（P<0.05）。结论 肺癌患者全肺切除术后并发心律失常的原因较多，包括年龄、心肺功能、手术类型、术中出血量等，对此，需要加强对患者心电监护，及时止痛、发现并处理并发症，以减少心律失常的发生。
+　　[中图分类号] R473 [文献标识码] A [文章编号] 1674-4721（2017）11（b）-0183-03
+　　[Abstract]Objective To analyze the causes of arrhythmia after total lobectomy in patients with lung cancer， and put forward relevant nursing countermeasures.Methods 68 patients with lung cancer with total lobectomy from March 2015 to March 2017 of our hospital were selected as study objects.Patients were divided into groups according to whether or not there was arrhythmia after the operation.12 patients with arrhythmia after operation were selected as observation group.56 patients without arrhythmia after operation were selected as control group. The related data of two groups were analyzed， and the causes of arrhythmia after operation were analyzed， and the corresponding nursing countermeasures were put forward.Results The reason of arrhythmia after total lobectomy was related with age， smoking history， history of pulmonary function impairment， heart history， operation time， intraoperative blood loss， postoperative hypoxemia， postoperative hemodynamic changes， postoperative mediastinal swing， postoperative severe pain and postoperative constipation （P<0.05）.Logistic regression analysis showed that the independent risk factors of arrhythmia after total lobectomy were aged more than 65 years old，history of pulmonary function impairment， heart history， postoperative hypoxemia and postoperative hemodynamic changes （P<0.05）.Conclusion The reason is more complicated with arrhythmia after pneumonectomy for lung cancer patients， including age， cardiopulmonary function， type of surgery， intraoperative blood loss.In this regard， strengthen the patients ECG， timely analgesia， timely detection and treatment complications need to take to reduce the incidence of arrhythmia.
+　　[Key words]Lung cancer；Total lobectomy；Arrhythmia；Cause；Nursing
+　　肺癌是?R床上常见恶性肿瘤，死亡率、发生率均较高，且近年来，肺癌发病率有上升趋势[1-2]。临床上主要应用手术方法来对肺癌患者进行治疗，其中，全肺切除术由于创伤大，会严重影响患者呼吸系统、循环系统，使得患者术后容易发生心律失常等各类并发症[3]。全肺切除术后心律失常是导致患者死亡的主要原因，需要采取积极措施来减少心律失常的发生[4]。本文为了探究全肺叶切除术后心律失常发生的原因以及对应护理措施，选取在本院进行全肺叶切除术的肺癌患者68例，现报道如下。   　　1 资料与方法
+　　1.1一般资料
+　　选择2015年3月～2017年3月在我院接受全肺叶切除术的肺癌患者68例，其中男39例，女29例，年龄52～78岁，平均（59.23±5.78）岁。
+　　1.2方法
+　　根据患者术后是否发生心律失常进行分组，术后发生心律失常患者12例设为观察组，术后未发生心律失常患者56例设为对照组。收集两组患者相关临床资料，分析术后心律失常发生的原因。
+　　1.3统计学方法
+　　采用统计学软件SPSS 18.0分析数据，计量资料以均数±标准差（x±s）表示，采用t检验，计数资料以率表示，采用χ2检验，以P<0.05为差异有统计学意义。应用多因素Logistic回归分析术后房颤发生的危险因素，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1两组肺癌患者全肺叶切除术后心律失常发生的原因分析
+　　全肺叶切除术后心律失常发生的原因与年龄、吸烟史、肺功能受损史、心脏病史、手术时间、术中出血量、术后低氧血症、术后血液动力学改变、术后纵隔摆动、术后剧烈疼痛、术后便秘有相关性且差异有统计学意义（P<0.05）（表1）。
+　　2.2肺癌患者全肺叶切除术后心律失常多因素分析
+　　经Logistic回归分析，全肺叶切除术后心律失常的独立危险因素有年龄>65岁、肺功能受损史、心脏病史、术后低氧血症、术后血液动力学改变，且差异有统计学意义（P<0.05）（表2）。
+　　3 讨论
+　　3.1原因分析
+　　目前，随着社会环境改变以及人们生活方式的变化，肺癌发病率有上升趋势，但是该病死亡率高，严重威胁着人们的身体健康[5]。重大手术创伤后，患者容易发生心律失常，而全肺切除术是治疗肺癌的重要方式[6]。本次研究中，经Logistic回归分析，全肺叶切除术后心律失常的独立危险因素有年龄>65岁、肺功能受损史、心脏病史、术后低氧血症、术后血液动力学改变，且差异有统计学意义（P<0.05），且该并发症的发生可能与吸烟史、手术时间、术中出血量、术后疼痛等有关。由于患者年龄较大，自身心功能、心排量、心肌收缩能力等功能较差，再加上手术刺激，可能使得患者心脏负荷变大，从而诱发心律失常[7-8]。有学者指出，行全肺切除术的肺癌患者在术前有心肺功能损伤、心脏病史时，患者出现心律失常的可能性显著增大[9]。主要是该类患者心肺功能储备较差，行全肺切除术后，心肺功能代偿能力进一步减弱，从而引发心律失常[10]。相关研究指出，全肺切除术后，患者肺功能减弱，创伤大，可能使得患者胸腔中压力失衡，从而影响患者呼吸、循环系统，进而诱发心律失常[11]。全肺切除术后，使得患者有效通气面积显著减小，通气/血液比值减小，毛细血管流量、肺泡流量增大，引起肺水肿、肺淤血等，使得心脏负荷变大，最终诱发心律失常[12]。且全肺切除术后，机体缺氧和二氧化碳浓度逐渐增大促进了儿茶酚胺的增多，使得心肌应激性、自律性、传导性受影响，最终引发心律失常[13]。
+　　3.2护理对策
+　　①心理护理：癌症患者容易产生焦虑、恐惧的情绪，心理压力大，会影响治疗依从性。对此，术前用通俗易懂的语言向患者讲解全肺切除的重要作用，告知患者需要注意的相关事项，以改善患者心理状态[14]。②呼吸道护理：许多肺癌患者有吸烟习惯，呼吸道感染发生率较高，对此，护理人员加强对患者呼吸道的护理，指导患者每天早晚刷牙、饭后漱口；嘱咐患者戒烟，告知患者吸烟的危害性，指导患者家属监督；护理人员教会患者用正确的腹式呼吸法来帮助患者排痰，如果痰排出困难，可通过雾化疗法促进排痰[15]。③术后心电监护：术后严密监测患者各项生命体征，对患者血压、呼吸、心率、血氧饱和度等进行严密监测，及时掌握患者病情变化情况，及时发现并处理心律失常的发生。④术后镇痛：护理人员严密观察患者各项症状，主动询问患者感受，评估患者疼痛程度，通过听音乐等转移注意力的方法来减轻患者疼痛程度，如果患者疼痛难忍，则遵照医嘱以镇痛药物。⑤饮食指导：术后加强对患者饮食指导，指导患者多食用新鲜的水果、蔬菜等，并指导患者在床上进行屈伸肢体、扩胸运动等，并帮助患者进行腹部按摩，以促进肠道蠕动，保持大便通畅。
+　　综上所述，肺癌患者全肺切除术后并发心律失常的原因较多，包括年龄、心肺功能、手术类型、?g中出血量等，对此，需要加强对患者心电监护，及时止痛，及时发现并处理并发症，以减少心律失常的发生。
+
+

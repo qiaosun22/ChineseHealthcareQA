@@ -1,0 +1,31 @@
+
+　　[中图分类号] R651 [文献标识码] A [文章编号] 1674-4721（2014）09（a）-0162-04
+　　Investigation analysis of nutrition support and nursing status in critically ill patients in department of neurosurgery of our hospital
+　　MA Jun-fang1，2 LV Quan-jun2▲
+　　1.Department of Neurosurgery，the First Hospital Affiliated to Zhengzhou University，Zhengzhou 450052，China；2.Department of Nutrition and Food Hygiene，College of Public Health of Zhengzhou University，Zhengzhou 450001，China
+　　[Abstract] Objective To investigate nutrition support treatment，nursing status and open question in critically ill patients in department of neurosurgery of the First Hospital Affiliated to Zhengzhou University to provide clinical basis for further strengthening the nutrition support treatment and nursing in critically ill patients in department of neurosurgery. Methods 4 inpatient areas of department of neurosurgery in the First Hospital Affiliated to Zhengzhou University from September 2012 to September 2013 were selected，among them，50 patients were randomly selected and 100 nurses participated in the investigation.According to Branch of Critical Care Medicine of Chinese Medical Association issuing "Guidelines for nutrition support in critically ill patients" in 2006 and "Expert consensus on enteral nutrition for neurosurgical critically ill coma patients"in 2010，self-made survey report scale was selected as research tool to focus on investigating the development of nutrition support treatment，cognition and nursing level of nurse staff for nutrition support，and nutrition state and complications of patients during the period of hospitalization were analyzed retropestively，and the results were given for descriptive statistics. Results 50 patients were involved in the nutritional support treatment，there were 19 patients （38%） with early total enteral nutrition，20 patients（40%） with total parenteral nutrition，11 patients （22%） with enteral nutrition and parenteral nutrition.There were 3 inpatient areas （75%）had clear rules for nursing rules for the implementation during nutrition support ，4 inpatient areas （100%） did blood sugar monitoring，and there were 7 patients with nutrition complications.The total score of nurse staff for nutrition support cognition were （62.70±17.29）points，and the total score of nursing level were （83.71±11.07）points. Conclusion Nutrition support treatment for critically ill patients in department of neurosurgery has received attention and recognition，the nursing level of nutrition support for critically ill patients in department of neurosurgery in the First Hospital Affiliated to Zhengzhou University is higher，but cognitive level still needs to be enhanced.   　　[Key words] Department of neurosurgery；Critically ill；Nutritional support；Nursing
+　　神经外科危重症患者意识障碍，往往需要呼吸机维持呼吸，无法正常进食，而患者机体处于高消耗状态，呈现负氮平衡，影响免疫功能，对预后产生不利影响[1]。合理的营养支持治疗，可改善患者的功能，调节免疫[2]，关系到患者的临床效果，护理人员作为神经外科危重症患者住院期间营养支持治疗的一线实施者，其对营养支持治疗的认知及护理水平影响患者的预后[3]。本研究为了了解郑州大学第一附属医院神经外科危重症患者的营养支持治疗开展情况，护理人员对营养支持治疗的认知及护理水平，对郑州大学第一附属医院的50例患者及100名护士进行抽样调查，现报告如下。
+　　1 对象与方法
+　　1.1 研究对象
+　　研究对象为郑州大学第一附属医院神经外科护士，共4个病区，各病区随机抽样选择25名护士，入选标准：①临床护士；②从事神经外科护理工作≥2年。随机抽取2012年9月～2013年9月住院的50例神经外科危重症患者，对患者的既往资料进行回顾性分析。
+　　1.2 研究方法
+　　参考2006 年中华医学会重症医学分会颁布的 《危重病人营养支持指导意见》[4]及2010年中华医学会创伤学分会神经创伤专业学组达成的《神经外科危重昏迷患者肠内营养专家共识》[5]自制调查报告量表作为研究工具，自制调查量表（认知与护理水平量表各设计问答题10题，每题10分，实行百分制）由神经外科及膳食营养科5名专家共同审核修订，主要内容包括神经外科护理人员对营养支持的认知水平及护理水平，由调查者本人直接发放至被抽取的100位神经外科护士，当场填写收回，由5名专家进行评分；对随机抽取的50例患者调取住院期间病历及护理记录，评估营养支持治疗使用情况，对血糖、口腔感染、腹泻、营养不良等并发症进行回顾性分析，评估疗效。对所得结果进行描述性统计。
+　　2 结果
+　　2.1 护理人员的一般情况
+　　100例问卷全部现场收回，100名护士，均为女性，年龄22～43岁，平均29.7岁；职称：护士43人，护师51人，主管护师3人，副主任护师2人，主任护师1人；文化程度：大专67人，本科29人，研究生4人；从事神经外科护理工作2～21年，平均7年。
+　　2.2 患者住院期间的营养支持情况
+　　3个（75%）神经外科病区对营养支持期间护理实施细则有明确规定，4个（100%）病区均进行血糖监测，被调查的50例患者均参与了营养支持治疗，其中早期全肠内营养患者19例（38%），全肠外营养患者20例（40%），肠外营养+肠内营养患者11例（22%），4例患者住院期间血糖偏高，给予胰岛素治疗，住院期间患者发生营养并发症7例，腹泻3例，均见于肠外营养患者，便秘1例，见于肠内营养患者，2例患者出现应激性溃疡、恶心、呕吐，给予抑酸药物后好转，1例患者出现肝损伤，给予保肝药物治疗，有4例患者出现喂养不足，6例患者死亡，死亡与营养并发症无关。50例患者中有31例应用谷氨酰胺。患者住院期间各项监测指标见表1。
+　　表1 患者住院期间各项监测指标情况（x±s）
+　　2.3 护理人员的营养认知及护理水平评分情况
+　　护理人员的营养认知总得分为（62.70±17.29）分，护理水平总得分为（83.71±11.07）分，各项得分见表2、表3。
+　　表2 护理人员的营养认知得分（分，x±s）
+　　表3 护理人员的护理水平得分（分，x±s）
+　　3 讨论
+　　3.1 营养支持治疗的现状及存在的问题
+　　神经外科危重症患者早期机体处于应激状态，组织器官功能损伤，代谢功能紊乱，营养不良发生率高[6]，如不及时给予营养支持，则引起患者免疫力低下、切口愈合延迟，并可影响患者的神经功能修复，增高死亡率[7]。随着重症医学的不断发展，近年来，营养支持治疗在神经外科危重症患者中的应用逐渐受到重视，郑州大学第一附属医院50例抽查患者均给予了营养支持治疗，其中早期全肠内营养患者占38%，全肠外营养患者占40%，肠外+肠内营养患者占22%，其中有4例患者因不耐受肠内营养而中途中止。在营养支持治疗过程中，患者多保持正氮平衡，血糖控制较好，但有部分患者出现并发症，如2例患者出现腹泻，给予补液对症等支持治疗后明显好转，有4例患者出现喂养不足等情况。50例患者中有31例应用谷氨酰胺，说明50例患者所需求的特殊营养素应用率较高，这符合中华医学会对危重症患者的营养指导意见，多项研究显示，添加谷氨酰胺的肠外营养能明显降低重症患者的死亡率、住院费用[5]。
+　　3.2 神经外科护士对营养支持治疗的认识有待提高
+　　本调查结果显示，护理人员对营养支持治疗的认知得分为（62.70±17.29）分，未达合格标准（专家评定小组制订的合格标准得分≥70分），说明护理人员对营养支持治疗的最新进展了解较少，仍局限于传统意义上的提供热量及恢复“正氮平衡”，而随着重症医学的发展，长时间的研究表明重症患者治疗的关键是：灌注与氧合，维持全身器官的新陈代谢，而营养支持恰恰是维持新陈代谢的重要手段[4]。临床中需加强护理人员对营养支持治疗的认识，进而加强临床实际操作应用能力。值得注意的是多数护理人员在营养支持的方式选择及开始时机认识不足，2006年危重患者营养支持指导意见及2010年神经外科危重昏迷患者肠内营养专家共识均推荐早期（24～72 h）开始营养支持治疗，可改善患者的预后，而对于营养途径的选择，建议首选肠内营养[8]。大量研究表明，早期给予足量肠内营养可起到维持营养均衡、保护肠道功能、降低感染发生率及住院费用、缩短住院周期等作用[9]，对于肠内及肠外营养配方的选择仍存在欠缺，部分护理人员在临床中仍采用传统的由家属自行准备流质饮食通过鼻饲管推注，对肠外营养液的配置同样缺乏认识，神经外科患者往往存在应激性血糖增高，所以低糖、高蛋白并含有膳食纤维的食物配方更合适[10]，可有效改善氮平衡；早期或胃肠功能障碍患者短肽配方更易吸收，有效预防便秘。本研究结果显示，神经外科护理人员对营养支持治疗的认识水平仍较低，护理人员作为患者治疗的一线实行者及观察者，需要加强系统性学习。   　　3.3 神经外科护士对营养支持治疗的护理水平较高
+　　参与调查的4个病区中，有3个病区对营养支持治疗的护理制订了实施细则，4个病区对于营养支持的患者均开展血糖监控，参与调查的100名护士护理水平测试得分为（83.71±11.07）分，护理人员在口腔护理[11]、床头抬高预防误吸[12]、调控营养液泵入速度及压力[13]、预防肺炎[14]等方面有较高的认识，在营养管的放置、脱管的发现及处理上得分较高，了解定时检测胃内潴留量及鼻饲管的通畅性，能够及时发现胃肠动力不全患者，了解对于胃潴留>200 ml的患者暂停肠内营养，并给予胃肠耐受性评价[15]，在鼻饲前进行翻身排痰，预防误吸；能够认真记录出入量，及时监测血糖、酮体等生化指标；能够及时记录粪便性质、颜色、量及次数，并送检，及时发现患者腹泻、便秘、消化道出血等并发症，但是在营养支持效果评估上存在欠缺，这也需要神经外科护理人员加强对营养支持治疗知识的学习。
+　　综上所述，在郑州大学第一附属医院中神经外科危重症患者营养支持治疗已广泛开展并受到重视，并且有明确的实施细则，护理人员关于营养支持治疗的护理工作有较高水平，但对于营养支持的基本知识仍有较大欠缺，需加强学习，进而使患者在营养支持治疗中获取更大的收益。
+
+

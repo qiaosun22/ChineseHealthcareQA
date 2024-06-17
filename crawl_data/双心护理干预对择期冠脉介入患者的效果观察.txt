@@ -1,0 +1,32 @@
+
+ 　　[摘要] 目的 探讨双心护理干预对择期冠脉介入患者的效果。 方法 选择深圳市南山区人民医院心血管内科2015年1～12月住院期间择期行冠脉介入诊治的患者共300例，按随机数字表法将其分为对照组和观察组，各150例。对照组采用常规护理模式；观察组在常规护理基础上加用双心护理干预。分析两组患者心理特征变化情况及对护理的满意度，比较两组桡动脉穿刺成功率。 结果 入院时两组患者焦虑自评量表（SAS）、抑郁自评量表（SDS）评分比较，差异无统计学意义（P>0.05）。护理后，观察组SAS评分、SDS评分、护理满意度、桡动脉穿刺成功率均明显优于对照组（P<0.05）。 结论 双心护理干预可降低择期冠脉介入患者的SAS、SDS分数，提高护理满意度，提高桡动脉穿刺成功率。
+　　[中图分类号] R473.5 [文献标识码] A [文章编号] 1674-4721（2016）05（b）-0159-03
+　　[Abstract] Objective To discuss the effect of cardiac-mental nursing in patients receiving selective coronary artery intervention. Methods 300 patients treated by selective coronary artery intervention in our hospital from January to December in 2015 were selected and randomly divided into observation group（n=150） and control group（n=150）.Patients in control group were given general nursing while patients in observation group were given general nursing plus cardiac-mental nursing intervention.Changes of psychological features of patients were analyzed，and their effects on satisfaction and success rate of radial artery puncture were also compared. Results There was no significant difference in anxiety self rating scale（SAS） and self rating depression scale（SDS） between the two groups at admission，and the difference was not statistically significant（P>0.05）.After nursing care，the SAS score，SDS score，nursing satisfaction，radial artery puncture success rate in observation group was significantly better than that in the control group respectively（P<0.05）. Conclusion Cardiac-mental nursing can reduce anxiety and depression scores in patients receiving selective coronary artery intervention，and improve satisfaction degree towards nursing and success rate of radial artery puncture.
+　　[Key words] Cardiac-mental nursing；Mental intervention；Coronary artery intervention；Radial artery puncture
+　　冠心病在我国的发病率逐年上升，已成为威胁健康的主要疾病，是死亡的首位原因。《中国心血管病报告2012》显示，中国2012年心血管疾病总人数为2.9亿[1]。流行病学研究提示，大约50%的心血管病患者存在焦虑；45%的心血管病患者存在抑郁。“双心”医学指的是针对心血管疾病和心理障碍的交叉学科，这两种疾病互为因果，互相影响，导致疾病恶化。双心护理强调的是生物-心理-社会综合治疗模式，除了对心脏疾病的护理工作外，加强了对焦虑、抑郁心理的干预。冠脉造影和介入治疗是诊断、治疗冠心病的重要方法，但由于对冠脉介入知识的不了解及手术本身的刺激，患者可出现不同程度的焦虑、恐惧等心理问题[2]。本研究对择期冠脉介入诊治患者进行了双心护理干预，分析其存在的心理障碍，实行人性化、舒适化措施，取得了一定的临床效果。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取深圳市南山区人民医院心血管内科2015年1～12月住院期间择期行冠脉介入诊治的患者，年龄36～78岁，平均（57.32±9.87）岁，共300例，按照随机数字表法将其分为对照组和观察组，各150例。对照组男性94例、女性56例，年龄（56.14±10.3）岁，教育年限（9.91±3.12）年，既往行介入手术16例，医保112例、自费38例；观察组男性99例、女性51例，年龄（58.50±8.65）岁，教育年限（10.70±2.81）年，既往行介入手术18例，医保121例、自费29例。两组一般资料比较，差异无统计学意义（P>0.05），具有可比性。   　　1.2 方法
+　　对照组仅向患者及家属简单介绍手术过程，实施常规的心理疏导。
+　　观察组：①与患者交谈态度热忱真挚，消除患者陌生感，建立并维持和谐的医患关系，在此基础上进行宣教。②健康教育：讲解冠心病基本知识，包括病因、简要的发病机制、高危因素、饮食和用药注意事项。③介绍心脏介入手术相对于其他治疗方法具有技术成熟、创伤小、恢复快、效果好等优点。④支持性心理干预，消除内心的疑虑，相信手术安全性，了解术中、术后注意事项及如何积极配合医生治疗，交流时间15～20 min，过程中鼓励患者积极发言，促进交谈氛围愉快而轻松。⑤应用多媒体课件（文字、图片和视频）向患者介绍导管室的环境，讲解手术过程和成功治愈病例，与已成功进行介入诊治的患者进行交流，并以此鼓励患者，消除其思想顾虑，使其对临床治疗充满信心。⑥患者多听优美旋律音乐，或通过收看娱乐电视等方式缓解心理紧张，消除手术的抵触情绪，指导患者调整心理状态。⑦告知科室联系电话，需要时进行健康咨询。
+　　1.3 观察指标
+　　采取问卷调查方式，宣教前对两组患者均进行焦虑自评量表（self-rating anxiety scale，SAS）、抑郁自评量表（self-rating depression scale，SDS）评分；术前1 h再次进行上述评分。评分标准：SAS的标准分正常值为<50分，50～59分为轻度焦虑，60～69分为中度焦虑，≥70分为重度焦虑。SDS以53分为分界值，53～62分为轻度抑郁，63～72分为中度抑郁，>72分为重度抑郁[3-5]。
+　　出院前按照满意度分为满意、基本满意、不满意三个层次对护理质量进行评分。由护长对实施情况进行监督。
+　　观察记录两组桡动脉穿刺成功率。
+　　1.4 统计学方法
+　　采用SPSS 14.0统计软件对数据进行分析，符合正态分布的计量资料以均数±标准差（x±s）表示，采用t检验，计数资料用百分率（%）表示，采用χ2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者SAS评分的比较
+　　入院时两组患者SAS评分比较，差异无统计学意义（t=0.59，P=0.561）；术前1 h观察组患者SAS评分明显低于对照组，差异有统计学意义（t=5.71，P=0.012）（表1）。
+　　2.2 两组患者SDS评分的比较
+　　入院时两组患者SDS评分比较，差异无统计学意义（t=0.48，P=0.263）；术前1 h观察组患者SDS评分明显低于对照组，差异有统计学意义（t=6.12，P=0.010）（表2）。
+　　2.3 两组患者满意度的比较
+　　观察组患者满意度高于对照组，差异有统计学意义（χ2=7.07，P=0.029）（表3）。
+　　2.4 两组患者桡动脉穿刺成功率的比较
+　　观察组桡动脉穿刺成功率高于对照组，差异有统计学意义（χ2=6.33，P=0.011）（表4）。
+　　3 讨论
+　　健康是人类共同的追求，服务提升无止境。随着医学模式的转变，双心护理已成为医疗服务中重要的组成部分，患者生理、心理均需健康。随着冠心病患者日益增多，冠脉介入手术成为心血管诊治的一项重要技术，其成功率、术后恢复不仅与心血管医师操作的技术水平有关，护理团队在围术期的贡献也有着举足轻重的作用[6-7]。手术成功与术前对患者实施的心理干预也有密不可分的联系。患者本身疾病因素、家庭因素、经济因素、文化水平均可能造成一定的心理影响；对手术不了解进一步加重患者焦虑、抑郁情绪。而焦虑、抑郁因素可诱发交感兴奋，激发炎症瀑布反应[8-10]，对本身疾病存在不良影响，加重心血管疾病，导致心律失常，且可引起外周血管收缩，增加了桡动脉痉挛的可能[11-12]。本研究发现，未干预前患者总体存在焦虑、抑郁因素，平均达中度焦虑、轻度抑郁状态，与相关文献[3]一致。术前的心理干预提供了手术治疗信息：手术必要性，术前、术中、术后相关准备及处理措施，手术环境等。健康教育能增进患者健康知识，改变其不良生活习惯，使之配合治疗和护理；系统的术前教育和指导是重要且非常有效的护理手段，双心护理干预能减轻患者的焦虑、抑郁程度，增强其战胜疾病的信心[13-16]。
+　　本研究观察组除健康指导外增加了疏导、示范、精神转移等心理干预，临床取得了较好的效果，提示对择期冠脉介入患者术前实施双心护理干预有助于降低患者的焦虑情绪，改善患者的抑郁状态，同时也有助于提高桡动脉穿刺成功率，随之改善患者的舒适度及减少相关并发症，也提高了患者的满意度，与相关报道[4，13]一致，可在临床实践工作中进一步推广。
+　　综上所述，做好冠脉介入患者术前双心护理，护理人员需要有扎实的心血管专业知识，同时还需通晓医学心理学及人文关怀等科学知识。冠脉介入术前患者的心理既有其共同的规律，也有各自的特点，应从患者心理活动的一般规律出发，做到科学护理、对症护理。
+
+

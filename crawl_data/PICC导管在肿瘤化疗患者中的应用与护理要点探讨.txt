@@ -1,0 +1,29 @@
+
+　　[摘要] 目的 探讨PICC导管在肿瘤化疗患者中的应用与护理要点。 方法 整群选取2013年2月―2014年10月该院收治的76例给予PICC导管肿瘤化疗患者随机分为对照组（接受常规护理）和观察组（接受优质PICC护理），各38例，比较两组护理效果。结果 观察组PICC不良事件发生率明显低于对照组；观察组患者舒适度及疾病不确定感等指标均显著优于对照组，差异具有统计学意义（P<0.05）。结论 PICC导管在肿瘤化疗患者中的应用效果良好，可显著降低PICC不良事件发生率，改善患者不良情绪，提高舒适度，是值得临床使用和推广的护理方法。
+　　[中图分类号] R473.73 [文献标识码] A [文章编号] 1674-0742（2015）06（a）-0138-03
+　　Discussion of the Application of PICC Line to Cancer Patients with Chemotherapy and the Corresponding Care Points
+　　JIANG Hai-lan
+　　Sichuan Dazhou Hospital of Integrated Chinese and Western Medicine， Dazhou， Sichuan Province，635002 China
+　　[Abstract] Objective To discuss the application of PICC line to cancer patients with chemotherapy and the corresponding care points. Methods 76 cancer patients underwent chemotherapy via a PICC line in our hospital from February 2013 to October 2014 were selected and randomly divided into the control group and the observation group with 38 cases in each. The control group were given the conventional nursing， while the observation group were given high-quality nursing for PICC. And the nursing efficacy was compared between the two groups. Results Compared with the control group， the incidence of adverse events in the observation group was much lower； the degree of comfort and sense of uncertainty in illness and other indicators was obviously better， respectively with statistically significant difference（P<0.05）. Conclusion PICC line applied to cancer patients with chemotherapy has good effect， which can significantly reduce the incidence of adverse events， improve the negative mood and degree of comfort of the patients， so it is worthy of clinical application and promotion.
+　　[Key words] Cancer； PICC line； Chemotherapy； Care points
+　　肿瘤患者化疗过程中，部分化疗药物属于化学生物碱制剂，容易出现不良反应。临床方面常采用常规外周静脉穿刺的方法给药，但长期反复机械穿刺刺激以及局部药物外渗等情况容易导致外周静脉或组织坏死，影响治疗效果，不仅会阻碍化疗方案顺利进行，还会给患者增加痛苦[1]。该研究整群选取2013年2月―2014年10月该院收治的76例给予PICC导管肿瘤化疗患者探讨PICC导管的应用效果与护理要点，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　整群选取2013年2月―2014年10月该院收治的76例给予PICC导管肿瘤化疗患者随机分为对照组和观察组，各38例，其中男36例，女40例，患者年龄29～78岁，平均年龄（53.5±9.2）岁；置管位置：正中静脉16例，贵要静脉60例；对比两组患者基本临床资料相比，差异无统计学意义（P>0.05），可予以比较。
+　　1.2 方法
+　　对照组接受常规护理，具体如下：护理人员根据常规PICC置管和护理措施对患者进行护理，向患者详细讲解与PICC相关的知识和要点，告知患者正确进行自我护理的方法，待其出院后向其发放宣传手册。
+　　观察组接受优质PICC护理，具体如下：①置管前护理措施[2]：PICC置管肿瘤化疗患者在治疗过程中会出现不同程度的心理负担，医护人员要及时将PICC的要点告知患者及其家属，同时将治疗中可能出现的并发症和所需费用情况、置管的具体过程及相关注意事项等进行讲解，与置管成功的患者及其家属及时交流，尽可能消除其负面情绪，使其配合治疗；对患者血管情况进行正确评估和常规检查。②置管中护理措施：在进行置管时，一定要严格按照无菌操作流程，与患者保持交流，帮助其消除恐惧紧张感，将配合要点告知患者，以便操作顺利进行。③置管后护理措施：对穿刺点进行密切观察，一旦发现红肿、疼痛、分泌物等要及时进行处理；选择适宜的敷料并定期进行更换，在导管置入之后24 h内要更换敷料，然后7 d更换一次，对汗液弄湿的敷料以及导管中出现回血的情况要及时更换；输液结束后采用≥10 mL的注射器抽取10～20 mL的0.9%氯化钠注射液对导管进行冲洗，采用稀释的1～3 mL肝素盐水进行脉冲式封管；若患者注射白蛋白、脂肪乳等高黏性物质，则需要采用10～20 mL的0.9%氯化钠注射液进行脉冲式冲管。④并发症护理措施[3]：感染是PICC发生率较高的并发症，减少感染的关在在于进行严格无菌操作，密切观察穿刺点是否存在红肿、渗血等情况；定期进行常规检查，若患者出现不明全身感染可能会牵连导管时要立即将导管拔除，并将导管尖端剪下进行实验室细菌培养。为避免患者出现静脉炎，需要合理选择导管型号，保证穿刺动作轻柔，以减少对患者血管造成的机械性刺激和损伤血管内膜情况；在输注刺激性较强的化疗药物时应确保导管尖端处在上腔静脉之中；若患者出现静脉炎后应将其患肢抬高，进行局部湿热敷，4次/d，30 min/次，若患者3 d之内仍未见好转则应考虑拔管，然后继续湿热敷，同时停止对此部位输注液体。对患者血管高危因素进行正确评估，掌握正确封管技术；确保导管畅通，避免导管内血栓脱落；明确冲管及封管操作；对可能出现血栓的患者定期进行血管B超检查，对已经出现血栓的患者要及时进行溶栓治疗。确保PICC导管畅通，避免其出现打折、扭曲现象；输注粘稠度比较高的液体或血制品之后要及时采用生理盐水对导管进行冲洗，待其干净之后采用10 mL肝素钠稀释液继续脉冲式推注冲管进行封管；患者无需输液时要定期冲管并正压封管。   　　1.3 观察指标[4]
+　　对两组患者PICC不良事件进行统计对比，采用模糊数字评分法对其舒适度进行评价，0分表示非常不舒适，10分表示非常舒适。采用MUIS量表对其疾病不确定感进行评价，共125分，分数越高表示患者对疾病的不确定感和不良情绪越严重。
+　　1.4 统计方法
+　　采用SPSS 15.0软件进行数据统计处理，计量资料与计数资料分别采用（x±s）和（%）表示，并分别行t检验及χ2检验。
+　　2 结果
+　　观察组PICC不良事件发生率明显低于对照组；观察组患者舒适度及疾病不确定感等指标均显著优于对照组，差异具有统计学意义（P<0.05），见表1、表2。
+　　3 讨论
+　　肿瘤化疗患者需要的治疗时间一般都比较长，患者因为长期反复静脉穿刺，活动受到限制，局部容易出现疼痛、肿胀、静脉炎等情况，尤其是化疗药物外渗处理不及时则可能导致局部皮肤坏死或者功能障碍，影响患者身心健康和生活质量[5-6]。
+　　PICC穿刺表现出诸多的优点，主要体现为操作步骤较为简单，临床治疗成功率高以及出现并发症的概率较少等系列优点，临床表现出的安全性较高，能够为患者长时间保留导管，患者能够有效接受。
+　　PICC置管方法从根本上解决了反复穿刺和外渗等问题，取得了良好的治疗效果。采用PICC置管方式进行化疗，不仅能够在一定程度上减轻患者需要承受的穿刺之痛，还能减少因长期化疗导致的并发症；静脉保持畅通无阻也可进一步促进化疗周期顺利完成，改善患者生存质量[7]。
+　　该研究中，观察组PICC不良事件发生率明显低于对照组；观察组患者舒适度及疾病不确定感等指标均显著优于对照组，差异具有统计学意义（P<0.05）。
+　　从而表明，PICC导管在肿瘤化疗患者中的应用效果良好，可显著降低PICC不良事件发生率，改善患者不良情绪，提高舒适度，此结果同陈晨[8]在PICC导管在肿瘤化疗患者中的临床应用与护理体会研究中，表现出一致性，从而有效证明PICC导管的临床应用价值。
+　　总而言之，针对肿瘤化疗患者在治疗过程中选择PICC导管，可以有效将患者出现PICC不良事件的概率降低，有效缓解患者的消极情绪，提高患者的自身舒适感，凸显PICC导管的临床应用价值。
+
+

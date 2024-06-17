@@ -1,0 +1,33 @@
+
+ 　　[摘要] 目的 研究护理干预对改善脑卒中便秘患者认知功能的效果。方法 选取2016年2～12月我院收治的脑卒中便秘患者100例。根据护理方案分为观察组与对照组各50例。对照组实施常规护理干预，观察组则在对照组的基础上给予个性化认知行为干预。比较两组干预前后便秘症状积分、认知功能、日常生活活动能力变化情况。结果 观察组总有效率为92.00%（46/50），高于对照组的76.00%（38/50）。干预后两组便秘症状积分均低于护理前，而观察组便秘症状积分为（2.8±2.1）分，低于对照组的（4.0±2.2）分（均P<0.05）。干预后两组MMSE评分均高于干预前，而观察组MMSE评分为（28.7±2.7）分，高于对照组的（27.3±2.4）分。干预后两组Barthel指?稻?高于干预，而观察组Barthel指数为（95.2±10.1）分，高于对照组的（80.7±9.8）分，差异有统计学意义（均P<0.05）。结论 个性化认知行为干预应用于脑卒中便秘患者中效果显著，可有效改善患者便秘症状，促进认知功能的恢复，同时提高患者日常生活活动能力。
+　　[中图分类号] R473.5 [文献标识码] A [文章编号] 2095-0616（2017）07-81-04
+　　Effect of nursing intervention on cognitive function of patients with constipation after stroke
+　　TU Xiaohua DENG Yangdan LIANG Caiqiong MA Yunlian ZHENG Miaoyun
+　　Internal Medicine， Tanzhou Hospital of Zhongshan City， Zhongshan 528467， China
+　　[Abstract] Objective To discuss the effect of nursing intervention on cognitive function of patients with constipation after stroke. Methods 100 cases with constipation after stroke from Feb 2016 to Dec 2016 were selected as objects. All cases were divided into observation group and control group according to nursing method， each group of 50 cases. The control group received routine nursing intervention， and observation group received individual cognitive behavior intervention based onroutine nursing intervention. Constipation symptom score， cognitive function and activities of daily living of two groups before and after intervention were compared. Results Total effective rate of observation group was 92.00%（46/50）， which was higher than that of the control group 92.00%（46/50）.Constipation symptom scores of two group after intervention were lower than those before intervention， and the observation group was （2.8±2.1）， which was lower than that of the control group （4.0±2.2）， P<0.05.MMSE scores of two groups after intervention were higher than those before intervention， and MMSE of the observation group was （28.7±2.7）， which was higher than that of the control group （27.3±2.4）， P<0.05. Barthel index of two groups after intervention were higher than those before intervention， and the observation group was（95.2±10.1）， which was higher than that of the control group（80.7±9.8）， P<0.05. Conclusion Individual cognitive behavior intervention for patients with constipation after stroke can effectively improve the symptoms of constipation， promote the recovery of cognitive function， and improve the activities of daily living.
+　　[Key words] Stroke； Nursing intervention； Cognitive function； Constipation   　　脑卒中可按发病类型分为缺血性脑卒中和出血性脑卒中[1]，脑卒中在老年人群中的发病率极高，对人们的身体健康造成严重的危害[2]。由于具有高致残率以及高复发率，给后期治疗带来困难。虽然在科学技术发展的同时能较大程度上提高脑卒中的治愈率，但是后期出现各种并发症的概率依旧很高，其中便秘所占比例较大，对患者的认知、生活功能造成多层影响[3]，因此临床上需要干预的方式来降低脑卒中患者便秘带来的危害。本研究通过实施
+　　个性化护理干预脑卒中便秘患者，旨在为临床护理提供方案参考。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2016年2～12月我院收治的脑卒中便秘患者100例。纳入标准：（1）所有患者均符合第四届全国脑血管病会议所通过的相关诊断标准[4]；（2）均经头颅CT以及核磁共振确诊为脑卒中；（3）在脑卒中后发生的认知障碍；（4）意识清醒。排除标准：（1）既往有肝肾疾病或恶性肿瘤史者；（2）合并其他脑部疾病或脊髓疾病者；（3）治疗依从性较差者。根据护理方案分为观察组与对照组各50例。其中观察组男31例，女19例，年龄24～78岁，平均（61.4±7.5）岁。对照组男29例，女21例，年龄23～77岁，平均（61.3±7.4）岁。两组一般资料比较差异无统计学意义（P>0.05）。所有患者均签署了知情同意书且经医院伦理委员会批准。
+　　1.2 研究方法
+　　对照组给予常规护理干预，主要包括健康宣教、饮食指导、心理护理、早期康复运动、排便训练等[5]。观察组则在对照组的基础上给予个性化认知行为干预：主要是对患者的识别、语言、记忆、应用以及时间、地点和空间的辨别能力等认知行为予以干预[6]，具体方法如下。（1）定向力干预：在对患者进行时间定向力干预时，要求患者按医嘱饮水和排便，并告知患者家属按时督促，同时指导患者正确使用手表助其逐步掌握时间感；而在进行空间定向力干预时，首先告知患者多次辨认卫生间所在位置，并逐渐延长时间进行提问，帮助其强化。（2）记忆力干预：制定明确的每日活动表，并根据内容分别于表上粘贴相应图片，以提醒患者吃饭、喝水以及排便时间。叮嘱患者反复记忆活动表内容，并逐步拿掉相应图片后要求患者将其恢复至原来样子，同时询问每张图片所代表的意思，提高患者的兴趣，以增强积极性；（3）注意力干预：告知患者在排便期间尽量暂停一切会分散注意力的事情。同时采用刺激-反应方法进行行为干预：指导患者在排便过程使用手指按摩腹部，并将注意力集中于腹部，仔细感受肠道内是否存在内容物，以增强排便意识。此外，指导患者进行腹式呼吸：即在屏气的同时轻微施压增加排便动力，但切忌过度用力[7]；（4）言语沟通能力干预：针对语言沟通存在障碍的患者，可采用上述所提到的“图片记忆”法进行重复多次训练。嘱托患者家属耐心进行沟通，耐心为患者讲解康复知识，并予以鼓励[8]，以提高患者的主观能动性；（5）行为干预：主要是将早期康复运动指导、腹部与肛周按摩、心理护理以及腹式呼吸训练等内容具体化。
+　　两组患者均以5d为1疗程，连续干预两个疗程，其中两个疗程间隔2d。
+　　1.3 观察指标
+　　比较两组疗效、干预前后便秘症状积分、认知功能、日常活动能力变化。其中疗效判定标准如下[9]。（1）临床治愈：患者临床症状完全消失，持续时间大于2周；（2）显效：患者临床症状显著改善，并持续2周以上；（3）有效：患者临床症状有所好转，但不明显；（4）无效：未达上述标准者。总有效率=临床治愈率+显效率+有效率。便秘症状积分判定如下：主要包括排便困难、排便时间、有下坠或胀感、腹胀、排便频度以及粪便形状等6各方面，每个方面分为4个等级，分别记为0～3分，总分18分，得分越高表示患者便秘症状越严重[10]。认知功能则采用简易智能精神状态量表（MMSE）进行评定[11]，主要内容包括时间定向力、即刻记忆、地点定向力、注意力、计算力、延迟记忆、语言以及视空间等，共30个题目，得分越高表示患者认知功能越好。日常生活活动能力则采用（Barthel）生活质量数进行评估：主要内容包括：（1）跛行；（2）交锁；（3）疼痛；（4）支持；（5）不稳定；（6）肿胀；（7）上楼困难；（8）下蹲受限等。得分越高，表示膝关节功能越好。Barthel指数则采用Barthel指数评定量表进行，主要包括：（1）进食；（2）洗澡；（3）修饰；（4）穿衣；（5）控制大便；（6）控制小便；（7）如厕；（8）床椅转移；（9）平地行走；（10）上下楼梯10项，总分0～100分，得分越高效果越高。
+　　1.4 统计学方法
+　　采用SPSS21.0软件进行数据分析。计数资料比较采用χ2检验，计量资料以（）表示，组间比较采用t检验。P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者疗效比较
+　　观察组总有效率为92.00%（46/50），与对照组的76.00%（38/50）比较，具有显著性差异（P<0.05）。见表1。
+　　2.2 干?A前后两组患者便秘症状积分比较
+　　护理后两组便秘症状积分均降低且观察组便秘症状积分为（2.8±2.1）分，低于对照组的（4.0±2.2）分。见表2。
+　　2.3 干预前后两组患者MMSE评分比较
+　　干预后两组MMSE评分均高于干预，而观察组MMSE评分为（28.7±2.7）分，高于对照组的（27.3±2.4）分。见表3。
+　　2.4 干预前后两组患者Barthel指数比较
+　　干预后两组Barthel指数均高于干预，而观察组Barthel指数为（95.2±10.1）分，高于对照组的（80.7±9.8）分。见表4。
+　　3 讨论
+　　脑卒中又被称为脑血管意外、中风等，具有高发病率、高致残率以及高并发症等显著特点[12]。其中便秘以及认知障碍是脑卒中患者发病率极高的并发症[13]。脑卒中患者在接受治疗后仍然存在一定程度的认知障碍，不仅对神经功能造成一定的影响，而且会给患者家属带来精神压力以及经济负担。同时由于脑卒中患者需要长期卧床休养，导致肠蠕动显著变慢，这样就会出现粪便长期积攒在肠内无法及时排出。待水分被吸干后粪便出现干结现象，最后无法正常排便，即发生便秘并发症。便秘症状若长期存在会加重病情，对患者的认知功能以及生活质量都存在一定的负面影响。因此，临床上需要通过应用各种药剂帮助患者排便，同时进行心理疏导，保证患者的有效恢复。   　　本研究观察组总有效率、干预后便秘症状积分显著优于对照组，说明了个性化认知行为干预应用于脑卒中便秘中的效果显著，且能有效改善患者便秘症状[13]。其中主要原因在于：个性认知行为干预主要是通过对认知以及行为的假设理念所制定的一种认知重建、心理干预以及解决问题的手段，可有效改变患者的观点信念以及活动行为，从而达到改善患者不良的认知，进一步对各种负性心理问题以及不良行为进行克服纠正，提高了患者的应对以及适应能力，最终有效改善临床便秘症状。此外，观察组MMSE评分干预后明显高于对照组，这表明了个性化认知行为干预可有效改善脑卒中便秘患者的认知功能[14]。分析原因，笔者认为个性化认知行为干预主要是针对患者识别、语言、记忆、应用以及时间、地点和空间的辨别能力等进行个性化的训练，从而有效促进患者认知功能的恢复。另外，干预后观察组Barthel指数显著高于对照组，提示本次干预显著提高了便秘患者的日常生活活动能力。其中主要原因可能在于：早期康复运动指导可在一定程度上增强膈肌、提肛肌以及腹直肌的肌力，从而有利于排便次数的增加以及排便过程顺利。而腹部与肛周按摩可有效提高患者消化道平滑肌的生理电活动，从而促进患者的胃肠蠕动，进一步对脏腑功能进行调节，有利于排便的顺畅完成。心理护理则改善了患者负性情绪，提升患者战胜疾病的信心[15]，而腹式呼吸训练可有效增强患者腹部脏器的活动能力，有利于排便。
+　　综上所述，个性化认知行为干预应用于脑卒中便秘患者可有效改善患者便秘症状，促进认知功能的恢复，同时提高患者日常生活活动能力。
+
+

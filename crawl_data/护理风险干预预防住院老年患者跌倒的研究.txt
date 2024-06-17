@@ -1,0 +1,36 @@
+
+　　[摘要] 目的 探讨护理风险干预预防住院老年患者跌倒的效果。 方法 选取2012年5月～2013年5月（护理风险干预前）收治的65～95岁患者348例为对照组，2013年7月～2014年7月（护理风险干预后）收治的65～95岁患者350例为干预组，比较两组患者住院期间对防跌倒知识的掌握程度、护理满意度及跌倒的发生情况。 结果 干预组的跌倒发生率低于对照组，防跌倒知识掌握率高于对照组，护理满意度高于对照组，差异有统计学意义（P<0.05）。 结论 护理风险干预可有效预防住院老年患者跌倒，提高其预防跌倒的意识及防护。
+　　[中图分类号] R47 [文献标识码] B [文章编号] 1674-4721（2014）09（a）-0136-03
+　　The study of nursing risk intervention preventing tumble in hospitalized elderly patients
+　　HU Qing-di1 WANG Hong-yan2 JIAN Zhong-mei3
+　　1.Department of Nursing，the Fourth Hospital of Xinyu in Jiangxi Province，Xinyu 338000，China；2.Department of Internal Medicine，the Fourth Hospital of Xinyu in Jiangxi Province，Xinyu 338000，China；3.Department of the Second Surgery，the Fourth Hospital of Xinyu in Jiangxi Province，Xinyu 338000，China
+　　[Abstract] Objective To investigate the effect of nursing risk intervention preventing tumble in hospitalized elderly patients. Methods 348 elderly patients aged 65 to 95 years old from April 2012 to April 2013 （before nursing risk intervention） were selected as the control group，350 elderly patients aged 65 to 95 years old from May 2013 to May 2014 （after nursing risk intervention） were selected as the intervention group，the mastery of preventing tumble knowledge and nursing satisfaction，and incidence rate of tumble of patients in the two groups during the period of hospitalization were compared. Results Incidence rate of tumble in the intervention group was lower than that in the control group，the mastery rate of preventing tumble knowledge and nursing satisfaction in the intervention group were higher than those of the control group （P<0.05）. Conclusion The nursing risk intervention can effectively prevent tumble among elderly patients in hospital， improve the tumble prevention awareness and prevention of patients.
+　　[Key words] Nursing risk intervention；Assess；Elderly patients；Tumble
+　　目前很多国家已经把住院患者跌倒率作为临床护理质量控制的一项指标。《中国2009年度患者安全目标》将防范和减少患者跌倒事件列入其中，因此，防范老年人跌倒已成为临床护理人员关注的课题[1-3]。本研究探讨护理风险干预预防住院老年患者跌倒的效果。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2012年5月～2013年5月（护理风险干预前）收治的65～95岁患者348例为对照组，其中男206例，女142例。2013年7月～2014年7月（护理风险干预后）收治的65～95岁患者350例为干预组，其中男207例，女143例。两组患者的性别、年龄等基本情况比较，差异无统计学意义（P>0.05），具有可比性。
+　　1.2 方法
+　　1.2.1 干预组
+　　1.2.1.1 评估老年患者跌倒风险 由护理部和各病房护士长组成课题小组，收集并分析全院65岁以上老年患者的资料，改进预防老年患者跌倒的方法，研制老年患者跌倒护理单（表1）并应用[4]。①评估时机：患者入院时评估；得分≥50分至少每天评估1次；患者病情发生变化或者口服了易导致跌倒的药物时需评估；患者转到其他科室时；跌倒后评估。②评分说明：得分<30分为轻度危险；30～50分为中度危险；>50分为重度危险。③评估方法：由责任护士对患者进行全面体查、收集资料，进行风险评估。患者入院时首次评估必须进行患者跌倒危险因素评分并执行护理措施。住院期间患者病情发生变化或使用镇静催眠药及降压等，则应立即进行评分或再评分。   　　1.2.1.2 实施恰当的护理措施 低度危险性患者主要是加强跌倒的健康教育，引起患者的注意；中度危险性患者主要是指导其选择合适的辅助工具；高度危险性患者以生活干预为主[5]。所有患者的床头做好警示标识，各班严格执行床边交接班，给予持续性评价并列入交班内容。各种护理措施根据护士执行情况打钩填写。责任护士根据评估情况，与患者及家属进行沟通，详细交待预防措施，使其明白患者的状态及需要配合的内容。对有高度危险性的患者，护士长在24 h内与责任护士、医生（必要时）共同对患者进行再评估，并检查护理措施是否全面有效，确认无误后上报护理部[6]。对低、中度危险性患者每周使用跌倒危险度评估表评估1～2次，高度危险性患者或病情发生变化的患者每天评估1次，并将结果记录于跌倒高危人群跟踪评估表；若患者发生跌倒，则立即启动跌倒风险预案，并在跌倒高危人群跟踪评估表详细记录跌倒经过及处理情况[7]。
+　　1.2.2 对照组
+　　不接受风险干预，只进行常规的入院介绍和护理。
+　　1.3 观察指标
+　　比较两组患者住院期间对防跌倒知识的掌握程度[掌握率=（掌握+基本掌握）例数/总例数×100%]、护士满意度及跌倒的发生情况。
+　　1.4 统计学处理
+　　应用SPSS 13.0统计学软件处理数据，计数资料采用χ2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者跌倒发生率的比较
+　　干预组的跌倒发生率为0.28%（1/350），对照组为2.87%（10/348），两组比较，差异有统计学意义（P<0.05）。
+　　2.2 两组患者防跌倒知识掌握率的比较
+　　干预组的防跌倒知识掌握率为99.43%，对照组为66.95%，两组比较，差异有统计学意义（P<0.05）（表2）。
+　　表2 两组患者防跌倒知识掌握率的比较（n）
+　　与对照组比较，*P<0.05
+　　2.3 两组患者护理满意度的比较
+　　干预组的护理满意度为99.14%（347/350），对照组为91.38%（318/348），两组比较，差异有统计学意义（P<0.05）。
+　　3 讨论
+　　据报道[8]，每年有1/3的65岁以上的老年人、1/2的80岁以上的老年人都经历过跌倒事件。尽管每年有很多预防跌倒的研究陆续发表，但跌倒仍然是困扰医院护士的主要问题之一，因此，老年患者需要全社会的关心和爱护。老年患者跌倒护理单的应用，护士依据评估项目及时了解患者易跌倒的危险因素，进行有针对性的护理指导[9]，如危险因素为患者步态软弱及不稳定，主要是与近期使用一些药物有关，护士实施护理措施的重点在于指导患者正确用药，告知用药后的反应，教会患者在可能发病时寻求协助的方法，要求患者改变体位时动作要慢，协助完成生活护理等，这些具体护理措施的实施，提高了患者的防护意识，从而有效预防跌倒事件的发生[10]。同时，促进了护患沟通，提高了护理满意度。
+　　本研究结果显示，干预组的跌倒发生率低于对照组，防跌倒知识掌握程度、护理满意度高于对照组（P<0.05），说明对住院老年患者实施护理风险干预，能增强护理人员的安全意识，促进护患关系，提高患者对跌倒的防护，有效地预防患者跌倒的发生。
+　　总之，应用护理风险干预通过动态连续性的评估，找出患者可能跌倒的因素，及时进行个体化的有针对性的护理干预，有效防止了跌倒的发生。同时，规范了护理行为，提高了护理工作的主动性和创造性，保障了患者的安全。
+
+

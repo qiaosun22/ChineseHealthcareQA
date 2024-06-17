@@ -1,0 +1,31 @@
+
+　　[摘要] 目的 分析护理干预对骶骨脊索瘤患者术后切口感染风险的影响，改进护理措施。 方法 回顾性分析2011年4月―2014年4月该院收治的57例骶骨脊索瘤患者临床资料，将患者分类为观察组和对照组，观察组在接受负压引流治疗期间初实施常规护理外、还进行了如下加强护理干预，对照组患者在接受常规引流治疗期间实施常规护理，对引流液量和感染率进行数据分析。 结果 两组引流量第1 d差异无统计学意义（P>0.05）；第3 d、第7 d的引流量负压引流组明显高于常规引流组（P<0.05）。观察组与对照组阳性率相比，差异有统计学意义（χ2=6.82，P<0.01），观察组的感染阳性率低于对照组。结论 对骶骨脊索瘤患者术后第三天开始应用负压引流，能降低切口感染风险。
+　　[中图分类号] R47 [文献标识码] A [文章编号] 1674-0742（2015）02（b）-0147-03
+　　Effects of Nursing Intervention on the Postoperative Incision Infection in Patients with Sacral Chordoma
+　　YANG Guangyu ZHANG Junjuan ZHU Shichao
+　　Department of Orthopedics， Henan Provincial People's Hospital， Zhengzhou， Henan Province， 450003， China
+　　[Abstract] Objective To analyze the effect of nursing intervention on the postoperative incision infection in patients with sacral chordoma so as to improve the nursing measures. Methods 57 patients with sacral chordoma admitted from April 2011 to Arpril 2014 were retrospectively analyzed and divided into the observation group and the control group. The observation group was given the strengthened nursing intervention as well as the conventional nursing during the period of negative pressure drainage treatment. The control group were given the conventional nursing during the conventional drainage treatment. And the data of drainage fluid volume and the infection rate of the two groups were analyzed. Results There was no statistically significant difference in the drainage volume on the first day between the two groups（P>0.05）； but the drainage volume of the negative pressure drainage group on the third and seventh day was much more than that of the conventional drainage group， respectively（P<0.05）. The difference in positive rate between the two groups was statistically significant（χ2=6.82， P<0.01）， the infection positive rate of the observation group was lower than that of the control group. Conclusion For patients with sacral chordoma surgery， negative pressure drainage used on the third day postoperatively can reduce the risk of infection of incision.
+　　[Key words] Sacral chordoma； Infection； Nursing
+　　骶骨脊索瘤是一种较为少见的中低度恶性原发骨肿瘤，占脊索瘤的40%～50%[1]。由于骶骨连接脊柱其余部分与骨盆，许多骶骨肿瘤手术为重建脊柱骨盆的连续性，必须采用内固定物[2-3]。肿瘤切除后切口与肛周毗邻，残腔积血、积液可增加切口感染发生率。伤口并发症患者多数需要进一步手术引流、清创、二期闭合伤口。且伤口感染，是否取出内固定物是个难题[4]。该院于2011年4月―2014年4月收治61例骶骨脊索瘤患者，实施前路髂骨动脉结扎术+后路骶骨切除植骨内固定术，现将资料进行回顾性分析，研究术后可干预的伤口感染护理预防措施，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　在该院行骶骨脊索瘤手术切除患者61例。纳入标准：CT或MRI影响资料显示骶骨占位，穿刺活检或手术切除标本病理回示脊索瘤患者。排除标准：术后脑脊液漏患者，术前有放疗史患者，空腹血糖≥6.1 mmol/L或随机血糖≥11.1 mmol/L患者。符合上述条件者57例，观察组患者34例，其中男性15例，女性19例，年龄19～52岁，平均年龄为29.3岁；对照组患者23例，其中男性11例，女性12例，年龄20～58岁，平均年龄为31.3岁，两组患者的性别、年龄、病情差异无统计学意义（P>0.05），具有可比性。纳入研究患者及采取医疗护理措施的医务人员均对该研究毫不知情。   　　1.2 护理方法
+　　对照组患者在接受常规引流治疗期间实施常规护理，具体措施如下：①患者手术前1 d进流质饮食。手术前晚上为患者灌肠，手术当日清晨行清洁灌肠，并进行术区清洁备皮。②如果患者的手术时间在4 h以上，需要在术前1 h为患者静脉滴注抗生素。③护理人员应注意无菌观念，操作谨慎，避免内脏损伤。④术后1～2 d复查患者的血常规、肝肾功能及电解质，及时纠正患者的水电解质平衡紊乱并补充营养。⑤注意观察患者的体温、引流液的颜色、量以及性质，预防感染的发生。要注意伤口部位的清洁，并及时换药。⑥保持患者床铺的清洁卫生、干燥，及时为患者更换被服。患者排便后要做及时的处理，要定时清洗患者的会阴部及肛周部位，防止伤口感染。观察组在接受负压引流治疗期间初实施常规护理外、还进行了如下加强护理干预，具体措施如下：①体位：将患者抬高30 cm左右，以高于心脏为原则，对引流管进行妥善固定处理，使引流维持在负压状态。②心理：该类患者大多数为意外受伤，难免会出现恐惧、焦虑等不良情绪状态，护理人员应该适时对其进行必要的心理护理，宣教工作要进一步加强，最好能够争取以身说教，使患者对治疗和康复训练有更加深刻的体会，使恐惧感消除，使治疗的信心增强，保证能够更加积极地配合治疗。③负压：手术治疗结束患者返回病房后，护理人员应该立即将床头的中心负压吸引装置接通，将压力调节到-125～450 mmHg之间[6]，负压值过大或过小，都会对创面的愈合造成不利影响。引流管应在床旁进行妥善固定，对中心负压源是否存在异常，各接头处、半透膜粘帖处是否发生漏气，引流管内液体柱是否正常流动进行仔细检查。护理人员应嘱咐患者及其家属翻身时不能对引流管进行牵扯、压迫、折叠。④创面：若患者创面出现异物时，在加强抗感染治疗的同时，可以采用500 mL的生理盐水对局部的创面进行冲洗，冲洗的过程中也应该持续保持有效负压状态，防止引流管发生扭曲或脱落，防止出现逆行感染症状。⑤饮食：在治疗进行的整个过程中，由于患者需要长时间卧床，较易出现食欲不振，应鼓励患者尽可能多地进食一些高蛋白、高热量、富含维生素、粗纤维的食物。保证少食多餐，并尽量多喝水，防止发生便秘。要忌烟酒、忌辛辣等一些具有刺激性的食物[7]。
+　　1.4 统计方法
+　　应用流行病学回顾性队列研究方法，对患者姓名，性别，出生日期，术后是否留置肛管，术后第1 d、第3 d、第7 d的引流量，术后是否存在切口感染等资料建立原始数据库，用SPSS17.0进行统计学处理，计量资料用（x±s）表示，采用t检验，计数资料用率表示，采用χ2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者患者术后引流量比较
+　　观察组和对照组患者引流量第1 d差异无统计学意义（P>0.05），观察组患者第3 d、第7 d引流量明显高于对照组，差异有统计学意义（P<0.05）。结果见表1。
+　　注：与对照组相比，*P<0.05。
+　　2.2 两组患者患者切口分泌物培养比较
+　　观察组34例，阳性1例、占2.9%，阴性33例、占97.1%；对照组23例，阳性6例、占26.1%，阴性17例、占73.9%。观察组与对照组阳性率相比，差异有统计学意义（χ2=6.82，P<0.01），观察组的感染阳性率低于对照组。
+　　3 讨论
+　　3.1 术后第三天起切口引流处保持负压对预防感染有积极作用
+　　李大森等回顾分析的462例骶骨肿瘤患者术后伤口感染率为12.3%[8]，大大高于Ⅰ、Ⅱ类切口手术部位感染率0. 51%[9]。该研究显示，观察组34例，阳性1例、占2.9%，阴性33例、占97.1%；对照组23例，阳性6例、占26.1%，阴性17例、占73.9%。观察组与对照组阳性率相比，差异有统计学意义（χ2=6.82，P<0.01），观察组的感染阳性率低于对照组，与报道相一致[10]。
+　　由于生理因素，患者骶部脂肪层较薄，局部血运缓慢，特别是对肿瘤巨大、术后骶部残留较大潜在腔隙的患者[11]，伤口皮瓣血运不佳，血肿和渗出液易填充其内，加之死腔内填充止血纱布、明胶海绵等异物刺激，容易使肉芽组织生长不良，肉芽组织瘢痕化延迟，切口感染的风险更高。骶骨脊索瘤术后创面渗血几率大，彻底止血难以达成，术后有效的切口引流，能促进健康肉芽组织瘢痕化，降低感染风险[12]。
+　　3.2 引流管处波动式负压的使用
+　　24 h持续负压吸引会导致吸引压力过大，应用负压引流瓶则不能维持持续负压状态，需要间断挤压引流瓶，而挤压的力度和频率均会影响到压力变化。该研究使用的负压引流瓶能产生最大负压为12 kPa，护士具体操作为更换此瓶后3次挤压[13]，使负压瓶双侧瓶壁中部紧贴。而在引流过程中，挤压后的1～2 h中压力便逐渐减少为零。在伤口引流过程中，负压的大小是一个需要探索的问题，过大的负压会造成局部表皮及真皮的坏死，过小的负压不能抽出皮瓣下的积液，达不到使皮瓣和基底贴合及促进上下两层组织间血运的建立，即再血管化的目标[6]。在研究中采取每2 h按照上述标准挤压引流瓶的方法，若引流较多，则适当缩短挤压时间，以此减少皮瓣下积血积液[14]。该研究显示，观察组和对照组患者引流量第1 d差异无统计学意义（P>0.05），观察组患者第3 d、第7 d引流量明显高于对照组，差异有统计学意义（P<0.05）。
+　　3.3 该研究的局限性
+　　该回顾性研究显示，引流管处负压引流能有效降低切口感染风险，减少患者痛苦，降低住院费用，缩短康复疗程。但由于此研究仅局限于河南省人民医院骨科，且样本量不足，不能代表所有骶骨脊索瘤患者。建议加大样本量，进行分析性研究。
+
+

@@ -1,0 +1,28 @@
+
+ 　　【摘要】 目的：探讨早期心理护理干预对长期血液透析患者生活质量的影响。方法：选取笔者所在医院长期血液透析患者60例，根据电脑生成的随机数字表将所有患者分为试验组与对照组，每组30例，对照组患者给予常规护理方式，试验组患者在对照组的护理基础上给予心理护理干预。比较治疗前后两组患者抑郁自评量表（SDS）及焦虑自评量表（SAS）评分变化，其数据结果应用统计学软件SPSS 19.0加以处理。结果：实行干预前两组患者SAS、SDS评分比较差异无统计学意义（P>0.05）；护理干预后，试验组患者SAS、SDS评分明显低于对照组（P<0.05）；与对照组相比，干预后试验组患者的生活质量明显优于对照组（P<0.05）。结论：早期心理护理干预能够提高长期血液透析患者的生活质量。
+　　doi：10.14033/j.cnki.cfmr.2017.17.035 文献标识码 B 文章编号 1674-6805（2017）17-0072-03
+　　Effect of Early Psychological Nursing Intervention on Quality of Life of Patients with Long Term Hemodialysis/KUANG Li-xia，TAN Chun-mei，ZHANG Jia-hui.//Chinese and Foreign Medical Research，2017，15（17）：72-74
+　　【Abstract】 Objective：To investigate the effect of early psychological nursing intervention on the quality of life of long-term hemodialysis patients.Method：60 cases in our hospital on long-term hemodialysis were selected，according to a computer generated random number table，all the patients were randomly divided into the experimental group and the control group，30 cases in each group，the control group was given routine care，the experimental group was received psychological nursing intervention based on the control group.Before and after treatment，two groups of patients with depression self rating scale（SDS） and self rating anxiety scale（SAS） score changes，the results of the data using statistical software SPSS 19.0 to deal with.Result：The implementation of nursing intervention in the two groups before SAS and SDS scores had no significant difference（P>0.05）；after nursing intervention，the SAS，SDS score in the experimental group were significantly lower than those in the control group（P<0.05），after psychological nursing intervention，the life quality in the experimental group was superior than that in the control group（P<0.05）.Conclusion：Early psychological nursing intervention can improve the quality of life of long-term hemodialysis patients.
+　　【Key words】 Psychological nursing intervention； Long term hemodialysis； Quality of life
+　　First-author’s address：The Fifth Hospital Affiliated to Zhongshan University，Zhuhai 519000，China
+　　血液透析（maintenance hemodialysis disease，MHD）?称血透，是一种终身替代疗法[1]，亦是血液净化技术的一种，其利用半透膜原理，通过扩散、对流等方式使体内过多电解质、各种有害物质、多余代谢废物移出体外，达到纠正水电解质、净化血液及平衡酸碱的目的，疗效明显[2]。但透析治疗毕竟是一种非生理性状态，多数患者会在治疗阶段产生诸多心理不平衡，进而产生各种精神心理问题，例如对血透自身的恐惧及对预后效果的怀疑，故此阶段心理护理显得尤为重要[3]。因此，本研究基于大样本人群进行研究分析，通过观察早期心理护理干预对长期血液透析患者生活质量的影响及作用机制，以期为今后长期血液透析患者的治疗提供可能的临床依据。
+　　1 资料与方法
+　　1.1 一般资料   　　收集2013年10月-2015年9月入住笔者所在医院肾内科进行长期血液透析的患者60例，其中男40例，女20例，年龄30～76岁，平均（53.95±6.75）岁，病程1～6年，平均（3.56±0.42）年。其中急进性肾小球肾炎3例、慢性肾小球肾炎20例、高血压肾病16例、糖尿病肾病16例、梗阻性肾病4例、急性肾衰竭4例。根据电脑生成的随机数字表对所有患者进行1～60号编号，试验组为单号，对照组为双号，其中试验组患者30例，男20例，女10例，年龄30～75岁，平均（53.45±6.52）岁；对照组患者30例，男20例，女10例，年龄30～76岁，平均（53.82±6.88）岁。两组患者均无严重心血管疾病或肝功能异常，且无透析禁忌证。两组患者性别、年龄、体重、并发症、病情严重程度等一般情况比较，差异无统计学意义（P>0.05）。本试验经笔者所在医院伦理协会批准，患者签署知情同意书。
+　　1.2 护理方法
+　　对照组给予常规护理方式，其包括与患者建立良好的医护关系、关于透析的健康教育及血液透析护理等。试验组在对照组的护理基础上给予心理护理干预。因透析患者的病程一般较长，需要长期透析治疗，心理反应以抑郁和焦虑最为常见[4]，护理人员应针对这些不良情绪进行合理疏导，鼓励患者树立战胜疾病的信念，并运用自己的专业知识为患者临床上的一些并发症进行良好的处理。
+　　观察组患者在行常规护理的基础上进行心理护理干预。根据临床经验及查阅相关文献，总结血液透析期间患者的心理特点包括：（1）恐惧和猜疑，对疾病知识的缺乏，惧怕透析治疗期间的并发症，或者因透析环境的刺激，情绪低落，尤其其他患者死亡，产生恐惧与猜疑。（2）肾功能衰竭的不可逆性，终身依赖透析，自我价值丧失，而高透析费用带来的经济压力，感到不能承担社会、家庭重担，出现悲戚、内疚心理。（3）晚期可出现依赖心理，患者对自己的生活自理能力失去信心，过于被动的依赖心理不利于控制疾病，一味迁就难以培养患者长期与疾病斗争的信念。有的尿毒症患者认为尿毒症是绝症，加之头痛、瘙痒、关节痛、失眠等并发症引起生活质量下降，会出现过分依赖，甚至嫉妒、悲观、绝望、厌世心理。针对上述心理特点，给予有效的心理疏导，运用专业知识指导患者正确掌握各种并发症的缓解方法，从而保持良好的心态；鼓励患者进行自我护理，树立战胜疾病的信心，避免产生过分依赖心理；帮助患者回归社会：许多患者患病后不与外界交流，认为自己与正常人有区别，而避免与社会接触，护理人员进行针对性的心理引导，建立患者群进行经验交流及相关活动，鼓励其在身体允许的情况下参加工作，进行必要及可行的社会活动，满足患者自我实现的社会需要。做好患者家属的思想工作：护士与患者交流时应同时与患者家属进行沟通，让家属帮助患者建立战胜疾病的信心。教育家属学习相关的疾病知识，以帮助患者在日常生活中进行监测，让家属了解自己的关心能增加患者治疗的信心，以积极配合治疗[5-7]。
+　　1.3 观察指标
+　　观察并记录两组患者护理干预前后抑郁自评量表（SDS）及焦虑自评量表（SAS）评分变化，并运用健康调查量表（SF-36）对患者的生活质量进行评估，内容包括社会功能、生理功能、?|体疾病、情感智能、精神健康5个方面，对比两组分析两组患者评分。
+　　1.4 统计学处理
+　　所有数据均录入SPSS 19.0软件进行统计学分析，计量资料以（x±s）表示，采用t检验，计数资料以率（%）表示，采用字2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者干预前后SAS、SDS评分比较
+　　试验组与对照组患者干预前SAS、SDS评分比较差异无统计学意义（P>0.05）；干预后，试验组患者SAS、SDS评分明显低于对照组（P<0.05），见表1。
+　　2.2 两组患者干预后生活质量比较
+　　研究结果显示，干预后试验组患者的生活质量明显优于对照组（P<0.05），见表2。
+　　3 讨论
+　　在各种因素的影响下，近年来，终末期肾病的发病率呈不断升高趋势[8]，对人们的生命健康造成了严重影响。由于终末期肾病的不可逆性，肾病患者只要由慢性肾功能不全进展至终末期，就需要进行肾脏替代治疗或肾脏移植[9]。但因为肾源等多种不可控因素，肾脏移植变得十分困难，故而临床常用的是以血液透析（HD）为主的替代治疗。由于血液透析的治疗周期长，随之而来的，因为长时间被疾病困扰，接受HD治疗所带来的并发症，都会使患者的工作学习及生活被波及，往往会出现程度不一的焦虑、抑郁、烦躁等心理负面问题，使患者治疗的信心下降，同时也使其生活质量降低[9]。对长期HD患者实施心理护理干预，能使心理问题及生活质量得到较好的改善[10]。对患者，护理人员应先做好心理评估，进而依照其年龄、经济文化情况等因素，对患者进行有针对性的心理干预，帮助患者建立治疗信心，减少负面情绪[11]。本试验通过对患者生活质量、SAS、SDS评分的比较，来观察早期心理护理干预如何影响长期血液透析患者。
+　　抑郁自评量表（SDS）和Zung焦虑自评量表（SAS）都是可以客观评估患者心理状况的评分标准。有调查显示，长期血液透析患者心理精神障碍的发生率远高于正常人，同时存在60.78%的高焦虑发生率。能对长期血液透析患者心理造成影响的主要因素有：由于肾功能损害的不可逆性，患者只能以血液透析来维持生存，治疗周期长而复杂，有一定的痛苦，还存在多种并发症，患者极容易出现负面心理，而同时这些负面情绪对治疗也会产生不良影响，导致恶性循环；长期HD带来的高额治疗费用对很大一部分患者与其家庭来说都是巨大的经济负担，容易导致患者滋生负面情绪；不同患者对于自身疾病与治疗方式，有着不同的认知程度，因此易出现对治疗的不信任，产生负面情绪[12]。试验结果表明，相比于对照组，干预后试验组患者具有较低的SAS、SDS评分，证实了早期心理护理干预能够降低长期血液透析患者的负面情绪。   　　患者在长期的血透治疗过程中面对很多应激事件[13]，包括：血液透析患者的年龄越大，其生活质量往往越低，同时，患者的文化程度在某些方面也影响着生活质量；血液透析患者若同时患有糖尿病、心脑血管疾病时，其生活质量会严重受到影响；患者存在抑郁、烦躁、焦虑等负面心理问题时，其生活质量随之降低；患者的饮食营养情况与睡眠质量，也与其生活质量息息相关。结果显示，相比于对照组，干预后试验组患者的生活质量较高，证实了早期心理护理干预能有效使长期血液透析患者的生活质量得到改善。
+　　通过对60例长期血液透析患者SAS、SDS评分及生活质量的比较，证实了早期心理护理干预能有效使患者负面情绪降低，使其生活质量得到改善。在今后的研究中将对其具体作用机制进行更详细的分析，以期为本次试验中所发现的现象及问题做出更好的解释。
+
+

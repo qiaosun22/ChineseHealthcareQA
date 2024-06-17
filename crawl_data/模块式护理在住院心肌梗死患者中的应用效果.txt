@@ -1,0 +1,31 @@
+
+　　[摘要] 目的 探讨模块式护理在住院心肌梗死患者中的应用效果。 方法 选取2004年1月～2014年2月本院收治的120例心肌梗死患者作为研究对象，随机分为观察组和对照组，各60例。对照组采用心肌梗死常规心内科护理，观察组采用心肌梗死模块式护理，比较两组的并发症发生率、护理满意度、住院时间、住院费用等。 结果 观察组的静脉炎、腹胀便秘、失眠等并发症发生率显著低于对照组，差异有统计学意义（P<0.05）。观察组的护理满意度显著高于对照组，差异有统计学意义（P<0.05）。观察组的住院时间、住院费用显著低于对照组，差异有统计学意义（P<0.05）。 结论 模块式护理在心肌梗死患者中的应用效果显著，能够降低并发症发生率，缩短住院时间，节省住院费用，提高护理满意度，值得临床推广应用。
+　　[中图分类号] R542.2+2 [文献标识码] A [文章编号] 1674-4721（2015）06（a）-0183-03
+　　Application effect of modular nursing in hospitalized patients with myocardial infarction
+　　LIANG Yan-fen1 LIN Zhen-yan1 LU Xiao-qi2
+　　1.Department of Emergency，Daliang Hospital of Shunde District of Foshan City in Guangdong Province，Foshan 528300，China；2.Department of Cardiology，the First People′s Hospital of Shunde District of Foshan City in Guangdong Province，Foshan 528300，China
+　　[Abstract] Objective To explore the application effect of modular nursing in hospitalized patients with myocardial infarction. Methods 120 hospitalized patients with myocardial infarction in our hospital from January 2004 to February 2014 were selected and randomly divided into the observation group and the control group，60 cases in each group.The control group was given conventional cardiology nursing，the observation group was given modular nursing nursing.The incidence rate of complication，the degree of nursing satisfaction，length of stay and hospital costs in two groups was compared. Results The incidence rate of complication about phlebitis，abdominal distension constipation and insomnia in the observation group was lower than that in the control group，with significant difference（P<0.05）.The degree of nursing satisfaction in the observation group was lower than that in the control group，with significant difference（P<0.05）.Length of stay and hospital costs in the observation group was lower than that in the control group，with significant difference（P<0.05）. Conclusion The application effect of modular nursing in hospitalized patients with myocardial infarction is significant，which can decrease the incidence rate of complication，shorten hospital stay，save hospital costs and improve the degree of nursing satisfaction，it is worthy of clinical promotion and application.
+　　[Key words] Modular nursing；Bloating constipation；The degree of nursing satisfaction
+　　模块护理是从整体入手的护理模式，具有个体化的特点，能够使患者从心理[1]、身体、社会认同、治疗信心等方面得到全面提升。心肌梗死属于疼痛程度较高、护理难度较大的疾病，为常见的心血管急症，严重威胁人类的身体健康与生命安全[2]。全球每年有约1700万人死于心血管疾病，其中一半以上死于心肌梗死[3-4]。积极纠正临床症状，减少并发症发生，是控制心肌梗死死亡率的有效途径。本研究对本院收治的心肌梗死患者实施模块式护理，探讨其效果。   　　1 资料与方法
+　　1.1 一般资料
+　　选取本院2004年1月～2014年2月收治的120例心肌梗死患者作为研究对象，年龄为35～91岁，平均（58.3±8.7）岁。所有入选者均符合WHO制订的心肌梗死诊断标准且无认知和言语及精神障碍。将其随机分为观察组和对照组，各60例。两组的一般资料比较，差异无统计学意义（P>0.05），具有可比性。
+　　1.2 方法
+　　1.2.1 对照组 采用心肌梗死常规心内科护理。在实施护理之前应建立临床护理路径小组，有效结合本院拥有的检查仪器和患者的具体情况，兼顾相关资料的建议，建立临床护理路径日程表。采用两组轮流护理的方式进行护理，由护士长担任负责人，随时进行检查，发现不符合规定的情况及时纠正，并定期进行考核；患者入院后由医生、护士对其病情的严重程度进行评估，在保证患者治疗效果的基础上尽量遵守已制订的护理路径日程表；护理人员不能随便更改患者的护理日程安排，确有安排需要时应及时与医生沟通，进行护理日程的调整；向患者介绍具体的护理路径日程表以及护理的作用和内容，取得患者的支持和信任，在护理过程中及时与患者及其家属沟通，保证护理过程中患者的舒适度；主管护师和护士按照已制订的护理路径每日执行，根据患者的需要进行病情评估，同时评价效果；出院前对患者的护理效果进行集中评估，记录偏差临床路径的护理行为，分析其对护理结果的影响。
+　　1.2.2 观察组 入院后即采用心肌梗死模块式护理，具体内容如下。①疼痛护理模块：吸氧、及时给予止痛药，设法提高患者痛阈，与家属沟通进行联合护理。②心电监测护护理模块：入院即行常规心电图检查，持续心电监护1周，每4小时回顾分析所记录的心电图。预测恶性室性心律失常的指标包括J波测定标准（心电图显示至少2个导联以上可测定J点后的顿挫，持续时间>0.03 s，振幅>0.05 mV）和墓碑型ST段抬高诊断标准（ST段凸向上快速上升达8～16 mm，ST段顶峰高于其前的r波，r波低小且时限较短，通常≤0.04 s，ST段与其后T波的升支相融合，不能单独辨认出T波）。溶栓治疗前10 min做1次心电图，以后每30分钟做1次，密切监测冠状动脉是否再通。③生理舒适护理模块：保持患者居住环境安静、整洁，保持室内温度在20～24℃；急性期患者必须卧床休息，禁止自行翻身，可帮助患者按摩，以降低长期卧床导致的身体酸痛；少食多餐，以粗粮纤维食物为主，鼓励患者少量多次饮水；鼓励患者每天定时排便，在闲暇时尽量顺时针按摩胃部，以促进胃的蠕动，促进食物消化；保证患者8 h/d以上的睡眠，尽量使患者休息充分。④并发症护理模块：严格预防院内感染，监测生命指标，及时与医生进行沟通。⑤心理护理模块：急性心肌梗死患者常存在焦虑、恐惧等心理，因此应倾听、开导患者，帮助其增强治疗信心，消除其对治疗后果不明确的担忧。
+　　1.3 观察指标
+　　采用本院拟制的并发症调查表进行调查，内容包括静脉炎、腹胀、失眠等，同时收集两组的住院时间和住院费用并进行比较。由患者自行填写护理满意度调查表，内容包括病区环境、服务态度、言行举止、护理态度等并当场收回，其中评分0～40分表示不满意，41～60分表示基本满意，61～80分表示满意，81～100分表示非常满意。
+　　1.4 统计学处理
+　　采用SPSS 15.0统计学软件对数据进行分析，计量资料以x±s表示，采用t检验，计数资料采用χ2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组并发症发生率和护理满意度的比较
+　　观察组的静脉炎、腹胀便秘、失眠等并发症发生率显著低于对照组，差异有统计学意义（P<0.05）。观察组的护理满意度显著高于对照组，差异有统计学意义（P<0.05）（表1）。
+　　表1 两组并发症发生率和护理满意度的比较[n（%）]
+　　2.2两组住院时间和住院费用的比较
+　　观察组的住院时间、住院费用显著低于对照组，差异有统计学意义（P<0.05）（表2）。
+　　表2 两组住院时间和住院费用的比较（x±s）
+　　3 讨论
+　　心肌梗死具有发病迅速[5]、发生率高、死亡率高、预后效果较差的特点，已成为危害人类健康的“第一杀手”。我国每年约新增50万例心肌梗死患者。溶栓是治疗心肌梗死的主要方法，具有快捷、方便、经济、易操作的特点。此外，近年来PCI技术在心肌梗死治疗中也得到了广泛应用[6]。西医常使用ACEI、β受体阻滞剂和利尿剂等药物进行治疗，而该类药物在使用过程中存在一定风险。临床研究显示，调节血压、强心、改善徽循环是治疗心肌梗死的必要手段[7]。传统的护理方法要求护理人员以完成医嘱为重点，仅注重医护人员的护理责任[8]，缺少与患者的沟通，使得护理目标不明确。模块式护理从整体入手，根据疾病的临床表现构建专科护理模块[9]，在实施过程中，护士根据患者的恢复情况对相应的护理措施进行及时调整，具有个体化的特点，同时明确地将患者是战胜疾病的主体落实到患者层面，使患者从心理、身体、社会认同[10]、治疗信心等方面全面提升[11]。护士按照模块中的护理要点，积极进行护理评估，及早发现并发症发生的预警信号[12]，在护理过程中注意观察病情变化，使护理工作更有主动性和计划性，从而减少或避免了并发症和死亡的发生[13-14]。
+　　本研究结果显示，观察组的静脉炎发生率为3.3%，显著低于对照组的16.7%；观察组的腹胀、便秘发生率为16.7%，显著低于对照组的50%，差异有统计学意义（P<0.05），提示模块式护理能够有效减轻并发症等危险因素对心肌梗死患者的影响， 平均住院日被认为是反映医院效率的重要指标之一，缩短平均住院日可有效利用卫生资源，缓解医疗供需紧张的社会矛盾。本研究结果显示，观察组的平均住院时间显著短于对照组（P<0.05）。   　　模块式护理能够避免护士由于能力和水平的不同而对患者造成疏忽，可以及早发现患者的病情变化，积极配合医生进行急性溶栓或行PCI治疗，迅速缓解患者的症状，缩短急救时间，因此患者对急救护理工作的满意度提高（P<0.05）。
+　　综上所述，模块式护理在心肌梗死患者中的应用效果显著，能够降低静脉炎、腹胀便秘、失眠等并发症发生率，明显缩短住院时间，节省住院费用，提高护理满意度，值得临床推广应用。
+
+

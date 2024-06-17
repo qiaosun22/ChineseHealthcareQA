@@ -1,0 +1,37 @@
+
+　　[摘要] 目的 探讨PICC在恶性肿瘤化疗中的应用效果观察及护理。 方法 选择我院2013年1月～2014年1月行PICC置管的恶性肿瘤化疗患者40例为观察组，另选择同期应用颈内静脉置管的恶性肿瘤化疗患者40例为对照组，观察并比较两组患者一次穿刺成功率、平均操作时间、导管留置时间及两组患者穿刺过程中的并发症或意外情况，如周围静脉炎、血气胸、重新调整导管位置、导管堵塞、导管相关感染、渗漏等。 结果 观察组患者一次穿刺成功率达90%（36/40），对照组患者一次穿刺成功率达70%（28/40），观察组患者一次穿刺成功率显著高于对照组，差异有统计学意义（P<0.05）；观察组患者平均操作时间、导管留置时间均明显短于对照组，差异有统计学意义（P<0.05或P<0.01）；观察组患者穿刺过程中的并发症发生率合计10%（4/40），观察组患者穿刺过程中的并发症发生率合计25%（10/40），观察组患者穿刺过程中的并发症发生率显著低于对照组，差异有统计学意义（P<0.05）。 结论 在恶性肿瘤化疗中应用PICC可以提高穿刺成功率，缩短穿刺时间，延长导管留置时间，降低并发症的发生率，同时配合有效的护理干预措施，可以减轻患者的痛苦。
+　　[中图分类号] R473.73 [文献标识码] B [文章编号] 1673-9701（2014）32-0071-03
+　　Observation on effect of application of PICC in malignant tumor chemotherapy and nursing
+　　ZHENG Li’na
+　　Department of Surgical Oncology， the Fifth People's Hospital of Shenyang City， Shenyang 110023， China
+　　[Abstract] Objective To investigate the efficacy of PICC in malignant tumor chemotherapy and nursing. Methods In our hospital from January 2013 to January 2014，PICC for malignant tumor chemotherapy patient tube 40 cases for the observation group， chose another application over the same period of internal jugular vein indwelling chemotherapy patients with malignant tumor in tube of 40 patients as control group， the success rate of first puncture， the operation time， catheter indwelling time and two groups of patients during puncture complications， including peripheral phlebitis， hemopneumothorax， re-adjusting the position of the catheter， catheter blockage， leakage， catheter related infection were observed and compared. Results The once puncture success rate of observation group patients was 90%（36/40）， the once puncture success rate of control group was 70% （28/40）， the first puncture success rate of observation group was significantly higher than the control group， the difference was statistically significant （P<0.05）； The average operation time， indwelling catheter time in observation group was significantly shorter than the control group， the difference was statistically significant （P<0.05 or P<0.01）； The puncture complications rate was 10%（4/40） in the observation group， the control group was 25%（10/40）， the puncture process complication rate in the observation group was significantly lower than that of the control group， the difference was statistically significant （P<0.05）. Conclusion The application of PICC in malignant tumor chemotherapy can improve the success rate of puncture， shortening the operation time， prolong the indwelling time， reduce the complication rate， at the same time with the effective intervention measures， can reduce the pain of patients.   　　[Key words] Malignant tumor chemotherapy； PICC； Complication
+　　恶性肿瘤的治疗主要采取化疗，但化疗药物对血管损害大，输液方式选择不当易引起严重的静脉炎和药物外渗，甚至造成功能障碍[1]。目前临床上首选经外周静脉置入中心静脉导管（PICC导管）给药。PICC为恶性肿瘤化疗患者提供一个可靠的静脉输液途径，避免了机械性静脉炎或化疗药物外渗所导致的化学静脉炎和组织损伤坏死[2]。PICC的操作较为简单，但是日常护理非常重要，应强调对PICC的护理工作。
+　　1 资料与方法
+　　1.1 一般资料
+　　选择我院2013年1月～2014年1月行PICC置管的恶性肿瘤化疗患者40例为观察组，其中男25例，女15例，年龄最小31岁，最大82岁；另选择同期应用颈内静脉置管的恶性肿瘤化疗患者40例为对照组，其中男24例，女16例，年龄最小32岁，最大83岁。两组患者在性别构成比、平均年龄、恶性肿瘤类型等临床资料差异无统计学意义，具有可比性（P>0.05）。所有入选病例均经病理学或细胞学检查确诊，血常规、肝功能、心电图正常，均签署知情同意书，见表1。
+　　1.2 方法
+　　观察组应用PICC置管。PICC管选用美国巴德公司产品，单腔，长45 cm。患者上臂外展90°，首先选择贵要静脉，其次肘正中静脉，最后选头静脉，导管导入平均长43 cm。局部消毒铺巾，行静脉穿刺，穿刺成功后退出穿刺针从插管鞘置入导管，轻柔地推进导管至所需长度，撤出插管鞘，再缓慢将支撑导丝撤出。用生理盐水抽吸见回血后冲洗管腔，脉冲式正压封管，用透明敷贴固定，置管成功后局部压迫30 min[3]。最后经X线透视确认导管达到理想的上腔静脉预定位置，才可进行输液或化疗。对照组应用颈内静脉置管[4]。
+　　1.3 观察指标
+　　观察并比较两组患者一次穿刺成功率、平均操作时间、导管留置时间及两组患者穿刺过程中的并发症或意外情况，包括周围静脉炎、血气胸、重新调整导管位置、导管堵塞、导管相关感染、渗漏。
+　　1.4 统计学方法
+　　应用SPSS 12.0统计学软件进行数据分析，计量数据用均数±标准差（x±s）表示，计数资料用相对数表示，组间比较分别采用t和χ2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组各项观察指标比较
+　　观察组患者一次穿刺成功率达90%（36/40），对照组患者一次穿刺成功率达70%（28/40），观察组患者一次穿刺成功率显著高于对照组，差异有统计学意义（P<0.05）；观察组有4例以头静脉穿刺后出现置管困难，胸部X线片示导管尖端未到位，导管尖端于锁骨下静脉处返折，在无菌操作下退管6 cm，尖端定位于锁骨下静脉，作为中长导管使用。观察组患者平均操作时间、导管留置时间均明显短于对照组，差异有统计学意义（P<0.05或P<0.01），见表2。
+　　表2 两组各项观察指标比较（x±s）
+　　2.2 两组患者穿刺过程中的并发症情况比较
+　　观察组患者穿刺过程中的并发症发生率合计10%（4/40），观察组患者穿刺过程中的并发症发生率合计25%（10/40），观察组患者穿刺过程中的并发症发生率显著低于对照组，差异有统计学意义（χ2=4.867，P<0.05），见表3。
+　　表3 两组患者穿刺过程中的并发症情况比较
+　　3 PICC置管护理
+　　3.1 置管前护理
+　　恶性肿瘤患者思想负担重，常伴有悲观、绝望和焦虑等负性心理，护理人员应耐心向患者及家属讲解置管的目的、意义、优点、操作过程、注意事项及整个穿刺过程所需的时间，消除患者的后顾之忧。
+　　3.2置管时护理
+　　置管时密切观察患者的面色、呼吸、表情等，嘱咐患者不要紧张，关注患者有无疼痛、胸闷等不适。动作要熟练轻柔、速度适中，遇有阻力时可停顿片刻再继续送管，也可适当调整针鞘的角度。术中严格执行无菌操作，插管后立即用生理盐水彻底清洁术周皮肤。
+　　3.3 置管后护理
+　　PICC置管后24 h内要换药1次，注意观察穿刺部位的情况[5]。置管后每隔3 d更换透明敷贴及正压接头；严格无菌操作，加强消毒。注意观察穿刺点有无异常及有无红肿热痛及局部硬结，可涂抹多磺酸粘多糖乳膏防治静脉炎。每次更换贴膜时将导管呈“s” 型放在贴膜内固定。加强巡视，避免液体滴空。治疗间歇期采用无缝接头，每周用20 mL生理盐水冲管1次，用生理盐水封管，同时更换敷贴。加强护理同时术后健康宣教也很重要，告知病人避免置管侧上肢剧烈活动或过度伸屈持重，避免游泳活动。宜穿着宽松柔软的开衫上衣，并避免牵拉导管以防止脱出[6-9]。
+　　3.4 加强对PICC穿刺过程中并发症的护理
+　　（1）感染：怀疑感染时，需要做血液培养，情况严重时需取出导管，根据细菌培养情况使用抗生素[10]。（2）导管堵塞：可以使用尿激酶进行导管溶栓，再通导管。（3）机械性静脉炎：多穿刺后2～3 d内发生，表现为术肢红肿、疼痛和功能障碍，伴有温度升高，可局部涂抹喜辽妥软膏，一般情况下不需要拔管[11]。（4）渗出和血肿：穿刺的时候可以皮下潜行一段，然后进入静脉血管，可以降低局部渗血的机率。（5）静脉血栓：通常表现为手臂的疼痛肿胀，采取溶栓治疗或者介入治疗取出。
+　　4 讨论
+　　恶性肿瘤化疗患者所用化疗药物对血管的刺激很大，有时只完成1个疗程就难以找到血管进行第2次化疗。PICC是一项操作方便、安全有效、创伤小、并发症少的置管技术，可减少频繁静脉穿刺带给患者的痛苦和不适，不限制臂部的活动及其他日常活动，能使患者较舒适地完成中长期的静脉治疗；避免了股静脉和锁骨下静脉插管的盲穿和威胁生命的并发症。但其导管留置时间长，患者部分时间为非住院环境带管，因此置管前后应对患者及家属进行护理干预指导及健康教育，从而保证PICC的使用安全有效。本研究观察组患者一次穿刺成功率达90%（36/40），显著高于对照组，且观察组患者平均操作时间、导管留置时间均明显短于对照组；观察组患者穿刺过程中的并发症发生率为10%（4/40），显著低于对照组（P<0.05），与蔡淑华等[11]报道的结果是一致的，进一步说明PICC在恶性肿瘤化疗中的应用可提高穿刺成功率，缩短穿刺时间，延长导管留置时间，降低并发症的发生率，同时配合有效的护理干预措施可以减轻患者的痛苦。
+
+

@@ -1,0 +1,65 @@
+
+　　[摘要] 目的 研究临床护理路径（CNP）在妇产科择期手术患者护理过程中的应用效果。 方法 以本院2013年1月~2014年1月妇产科收治的110例择期手术患者为研究对象，随机分为A组与B组，所有患者均积极进行基础治疗与护理，A组患者在此基础上增加临床护理路径内容，比较两组患者的术前心理状态、术中应激水平、术后生活质量评分和护理满意度。 结果 A组的术后焦虑、抑郁、恐惧和人际关系敏感得分分别为（2.03±0.48）、（1.84±0.27）、（1.74±0.30）、（1.92±0.31）分，均显著低于B组的（2.58±0.54）、（2.35±0.38）、（2.43±0.49）、（2.17±0.44）分（P<0.05）；A组的术中应激水平亦低于B组（P<0.05）；A组的术后睡眠质量、疼痛水平、躯体症状和心理健康水平得分分别为（84.58±5.47）、（45.24±6.69）、（65.69±5.02）、（89.37±3.21）分，B组分别为（79.42±3.02）、（54.48±8.65）、（78.74±6.63）、（84.36±5.46）分，A组的术后生活质量显著高于B组（P<0.05）；A组的护理满意度（85.45%）高于B组（67.27%）（P<0.05）。 结论 CNP可以在妇产科择期手术患者的护理中发挥积极作用，其不仅可以降低患者的心理和生理应激水平，还可以改善患者的生活质量和提高护理满意度。
+　　[中图分类号] R473.71[文献标识码] B[文章编号] 1674-4721（2014）06（b）-0119-04
+　　
+　　Evaluation of the application effect of clinical nursing pathway for patients of gynecology and obstetrics receiving selective operation
+　　CHEN Zhi-hong YU Yun-mei DIAO Shi-ping
+　　Department of Gynecology and Obstetrics,Dongguan Huangjiang Hospital of Guangdong Province,Dongguan 523750,China
+　　[Abstract] Objective To explore the application effect of clinical nursing pathway (CNP) for patients of gynecology and obstetrics receiving selective operation. Methods 110 patients who were admitted to the department of gynecology and obstetrics in our hospital from January 2013 to January 2014 and received selective operation were selected as research subjects.They were randomly divided into thegroup A and the group B,and all patients were given active basic treatment and nursing.Patients in the group A also received CNP on the basis of the basic nursing. The preoperative mental conditions,stress level during operation,postoperative life quality and satisfaction degree of nursing between the two groups were compared. Results Score of postoperative anxiety,depression,fear and sensitivity to interpersonal relations in the group A were (2.03±0.48),(1.84±0.27),(1.74±0.30) and (1.92±0.31) points respectively,which were all significantly lower than those of (2.58±0.54),(2.35±0.38),(2.43±0.49) and (2.17±0.44) points in the group B respectively (P<0.05).The stress level in the group A during operation was also lower than that in the group B (P<0.05).Score of sleeping quality,pain level, somatic symptoms and level of mental health in the group A were (84.58±5.47), (45.24±6.69), (65.69±5.02) and (89.37±3.21) points respectively,and those in the group B were (79.42±3.02),(54.48±8.65),(78.74±6.63) and (84.36±5.46)points respectively,and the postoperative life quality in the group A was significantly better than that in the group B (P<0.05).The satisfaction rate in the group A (85.45%) was higher than that of 67.27% in the group B (P<0.05). Conclusion CNP has an active effect in the nursing for patients in department of gynecology and obstetrics receiving selective operation,which is not only able to reduce patients′ mental and physiological stress level,but also is able to improve patients′life quality and satisfaction degree of nursing.
+　　[Key words] Clinical nursing pathway;Department of gynecology and obstetrics;Operation
+   　　大部分妇产科的手术并非急性手术，且患者在术前，应该做好一系列的生理和心理准备，所以，择期手术是最好的选择[1-2]。有研究显示，择期手术患者在手术等待期存在不同程度的焦虑，且这种焦虑对患者的生活质量和手术效果有一定的负面影响[3-4]。以往通常采用个体化的指导来帮助患者有效利用手术等待期，以使其达到最佳的心理和生理状态，但由于大部分择期手术患者只在术前几天入院，且医疗资源与医疗服务需求之间的矛盾越来越大，所以很难做到面面俱到[5-7]。临床护理路径（clinical nursing pathway，CNP）是一种具有预见性、高效、低成本的护理合作模式[8]。CNP已在大量疾病治疗中发挥作用，但在妇产科择期手术患者却未见相关报道。本研究以本院妇产科收治的110例择期手术患者为研究对象，就CNP的建立、实施及其效果进行探讨和评价，现报告如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取本院2013年1月~2014年1月妇产科收治的110例择期手术患者，为保证研究对象的同质性，制订如下纳入和排除标准：①所有患者均为子宫肌瘤患者，符合择期手术要求；②患者未合并其他严重疾病，一般状况可；③患者具备一定文化水平，可理解本研究中所涉及的健康教育内容；④患者为首次进行妇产科手术，且术前3年内无手术史；⑤患者有医保或合作医疗；⑥知情同意。随机将患者分为A、B组，每组各55例。A组的平均年龄为（44.39±3.06）岁，平均等待期为（18.79±6.94）d，B组的平均年龄为（43.95±3.29）岁，平均等待期为（18.32±6.18）d，两组患者的一般资料比较差异无统计学意义（P>0.05），具有可比性。
+　　1.2 研究方法
+　　A组患者在医院护理部和科室主任协调下，组织所有妇产科护理人员进行CNP学习，明确CNP的实施主体和人员职责，同时对CNP实施过程中的细节问题进行探讨和分析。在收集以往患者临床资料后，结合国内外相关文献，由一线护士、高年资护师和主治医师共同制订1个目标住院天数为4~5 d的CNP护理方案，此方案应该包括治疗、健康教育、心理护理、饮食指导等多个方面，并建立1个针对CNP的反馈机制，以便及时解决一线护士进行CNP中可能出现的问题。通过上述过程，我们基本确立的CNP如下。入院时的CNP：①熟悉病区患者，了解病区功能；②主管护士熟悉患者，了解其一般情况和疾病进展；③向患者介绍手术方法和预后，帮助患者解答对手术治疗的疑惑；④进行初步的健康教育。术前24 h的CNP：①完备各项检查，确保患者身体符合手术要求；②如有需要，训练患者卧床大小便；③为患者准备干净的病服；④与患者谈心，了解其心理状态，并作有针对性的疏导；⑤平缓患者和家属的紧张情绪，并讲解术后可能出现的不适；⑥保持充足睡眠；⑦如有饮食需求，注意饮食。手术日的CNP：①更换床单元；②观察生命体征是否平稳；③送手术室时陪同；④术后患者苏醒时询问患者的感受；⑤准备术后可能用到的棉签等物；⑥观察患者术后并发症。术后3 d的CNP：①介绍后续治疗的目的和意义；②通过转移注意力等方法缓解患者的疼痛；③了解患者可能存在的心理健康问题，加以疏导和解答；④与患者探讨疾病，并向患者介绍预防知识。出院时的CNP：①进行出院指导；②帮助患者办理出院手续；③与患者建立沟通渠道；④向患者发放针对妇科疾病的健康宣传材料。B组患者只进行常规护理，包括心理护理与健康教育，但并未对其护理程序、方法及切入时间点进行规定。
+　　1.3 研究指标及评价方法
+　　1.3.1 两组术前心理症状水平的比较比较两组患者的焦虑、抑郁、恐惧和人际关系敏感水平。
+　　1.3.2 两组术中应激水平的比较术中采血，送检比较两组的血清超氧化物歧化酶（super oxide dismutase，SOD）和丙二醛（malondialdehyde，MDA）浓度。
+　　1.3.3 两组术后生活质量评分的比较比较两组患者的生活质量（睡眠质量、疼痛水平、躯体症状和心理健康水平等）评分。
+　　1.3.4 两组护理满意度的比较使用自制的《护理满意度评价卡》对患者进行分组，但不记名的护理服务治疗调查，分为满意、基本满意和不满意3个等级。
+　　1.4 统计学处理
+　　所有数据经Epidata 1.10双向核查输入计算机，使用SAS 9.0软件进行统计分析，计量资料用x±s表示，采用两独立样本t检验，计数资料采用χ2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组术前心理症状水平的比较
+　　A组患者的焦虑、抑郁、恐惧和人际关系敏感得分皆显著低于对照组（P<0.05）（表1）。
+　　
+　　表1 两组术前心理症状水平的比较（分，x±s）
+　　
+　　
+　　
+　　
+　　
+　　2.2两组术中生理应激水平的比较
+　　无论是麻醉生效时还是手术结束时，A组患者的SOD水平均高于B组，MDA水平均低于B组（P<0.05）（表2）。
+　　表2 两组术中生理应激水平的比较（mmol/L，x±s）
+　　
+　　
+　　
+　　
+　　
+　　
+　　2.3 两组术后生活质量评分的比较
+　　A组患者的睡眠质量、心理健康水平得分高于B组，疼痛水平和躯体症状水平得分低于B组（P<0.05）（表3）。
+　　
+　　表3 两组术后生活质量评分的比较（分，x±s）
+　　
+　　
+　　
+　　
+　　
+　　2.4 两组护理满意度的比较
+　　A、B组中，分别有47例和37例患者表示对护理服务满意，其护理服务满意率分别为85.45%和67.27%，A组的护理满意度显著高于B组（χ2=5.04，P<0.05）（表4）。
+　　
+　　表4 两组护理满意度的比较[n（%）]
+　　
+　　
+　　
+　　 与B组比较，χ2=5.04，*P<0.05
+　　
+　　3 讨论
+　　CNP是近些年来研究十分广泛的一个课题，在包括急诊、突发事件、急性病康复期等临床护理领域，CNP皆展现了其高效、快捷的特点[9-10]。在妇产科实践工作中，我们体会到良好的护理服务对于患者就诊体验的重要性，尤其是对于择期手术患者，其在从确诊到手术的过程中，不仅要调整好生理状态，还要调整好心态。有研究[11-12]显示，手术患者的术前心理状态对手术效果有一定影响。同时，亦有研究[13-14]显示，择期手术患者在手术等待期心理状态不佳。考虑到妇产科择期手术主要为子宫肌瘤等良性肿瘤，且手术成功率很高，所以患者与其他科择期手术患者在等待期中的心理状态可能存在一定差异，所以我们根据类似CNP研究的文献结果加以改良，以求可以更好地贴合妇产科择期手术患者的临床实际，为其提供更好的服务。本研究通过文献研讨与经验交流，发现在择期手术患者护理中的最佳程序及可能存在的问题，并考虑科室人员的实际情况，制订了一套针对于妇产科择期手术患者的CNP表，并在实施过程中严格把控质量，通过病例对照研究的方法，与传统护理方法效果作比较，初步证明了CNP在临床实施过程中的优越性。
+　　本研究结果显示，A组患者的焦虑、抑郁、恐惧和人际关系敏感得分皆显著低于对照组，体现了CNP中的心理护理和环境护理内容，对于妇产科择期手术患者心理健康水平的影响，而在术前，在积极调整患者生理状态中，注重对于患者心理诉求的满足，对增强手术效果或提高护理满意度都有积极效果。本研究为更进一步探讨患者的心理状态，在手术中对患者更为敏感的生理应激水平进行比较，研究结果显示，无论是麻醉生效时还是手术结束时，A组患者的SOD水平均高于B组，MDA水平均低于B组，说明A组患者的术中生理应激水平是低于B组，而有研究[15-16]显示，降低患者手术应激水平，对于降低患者术后并发症和手术风险，具有积极作用。本研究结果显示，A组患者的睡眠质量和心理健康水平得分高于B组，疼痛水平和躯体症状水平低于B组，说明A组患者的生活质量高于B组，而同时，本研究结果显示，A组患者护理满意度显著高于B组，说明实施CNP使患者得到了更为全面和高效的护理服务，从而使患者的生活质量和护理满意度也得到了相应提高。
+   　　综上所述，CNP可以在妇产科择期手术患者的护理中发挥积极作用，其不仅可以降低患者的心理和生理应激水平，还可以改善患者生活质量和提高护理满意度，值得临床推广应用。
+
+

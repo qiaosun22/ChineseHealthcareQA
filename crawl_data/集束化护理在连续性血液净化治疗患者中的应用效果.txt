@@ -1,0 +1,26 @@
+
+ 　　[摘要]目的 探讨集束化护理在连续性血液净化治疗患者中的应用效果。方法 选取2015年1月～2016年6月我院88例需行连续性血液净化治疗的患者作为本次研究对象，采用随机数字表法分为观察组和对照组，每组各44例患者，其中对照?M患者予以常规护理方案，观察组患者予以集束化护理方案，比较两组患者CRBSI情况、置管时间、住院时间、CRBSI发生时间、CRBSI持续时间及护理满意度。结果 观察组患者的CRBSI率为6.8%，明显低于对照组患者的22.7%，差异有统计学意义（P<0.05）；观察组患者的置管时间、住院时间及CRBSI持续时间分别为（22.9±7.1）、（30.8±8.6）、（10.4±5.5）d，均明显短于对照组患者的（30.5±9.6）、（42.4±10.3）、（11.4±4.7）d，差异有统计学意义（P<0.05）；观察组患者CRBSI发生时间为（16.0±5.3）d，明显长于对照组患者的（11.4±4.7）d，差异有统计学意义（P<0.05）；观察组患者对护理的满意度为86.4%，显著高于对照组患者的65.9%，差异有统计学意义（P<0.05）。结论 连续性血液净化导管相关性血流感染患者采用集束化护理方案具有良好的效果，明显降低CRBSI发生率，且可缩短治疗时间，大大提高患者的满意度，值得临床推广。
+　　[中图分类号] R473.5 [文献标识码] A [文章编号] 1674-4721（2017）06（c）-0181-03
+　　[Abstract]Objective To explore the Application effect of cluster nursing care on patients with continuous blood purification.Methods 88 patients received continuous blood purification treatment in our hospital from January 2015 to June 2016 were selected as the observation objects and were divided into the observation group （n=44）and the control group（n=44） according to the random number table.The patients in the control group were given routine nursing，and patients in the observation group were given cluster nursing intervention.After the treatment，the CRBSI occurrence，catheter time，hospital stay，CRBSI duration，the CRBSI time andnursing satisfaction were compared between two groups.Results The CRBSI rate of the observation group was 6.8%，significantly lower than 22.7% in the control group，and the difference was statistically significant （P<0.05）；The catheter time，hospital stay and CRBSI duration of the observation group were respectively （22.9±7.1），（30.8 ±8.6），（10.4±5.5） d，which were significantly shorter than （30.5±9.6），（42.4±10.3），（11.4±4.7） d of the control group，and the differences were statistically significant （P<0.05）；CRBSI time of the observation group was （16.0±5.3） d，which was significantly longer than （11.4±4.7）d of the control group，and the difference was statistically significant （P<0.05）；The nursing satisfaction of the observation group was 86.4%，which was significantly higher than 65.9% of the control group，and the difference was statistically significant（P<0.05）.Conclusion Cluster nursing care on catheter-related bloodstream infection in patients with continuous blood purification has the good effect，significantly reduces the CRBSI incidence，can shorten the treatment time，and greatly improve the patients′ satisfaction，so it is worth of clinical promotion.
+　　[Key words]Continuous blood purification；Catheter-related bloodstream infections；Cluster nursing care；Infection rate；Satisfaction   　　连续性血液净化是临床上最常用的肾脏替代疗法，但导管相关性血流感染（CRBSI）是其较为严重的并发症，不仅影响连续血液净化患者的临床疗效及预后，还延长住院时间，并大大增加患者的痛苦及后期医疗费用，严重感染甚至危及患者生命，如何有效的控制及降低导管相关性血流感染是预防院内感染的重要研究内容之一[1-2]。集束化护理通过集合大量具有循证基础的护理措施，每个护理操作都经临床证实对患者有利，将其共同实施比单独执行一种更能提高对患者的护理质量，因此将其结合处理某些难治的疾病，可提高医疗护理质量，改变患者的疾病转归[3-4]。本文通过探讨分析在我院88例需行连续性血液净化治疗的患者应用集束化护理后的效果，希望为临床护理连续性血液净化患者提供更多的思路，现报道如下。
+　　1资料与方法
+　　1.1一般资料
+　　选择2015年1月～2016年6月我院88例需行连续性血液净化治疗的患者作为本次研究对象，采用随机数字表法分为观察组和对照组，每组各44例患者。对照组中，男28例；女16例；平均年龄（61.5±4.7）岁；急性肾脏衰竭14例，糖尿病肾病20例，慢性肾小球肾炎10例；中央静脉置管36例，股静脉置管8例。观察组中，男29例，女15例；平均年龄（60.8±5.2）岁；急性?I脏衰竭13例，糖尿病肾病22例，慢性肾小球肾炎9例；中央静脉置管35例，股静脉置管9例。两组患者的年龄、性别、置管部位及疾病类型等一般情况比较，差异无统计学意义（P>0.05），具有可比性。所有患者置管前均无感染或免疫系统缺陷病，均签署知情同意书表示自愿加入研究，并通过医院医学伦理委员会审查。
+　　1.2方法
+　　对照组患者予以常规护理方案，未组织护理人员培训学习，但严格无菌操作、规范化穿刺置管、定期换药等，其中置管成功后，覆盖穿刺点的纱布敷料每3日更换1次，伤口敷料每周更换1次；血液净化时，每次连接装置时，采用碘伏对接头横断面与周围消毒1次，每次10 s；观察组患者予以集束化护理，首先由科主任或护士长向护理人员讲解理论知识包括如何预防CRBSI，进行专业技能培训，即规范置管操作、导管维护，所有护理人员培训达标后，再参与研究中。具体做法如下。①置管前，评估患者的身体状况及血管情况，明确置管所需的血管走向、分布，尽量一次穿刺成功，考虑患者发生感染的潜在危险因素，具有针对性的个性护理；开始置管时，操作人员必须严格无菌操作，穿戴无菌手术衣帽、口罩和手套，采用碘伏消毒，范围以穿刺点为中心直径30 cm，消毒3次。②置管成功后，覆盖穿刺点的纱布敷料每2日更换1次，伤口敷料每周更换3次，如果敷料被液体浸湿，立即更换，其他输液装置也严格定期更换，持续观察置管部位与导管状态，尽量减少拔管次数。③血液净化时，每次连接装置时，采用碘伏对接头横断面与周围消毒3次，每次10 s，如操作过程中不小心污染接头立即更换，透析过程中尽量不增加额外的装置，透析间隔必须肝素封管，一旦透析结束立即对导管进行脉冲式冲洗[5-7]。
+　　1.3观察指标及评价方法
+　　比较两组患者CRBSI情况、置管时间、住院时间、CRBSI发生时间、CRBSI持续时间及护理满意度。护理满意度包括满意、基本满意、不满意三项，患者从态度、护理操作、治疗效果等多方面进行权衡后评价；护理满意度=（满意+基本满意）例数/总例数×100%[8]。CRBSI发生时间指患者开始进行连续性血液净化至发生导管相关性血流感染的时间长度。
+　　1.4统计学方法
+　　采用SPSS 19.0统计学软件进行数据分析，计量资料数据用均数±标准差（x±s）表示，两组间比较采用t检验；计数资料用率表示，组间比较采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1两组患者CRBSI情况的比较
+　　观察组患者仅3例发生CRBSI，发生率为6.8%，对照组患者中10例发生CRBSI，发生率为22.7%，观察组患者CRBSI率明显低于对照组患者，差异有统计学意义（P<0.05）。
+　　2.2两组患者住院期间情况的比较
+　　观察组患者的置管时间、住院时间及CRBSI持续时间均明显短于对照组患者，CRBSI发生时间长于对照组，差异有统计学意义（P<0.05）（表1）。
+　　2.3两组患者护理满意度的比较
+　　观察组患者护理满意度高于对照组，差异有统计学意义（P<0.05）（表2）。
+　　3讨论
+　　连续性血液净化早期主要用于肾衰患者的治疗，随着血液净化技术不断发展，逐渐应用到多器官功能衰竭、严重创伤、感染、中毒及急性胰腺炎等危重病患的救治，治疗方法主要是通过装置向患者体内输入大量的置换液，源源不断地将患者血液中的有害物质或代谢废物清除到体外，从而大大提高危重患者的抢救成功率；目前连续性血液净化包括连续性动（静）静脉血液滤过、连续性动（静）静脉血液透析滤过、连续性高通量透析、连续性血浆滤过吸附等多项技术[9-10]；CRBSI是指患者在带有血管内导管时或拔除血管内导管2 d内，并排除没有其他感染源后出现的感染，临床症状常为高热（>38℃）、寒颤、低血压、呼吸急促等菌血症表现[11-12]；患者发生CRBSI时，常使导管失去功能，对患者身体和住院费用都带来极大负担，因此降低导管相关性并发症的发生极其重要[13-15]。
+　　本文通过研究在连续性血液净化导管相关性血流感染患者的护理中应用集束化护理的效果发现，予以集束化护理的患者的CRBSI发生率明显低于予以常规护理的患者，差异有统计学意义（P<0.05）；予以集束化护理的患者的置管时间、住院时间及CRBSI持续时间均明显短于予以常规护理的患者，而且其CRBSI发生时间明显长于予以常规护理的患者，上述差异均有统计学意义（P<0.05）；由此可说明集束化护理能显著降低连续血液净化患者发生的风险，加快治疗速度，即便发生CRBSI，治疗恢复时间也较快，大大提高患者的生活质量，减轻患者的住院负担；并且予以集束化护理患者的护理满意度高于予以常规护理的患者，差异有统计学意义（P<0.05），可以推测由于集束化护理提高了患者的治疗效果，故显著增加了患者的护理满意度，改善了护患关系，利于护患沟通[16]。   　　综上所述，连续性血液净化导管相关性血流感染患者采用集束化护理方案具有良好的临床效果，不仅明显降低CRBSI发生率，且可缩短治疗时间，显著提高患者的护理满意度，值得临床推广。
+
+

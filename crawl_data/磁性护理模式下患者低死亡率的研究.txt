@@ -1,0 +1,27 @@
+
+　　中图分类号：R 473 文献标识码：A
+　　A study of low mortality in patients with magnetic care model
+　　SONG Yanli， ZHANG Yanyan， LI Ruo
+　　（Jilin Medical University， Jilin 132013， Jilin， China）
+　　Abstract： Nursing mode of magnetic and non-magnetic model for comparative studies， analysis of patient mortality failure rates and other factors， and come to a reasonable conclusion to realize sustainable development of nursing. From 2 magnetic nursing hospital and 7 non-magnetic-care model hospital patients， nurses， and hospital data. A logistic regression model was used to analyze the magnetic and non-magnetic differences in hospital mortality and failure rates， and nursing knowledge to analyze variations in patient treatment and hospital.Magnetic nursing mode has good working environment and a high proportion of Bachelor of science in nursingdegree. These factors explain a great deal of nursing magnetic effects of nursing on the patients with treatment. However， in magnetic treatment nursing mode of patients compared with non-magnetic nursing， 12% lower mortality rates， low failure rate of 11%， mainly nursing management， hospital care， as well as differences in patients.Based on the investigation， magnetic nursing models have lower mortality and failure rates.Magnetic treatments can improve the quality of care， and further urgepatients with health-promoting behaviours.
+　　Key word： Nursing； Magnet Hospital： Quality of Care
+　　美国磁性医院，能成功吸引并留住护士，但是还不确定这种磁性护理模式是否适合我国国情，在治疗护理状况方面是否适合我国患者。
+　　1.研究方法
+　　在2015年间我们分析了2家磁性护理医院和7家非磁性医院的成人数据。这9个医院的样本包含了2个含一般护理、急救护理的磁性医院和7个含一般护理、急救护理的非磁性医院。我们申请了对在编护士采取抽样研究的许可，并把问卷发给实验范围内的护士，填完后收回。护士对所在医院进行评价，最后我们统计结果，评价医院护理水平。
+　　我们调查的内容包括护士等级评定，护士工作环境以及病人恢复状况。其中护士等级的评定是通过收集病人的恢复情况总结的护理报告来进行。为保持可靠度，要求调查对象选择每个医院的10名或多名护士。人员等级测量已经重复确定可以预测护理成果和病人恢复效果，这种测量比管理性数据优越，因为数据是由护士护理住院病人直接提供。
+　　护士工作环境用相关环境量表（PES-NWI）来测量。病人恢复状况数据从病人出院数据库中提取。我们限制调查的病人年龄在18～60岁，普通手术、外科整形或心血管外科手术的病人。手术患者能广泛的代表一般急重症护理医院的情况，排除自动出院的患者。测量结果包括住院病人30天内死亡和救治失败的，定义为患者死于手术并发症。
+　　2.数据分析
+　　经过描述性分析，我们用逻辑回归模型去检验磁性护理模式和病人恢复效果之间的联系，调整了病人特点和医院因素之间的差异，我们检验了可以被护理因素解释的磁性护理模式影响程度。   　　为了总结每所医院的护理组织的结构特点，我们用逻辑回归创造了一个变量，去估计在护理特征的基础上一所医院成为磁性医院的可能性。变量模型包括在磁性医院更容易发现的护理特征，护患比率较高，工作环境较好，本科实习生的比例较高，更高资历的护士比率，护士出国留学率、后备护士比例、男护士比例以及护理人员平均年龄和平均工龄之间关系的变量。
+　　3.结果
+　　3.1工作?h境对比
+　　磁性医院的工作环境明显更好（环境调查表得出的磁性医院和非磁性医院的对比分数是2.86和2.66[p<0.001]）。
+　　磁性医院和非磁性医院相比，有明显更高比例的护理学士（0.40：0.36；p<0.03），更低的后备补充护理人员比例（0.39：0.51；p<0.03），护士配备情况更好一些（4.82：5.03每个护士配备的病人；p=0.056）。
+　　3.2死亡率对比
+　　磁性医院和非磁性医院的手术病人中，分别有1.5%和1.8%在30天内死亡（p<0.001），分别有3.8%和4.6%的人死于并发症（p<0.001）。很明显，磁性医院的概率更低一些。
+　　4.讨论
+　　我们发现磁性医院和非磁性医院相比，手术后病人死亡率较低，手术失败率也较低。多年来，越来越多的证据表明，护理模式对患者恢复情况有很大影响。磁性护理模式的意义不仅对患者有利，而且提高护士工作环境安全，为护士提供更保障的工作背景。目前，我国仅提出并启动了针对我国目前医疗状况的优质护理服务，而没有针对护理工作环境的评价体系和标准，因此磁性护理模式下构建的磁性医院认证体系对我国构建健康护理工作环境十分必须。
+　　基于我国护士工作的特殊性，时间长，要求高，因此充分调动护士的主观能动性，创造工作自主的氛围，提高护士对工作的满意度，于我国护理事业是一重大发展。不仅改变传统护士对自身工作价值的认可，也改变患者以及家属对护士工作的认识。磁性护理模式不断吸引护理人才，扩宽职业生涯，并且在加强后勤支持与临床各部门协调工作起到重要作用。目前的优质护理在各科室人员配置上欠缺合理，因此增加各科室护理人员配备将更有利于完善病人管理，提高病人的主观能动性。
+　　5.结束语
+　　磁性护理模式一直在演示更好的成果，在这种情况下，会有更低的手术死亡率和救治失败率。有较高学历的护士，以及提供优质护理在磁性护理模式中占有重要的部分。
+
+

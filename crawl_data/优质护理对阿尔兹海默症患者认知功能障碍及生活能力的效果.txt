@@ -1,0 +1,32 @@
+
+ 　　[摘要] 目的 探?优质护理在阿尔兹海默症患者中的应用价值及对患者认知功能障碍和生活能力的改善效果。 方法 选取2015年1月～2016年12月在哈尔滨医大学附属第四医院门诊部就诊的阿尔兹海默症患者200例作为研究对象，按照数字表法随机分为观察组和对照组，每组各100例。对照组给予常规护理模式，观察组给予优质护理干预。采用简易精神状态检查表（MMSE）、蒙特利尔认知评估量表（MoCA）、阿尔茨海默病认知功能评定量表（ADAS-cog）、阿尔茨海默病协作研究日常能力量表（ADCS-ADL）对两组患者的认知功能和生活能力进行评价。 结果 护理前两组患者MMSE、MoCA、ADAS-cog及ADCS-ADL评分比较，差异无统计学意义（P > 0.05）。护理后3、6个月观察组MMSE、MoCA、ADCS-ADL评分均明显高于对照组，ADAS-cog评分低于对照组，差异均有统计学意义（均P < 0.05）。 结论 优质护理能够有效改善阿尔兹海默症患者的认知功能障碍和日常生活能力，有助于提高患者的独立生活能力，减轻家庭负担，值得在临床中推广使用。
+　　[中图分类号] R473.5 [文献标识码] A [文章编号] 1673-7210（2018）02（a）-0156-04
+　　The effect of quality nursing on cognitive dysfunction and life ability of alzheimer′s patients
+　　MA Yan1 LIN Wei1 ZHANG Minghui2 WANG Pengjun2
+　　1.Outpatient Department， the Fourth Affiliated Hospital of Harbin Medical University， Heilongjiang Province， Harbin 150001， China； 2. the Second Department of Neurology， the Fourth Affiliated Hospital of Harbin Medical University， Heilongjiang Province， Harbin 150001， China
+　　[Abstract] Objective To explore the application value of quality nursing in patients with Alzheimer′s disease and the improvement in cognitive dysfunction and living ability. Methods From January 2015 to December 2016， 200 patients with Alzheimer′s disease in the Outpatient Department， the Fourth Affiliated Hospital of Harbin Medical University were selected and divided into the observation group and the control group by random number table， with 100 cases in each group. The control group was given routine nursing mode and the observation group was given high quality nursing intervention. The mini-mental state examination （MMSE）， Montreal cognitive assessment scale （MoCA）， Alzheimer′s disease assessment scale （ADAS-cog）， Alzheimer′s disease cooperative study ADL （ADCS-ADL） were applied to evaluate the cognitive function and the living ability in the two groups. Results Before nursing， there were no statistically significant differences in the scores of MMSE， MoCA， ADAS-cog and ADCS-ADL （P > 0.05）. After nursing of 3 month and 6 month， the scores of MMSE， MoCA and ADCS-ADL in the observation group were all significantly higher than those of control group， the scores of ADAS-cog was lower than that of control group， with statistically significant differences （all P < 0.05）. Conclusion Quality nursing can improve the cognitive function and daily living ability of Alzheimer′s patients. It can improve the independent living ability and reduce the burden of family. It is worthy of promotion and application.   　　[Key words] Quality care； Alzheimer′s disease； Cognitive dysfunction； Living ability
+　　阿尔兹海默症是一种神经退行性疾病，主要表现为进行式、不可逆性的记忆损失以及认知功能障碍，是老年人群常见的疾病[1]。2016年WHO数据报告指出，我国每年约有75万新增阿尔兹海默症患者，且随着人口老龄化趋势的增加，该数字还会持续增长。该病的出现对于患者的正常生活与社交造成了严重的影响，目前临床对于该病的发生原因和发病机制尚未清晰，因此存在较大的治疗难度。目前主要采用药物治疗法，但效果不佳，需要采用其他的方式来提高患者的认知能力和生活能力[2]。优质护理干预主要是通过全方面的干预措施来改善患者的认知能力和生活能力，从而减轻家庭的负担。因此文章主要针对优质护理在阿尔兹海默症患者中的应用价值及对患者认知功能障碍和生活能力的改善效果展开分析。报道如下：
+　　1 资料与方法
+　　1.1 一般资料
+　　选择2015年1月～2016年12月哈尔滨医大学附属第四医院（以下简称 “我院”）门诊部就诊的阿尔兹海默症患者200例作为研究对象，按照随机数字表法分为观察组和对照组，每组各100例。其中观察组男56例，女44例；年龄58～75岁，平均（65.8±7.6）岁。对照组男52例，女48例；年龄59～76岁，平均（66.3±7.2）岁。本研究经我院医学伦理委员会审批。纳入标准：①符合《中国精神障碍分类与诊断标准第三版（精神障碍分类）》中诊断标准[3]；②能够在缺少他人辅助帮助下自主参加听说活动，同时具备着一定的语言交流能力；③患者及家属均对本研究知情同意并自愿签署知情同意书。排除合并其他心脑血管、肝、肾等器质性疾病者及严重代偿性疾病者。
+　　1.2 方法
+　　对照组采用常规护理模式，主要包括基础护理、用药护理、饮食指导以及认知训练等措施。
+　　观察组采用优质护理干预。具体措施如下：①心理护理。患者入院后由于缺失记忆会感到非常无助，加上陌生环境的影响，会出现焦虑、抑郁、担忧、害怕等消极情绪，因此，护理人员要耐心为患者解释原因，并为其讲解阿尔兹海默症相关知识，从而改善患者对该病的认知水平，同时能够保障患者配合临床护理措施，进而提高护理的有效性[4-5]。②日常能力训练。指导患者进行日常生活活动的训练，包括如何刷牙、洗脸以及穿衣服，指导患者如何用筷子，告知患者大小便的方法，将相应的练习方案与步骤写下来，放在患者床头位置，以便患者观看随时[5]。③记忆力训练。训练患者的运动能力、视觉能力和听觉能力，反复为其解说日常生活的技巧和知识，并让其看文字卡片、动物卡片以及水果卡片，然后随机抽出一张让患者说出其名字和相关知识，也可以通过让其进行简单的加减计算题进行解答，并通过其对各种常见几何图形的辨认来提高患者的图形辨识能力[6-7]。④定向力训练。定向力主要包括地点、时间以及人物3个方面。将醒目和容易理解的标识安放在患者病房内，放入其熟悉的物品中，通过让其反复练习，使其掌握厕所、病房的位置；反复讲解日常护理工作人员的姓名，并要求患者记忆各种生活基本常识；可以利用小黑板，每天编写不同的知识，告诉患者所在病房、天气、时间，训练其定向力[8]。⑤注意力训练。可以通过简单棋牌类，例如21点、斗地主、空当接龙等游戏，训练患者的注意力，还可以通过打麻将提高患者的计算能力，同时给予患者多种多样的报纸、画片，并选择高乐积木提高患者的动手能力。⑥记忆疗法。与家属进行充分沟通，让家属多陪伴患者，找出患者年轻时熟悉尤其是宝贵的物品，然后通过照片、衣物以及喜欢的音乐，帮助患者回忆起过去的事情，从而寻找丢失的记忆[9]。⑦推理能力与语言能力的训练。通过简单成语的讲解，让患者重复故事并讲出自己对故事的理解，告知患者我国传统节日的来历并让患者重复，引导其阅读故事或报纸[10]。⑧社交能力训练。带患者到室外散步，多与其他人沟通交流，让患者辨认动物、草木，利用周围事物，刺激患者的神经。鼓励亲朋好友探访，加强与他人的沟通，促进患者恢复正常的社交能力[11]。
+　　1.3 观察指标
+　　①采用简易精神状态检查表（MMSE）评估患者的认知功能：总分30分，27～30分为正常水平，<27分为认知功能障碍，其中21～<27分为轻度认知障碍；10～<21分为中度认知障碍，<10分为重度认知障碍。②蒙特利尔认知评估量表（MoCA）：包括注意与集中、执行功能、语言、视空间技能、抽象思维、计算和定向力。总分30分，受教育年限≤12年则加1分，≥26分为正常。③阿尔茨海默病?J知功能评定量表（ADAS-cog）：ADAS-cog评分共12个条目，主要包括回忆、命名、执行指令、结构性练习、意向性练习、定向力、词语辨认、回忆测验指令、口头语言表达能力、找词能力、语言理解能力和注意力。评分0～75分，分数越高，认知功能障碍越严重。④阿尔茨海默病协作研究日常能力量表（ADCS-ADL）：评估患者的基本和操作性日常生活能力，包括19个问题，总分0～54分，0分代表日常生活能力晚期丧失，54分代表可以独立完成各种日常活动。分数越高，生活能力越好。
+　　比较两组护理前、护理后3个月及护理后6个月上述量表得分情况。
+　　1.4统计学方法
+　　采用SPSS 16.0对所得数据进行统计学分析，计量资料采用均数±标准差（x±s）表示，组间比较采用t检验，计数资料采用百分率表示，组间比较采用χ2检验。以P < 0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组护理前后MMSE评分比较
+　　护理前两组患者MMSE评分比较，差异无统计学意义（P > 0.05）。护理后3、6个月观察组MMSE评分均明显高于对照组，差异均有统计学意义（P < 0.05）。见表1。   　　2.2 两组护理前后MoCA评分比较
+　　护理前两组患者MoCA评分比较，差异无统计学意义（P > 0.05）。护理后3、6个月观察组MoCA评分均明显高于对照组，差异均有统计学意义（P < 0.05）。见表2。
+　　2.3 两组护理前后ADAS-cog评分
+　　护理前两组患者ADAS-cog评分比较，差异无统计学意义（P > 0.05）。护理后3、6个月观察组ADAS-cog评分均明显低于对照组，差异均有统计学意义（P < 0.05）。见表3。
+　　2.4两组患者护理前后ADAS-ADL评分
+　　护理前两组患者ADAS-ADL评分比较，差异无统计学意义（P > 0.05）。护理后3、6个月观察组ADAS-ADL评分均明显高于对照组，差异均有统计学意义（P < 0.05）。见表4。
+　　3 ?论
+　　阿尔兹海默症的发病较为隐匿，绝大多数患者表现为记忆力快速减退且无法恢复，在此种情况下即便给予药物治疗，也只能对症状进行一定的控制，无法获得良好的治疗效果及预后，这就需要在实施有效治疗方法的同时配合给予护理干预，从根本上提高患者的认知能力和生活能力，在改善自身生活质量的同时减少对家庭造成的负担[12]。另外，有研究报道指出，由于部分阿尔兹海默症患者缺失了一定程度的记忆，加之缺少对住院环境的熟悉感，取而代之的是出现了一定程度的陌生感，则容易引起并加重焦虑及抑郁等情绪。此类不良情绪可引起机体分泌出不同的有毒有害物质及因子，引起并加重身体的应激反应，表现为不同程度的心跳加速、血压升高等[13]。为此，我院开始实施在常规护理的基础上实施优质护理，加强患者各个方面的心理护理，深入其内心了解真正所需，让其正确认识疾病并发症的发生及发展，使其认识到配合有效治疗之后可以有效控制病情。另外，同时需要加强对患者的健康指导，提高其对治疗及护理相关操作的正确认知[14]。此外，叮嘱家属多陪伴、安慰患者，从而改善患者的心理状况。护理人员需要为患者仔细讲解药物的效果和不良反应以及注意事项。护理人员在患者服药之后要密切观察其有无腹疼、出血等现象发生，一旦出现异常情况，立即通知医师并采取对应的干预措施[15]。在护理过程中还可以通过开展各种训练活动，例如剪纸、绘画、书法活动，提高患者的认知能力以及肢体的协调性[16]。让家属每天给患者讲故事，内容不要过于难懂，语速要慢，让患者重复故事内容，然后为其讲解故事的内涵，提高其理解能力和表述能力。每天进行30 min的记忆训练，例如重复患者自己的姓名、病房、家庭成员姓名等信息[17]。为患者家属讲解各种能力的训练方法以及注意事项，告知功能训练的方法和优势，让其认识到这些训练能够提高患者的认知水平、减少用药量，从而提高患者的独立生活能力，能够减少认知功能障碍对患者生活能力的影响[18]。将相关资料整理、收集并印制成册，放在患者病房以供患者及其家属翻阅，有助于患者和家属了解功能训练的优势和具体操作，从而提高临床护理的依从性[19]。对于未掌握使用方法的患者，可以在讲解过程中利用工具和图片进行示范操作，手把手地指导各种训练的操作方法。另外，可以将相关理论和技巧录制成视频以供家属反复观看，提高患者的训练水平[20]。
+　　本研究中，护理前两组各项评分均无统计学意义，而护理后两组各指标比较，差异均有统计学意义（P < 0.05），且观察组护理后各指标评分均优于对照组，提示优质护理能够有效改善阿尔兹海默症患者的认知功能障碍和日常生活能力，有助于提高患者的独立生活能力，减轻家庭负担，值得在临床中推广使用。
+
+

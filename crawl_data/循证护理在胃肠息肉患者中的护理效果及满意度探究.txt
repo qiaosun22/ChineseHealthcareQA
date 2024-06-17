@@ -1,0 +1,31 @@
+
+　　【摘要】 目的：研究循证护理在治疗胃肠息肉患者中的护理效果及护理满意度。方法：将在笔者所在医院治疗的198例胃肠息肉患者分为观察组与对照组，两组患者由同一治疗团队给予内镜下息肉摘除术，分别给予循证护理和常规护理，统计不同护理方法的护理效果和护理满意度，分析临床特征及其护理有效性。结果：采用循证护理的观察组99例患者中，完全切除93例，占93.94%，部分切除6例，占6.06%，手术成功率100%，患者护理满意度为96.97%；采用常规护理的对照组99例患者中，完全切除62例，占比62.63%，部分切35例，占35.35%，手术成功率97.98%，患者护理满意度为79.48%。两组患者护理效果和护理满意度比较差异均有统计学意义（P<0.05）。结论：对于胃肠息肉患者实施循证护理能有效提高患者手术成功率、护理效果和护理满意度，减少患者痛苦，提高耐受性，值得推广借鉴。
+　　中图分类号 R473.6 文献标识码 B 文章编号 1674-6805（2014）26-0098-03
+　　【Abstract】 Objective：To investigate the study of nursing efficacy and nursing satisfaction of evidence-based nursing in the treatment of alimentary tract polyps.Method：198 patients with alimentary tract polyps were divided into two groups. The observation group was treated with evidence-based nursing，the control group was treated with usual care.Both of them accepted the same radio therapy.The curative effect of two groups was compared. Result：99 patients of the observation group treated by evidence-based nursing， there were 93 cases complete resection， the rate was 93.94%，there were 6 cases part resection，the rate was 6.06%.The achievement ratio of operation was 100%，the patients’care satisfaction was 97.43%. 99 patients of the control group treated by tradition nursing， there were 62 cases complete resection，the rate was 62.63%，there were 35 cases part resection，the rate was 35.35%. The achievement ratio of operation was 97.98%，the patients’ care satisfaction was 79.48%. The nursing efficacy and nursing satisfaction of two groups had statistically significant（P<0.05）.Conclusion： The evidence-based nursing can improve the success rate， nursing efficacy，nursing satisfaction of gastrointestinal polyposis patients， reduce pain for patients， improve tolerance， which is worthy of promotion.
+　　【Key words】 Alimentary tract polyps； Evidence-based nursing； Nursing efficacy； Nursing satisfaction
+　　First-author’s address： The Second Clinical Medical College Jinan University，Shenzhen 518020，China
+　　“息肉”一词源于黄帝内经，目前临床一般将赘生于人体黏膜表面的多余肿物称为息肉。人体诸多正常组织上均可能生长息肉，其一般生长较为隐蔽难以发现，大多数并无不良影响，但少部分也存在恶性病变的可能性。胃部息肉多为胃黏膜上皮组织向内隆起赘生形成，肠道息肉多见于结肠和直肠，由上皮细胞增生肥厚引起[1-2]。为了避免可能引起的恶性病变，一般对胃肠息肉采用内镜下息肉摘除术予以处理，由于操作器械和手术方式的限制，可能对患者带来一定的痛苦和预后影响[3]。如何通过护理的方法弥补治疗手段的不足，最大限度提高患者的治疗效果和护理满意度逐渐成为了临床研究的热点。本文对胃肠息肉患者实施循证护理的效果及患者满意度进行比较，现报告如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　本研究选择在笔者所在医院治疗的198例胃肠息肉患者作为观察对象，胃部息肉124例，肠道息肉74例（其中直肠息肉40例，结肠息肉34例）。男112例，女86例，平均年龄（51.6±8.34）岁。患者鲜有不适症状，胃部息肉由胃镜检查发现，肠道息肉由电子结肠镜检查发现，所有患者由笔者所在医院消化内镜中心有经验的内镜医师行常规内镜检查，发现可疑病变者行NBI电子染色检查，初步评估病变性质，并行活检和病理组织学检查确诊。将其按照随机数字表法分为观察组和对照组，每组99例。两组患者性别、年龄等一般资料比较差异均无统计学意义（P>0.05），具有可比性。   　　1.2 方法
+　　两组患者均由同一治疗团队实施内镜下息肉摘除术，观察组由A组实施循证护理，对照组由B组实施常规护理。
+　　手术方法：术前准备后，观察患者病灶，用针状刀或氢气标记。应用注射针给予甘油果糖与靛胭脂混合液进行多点黏膜下注射，每点1～2 ml，直至黏膜下层充分分离。应用IT刀或钩刀沿预切开处对病变进行黏膜下层剥离，当遇到血管，应用止血钳进行灼烧，直至将病灶完全剥离。剥离过程中酌情追加黏膜下注射液，保持黏膜隆起。应用氢气或止血钳处理创面上的出血点。用五爪钳将标本取出，将标本平铺并用大头针固定以明确标本切缘后将标本泡入福尔马林液中，送至病理科进行组织病理学分析，判断良恶性后进行后续处理[4-6]。
+　　1.3 观察指标
+　　本次观察从护理效果和患者满意度两个方面评价不同护理方法对于胃肠息肉患者的临床有效性，具体包括息肉摘除术效果、护理效果统计和护理满意度统计。
+　　1.4 统计学处理
+　　采用SPSS 11.0软件对所得数据进行统计分析，计量资料用均数±标准差（x±s）表示，比较采用t检验；计数资料以率（%）表示，比较采用字2检验。P<0.05为差异有统计学意义。
+　　2.3 两组护理满意情况
+　　观察期结束后，观察人员对观察组和对照组患者护理效果的满意情况进行了分项统计，详见表3。观察组在时间安排、操作熟练程度、并发症处理、信心、教育程度方面的满意度均优于对照组，两组比较差异有统计学意义（P<0.05）。
+　　3 讨论
+　　胃肠息肉一般为良性，摘除后对患者身体健康无不良影响，但患者确诊后多担心其为恶性肿瘤，加之内镜摘除术存在一定的痛苦，增加了其心理焦虑[7-8]。本次观察中，护理人员对观察组患者实施循证护理，具体如下。
+　　3.1 循证问题
+　　患者确诊后，精神情绪会受到干扰，容易产生不良心理反应。尤其是同时并发其他疾病的患者，容易产生恐惧心理和抵触情绪，不利于治疗的进行[9-10]。因此，手术前，观察人员要向患者讲解胃肠息肉的发病机制，介绍内镜下息肉摘除术的流程和优势，消除患者对自身疾病和手术的疑虑。
+　　3.2 循证观察
+　　入院后，应对胃肠息肉患者的生理和心理常规项目进行全面检查，尤其应关注患者是否伴发其他身体重要脏器的并发症。伴发高血压症状的患者务必进行降压治疗，同时告诫患者禁烟禁酒，多食用富含膳食纤维的食品，同时要在术前注意休息和睡眠[11]。
+　　3.3 循证支持
+　　保持手术室的洁净，适当调高空调温度，注意对患者保暖。对患者的护理和心律进行监护，准备好手术设备、抢救设备和护理设备。要特别注意患者的疾病史和过敏史，同时备好急救药物以备不时之需。手术进行中，要对患者的生命体征进行检测，并及时向手术医师报告。
+　　3.4 循证应用
+　　术后患者应卧床休息，术后1 d禁食，一周内可给予流质食物，并逐步向半流质过渡。注意观察患者术后的排便情况，尤其要注意有无便血、黑便和发热等异常症状。胃部息肉患者应适当给予抗胃酸和保护胃黏膜的药物，防止胃酸对伤口的侵蚀。由于胃肠息肉存在反复发作的可能性，患者在术后2～3年内应进行复检[12]。
+　　本研究结果显示，给予循证护理的观察组患者的手术成功率更高，护理效果更好，患者及其家属对治疗和护理的满意度也较高，可见采用循证护理对于胃肠息肉摘除术患者具有显著的临床优势。
+
+

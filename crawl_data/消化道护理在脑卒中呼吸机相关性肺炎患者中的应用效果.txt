@@ -1,0 +1,33 @@
+
+ 　　[摘要] 目的 研究消化道护理在脑卒中呼吸机相关性肺炎患者中的应用效果。 方法 选取2012年2月～2014年1月来我院治疗的脑卒中患者60例，按照入院先后顺序将其分成A、B两组。其中2012年2月～2013年1月接受治疗的30例患者作为A组，采取常规的护理方案；2013年2月～2014年1月接受治疗的30例患者作为B组，在常规的护理模式上加强消化道护理。评价分析A、B两组患者的护理效果。 结果 相对于A组，B组患者在机械通气时间、住院时间上显著缩短，在VAP的发生率、病死率上显著降低，差异具有统计学意义（P<0.05）；相对于A组，B组患者在护理满意度、日常生活能力（ADL）评分上表现出显著的优势，差异具有统计学意义（P<0.05）。 结论 对于脑卒中患者，采取加强消化道护理的方案，能够有效缩短患者的机械通气时间与住院时间，降低患者的VAP发生率与病死率，改善患者的精神状态，提高患者的日常生活能力。
+　　[中图分类号] R472.9 [文献标识码] A [文章编号] 2095-0616（2017）09-100-03
+　　Application effect of digestive tract nursing in stroke patients with ventilator-associated pneumonia
+　　ZHANG Jie ZHAO Xinxin HE Ying WANG Xiujie
+　　Digestive Internal Medicine，Hongqi Hospital Affiliated to Mudanjiang Medical University，Mudanjiang 157000，China
+　　[Abstract] Objective To study the application efficacy of digestive tract nursing in stroke with ventilator-associated pneumonia. Methods 60 cases with stroke from February 2012 to January 2014 in our hospital were selected and divided into group A and group B.Among them，30 cases in group A from February 2012 to January 2013 in January received routine nursing；30 cases in group B from February 2013 to January 2014 received digestive tract nursing bases on routine nursing.Nursing effect of two groups were analyzed. Results Compared with the group A，mechanical ventilation and duration of hospitalization of group B were significantly shorter，VAP rate and mortality wre lowt，and the difference was statistically significant （P<0.05）；Compared with group A，nursing satisfaction，ability of daily life（ADL） scores of group B were higher，and the difference was statistically significant（P<0.05）. Conclusion For patients with stroke，digestive tract nursing can effectively shorten the mechanical ventilation time and hospitalization time， reduce the incidence of VAP and mortality，improve patient’s mental state，and improve the daily living ability of the patients.
+　　[Key words] Stroke；Ventilator；pneumonia；Digestive tract nursing；Mechanical ventilation
+　　目前消化道反流被认为是导致呼吸机相关性肺炎（VAP）主要原因之一[1]，该病的发生概率大，且具有较高的危险性和死亡率[2]。VAP指机械通气48h以上或者脱机48h以内出现的细菌性肺部感染[3]。机械通气是一种侵袭性操作，直接破坏了人的天然气道防御屏障，使细菌沿下呼吸道蔓延病定植于肺部，从而导致VAP的发生[4]。VAP是常见的院内感染之一，该病在接受呼吸机辅助通气患者中的发病率中约占23%[5]。本研究选取2012年2月～2014年1月来我院治疗的脑卒中患者60例
+　　进行消化道护理对预防呼吸机相关性肺炎的研究，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2012年2月～2014年1月来我院治疗的脑卒中患者60例，按照入院先后顺序将其分成A、B两组。其中，A组为2012年2月～2013年1月的患者30例，男17例，女13例，平均年龄为（72.5±11.8）岁；B组为2013年2月～2014年1月的患者30例，男18例，女12例，平均年龄为（71.1±12.3）岁。所有患者均符合全国第四届脑   　　血管病学术会议制定的脑卒中诊断标准，排除伴有癌症、精神病以及心、肝、肺等方面有严重疾病的患者。A、B两组患者的性别、年龄等一般资料比较差异无统计学意义（P>0.05），具有可比性。见表1。
+　　1.2 研究方法
+　　A组患者在进行呼吸机通气后采取常规的护理方案；B组患者在进行呼吸机通气后采取在常规的护理模式上加强消化道护理的方案。B组具体方案如下：（1）加强口腔护理：观察口腔有无溃疡、出血、霉菌感染等，特别要注意双颊部与口咽部，一旦发现问题，要及时地采取有效的措施进行处理。同时，采用机械性口腔护理干预与药物性口腔护理干预相结合的护理方法。（2）消化道去污染护理：采用30°～45°卧位引流与药物相结合的方法，A.莫沙必利5mg/次、多黏菌素E 100mg/次，均由鼻胃管每8h注入一次；B.二性霉素B 10mg/100mL蒸馏水，每8h取适量喷涂于患者鼻咽部。（3）维持消化道正常动力的护理，给予患者腹部按摩，并采用低频率电流刺激，从而促进胃肠的蠕动，将电流值调到腓肠肌稍有轻微的震颤感。评价分析A、B两组患者的护理效果。
+　　1.3 评价指标
+　　1.3.1 VAP诊断标准[6] （1）使用呼吸机通气超过48h。（2）在X线胸片中出现新的或进行性增大的肺部浸润性阴影。（3）具备下列条件之一：A.肺部实变体征或肺部湿性??音；B.白细胞总数<4×109/L或>10×109/L；C.发热；D.呼吸道内有脓性分泌物；E.从分泌物中培养出新的病原菌。
+　　1.3.2 ADL评分 采用日常生活能力量表（ADL）对患者的进行评定，满分100分，分值越高，说明患者的神经系统功能越健全，日常生活能力越强。
+　　1.3.3 护理满意度 从护理方案、护理实施情况以及患者在护理过程中的感受等方面评价患者对护理的满意度，分为不满意，一般，满意，非常满意，满意度=满意与非常满意的人数占总人数的百分比。
+　　1.4 统计学处理
+　　采用SPSS15.0软件进行数据处理，计量资料以（）表示，采用t检验，计数资料以百分比表示，采用χ2检验，P<0.05为差异有统计学意?x。
+　　2 结果
+　　2.1 两组患者机械通气时间、住院时间、VAP发生率与病死率比较
+　　统计两组患者的机械通气时间、住院时间、VAP发生率与病死率，并进行分析比较。相对A组，B组患者在机械通气时间、住院时间上显著缩短，在VAP的发生率、病死率上显著降低，差异具有统计学意义（P<0.05）。见表2。
+　　2.2 两组患者的护理满意度与日常生活能力（ADL）评分的比较
+　　出院时对两组患者进行护理满意度调查，术后10周对两组患者进行日常生活能力（ADL）评分，并进行比较分析。相对A组，B组患者在护理满意度与日常生活能力（ADL）评分上表现出明显的优势，差异具有统计学意义（P<0.05）。见表3。
+　　3 讨论
+　　超过10%的急性脑卒中患者需要进行重症监护，极易出现多种并发症，最终甚至会导致死亡。呼吸机能够有效地改善患者肺通气功能，提高患者肺内通气量，但其更易使患者产生肺炎（呼吸机相关性肺炎）[7]。在机械通气过程中进行密闭式吸痰，这样吸痰过程中呼吸机仍然持续的送气，从而可以保持足够的肺功能残气量，防止低氧血症的发生[8]。有研究表明，将选择性消化道去污染（SDD）方案应用于重症脑出血患者的机械通气，在预防呼吸机相关性肺炎方面取得了一定的疗效[9]。目前，随着医疗科技的发展与进步，对脑卒中患者进行相关各项护理的水平也正逐步提升。其中，进行消化道护理在降低其呼吸机相关性肺炎发生的研究也越来越多。抑酸类药物可以使患者胃内酸碱度升高，从而无法起到限制消化道内定植菌与杀灭消化道内细菌的作用，进而可能诱发呼吸机相关性肺炎的发生[10]。
+　　研究显示，呼吸机相关性肺炎的绝大多数致病菌为消化道的正常寄生菌，以革兰阴性菌为主，包括肺炎克雷伯杆菌、阴沟肠杆菌、大肠埃希菌、铜绿假单胞菌等。所以，开展消化道去污染护理与口腔护理就非常有必要。有研究表明通过抬高床头30°～45°，可以控制胃-肺反流，从而有效降低VAP的发生率[11]。同时有研究显示，在常规护理的基础上进一步加强消化道护理干预，能够有效的降低VAP的发生率，从而降低患者的机械通气时间与病死率[12]。患者的机械通气时间与病死率是VAP的下游效果[13]。进行口腔护理不仅是为了患者的口腔健康与生理舒适，更重要的是为了减少VAP的发生[14]。有研究显示，口腔护、口腔消毒剂、选择性口咽去污染等方法能够有效降低口腔致病微生物的浓度，从而降低VAP的发生率[15]。
+　　本研究统计两组患者的机械通气时间、住院时间、VAP发生率与病死率，并进行分析比较。结果显示B组患者在机械通气时间、住院时间上明显比A组短，在VAP的发生率、病死率上明显比A组低，即采取消化道护理的B组通气时间由（237±46）h缩短至（169±34）h，住院时间缩短约8d，VAP的发生率降低10%，死亡率降低13.3%。提示消化道护理有助于降低脑卒中呼吸机相关性肺炎患者的机械通气时间、住院时间以及VAP发生率与病死率。出院时对两组患者进行护理满意度调查，术后10周对两组患者进行日常生活能力（ADL）评分，并进行比较分析。相对A组，B组患者在护理满意度与日常生活能力（ADL）评分上表现出明显的优势，差异具有统计学意义（P<0.05）。
+　　综上所述，本研究进一步证实了对于脑卒中患者，采取加强消化道护理的方案，能够有效的缩短患者的机械通气时间与住院时间，降低患者的VAP发生率与病死率，改善患者的精神状态，提高患者的日常生活能力，值得在临床上推广使用。
+
+

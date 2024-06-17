@@ -1,0 +1,24 @@
+
+ 　　【摘要】 目的：研究讨论在医院急诊护理管理中实施全面流程管理的临床效果。方法：选择2014年7月-2015年7月于笔者所在医院急诊科就诊的患者186例作为常规组，按照传统常规护理方式开展；再选择2015年8月-2016年8月于笔者所在医院急诊科就诊的患者186例作为研究组，实施全面流程管理。统计分析医院急诊科实施全面流程管理前后的工作效率及医师、护理人员、两组患者对急诊科护理工作的满意情况，并将统计分析的两组数据进行组间对比。结果：根据对比结果显示，实施全面流程管理前急诊科护理工作工作效率显著低于实施全面流程管理后的工作效率，差异有统计学意义（P<0.05）；并且实施全面流程管理前医师、护理人员、患者整体护理满意率均低于实施全面流程管理后护理满意率，差异有统计学意义（P<0.05）。结论：在医院急诊护理管理中实施全面流程管理不仅能够提高急诊科护理管理的工作效率，并且能够有效提高患者对医院急诊护理管理工作的满意度，值得临床推广与应用。
+　　doi：10.14033/j.cnki.cfmr.2017.13.035 文献标识码 B 文章编号 1674-6805（2017）13-0071-02
+　　【Abstract】 Objective：To study the clinical effect of implementing comprehensive process management in hospital emergency nursing management.Method：From July 2014 to July 2015 in the emergency department of our hospital，186 patients as control group during the period of the study，the nursing management of emergency department in accordance with the traditional routine care was carried out；and then chose from August 2015 to August 2016 in the emergency department of our hospital 186 cases of patients as the study group during the period of this research，implementation of comprehensive process management in emergency nursing management in our hospital.Work efficiency，and the satisfaction of doctors，nurses and patients in the two groups were compared by data statistical analysis.Result：Nursing work efficiency before the implementation of comprehensive process management was significantly lower than that after the implementation of comprehensive process management（P<0.05）.And doctors，nurses，patients overall nursing satisfaction rate before the implementation of comprehensive process management were lower than those after the implementation of comprehensive process management（P<0.05）.Conclusion：The implementation of comprehensive process management in hospital emergency nursing management can not only improve the work efficiency，But also can effectively improve the patient support of nursing management in hospital emergency，worthy of clinical popularization and application.
+　　【Key words】 Emergency nursing management； Comprehensive process management； Clinical effect
+　　一般而言，?t院的急诊科由于每天接诊的患者较多，并且接诊的患者通常病情不同，其次急诊科接诊的患者病情往往十分严重，加之急诊科接诊的时间不确定性，而此一系列因素导致了急诊科的工作量大并繁琐，因此急诊科的急诊护理往往存在着较大的问题[1]。急诊护理管理是对医院急诊科护理进行全面管理的一种模式，但是以往的急诊护理管理却不能够对急诊科的护理做到全面管理，存在极大的疏忽，十分不利于患者于笔者所在医院就诊、登记等，因此医院急诊科需要选择一种新的护理管理方式[2]。就此，本文对笔者所在医院2015年8月-2016年8月期间实施全面流程管理的临床应用价值进行研究与分析，具体资料如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选择2014年7月-2015年7月于笔者所在医院急诊科就诊的患者186例作为常规组，常规组中男109例，女77例，年龄18～78岁，平均（46.0±2.2）岁；再选择2015年8月-2016年   　　8月于笔者所在医院急诊科就诊的患者186例作为研究组，研究组中男107例，女79例，年龄19～78岁，平均（45.8±2.3）岁。2014年7月-2016年8月笔者所在医院急诊科的医护人员及医疗器械等均未改变，其中医师20名，护理人员30名，病床80张。根据以上基础资料对比可知，两组患者性别、年龄等一般资料差异无统计学意义（P>0.05），具有可比性。
+　　1.2 方法
+　　常规组按照传统常规护理方式开展，主要对患者就诊时间、患病情况进行记录等。研究组实施全面流程管理，全面流程管理的主要内容如下：第一，对医院的急诊科的各个区域进行工作划分，对于普通患者划分一片绿色区域进行接诊登记；对于慢性患者则可以划分一片黄色区域进行接诊登记；对于急重患者则可以划分一片红色区域进行接诊登记；对于急危症患者则可以划分一片黑色区域进行接诊登记等。第二，可以根据患者的具体患病情况，按照重病、危病等优先就诊的原则进行接诊分类，但是在此之前急诊科应设立接诊窗口、患病情况评估窗口、病症类型分类窗口等，从而确保急诊科的接诊秩序、信息统计分类等。第三，对急诊科的信息进行全面管理，设立科学合理的信息管理流程。首先，急诊科接诊专业人员应对接诊患者的信息进行记录，记录内容应包括患者的患病情况、治疗情况等。其次，急诊科护理人员应对患者的出入院时间进行手写记录，然后输入至电脑保存。其次，急诊科护理人员应对急诊科的物品信息及其他信息进行分类统计等。
+　　1.3 观察指标
+　　统计分析医院急诊科实施全面流程管理前后的工作效率及医师、护理人员、两组患者对急诊科护理工作的满意情况，并将统计分析的两组数据进行组间对比。
+　　1.4 统计学处理
+　　本次研究运用SPSS 13.0数据包开展数据分析，计量资料以（x±s）表示，采用t检验，计数资料以率（%）表示，采用字2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 实施全面流程管理前后急诊科护理工作效率比较
+　　根据对比结果显示，实施全面流程管理前急诊科护理工作的工作效率显著低于实施全面流程管理后的工作效率，差异有统计学意义（P<0.05），见表1。
+　　2.2 两组观察对象护理满意情况比较
+　　根据对比结果显示，实施全面流程管理前医师、护理人员、常规组患者的整体护理满意率均低于实施全面流程管理后医师、护理人员、研究者患者的整体护理满意率，差异均有统计学意义（P<0.05），?表1。
+　　3 讨论
+　　通常情况下，医院急诊科接受的患者多为重伤、重症或病情危急患者，而急诊护理则是对急诊科接受的患者短时间内进行相关护理措施，有效控制患者病情的一种护理措施[3]。并且急诊科的急诊护理往往关系着患者的生命安全，是判断患者如何进行治疗的首要程序，因此急诊护理的综合能力与质量十分重要[4]。并且，急诊科也是医院医护风险率及护患纠纷率比较高的科室，因此提高医院急诊科的急诊护理工作效率迫在眉睫[5]。而在急诊科的护理管理中实施全面流程管理能够降低急诊科的护患纠纷，有效提高急诊科的工作效率[6]。根据本文对比结果显示，实施全面流程管理前急诊科护理工作的工作效率显著低于实施全面流程管理后的工作效率，差异有统计学意义（P<0.05）；并且实施全面流程管理前医师、护理人员、患者的整体护理满意率均低于实施全面流程管理后医师、护理人员、患者的整体护理满意率，差异有统计学意义（P<0.05）。由此可知，在医院急诊护理管理中实施全面流程管理不仅能够提高急诊科护理管理的工作效率，并且能够有效提高患者对医院急诊护理管理工作的支持，值得临床推广与应用。
+
+

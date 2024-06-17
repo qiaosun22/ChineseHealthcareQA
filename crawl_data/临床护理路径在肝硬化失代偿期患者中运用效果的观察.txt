@@ -1,0 +1,20 @@
+
+ 　　【摘要】 目的 探讨临床护理路径在肝硬化失代偿期患者中运用的效果。方法 90例肝硬化失代偿期患者， 随机分为实验组与对照组， 每组45例。观察组实施临床护理路径， 对照组实施常规护理；对两组患者采用护理服务满意度调查表、健康知识掌握调查表进行测评， 并统计两组患者的并发症发生情况。结果 观察组并发症发生率为4.4%明显低于对照组的24.4%（P<0.05）。观察组健康教育知识掌握为97.8%， 显著高于对照组的82.2%（P<0.05）。观察组满意度为100.0%高于对照组的82.2%（P<0.05）。
+　　结论 临床护理路径为肝硬化失代偿期患者提供了更有效的护理服务， 提高了患者满意度和健康知识掌握程度， 有助于减少并发症的发生。
+　　DOI：10.14163/j.cnki.11-5547/r.2016.22.148
+　　Observation of application effect by clinical nursing pathway in decompensated hepatic cirrhosis patients HE Zheng-ying， MA Yan， LIAO Xiu-hua. Guangdong Huizhou City Sixth People’s Hospital， Huizhou 516211， China
+　　【Abstract】 Objective To investigate application effect by clinical nursing pathway in decompensated hepatic cirrhosis patients. Methods A total of 90 decompensated hepatic cirrhosis patients were randomly divided into experimental group and control group， with 45 cases in each group. The observation group received clinical nursing pathway， and the control group received conventional nursing. Both groups received evaluation by nursing service satisfaction questionnaire and health knowledge questionnaire， and their complications were summarized. Results The observation group had obviously lower incidence of complications as 4.4% than 24.4% of the control group （P<0.05）. The observation group also had much higher health knowledge rate as 97.8% than 82.2% of the control group （P<0.05）. Satisfaction degree was higher in the observation group as 100.0% than 82.2% in the control group （P<0.05）. Conclusion Clinical nursing pathway provides much effective nursing service for decompensated hepatic cirrhosis patients. This method improves satisfaction and health knowledge in patients， and it is helpful to reduce complications.
+　　【Key words】 Clinical nursing pathway； Hepatic cirrhosis； Decompensated period
+　　近年来糖尿病已成为一种慢性流行性疾病， 2型糖尿病的发病率呈逐年上升趋势， 胰岛B细胞功能衰退是2型糖尿病的重要病理基础， 胰岛素分泌不足及胰岛素抵抗是其主要发病机制[1]。西格列汀为二基肽酶4抑制剂， 是一类新的降糖药物， 可保护胰岛细胞功能， 平稳降糖， 减少血糖漂移。观察了西格列汀联合格列喹酮治疗2型糖尿病的疗效， 进行了相关研究。现报告如下。
+　　1 资料与方法
+　　1. 1 一般资料 选择2011年5月～2015年5本院门诊及住院初诊为2型糖尿病患者80例， 其中男52例， 女38例；年龄45～65岁， 平均年龄53岁。诊断标准参照WHO1999年制定的2型糖尿病诊断标准。排除基础疾病以及心、脑血管并发症， 血压和肝、肾功能均在正常范围。
+　　1. 2 方法 所有患者经控制饮食及适度运动锻炼。A组口服西格列汀100 mg、1次/d；B组口服西格列汀100 mg、1次/d， 格列喹酮30 mg、3次/d。共治疗随访3个月， 观察两组患者治疗前后各项指标的变化情况， 记录治疗前及治疗后， 两组检测FPG、2 h PG、HbA1c等， 计算胰岛素抵抗指数（HOMA-IR）。治疗期间每周复查血糖， 并记录治疗期间的不良反应发生情况。
+　　1. 3 统计学方法 采用SPSS12.0统计学软件对数据进行统计分析。计量资料以均数±标准差（ x-±s）表示， 采用t检验；计数资料以率（%）表示， 采用χ2检验。P<0.05表示差异具有统计学意义。   　　2 结果
+　　A组治疗后， 患者FPG为（7.6±2.2）mmol/l、2 h PG为（8.0±1.7）mmol/l、HbA1c为（7.5±1.6）%；B组患者FPG为（6.5±2.6）mmol/l、2 h PG为（7.3±1.4）mmol/l、HbA1c为（6.2± 1.5）%；两组治疗后比较， 差异均有统计学意义（P<0.01）。两组患者未见低血糖发生。见表1。
+　　3 讨论
+　　格列喹酮为第二代磺脲类口服降血糖药， 早期治疗中以促进内源性胰岛素分泌为主， 治疗一段时间后其主要作用在于改善周围组织对胰岛素的敏感性。它是目前磺脲类口服降血糖药中唯一不受肾功能影响的药物， 所以可用于肾功能受损的糖尿病患者。其主要作用机制是①促进胰腺胰岛B细胞分泌胰岛素， 前提条件是胰岛B细胞还有一定的合成和分泌胰岛素的功能；②通过增加门静脉胰岛素水平或对肝脏直接作用， 抑制肝糖原分解和糖原异生作用， 肝生成和输出葡萄糖减少；③也可能增加胰外组织对胰岛素的敏感性和糖的利用， 这个功能可能主要通过受体作用来完成。
+　　西格列汀是一种高效二肽基肽酶-4抑制剂， 能改善胰岛素分泌指数和胰岛β细胞功能[2]， 控制体质量、有效降低HbA1c、控制血糖， 还可以延迟胃的排空时间， 使服药者长时间拥有饱腹感， 从而减少进食量， 服用过程中患者耐受良好并且不增加体重。西格列汀对缓解胰岛素抵抗与传统药物作用途径有所不同， 能有效改善肝脏、肌肉的胰岛素抵抗；与磺酰脲类药物相比， 虽都可增加胰岛素分泌， 但西格列汀葡萄糖依赖性降糖作用机制在体内血糖浓度正常或者较低时， 不易导致低血糖的发生[3]， 而磺脲类药物在正常受试者身上也表现出较强的降糖作用。虽然西格列汀、格列喹酮对总体血糖水平的降低作用基本相同， 但在FPG、2 h PG降低方面作用不同， 可能与两药作用机制不同有关。由于二肽基肽酶-4抑制剂独特的降糖机制， 其几乎可与包括磺脲类在内的其他降糖药物联合应用。有研究表明， 二肽基肽酶-4抑制剂与磺脲类药物联合治疗2型糖尿病的研究中， 两类药物联合应用大大提高了对2型糖尿病的临床治疗效果， 通过应用西格列汀联合格列喹酮治疗2型糖尿病进行了跟踪调查， 发现能有效地控制了空腹及餐后血糖。
+　　本文研究结果显示， 两组患者治疗后FPG、2 h PG、HbA1c差异均有统计学意义（P<0.01）。两组患者未见低血糖发生。
+　　综上所述， 西格列汀联合格列喹酮治疗2型糖尿病临床安全性较高， 为治疗2型糖尿病的有效方案；由于降糖机制的不同， 西格列汀联合格列喹酮通过优势互补对降低餐后血糖作用更为明显。
+
+

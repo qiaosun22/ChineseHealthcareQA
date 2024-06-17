@@ -1,0 +1,1680 @@
+2024/05/31 00:36:49 - mmengine - INFO - 
+------------------------------------------------------------
+System environment:
+    sys.platform: linux
+    Python: 3.10.14 (main, May  6 2024, 19:42:50) [GCC 11.2.0]
+    CUDA available: True
+    MUSA available: False
+    numpy_random_seed: 1186123018
+    GPU 0: NVIDIA A100-SXM4-80GB
+    CUDA_HOME: /mnt/petrelfs/share/cuda-11.8
+    NVCC: Cuda compilation tools, release 11.8, V11.8.89
+    GCC: gcc (GCC) 4.8.5 20150623 (Red Hat 4.8.5-44)
+    PyTorch: 2.3.0+cu121
+    PyTorch compiling details: PyTorch built with:
+  - GCC 9.3
+  - C++ Version: 201703
+  - Intel(R) oneAPI Math Kernel Library Version 2022.2-Product Build 20220804 for Intel(R) 64 architecture applications
+  - Intel(R) MKL-DNN v3.3.6 (Git Hash 86e6af5974177e513fd3fee58425e1063e7f1361)
+  - OpenMP 201511 (a.k.a. OpenMP 4.5)
+  - LAPACK is enabled (usually provided by MKL)
+  - NNPACK is enabled
+  - CPU capability usage: AVX512
+  - CUDA Runtime 12.1
+  - NVCC architecture flags: -gencode;arch=compute_50,code=sm_50;-gencode;arch=compute_60,code=sm_60;-gencode;arch=compute_70,code=sm_70;-gencode;arch=compute_75,code=sm_75;-gencode;arch=compute_80,code=sm_80;-gencode;arch=compute_86,code=sm_86;-gencode;arch=compute_90,code=sm_90
+  - CuDNN 8.9.2
+  - Magma 2.6.1
+  - Build settings: BLAS_INFO=mkl, BUILD_TYPE=Release, CUDA_VERSION=12.1, CUDNN_VERSION=8.9.2, CXX_COMPILER=/opt/rh/devtoolset-9/root/usr/bin/c++, CXX_FLAGS= -D_GLIBCXX_USE_CXX11_ABI=0 -fabi-version=11 -fvisibility-inlines-hidden -DUSE_PTHREADPOOL -DNDEBUG -DUSE_KINETO -DLIBKINETO_NOROCTRACER -DUSE_FBGEMM -DUSE_QNNPACK -DUSE_PYTORCH_QNNPACK -DUSE_XNNPACK -DSYMBOLICATE_MOBILE_DEBUG_HANDLE -O2 -fPIC -Wall -Wextra -Werror=return-type -Werror=non-virtual-dtor -Werror=bool-operation -Wnarrowing -Wno-missing-field-initializers -Wno-type-limits -Wno-array-bounds -Wno-unknown-pragmas -Wno-unused-parameter -Wno-unused-function -Wno-unused-result -Wno-strict-overflow -Wno-strict-aliasing -Wno-stringop-overflow -Wsuggest-override -Wno-psabi -Wno-error=pedantic -Wno-error=old-style-cast -Wno-missing-braces -fdiagnostics-color=always -faligned-new -Wno-unused-but-set-variable -Wno-maybe-uninitialized -fno-math-errno -fno-trapping-math -Werror=format -Wno-stringop-overflow, LAPACK_INFO=mkl, PERF_WITH_AVX=1, PERF_WITH_AVX2=1, PERF_WITH_AVX512=1, TORCH_VERSION=2.3.0, USE_CUDA=ON, USE_CUDNN=ON, USE_CUSPARSELT=1, USE_EXCEPTION_PTR=1, USE_GFLAGS=OFF, USE_GLOG=OFF, USE_GLOO=ON, USE_MKL=ON, USE_MKLDNN=ON, USE_MPI=OFF, USE_NCCL=1, USE_NNPACK=ON, USE_OPENMP=ON, USE_ROCM=OFF, USE_ROCM_KERNEL_ASSERT=OFF, 
+
+    TorchVision: 0.18.0+cu121
+    OpenCV: 4.9.0
+    MMEngine: 0.10.4
+
+Runtime environment:
+    launcher: none
+    randomness: {'deterministic': False, 'seed': None}
+    cudnn_benchmark: False
+    dist_cfg: {'backend': 'nccl'}
+    mp_cfg: {'mp_start_method': 'fork', 'opencv_num_threads': 0}
+    deterministic: False
+    seed: None
+    Distributed launcher: none
+    Distributed training: False
+    GPU number: 1
+------------------------------------------------------------
+
+2024/05/31 00:36:49 - mmengine - INFO - Config:
+SYSTEM = ''
+accumulative_counts = 16
+batch_size = 1
+betas = (
+    0.9,
+    0.999,
+)
+custom_hooks = [
+    dict(
+        tokenizer=dict(
+            padding_side='right',
+            pretrained_model_name_or_path='internlm/internlm2-chat-7b',
+            trust_remote_code=True,
+            type='transformers.AutoTokenizer.from_pretrained'),
+        type='xtuner.engine.hooks.DatasetInfoHook'),
+    dict(
+        evaluation_inputs=[
+            '糖尿病人的康复护理有哪些主要事项？',
+            'Please tell me five scenic spots in Shanghai',
+        ],
+        every_n_iters=500,
+        prompt_template='xtuner.utils.PROMPT_TEMPLATE.internlm2_chat',
+        system='',
+        tokenizer=dict(
+            padding_side='right',
+            pretrained_model_name_or_path='internlm/internlm2-chat-7b',
+            trust_remote_code=True,
+            type='transformers.AutoTokenizer.from_pretrained'),
+        type='xtuner.engine.hooks.EvaluateChatHook'),
+]
+data_path = './QAgenerated.json'
+dataloader_num_workers = 0
+default_hooks = dict(
+    checkpoint=dict(
+        by_epoch=False,
+        interval=500,
+        max_keep_ckpts=2,
+        type='mmengine.hooks.CheckpointHook'),
+    logger=dict(
+        interval=10,
+        log_metric_by_epoch=False,
+        type='mmengine.hooks.LoggerHook'),
+    param_scheduler=dict(type='mmengine.hooks.ParamSchedulerHook'),
+    sampler_seed=dict(type='mmengine.hooks.DistSamplerSeedHook'),
+    timer=dict(type='mmengine.hooks.IterTimerHook'))
+env_cfg = dict(
+    cudnn_benchmark=False,
+    dist_cfg=dict(backend='nccl'),
+    mp_cfg=dict(mp_start_method='fork', opencv_num_threads=0))
+evaluation_freq = 500
+evaluation_inputs = [
+    '糖尿病人的康复护理有哪些主要事项？',
+    'ha ha ha',
+]
+launcher = 'none'
+load_from = None
+log_level = 'INFO'
+log_processor = dict(by_epoch=False)
+lr = 0.0002
+max_epochs = 3
+max_length = 2048
+max_norm = 1
+model = dict(
+    llm=dict(
+        pretrained_model_name_or_path='internlm/internlm2-chat-7b',
+        quantization_config=dict(
+            bnb_4bit_compute_dtype='torch.float16',
+            bnb_4bit_quant_type='nf4',
+            bnb_4bit_use_double_quant=True,
+            llm_int8_has_fp16_weight=False,
+            llm_int8_threshold=6.0,
+            load_in_4bit=True,
+            load_in_8bit=False,
+            type='transformers.BitsAndBytesConfig'),
+        torch_dtype='torch.float16',
+        trust_remote_code=True,
+        type='transformers.AutoModelForCausalLM.from_pretrained'),
+    lora=dict(
+        bias='none',
+        lora_alpha=16,
+        lora_dropout=0.1,
+        r=64,
+        task_type='CAUSAL_LM',
+        type='peft.LoraConfig'),
+    type='xtuner.model.SupervisedFinetune',
+    use_varlen_attn=False)
+optim_type = 'torch.optim.AdamW'
+optim_wrapper = dict(
+    optimizer=dict(
+        betas=(
+            0.9,
+            0.999,
+        ),
+        lr=0.0002,
+        type='torch.optim.AdamW',
+        weight_decay=0),
+    type='DeepSpeedOptimWrapper')
+pack_to_max_length = True
+param_scheduler = [
+    dict(
+        begin=0,
+        by_epoch=True,
+        convert_to_iter_based=True,
+        end=0.09,
+        start_factor=1e-05,
+        type='mmengine.optim.LinearLR'),
+    dict(
+        begin=0.09,
+        by_epoch=True,
+        convert_to_iter_based=True,
+        end=3,
+        eta_min=0.0,
+        type='mmengine.optim.CosineAnnealingLR'),
+]
+pretrained_model_name_or_path = 'internlm/internlm2-chat-7b'
+prompt_template = 'xtuner.utils.PROMPT_TEMPLATE.internlm2_chat'
+randomness = dict(deterministic=False, seed=None)
+resume = False
+runner_type = 'FlexibleRunner'
+sampler = 'mmengine.dataset.DefaultSampler'
+save_steps = 500
+save_total_limit = 2
+sequence_parallel_size = 1
+strategy = dict(
+    config=dict(
+        bf16=dict(enabled=True),
+        fp16=dict(enabled=False, initial_scale_power=16),
+        gradient_accumulation_steps='auto',
+        gradient_clipping='auto',
+        train_micro_batch_size_per_gpu='auto',
+        zero_allow_untested_optimizer=True,
+        zero_force_ds_cpu_optimizer=False,
+        zero_optimization=dict(overlap_comm=True, stage=2)),
+    exclude_frozen_parameters=True,
+    gradient_accumulation_steps=16,
+    gradient_clipping=1,
+    sequence_parallel_size=1,
+    train_micro_batch_size_per_gpu=1,
+    type='xtuner.engine.DeepSpeedStrategy')
+tokenizer = dict(
+    padding_side='right',
+    pretrained_model_name_or_path='internlm/internlm2-chat-7b',
+    trust_remote_code=True,
+    type='transformers.AutoTokenizer.from_pretrained')
+train_cfg = dict(max_epochs=3, type='xtuner.engine.runner.TrainLoop')
+train_dataloader = dict(
+    batch_size=1,
+    collate_fn=dict(
+        type='xtuner.dataset.collate_fns.default_collate_fn',
+        use_varlen_attn=False),
+    dataset=dict(
+        dataset=dict(
+            path='timdettmers/openassistant-guanaco',
+            type='datasets.load_dataset'),
+        dataset_map_fn='xtuner.dataset.map_fns.oasst1_map_fn',
+        max_length=2048,
+        pack_to_max_length=True,
+        remove_unused_columns=True,
+        shuffle_before_pack=True,
+        template_map_fn=dict(
+            template='xtuner.utils.PROMPT_TEMPLATE.internlm2_chat',
+            type='xtuner.dataset.map_fns.template_map_fn_factory'),
+        tokenizer=dict(
+            padding_side='right',
+            pretrained_model_name_or_path='internlm/internlm2-chat-7b',
+            trust_remote_code=True,
+            type='transformers.AutoTokenizer.from_pretrained'),
+        type='xtuner.dataset.process_hf_dataset',
+        use_varlen_attn=False),
+    num_workers=0,
+    sampler=dict(shuffle=True, type='mmengine.dataset.DefaultSampler'))
+train_dataset = dict(
+    dataset=dict(
+        path='timdettmers/openassistant-guanaco',
+        type='datasets.load_dataset'),
+    dataset_map_fn='xtuner.dataset.map_fns.oasst1_map_fn',
+    max_length=2048,
+    pack_to_max_length=True,
+    remove_unused_columns=True,
+    shuffle_before_pack=True,
+    template_map_fn=dict(
+        template='xtuner.utils.PROMPT_TEMPLATE.internlm2_chat',
+        type='xtuner.dataset.map_fns.template_map_fn_factory'),
+    tokenizer=dict(
+        padding_side='right',
+        pretrained_model_name_or_path='internlm/internlm2-chat-7b',
+        trust_remote_code=True,
+        type='transformers.AutoTokenizer.from_pretrained'),
+    type='xtuner.dataset.process_hf_dataset',
+    use_varlen_attn=False)
+use_varlen_attn = False
+visualizer = None
+warmup_ratio = 0.03
+weight_decay = 0
+work_dir = './work_dirs/customised_internlm2_chat_7b_qlora_oasst1_e3'
+
+2024/05/31 00:36:49 - mmengine - WARNING - Failed to search registry with scope "mmengine" in the "builder" registry tree. As a workaround, the current "builder" registry in "xtuner" is used to build instance. This may cause unexpected failure when running the built modules. Please check whether "mmengine" is a correct scope, or whether the registry is initialized.
+2024/05/31 00:39:31 - mmengine - INFO - Hooks will be executed in the following order:
+before_run:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(BELOW_NORMAL) LoggerHook                         
+ -------------------- 
+before_train:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(NORMAL      ) IterTimerHook                      
+(NORMAL      ) DatasetInfoHook                    
+(LOW         ) EvaluateChatHook                   
+(VERY_LOW    ) CheckpointHook                     
+ -------------------- 
+before_train_epoch:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(NORMAL      ) IterTimerHook                      
+(NORMAL      ) DistSamplerSeedHook                
+ -------------------- 
+before_train_iter:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(NORMAL      ) IterTimerHook                      
+ -------------------- 
+after_train_iter:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(NORMAL      ) IterTimerHook                      
+(BELOW_NORMAL) LoggerHook                         
+(LOW         ) ParamSchedulerHook                 
+(LOW         ) EvaluateChatHook                   
+(VERY_LOW    ) CheckpointHook                     
+ -------------------- 
+after_train_epoch:
+(NORMAL      ) IterTimerHook                      
+(LOW         ) ParamSchedulerHook                 
+(VERY_LOW    ) CheckpointHook                     
+ -------------------- 
+before_val:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(NORMAL      ) DatasetInfoHook                    
+ -------------------- 
+before_val_epoch:
+(NORMAL      ) IterTimerHook                      
+ -------------------- 
+before_val_iter:
+(NORMAL      ) IterTimerHook                      
+ -------------------- 
+after_val_iter:
+(NORMAL      ) IterTimerHook                      
+(BELOW_NORMAL) LoggerHook                         
+ -------------------- 
+after_val_epoch:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(NORMAL      ) IterTimerHook                      
+(BELOW_NORMAL) LoggerHook                         
+(LOW         ) ParamSchedulerHook                 
+(VERY_LOW    ) CheckpointHook                     
+ -------------------- 
+after_val:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(LOW         ) EvaluateChatHook                   
+ -------------------- 
+after_train:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(LOW         ) EvaluateChatHook                   
+(VERY_LOW    ) CheckpointHook                     
+ -------------------- 
+before_test:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(NORMAL      ) DatasetInfoHook                    
+ -------------------- 
+before_test_epoch:
+(NORMAL      ) IterTimerHook                      
+ -------------------- 
+before_test_iter:
+(NORMAL      ) IterTimerHook                      
+ -------------------- 
+after_test_iter:
+(NORMAL      ) IterTimerHook                      
+(BELOW_NORMAL) LoggerHook                         
+ -------------------- 
+after_test_epoch:
+(VERY_HIGH   ) RuntimeInfoHook                    
+(NORMAL      ) IterTimerHook                      
+(BELOW_NORMAL) LoggerHook                         
+ -------------------- 
+after_test:
+(VERY_HIGH   ) RuntimeInfoHook                    
+ -------------------- 
+after_run:
+(BELOW_NORMAL) LoggerHook                         
+ -------------------- 
+2024/05/31 00:47:36 - mmengine - WARNING - Dataset Dataset has no metainfo. ``dataset_meta`` in visualizer will be None.
+2024/05/31 00:52:28 - mmengine - WARNING - Due to the implementation of the PyTorch version of flash attention, even when the `output_attentions` flag is set to True, it is not possible to return the `attn_weights`.
+2024/05/31 00:52:28 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:29 - mmengine - INFO - replace internlm2 rope
+2024/05/31 00:52:32 - mmengine - INFO - Num train samples 2167
+2024/05/31 00:52:32 - mmengine - INFO - train example:
+2024/05/31 00:52:32 - mmengine - INFO - <s><|im_start|>user
+How do I make a hamburger?<|im_end|>
+<|im_start|>assistant
+There are many recipes for hamburgers including different buns, patties, sauces, vegetables, and other ingredients. Here is a typical recipe:
+
+Ingredients for 4 burgers:
+
+- 1 pound of ground lean beef.
+- 1 large egg
+- 1/2 cup of minced onion
+- 1-2 cloves of peeled and minced garlic
+- 1/4 cup of dried crushed crackers or bread crumbs
+- 1 tablespoon of Worcestershire sauce
+- 1/2 teaspoon of salt
+- 1/4 teaspoon of pepper
+- 4 hamburger buns
+
+Optional:
+
+- 4 rinsed and crisped lettuce leaves
+- Cored and sliced tomato
+- sliced red onion
+- mayonnaise
+- ketchup
+- 4 slices of American cheese
+
+Steps:
+
+1. Mix the ground beef, egg, onion, bread crumbs, Worcestershire sauce, garlic, salt, and pepper in a large bowl until well blended. Make the mixture into 4 patties of about 4 inches wide.
+2. Preheat an oiled grill or skillet to medium heat at approximately 350-400 °F (180-200 °C). Grill each side of the patties for 3-4 minutes. Place the cheese slices on top of the patties in the last minute to melt them.
+3. Split the buns and lay them cut side down on the grill or skillet. Cook for 30 seconds to 1 minute until lightly toasted.
+4. According to your taste, spread mayonnaise and ketchup on bun bottoms. Add the lettuce, sliced onion, burger, and sliced tomato. You can also add extra salt and pepper. Finally, place bun tops.
+
+You can also try these ingredients in the raw hamburger mix or add them to the finished burger for different flavors:
+
+- Barbecue sauce
+- Chopped scallions
+- Shredded or crumbled cheeses
+- Crushed red pepper<|im_end|>
+<s><|im_start|>user
+¿Tengo alguna tarea pendiente para mañana?<|im_end|>
+<|im_start|>assistant
+Lo siento, pero como soy asistente, no tengo acceso a información personal como tus tareas pendientes.<|im_end|>
+<s><|im_start|>user
+What your views on andrew tate ?<|im_end|>
+<|im_start|>assistant
+As a language model, I'm happy to provide information about specific individuals when that information is publicly documented by a reputable source. For example, Andrew Tate is a social media personality and former professional kickboxer.
+
+Unfortunately, I don't have an independent viewpoint.<|im_end|>
+<s><|im_start|>user
+هل من الممكن ترويض ثعلب؟<|im_end|>
+<|im_start|>assistant
+لا يمكن ترويض الثعالب فهي حيوانات برية ولا يمكن التحكم في سلوكها. تعيش الثعالب عادةً في مناطق الغابات ، على الرغم من أنها توجد أيضًا في الجبال والأراضي العشبية والصحاري ولا يمكن ترويضها كما يتم ترويض الحيوانات الأليفة. من الأفضل أن تبقى الثعالب في بيأتها و على الناس الحرص على حفظ البيئة الخضراء التي تعيش فيها عوض مداولة ترويضها.<|im_end|>
+<s><|im_start|>user
+Hello, how can I use Open Assistant?<|im_end|>
+<|im_start|>assistant
+Hello! I'm Open Assistant, I'm here to help you with any task that can be described through natural language. You can ask me to assist you in various tasks, such as text summarization, question answering, code debugging and generation, or poetry generation, among others. Please type your request and I will try to assist you.<|im_end|>
+<s><|im_start|>user
+Erkläre das Prinzip der Markovkette für einen Schüler der 10. Klasse verständlich<|im_end|>
+<|im_start|>assistant
+Alles klar. Eine Erklärung des Prinzips einer Markovkette, verständlich für einen Schüler der zehnten Klasse:
+
+Hinter dem Prinzip der Markovkette verbirgt sich ein System mit dem wir die Wahrscheinlichkeit für eine Folge (oder Kette) von Zuständen oder Ereignissen errechnen können. Hierbei brauchen wir Informationen über die Zustände, sowie die Information darüber wie wahrscheinlich es ist, dass ein Zustand in den nächsten übergeht. Hier ist ein kleines Beispiel. 
+
+-> Gegeben sind die Zustände {Sonne, Regen}
+-> Wir wissen dass auf einen Sonnentag zu 80% ein weiterer Sonnentag und zu 20% ein Regentag folgt.
+-> Außerdem wissen wir, dass auf einen Regentag im Durchschnitt zu 40% ein weiterer Regentag folgt aber zu 60% ein Sonnentag.
+
+Damit haben wir alle Informationen zusammen um zu errechnen, was die Warscheinlichkeit für eine Verkettung von mehreren Zuständen ist. Angenommen du schaust nach draußen und siehst, dass die Sonne scheint. Wie hoch ist dann die Wahrscheinlichkeit dass morgen auch ein Sonnentag folgt? Unser Modell liefert die Antwort: Es sind 80%.
+
+Was ist nun die Wahrscheinlichkeit, dass morgen die Sonne scheint und übermorgen ein Regentag ist? Unserem Modell nach ist die Wahrscheinlichkeit dass auf einen Sonnentag ein Sonnentag folgt (wir schreiben diese Wahrscheinlichkeit kurz als P(Sonne|Sonne)) 80% und die Wahrscheinlichkeit, dass auf einen Sonnentag ein Regentag folgt (wir schreiben P(Regen| Sonne)) 60 %.
+Da wir mit Wahrscheinlichkeiten arbeiten und wollen, dass beide Fälle eintreten (Sonnentag -> Sonnentag -> Regentag) müssen wir die einzelnen Wahrscheinlichkeiten multiplizieren. Somit haben errechnen wir die Wahrscheinlichkeit, dass morgen ein Sonnentag ist und übermorgen ein Regentag ist (P(Sonne -> Regen|Sonne)) als P(Sonne|Sonne) * P(Regen|Sonne) = 80% * 60% = 48%
+
+Ich hoffe ich konnte dir weiterhelfen. Ich arbeite deine Vorschläge zur Verbesserung der Antwort gerne ein.<|im_end|>
+<s><|im_start|>user
+¿Cuáles son los posibles estados de la materia?.<|im_end|>
+<|im_start|>assistant
+Los estados de agregación de la materia, en relación con las fuerzas de unión de las partículas (moléculas, átomos o iones) que la constituyen, son los siguientes:
+
+- Estado sólido:
+Los objetos en estado sólido se presentan como cuerpos de forma definida; sus átomos a menudo se entrelazan formando estructuras estrechas definidas, lo que les confiere la capacidad de soportar fuerzas sin deformación aparente. Son calificados generalmente como duros así como resistentes, y en ellos las fuerzas de atracción son mayores que las de repulsión.
+
+- Estado líquido:
+Si se incrementa la temperatura de un sólido, este va perdiendo forma hasta desaparecer la estructura cristalina, alcanzando el estado líquido. Característica principal: la capacidad de fluir y adaptarse a la forma del recipiente que lo contiene. En este caso, aún existe cierta unión entre los átomos del cuerpo,
+2024/05/31 00:52:32 - mmengine - INFO - before_train in EvaluateChatHook.
+2024/05/31 00:52:36 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+糖尿病人的康复护理有哪些主要事项？<|im_end|>
+<|im_start|>assistant
+糖尿病的康复护理主要包括以下几个方面：
+
+1. **饮食管理**：
+   - 控制碳水化合物的摄入，选择低糖、低脂、高纤维的食物。
+   - 定时定量进食，避免暴饮暴食
+
+2024/05/31 00:52:40 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+Please tell me five scenic spots in Shanghai<|im_end|>
+<|im_start|>assistant
+1. **Yuyuan Garden (Garden of Happiness)**
+   Yuyuan Garden, also known as the Classical Garden, is a traditional Chinese garden located in the Old Town of Shanghai. It is one of the most famous gardens
+
+2024/05/31 00:52:40 - mmengine - WARNING - "FileClient" will be deprecated in future. Please use io functions in https://mmengine.readthedocs.io/en/latest/api/fileio.html#file-io
+2024/05/31 00:52:40 - mmengine - WARNING - "HardDiskBackend" is the alias of "LocalBackend" and the former will be deprecated in future.
+2024/05/31 00:52:40 - mmengine - INFO - Checkpoints will be saved to /mnt/petrelfs/sunqiao/SUNQIAO/work_dirs/work_dirs/customised_internlm2_chat_7b_qlora_oasst1_e3.
+2024/05/31 00:52:52 - mmengine - INFO - Iter(train) [  10/6501]  lr: 9.2803e-06  eta: 2:10:40  time: 1.2079  data_time: 0.0076  memory: 10862  loss: 1.0026
+2024/05/31 00:53:04 - mmengine - INFO - Iter(train) [  20/6501]  lr: 1.9589e-05  eta: 2:10:55  time: 1.2162  data_time: 0.0088  memory: 12061  loss: 1.2443
+2024/05/31 00:53:16 - mmengine - INFO - Iter(train) [  30/6501]  lr: 2.9899e-05  eta: 2:10:22  time: 1.2025  data_time: 0.0096  memory: 12061  loss: 1.1025
+2024/05/31 00:53:28 - mmengine - INFO - Iter(train) [  40/6501]  lr: 4.0208e-05  eta: 2:10:01  time: 1.2031  data_time: 0.0081  memory: 12061  loss: 1.2070
+2024/05/31 00:53:40 - mmengine - INFO - Iter(train) [  50/6501]  lr: 5.0517e-05  eta: 2:09:43  time: 1.2031  data_time: 0.0082  memory: 12061  loss: 1.1409
+2024/05/31 00:53:52 - mmengine - INFO - Iter(train) [  60/6501]  lr: 6.0826e-05  eta: 2:09:26  time: 1.2019  data_time: 0.0081  memory: 12061  loss: 1.0695
+2024/05/31 00:54:04 - mmengine - INFO - Iter(train) [  70/6501]  lr: 7.1135e-05  eta: 2:09:12  time: 1.2038  data_time: 0.0082  memory: 12061  loss: 1.0641
+2024/05/31 00:54:16 - mmengine - INFO - Iter(train) [  80/6501]  lr: 8.1444e-05  eta: 2:08:59  time: 1.2041  data_time: 0.0079  memory: 12061  loss: 1.0870
+2024/05/31 00:54:28 - mmengine - INFO - Iter(train) [  90/6501]  lr: 9.1754e-05  eta: 2:08:44  time: 1.2017  data_time: 0.0081  memory: 12061  loss: 1.0992
+2024/05/31 00:54:40 - mmengine - INFO - Iter(train) [ 100/6501]  lr: 1.0206e-04  eta: 2:08:32  time: 1.2048  data_time: 0.0086  memory: 12061  loss: 1.0788
+2024/05/31 00:54:52 - mmengine - INFO - Iter(train) [ 110/6501]  lr: 1.1237e-04  eta: 2:08:18  time: 1.2018  data_time: 0.0080  memory: 12061  loss: 1.0552
+2024/05/31 00:55:04 - mmengine - INFO - Iter(train) [ 120/6501]  lr: 1.2268e-04  eta: 2:08:06  time: 1.2039  data_time: 0.0080  memory: 12061  loss: 0.8784
+2024/05/31 00:55:16 - mmengine - INFO - Iter(train) [ 130/6501]  lr: 1.3299e-04  eta: 2:07:54  time: 1.2042  data_time: 0.0081  memory: 12061  loss: 1.1254
+2024/05/31 00:55:28 - mmengine - INFO - Iter(train) [ 140/6501]  lr: 1.4330e-04  eta: 2:07:40  time: 1.2022  data_time: 0.0082  memory: 12061  loss: 0.9212
+2024/05/31 00:55:40 - mmengine - INFO - Iter(train) [ 150/6501]  lr: 1.5361e-04  eta: 2:07:28  time: 1.2044  data_time: 0.0083  memory: 12061  loss: 1.4338
+2024/05/31 00:55:52 - mmengine - INFO - Iter(train) [ 160/6501]  lr: 1.6392e-04  eta: 2:07:16  time: 1.2042  data_time: 0.0081  memory: 12061  loss: 1.0798
+2024/05/31 00:56:04 - mmengine - INFO - Iter(train) [ 170/6501]  lr: 1.7423e-04  eta: 2:07:03  time: 1.2016  data_time: 0.0079  memory: 12061  loss: 1.1545
+2024/05/31 00:56:16 - mmengine - INFO - Iter(train) [ 180/6501]  lr: 1.8454e-04  eta: 2:06:51  time: 1.2041  data_time: 0.0080  memory: 12061  loss: 1.0772
+2024/05/31 00:56:28 - mmengine - INFO - Iter(train) [ 190/6501]  lr: 1.9485e-04  eta: 2:06:38  time: 1.2021  data_time: 0.0081  memory: 12061  loss: 1.0054
+2024/05/31 00:56:41 - mmengine - INFO - Iter(train) [ 200/6501]  lr: 2.0000e-04  eta: 2:06:26  time: 1.2039  data_time: 0.0083  memory: 12061  loss: 1.0839
+2024/05/31 00:56:53 - mmengine - INFO - Iter(train) [ 210/6501]  lr: 2.0000e-04  eta: 2:06:14  time: 1.2036  data_time: 0.0079  memory: 12061  loss: 1.0381
+2024/05/31 00:57:05 - mmengine - INFO - Iter(train) [ 220/6501]  lr: 1.9999e-04  eta: 2:06:01  time: 1.2016  data_time: 0.0079  memory: 12061  loss: 1.1245
+2024/05/31 00:57:17 - mmengine - INFO - Iter(train) [ 230/6501]  lr: 1.9999e-04  eta: 2:05:49  time: 1.2038  data_time: 0.0080  memory: 12061  loss: 0.8486
+2024/05/31 00:57:29 - mmengine - INFO - Iter(train) [ 240/6501]  lr: 1.9998e-04  eta: 2:05:37  time: 1.2037  data_time: 0.0079  memory: 12061  loss: 1.0779
+2024/05/31 00:57:41 - mmengine - INFO - Iter(train) [ 250/6501]  lr: 1.9996e-04  eta: 2:05:25  time: 1.2022  data_time: 0.0084  memory: 12061  loss: 1.0792
+2024/05/31 00:57:53 - mmengine - INFO - Iter(train) [ 260/6501]  lr: 1.9995e-04  eta: 2:05:13  time: 1.2046  data_time: 0.0083  memory: 12061  loss: 1.1709
+2024/05/31 00:58:05 - mmengine - INFO - Iter(train) [ 270/6501]  lr: 1.9993e-04  eta: 2:05:00  time: 1.2017  data_time: 0.0079  memory: 12061  loss: 1.0640
+2024/05/31 00:58:17 - mmengine - INFO - Iter(train) [ 280/6501]  lr: 1.9991e-04  eta: 2:04:48  time: 1.2038  data_time: 0.0083  memory: 12061  loss: 1.1657
+2024/05/31 00:58:29 - mmengine - INFO - Iter(train) [ 290/6501]  lr: 1.9989e-04  eta: 2:04:36  time: 1.2036  data_time: 0.0079  memory: 12061  loss: 1.0011
+2024/05/31 00:58:41 - mmengine - INFO - Iter(train) [ 300/6501]  lr: 1.9987e-04  eta: 2:04:24  time: 1.2023  data_time: 0.0083  memory: 12061  loss: 1.1081
+2024/05/31 00:58:53 - mmengine - INFO - Iter(train) [ 310/6501]  lr: 1.9984e-04  eta: 2:04:12  time: 1.2034  data_time: 0.0079  memory: 12061  loss: 1.2698
+2024/05/31 00:59:05 - mmengine - INFO - Iter(train) [ 320/6501]  lr: 1.9981e-04  eta: 2:04:00  time: 1.2041  data_time: 0.0081  memory: 12061  loss: 0.9724
+2024/05/31 00:59:17 - mmengine - INFO - Iter(train) [ 330/6501]  lr: 1.9978e-04  eta: 2:03:47  time: 1.2018  data_time: 0.0082  memory: 12061  loss: 1.0834
+2024/05/31 00:59:29 - mmengine - INFO - Iter(train) [ 340/6501]  lr: 1.9974e-04  eta: 2:03:35  time: 1.2034  data_time: 0.0079  memory: 12061  loss: 1.0514
+2024/05/31 00:59:41 - mmengine - INFO - Iter(train) [ 350/6501]  lr: 1.9971e-04  eta: 2:03:23  time: 1.2021  data_time: 0.0081  memory: 12061  loss: 0.9566
+2024/05/31 00:59:53 - mmengine - INFO - Iter(train) [ 360/6501]  lr: 1.9967e-04  eta: 2:03:11  time: 1.2045  data_time: 0.0085  memory: 12061  loss: 0.9503
+2024/05/31 01:00:05 - mmengine - INFO - Iter(train) [ 370/6501]  lr: 1.9962e-04  eta: 2:02:59  time: 1.2040  data_time: 0.0081  memory: 12061  loss: 1.1133
+2024/05/31 01:00:17 - mmengine - INFO - Iter(train) [ 380/6501]  lr: 1.9958e-04  eta: 2:02:47  time: 1.2017  data_time: 0.0080  memory: 12061  loss: 1.0953
+2024/05/31 01:00:29 - mmengine - INFO - Iter(train) [ 390/6501]  lr: 1.9953e-04  eta: 2:02:35  time: 1.2041  data_time: 0.0082  memory: 12061  loss: 1.1775
+2024/05/31 01:00:41 - mmengine - INFO - Iter(train) [ 400/6501]  lr: 1.9948e-04  eta: 2:02:23  time: 1.2053  data_time: 0.0087  memory: 12061  loss: 1.1917
+2024/05/31 01:00:53 - mmengine - INFO - Iter(train) [ 410/6501]  lr: 1.9943e-04  eta: 2:02:11  time: 1.2027  data_time: 0.0087  memory: 12061  loss: 1.2848
+2024/05/31 01:01:05 - mmengine - INFO - Iter(train) [ 420/6501]  lr: 1.9938e-04  eta: 2:01:59  time: 1.2044  data_time: 0.0084  memory: 12061  loss: 1.0747
+2024/05/31 01:01:17 - mmengine - INFO - Iter(train) [ 430/6501]  lr: 1.9932e-04  eta: 2:01:47  time: 1.2017  data_time: 0.0079  memory: 12061  loss: 0.9710
+2024/05/31 01:01:29 - mmengine - INFO - Iter(train) [ 440/6501]  lr: 1.9926e-04  eta: 2:01:35  time: 1.2038  data_time: 0.0080  memory: 12061  loss: 1.2073
+2024/05/31 01:01:41 - mmengine - INFO - Iter(train) [ 450/6501]  lr: 1.9920e-04  eta: 2:01:23  time: 1.2046  data_time: 0.0084  memory: 12061  loss: 0.9204
+2024/05/31 01:01:53 - mmengine - INFO - Iter(train) [ 460/6501]  lr: 1.9914e-04  eta: 2:01:10  time: 1.2015  data_time: 0.0080  memory: 12061  loss: 1.0667
+2024/05/31 01:02:05 - mmengine - INFO - Iter(train) [ 470/6501]  lr: 1.9907e-04  eta: 2:00:58  time: 1.2041  data_time: 0.0082  memory: 12061  loss: 0.8970
+2024/05/31 01:02:17 - mmengine - INFO - Iter(train) [ 480/6501]  lr: 1.9900e-04  eta: 2:00:46  time: 1.2043  data_time: 0.0083  memory: 12061  loss: 0.8957
+2024/05/31 01:02:29 - mmengine - INFO - Iter(train) [ 490/6501]  lr: 1.9893e-04  eta: 2:00:34  time: 1.2013  data_time: 0.0078  memory: 12061  loss: 0.9385
+2024/05/31 01:02:42 - mmengine - INFO - Iter(train) [ 500/6501]  lr: 1.9886e-04  eta: 2:00:22  time: 1.2042  data_time: 0.0082  memory: 12061  loss: 1.0195
+2024/05/31 01:02:42 - mmengine - INFO - after_train_iter in EvaluateChatHook.
+2024/05/31 01:03:13 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+糖尿病人的康复护理有哪些主要事项？<|im_end|>
+<|im_start|>assistant
+糖尿病是一种常见的代谢性疾病，主要表现为高血糖，如果不及时治疗，可能会导致多种并发症。康复护理是糖尿病治疗的重要组成部分，以下是糖尿病人的康复护理的主要事项：
+
+1. **血糖控制**：糖尿病人的康复护理应以控制血糖为核心，遵循医生开具的治疗方案，按时服用药物，规律注射胰岛素，合理控制饮食和运动。
+
+2. **营养均衡**：糖尿病病人需要合理搭配饮食，控制总热量摄入，限制糖类、脂肪摄入，增加膳食纤维和优质蛋白的摄入，以维持营养均衡。
+
+3. **运动疗法**：适当的运动有助于改善胰岛素敏感性，提高身体对血糖的利用能力，但运动前应咨询医生，选择适合自己的运动方式和强度。
+
+4. **监测血糖**：定期监测血糖是糖尿病康复护理的重要环节，了解血糖水平变化，及时调整治疗方案。
+
+5. **心理支持**：糖尿病是一种慢性疾病，患者常面临心理压力。康复护理应提供心理支持，帮助患者树立战胜疾病的信心。
+
+6. **预防并发症**：糖尿病患者容易并发多种疾病，如心血管疾病、肾病、视网膜病变等，康复护理应注重并发症的预防和管理。
+
+7. **健康教育**：提供糖尿病相关知识的教育，帮助患者了解疾病的特点、治疗方案、并发症预防等，提高自我管理能力。
+
+8. **定期复查**：定期复查是糖尿病康复护理的重要环节，包括血糖、肝肾功能、眼底、神经等检查，及时发现问题并调整治疗方案。
+
+9. **药物管理**：糖尿病患者需要长期服用药物，康复护理应关注药物的副作用、相互作用等，确保药物的正确使用。
+
+10. **紧急情况准备**：糖尿病患者应随身携带急救药品，如血糖仪、胰岛素、糖果等，以备不时之需。
+
+11. **生活方式调整**：康复护理应鼓励患者戒烟限酒、保持健康体重，改善睡眠质量，以促进康复。
+
+12. **社会支持**：康复护理应重视社会支持，包括家庭支持、社区支持等，共同为糖尿病患者的康复努力。
+
+需要注意的是，以上建议仅供参考，具体的康复护理方案应根据患者的个体情况和医生的建议来制定。<|im_end|>
+
+2024/05/31 01:03:33 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+Please tell me five scenic spots in Shanghai<|im_end|>
+<|im_start|>assistant
+Shanghai has many beautiful scenic spots, here are five of them:
+
+1. The Bund: This is a famous waterfront area in Shanghai that features a collection of historic buildings, including the Shanghai Tower, the Shanghai World Financial Center, and the Oriental Pearl Tower. It is a great place to take in the city's skyline and enjoy the views of the Huangpu River.
+
+2. Yuyuan Garden: This is a traditional Chinese garden located in the heart of Shanghai. It features a variety of beautiful gardens, pavilions, and bridges, as well as a large collection of plants and flowers. It is a great place to relax and enjoy the peaceful atmosphere.
+
+3. Zhujiajiao Water Town: This is a picturesque water town located on the outskirts of Shanghai. It features a network of canals, bridges, and ancient buildings, as well as a variety of local shops and restaurants. It is a great place to explore and experience the traditional way of life in Shanghai.
+
+4. Shanghai Tower: This is the tallest building in China and the second tallest building in the world. It features a variety of observation decks, restaurants, and shopping areas, as well as stunning views of the city.
+
+5. Longhua Temple: This is one of the oldest and largest Buddhist temples in Shanghai. It features a variety of historic buildings, statues, and gardens, as well as a peaceful atmosphere that is perfect for meditation and reflection.<|im_end|>
+
+2024/05/31 01:03:33 - mmengine - INFO - Saving checkpoint at 500 iterations
+2024/05/31 01:03:52 - mmengine - INFO - Iter(train) [ 510/6501]  lr: 1.9878e-04  eta: 2:11:36  time: 7.0445  data_time: 5.8505  memory: 12061  loss: 1.1079
+2024/05/31 01:04:04 - mmengine - INFO - Iter(train) [ 520/6501]  lr: 1.9870e-04  eta: 2:11:10  time: 1.2033  data_time: 0.0085  memory: 12061  loss: 0.9742
+2024/05/31 01:04:16 - mmengine - INFO - Iter(train) [ 530/6501]  lr: 1.9862e-04  eta: 2:10:44  time: 1.2035  data_time: 0.0083  memory: 12061  loss: 1.0479
+2024/05/31 01:04:28 - mmengine - INFO - Iter(train) [ 540/6501]  lr: 1.9854e-04  eta: 2:10:19  time: 1.2015  data_time: 0.0082  memory: 12061  loss: 1.0171
+2024/05/31 01:04:40 - mmengine - INFO - Iter(train) [ 550/6501]  lr: 1.9845e-04  eta: 2:09:54  time: 1.2033  data_time: 0.0082  memory: 12061  loss: 1.3557
+2024/05/31 01:04:52 - mmengine - INFO - Iter(train) [ 560/6501]  lr: 1.9836e-04  eta: 2:09:29  time: 1.2043  data_time: 0.0087  memory: 12061  loss: 1.2582
+2024/05/31 01:05:04 - mmengine - INFO - Iter(train) [ 570/6501]  lr: 1.9827e-04  eta: 2:09:05  time: 1.2007  data_time: 0.0078  memory: 12061  loss: 0.9620
+2024/05/31 01:05:16 - mmengine - INFO - Iter(train) [ 580/6501]  lr: 1.9818e-04  eta: 2:08:42  time: 1.2036  data_time: 0.0081  memory: 12061  loss: 1.0631
+2024/05/31 01:05:28 - mmengine - INFO - Iter(train) [ 590/6501]  lr: 1.9808e-04  eta: 2:08:18  time: 1.2015  data_time: 0.0081  memory: 12061  loss: 1.0376
+2024/05/31 01:05:40 - mmengine - INFO - Iter(train) [ 600/6501]  lr: 1.9798e-04  eta: 2:07:56  time: 1.2033  data_time: 0.0080  memory: 12061  loss: 0.8622
+2024/05/31 01:05:52 - mmengine - INFO - Iter(train) [ 610/6501]  lr: 1.9788e-04  eta: 2:07:33  time: 1.2033  data_time: 0.0079  memory: 12061  loss: 1.1393
+2024/05/31 01:06:04 - mmengine - INFO - Iter(train) [ 620/6501]  lr: 1.9778e-04  eta: 2:07:11  time: 1.2017  data_time: 0.0082  memory: 12061  loss: 1.1090
+2024/05/31 01:06:16 - mmengine - INFO - Iter(train) [ 630/6501]  lr: 1.9767e-04  eta: 2:06:49  time: 1.2030  data_time: 0.0079  memory: 12061  loss: 1.2118
+2024/05/31 01:06:28 - mmengine - INFO - Iter(train) [ 640/6501]  lr: 1.9756e-04  eta: 2:06:28  time: 1.2042  data_time: 0.0085  memory: 12061  loss: 1.2436
+2024/05/31 01:06:40 - mmengine - INFO - Iter(train) [ 650/6501]  lr: 1.9745e-04  eta: 2:06:06  time: 1.2014  data_time: 0.0083  memory: 12061  loss: 1.1477
+2024/05/31 01:06:52 - mmengine - INFO - Iter(train) [ 660/6501]  lr: 1.9734e-04  eta: 2:05:45  time: 1.2027  data_time: 0.0078  memory: 12061  loss: 1.0977
+2024/05/31 01:07:04 - mmengine - INFO - Iter(train) [ 670/6501]  lr: 1.9722e-04  eta: 2:05:25  time: 1.2010  data_time: 0.0078  memory: 12061  loss: 0.9330
+2024/05/31 01:07:16 - mmengine - INFO - Iter(train) [ 680/6501]  lr: 1.9711e-04  eta: 2:05:04  time: 1.2032  data_time: 0.0080  memory: 12061  loss: 0.9629
+2024/05/31 01:07:28 - mmengine - INFO - Iter(train) [ 690/6501]  lr: 1.9699e-04  eta: 2:04:44  time: 1.2032  data_time: 0.0081  memory: 12061  loss: 0.9886
+2024/05/31 01:07:40 - mmengine - INFO - Iter(train) [ 700/6501]  lr: 1.9686e-04  eta: 2:04:24  time: 1.2015  data_time: 0.0082  memory: 12061  loss: 1.0236
+2024/05/31 01:07:52 - mmengine - INFO - Iter(train) [ 710/6501]  lr: 1.9674e-04  eta: 2:04:04  time: 1.2034  data_time: 0.0082  memory: 12061  loss: 0.9205
+2024/05/31 01:08:05 - mmengine - INFO - Iter(train) [ 720/6501]  lr: 1.9661e-04  eta: 2:03:45  time: 1.2031  data_time: 0.0079  memory: 12061  loss: 1.2028
+2024/05/31 01:08:17 - mmengine - INFO - Iter(train) [ 730/6501]  lr: 1.9648e-04  eta: 2:03:25  time: 1.2009  data_time: 0.0080  memory: 12061  loss: 1.0000
+2024/05/31 01:08:29 - mmengine - INFO - Iter(train) [ 740/6501]  lr: 1.9635e-04  eta: 2:03:06  time: 1.2040  data_time: 0.0084  memory: 12061  loss: 1.1529
+2024/05/31 01:08:41 - mmengine - INFO - Iter(train) [ 750/6501]  lr: 1.9622e-04  eta: 2:02:47  time: 1.2014  data_time: 0.0081  memory: 12061  loss: 1.0524
+2024/05/31 01:08:53 - mmengine - INFO - Iter(train) [ 760/6501]  lr: 1.9608e-04  eta: 2:02:29  time: 1.2032  data_time: 0.0080  memory: 12061  loss: 0.9632
+2024/05/31 01:09:05 - mmengine - INFO - Iter(train) [ 770/6501]  lr: 1.9594e-04  eta: 2:02:10  time: 1.2030  data_time: 0.0079  memory: 12061  loss: 1.1528
+2024/05/31 01:09:17 - mmengine - INFO - Iter(train) [ 780/6501]  lr: 1.9580e-04  eta: 2:01:52  time: 1.2008  data_time: 0.0079  memory: 12061  loss: 0.9377
+2024/05/31 01:09:29 - mmengine - INFO - Iter(train) [ 790/6501]  lr: 1.9565e-04  eta: 2:01:33  time: 1.2032  data_time: 0.0079  memory: 12061  loss: 1.2667
+2024/05/31 01:09:41 - mmengine - INFO - Iter(train) [ 800/6501]  lr: 1.9551e-04  eta: 2:01:15  time: 1.2030  data_time: 0.0078  memory: 12061  loss: 1.1048
+2024/05/31 01:09:53 - mmengine - INFO - Iter(train) [ 810/6501]  lr: 1.9536e-04  eta: 2:00:57  time: 1.2020  data_time: 0.0087  memory: 12061  loss: 1.0689
+2024/05/31 01:10:05 - mmengine - INFO - Iter(train) [ 820/6501]  lr: 1.9521e-04  eta: 2:00:40  time: 1.2034  data_time: 0.0082  memory: 12061  loss: 0.9714
+2024/05/31 01:10:17 - mmengine - INFO - Iter(train) [ 830/6501]  lr: 1.9505e-04  eta: 2:00:22  time: 1.2009  data_time: 0.0079  memory: 12061  loss: 1.3077
+2024/05/31 01:10:29 - mmengine - INFO - Iter(train) [ 840/6501]  lr: 1.9490e-04  eta: 2:00:04  time: 1.2035  data_time: 0.0082  memory: 12061  loss: 0.9209
+2024/05/31 01:10:41 - mmengine - INFO - Iter(train) [ 850/6501]  lr: 1.9474e-04  eta: 1:59:47  time: 1.2036  data_time: 0.0081  memory: 12061  loss: 1.1006
+2024/05/31 01:10:53 - mmengine - INFO - Iter(train) [ 860/6501]  lr: 1.9458e-04  eta: 1:59:30  time: 1.2011  data_time: 0.0080  memory: 12061  loss: 1.0040
+2024/05/31 01:11:05 - mmengine - INFO - Iter(train) [ 870/6501]  lr: 1.9442e-04  eta: 1:59:13  time: 1.2031  data_time: 0.0080  memory: 12061  loss: 1.1617
+2024/05/31 01:11:17 - mmengine - INFO - Iter(train) [ 880/6501]  lr: 1.9425e-04  eta: 1:58:56  time: 1.2034  data_time: 0.0082  memory: 12061  loss: 1.0651
+2024/05/31 01:11:29 - mmengine - INFO - Iter(train) [ 890/6501]  lr: 1.9408e-04  eta: 1:58:39  time: 1.2009  data_time: 0.0078  memory: 12061  loss: 1.0689
+2024/05/31 01:11:41 - mmengine - INFO - Iter(train) [ 900/6501]  lr: 1.9391e-04  eta: 1:58:22  time: 1.2029  data_time: 0.0079  memory: 12061  loss: 1.1145
+2024/05/31 01:11:53 - mmengine - INFO - Iter(train) [ 910/6501]  lr: 1.9374e-04  eta: 1:58:05  time: 1.2009  data_time: 0.0079  memory: 12061  loss: 1.0464
+2024/05/31 01:12:05 - mmengine - INFO - Iter(train) [ 920/6501]  lr: 1.9357e-04  eta: 1:57:48  time: 1.2031  data_time: 0.0078  memory: 12061  loss: 1.0006
+2024/05/31 01:12:17 - mmengine - INFO - Iter(train) [ 930/6501]  lr: 1.9339e-04  eta: 1:57:32  time: 1.2028  data_time: 0.0079  memory: 12061  loss: 1.2015
+2024/05/31 01:12:29 - mmengine - INFO - Iter(train) [ 940/6501]  lr: 1.9321e-04  eta: 1:57:16  time: 1.2014  data_time: 0.0081  memory: 12061  loss: 1.2327
+2024/05/31 01:12:41 - mmengine - INFO - Iter(train) [ 950/6501]  lr: 1.9303e-04  eta: 1:56:59  time: 1.2041  data_time: 0.0086  memory: 12061  loss: 1.0698
+2024/05/31 01:12:53 - mmengine - INFO - Iter(train) [ 960/6501]  lr: 1.9284e-04  eta: 1:56:43  time: 1.2038  data_time: 0.0081  memory: 12061  loss: 0.9954
+2024/05/31 01:13:05 - mmengine - INFO - Iter(train) [ 970/6501]  lr: 1.9266e-04  eta: 1:56:27  time: 1.2024  data_time: 0.0090  memory: 12061  loss: 1.0205
+2024/05/31 01:13:17 - mmengine - INFO - Iter(train) [ 980/6501]  lr: 1.9247e-04  eta: 1:56:11  time: 1.2031  data_time: 0.0080  memory: 12061  loss: 0.9459
+2024/05/31 01:13:29 - mmengine - INFO - Iter(train) [ 990/6501]  lr: 1.9228e-04  eta: 1:55:55  time: 1.2016  data_time: 0.0083  memory: 12061  loss: 0.9510
+2024/05/31 01:13:41 - mmengine - INFO - Exp name: customised_internlm2_chat_7b_qlora_oasst1_e3_20240531_003647
+2024/05/31 01:13:41 - mmengine - INFO - Iter(train) [1000/6501]  lr: 1.9208e-04  eta: 1:55:39  time: 1.2031  data_time: 0.0080  memory: 12061  loss: 0.9210
+2024/05/31 01:13:41 - mmengine - INFO - after_train_iter in EvaluateChatHook.
+2024/05/31 01:13:55 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+糖尿病人的康复护理有哪些主要事项？<|im_end|>
+<|im_start|>assistant
+糖尿病的康复护理主要包括以下几个方面：
+
+1. 饮食控制：糖尿病患者需要控制饮食，避免高糖、高脂、高盐的食物，选择低GI值的食物，如蔬菜、水果、全谷类食物等。
+
+2. 运动：适当的运动可以帮助糖尿病患者控制血糖，增强身体素质，提高免疫力。糖尿病患者可以选择适合自己的运动方式，如散步、慢跑、游泳等。
+
+3. 监测血糖：糖尿病患者需要定期监测血糖，了解自己的血糖水平，及时调整饮食和运动计划。
+
+4. 药物治疗：糖尿病患者需要按照医生的建议进行药物治疗，如口服降糖药、胰岛素注射等。
+
+5. 心理疏导：糖尿病是一种慢性病，患者需要长期坚持治疗，容易产生心理压力。因此，糖尿病患者需要接受心理疏导，保持积极乐观的心态。
+
+总之，糖尿病的康复护理需要患者和医生共同努力，坚持治疗，控制血糖，保持健康的生活方式，才能达到康复的目标。<|im_end|>
+
+2024/05/31 01:14:17 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+Please tell me five scenic spots in Shanghai<|im_end|>
+<|im_start|>assistant
+Shanghai is a vibrant and cosmopolitan city that offers a wealth of scenic spots to explore. Here are five of the most beautiful and picturesque places to visit in Shanghai:
+
+1. Yuyuan Garden: This ancient Chinese garden is one of the most famous attractions in Shanghai, and for good reason. With its serene ponds, intricate bridges, and lush foliage, Yuyuan Garden is a tranquil oasis in the heart of the city.
+
+2. The Bund: The Bund is a waterfront promenade that stretches for over a mile along the Huangpu River. Here, you can enjoy stunning views of the city skyline, as well as the historic buildings that line the shore.
+
+3. Zhujiajiao Water Town: This charming water town is located just outside of Shanghai, and is known for its picturesque canals, stone bridges, and traditional architecture. It's a great place to escape the hustle and bustle of the city and experience a slower pace of life.
+
+4. Tianzifang: This artsy neighborhood is a maze of narrow alleys and courtyards, lined with shops, cafes, and galleries. It's a great place to explore and discover some of Shanghai's unique culture and creativity.
+
+5. Shanghai Tower: This towering skyscraper is the tallest building in China, and offers some of the most breathtaking views of the city. With its observation deck and glass-bottomed floors, Shanghai Tower is a must-visit for anyone looking for a unique perspective on the city.<|im_end|>
+
+2024/05/31 01:14:18 - mmengine - INFO - Saving checkpoint at 1000 iterations
+2024/05/31 01:14:36 - mmengine - INFO - Iter(train) [1010/6501]  lr: 1.9189e-04  eta: 1:59:18  time: 5.5217  data_time: 4.3251  memory: 12061  loss: 1.0307
+2024/05/31 01:14:48 - mmengine - INFO - Iter(train) [1020/6501]  lr: 1.9169e-04  eta: 1:59:00  time: 1.2009  data_time: 0.0084  memory: 12061  loss: 1.0373
+2024/05/31 01:15:00 - mmengine - INFO - Iter(train) [1030/6501]  lr: 1.9149e-04  eta: 1:58:41  time: 1.2041  data_time: 0.0081  memory: 12061  loss: 1.0156
+2024/05/31 01:15:13 - mmengine - INFO - Iter(train) [1040/6501]  lr: 1.9129e-04  eta: 1:58:23  time: 1.2042  data_time: 0.0082  memory: 12061  loss: 1.0578
+2024/05/31 01:15:25 - mmengine - INFO - Iter(train) [1050/6501]  lr: 1.9109e-04  eta: 1:58:05  time: 1.2022  data_time: 0.0083  memory: 12061  loss: 1.2122
+2024/05/31 01:15:37 - mmengine - INFO - Iter(train) [1060/6501]  lr: 1.9088e-04  eta: 1:57:47  time: 1.2041  data_time: 0.0082  memory: 12061  loss: 1.0725
+2024/05/31 01:15:49 - mmengine - INFO - Iter(train) [1070/6501]  lr: 1.9067e-04  eta: 1:57:29  time: 1.2029  data_time: 0.0086  memory: 12061  loss: 1.0443
+2024/05/31 01:16:01 - mmengine - INFO - Iter(train) [1080/6501]  lr: 1.9046e-04  eta: 1:57:12  time: 1.2044  data_time: 0.0083  memory: 12061  loss: 1.1556
+2024/05/31 01:16:13 - mmengine - INFO - Iter(train) [1090/6501]  lr: 1.9024e-04  eta: 1:56:54  time: 1.2052  data_time: 0.0087  memory: 12061  loss: 1.1133
+2024/05/31 01:16:25 - mmengine - INFO - Iter(train) [1100/6501]  lr: 1.9003e-04  eta: 1:56:36  time: 1.2024  data_time: 0.0085  memory: 12061  loss: 1.0027
+2024/05/31 01:16:37 - mmengine - INFO - Iter(train) [1110/6501]  lr: 1.8981e-04  eta: 1:56:19  time: 1.2045  data_time: 0.0084  memory: 12061  loss: 1.0106
+2024/05/31 01:16:49 - mmengine - INFO - Iter(train) [1120/6501]  lr: 1.8959e-04  eta: 1:56:02  time: 1.2044  data_time: 0.0081  memory: 12061  loss: 1.2109
+2024/05/31 01:17:01 - mmengine - INFO - Iter(train) [1130/6501]  lr: 1.8937e-04  eta: 1:55:44  time: 1.2018  data_time: 0.0081  memory: 12061  loss: 1.1062
+2024/05/31 01:17:13 - mmengine - INFO - Iter(train) [1140/6501]  lr: 1.8914e-04  eta: 1:55:27  time: 1.2042  data_time: 0.0081  memory: 12061  loss: 1.0752
+2024/05/31 01:17:25 - mmengine - INFO - Iter(train) [1150/6501]  lr: 1.8892e-04  eta: 1:55:10  time: 1.2021  data_time: 0.0082  memory: 12061  loss: 0.9910
+2024/05/31 01:17:37 - mmengine - INFO - Iter(train) [1160/6501]  lr: 1.8869e-04  eta: 1:54:53  time: 1.2037  data_time: 0.0082  memory: 12061  loss: 0.9932
+2024/05/31 01:17:49 - mmengine - INFO - Iter(train) [1170/6501]  lr: 1.8846e-04  eta: 1:54:36  time: 1.2040  data_time: 0.0082  memory: 12061  loss: 1.1607
+2024/05/31 01:18:01 - mmengine - INFO - Iter(train) [1180/6501]  lr: 1.8822e-04  eta: 1:54:20  time: 1.2019  data_time: 0.0080  memory: 12061  loss: 1.0141
+2024/05/31 01:18:13 - mmengine - INFO - Iter(train) [1190/6501]  lr: 1.8799e-04  eta: 1:54:03  time: 1.2040  data_time: 0.0082  memory: 12061  loss: 1.0101
+2024/05/31 01:18:25 - mmengine - INFO - Iter(train) [1200/6501]  lr: 1.8775e-04  eta: 1:53:46  time: 1.2045  data_time: 0.0085  memory: 12061  loss: 1.0097
+2024/05/31 01:18:37 - mmengine - INFO - Iter(train) [1210/6501]  lr: 1.8751e-04  eta: 1:53:30  time: 1.2017  data_time: 0.0081  memory: 12061  loss: 0.8898
+2024/05/31 01:18:49 - mmengine - INFO - Iter(train) [1220/6501]  lr: 1.8727e-04  eta: 1:53:13  time: 1.2038  data_time: 0.0081  memory: 12061  loss: 1.2003
+2024/05/31 01:19:01 - mmengine - INFO - Iter(train) [1230/6501]  lr: 1.8702e-04  eta: 1:52:57  time: 1.2015  data_time: 0.0079  memory: 12061  loss: 1.1403
+2024/05/31 01:19:13 - mmengine - INFO - Iter(train) [1240/6501]  lr: 1.8678e-04  eta: 1:52:40  time: 1.2041  data_time: 0.0080  memory: 12061  loss: 1.2020
+2024/05/31 01:19:25 - mmengine - INFO - Iter(train) [1250/6501]  lr: 1.8653e-04  eta: 1:52:24  time: 1.2033  data_time: 0.0079  memory: 12061  loss: 1.1048
+2024/05/31 01:19:37 - mmengine - INFO - Iter(train) [1260/6501]  lr: 1.8628e-04  eta: 1:52:08  time: 1.2024  data_time: 0.0084  memory: 12061  loss: 1.0565
+2024/05/31 01:19:49 - mmengine - INFO - Iter(train) [1270/6501]  lr: 1.8602e-04  eta: 1:51:52  time: 1.2035  data_time: 0.0077  memory: 12061  loss: 1.1320
+2024/05/31 01:20:01 - mmengine - INFO - Iter(train) [1280/6501]  lr: 1.8577e-04  eta: 1:51:36  time: 1.2039  data_time: 0.0081  memory: 12061  loss: 0.9980
+2024/05/31 01:20:13 - mmengine - INFO - Iter(train) [1290/6501]  lr: 1.8551e-04  eta: 1:51:19  time: 1.2009  data_time: 0.0075  memory: 12061  loss: 1.0350
+2024/05/31 01:20:25 - mmengine - INFO - Iter(train) [1300/6501]  lr: 1.8525e-04  eta: 1:51:03  time: 1.2031  data_time: 0.0074  memory: 12061  loss: 0.9017
+2024/05/31 01:20:37 - mmengine - INFO - Iter(train) [1310/6501]  lr: 1.8499e-04  eta: 1:50:47  time: 1.2014  data_time: 0.0077  memory: 12061  loss: 0.9189
+2024/05/31 01:20:49 - mmengine - INFO - Iter(train) [1320/6501]  lr: 1.8473e-04  eta: 1:50:32  time: 1.2029  data_time: 0.0075  memory: 12061  loss: 1.0562
+2024/05/31 01:21:02 - mmengine - INFO - Iter(train) [1330/6501]  lr: 1.8446e-04  eta: 1:50:16  time: 1.2121  data_time: 0.0079  memory: 12061  loss: 1.1998
+2024/05/31 01:21:14 - mmengine - INFO - Iter(train) [1340/6501]  lr: 1.8419e-04  eta: 1:50:00  time: 1.2006  data_time: 0.0075  memory: 12061  loss: 0.9886
+2024/05/31 01:21:26 - mmengine - INFO - Iter(train) [1350/6501]  lr: 1.8392e-04  eta: 1:49:45  time: 1.2028  data_time: 0.0075  memory: 12061  loss: 1.0980
+2024/05/31 01:21:38 - mmengine - INFO - Iter(train) [1360/6501]  lr: 1.8365e-04  eta: 1:49:29  time: 1.2033  data_time: 0.0076  memory: 12061  loss: 0.9990
+2024/05/31 01:21:50 - mmengine - INFO - Iter(train) [1370/6501]  lr: 1.8338e-04  eta: 1:49:13  time: 1.2004  data_time: 0.0074  memory: 12061  loss: 1.0007
+2024/05/31 01:22:02 - mmengine - INFO - Iter(train) [1380/6501]  lr: 1.8310e-04  eta: 1:48:58  time: 1.2032  data_time: 0.0077  memory: 12061  loss: 0.9489
+2024/05/31 01:22:14 - mmengine - INFO - Iter(train) [1390/6501]  lr: 1.8282e-04  eta: 1:48:42  time: 1.2011  data_time: 0.0075  memory: 12061  loss: 0.9322
+2024/05/31 01:22:26 - mmengine - INFO - Iter(train) [1400/6501]  lr: 1.8254e-04  eta: 1:48:27  time: 1.2030  data_time: 0.0075  memory: 12061  loss: 1.1827
+2024/05/31 01:22:38 - mmengine - INFO - Iter(train) [1410/6501]  lr: 1.8226e-04  eta: 1:48:11  time: 1.2038  data_time: 0.0079  memory: 12061  loss: 0.9651
+2024/05/31 01:22:50 - mmengine - INFO - Iter(train) [1420/6501]  lr: 1.8198e-04  eta: 1:47:56  time: 1.2014  data_time: 0.0079  memory: 12061  loss: 1.0686
+2024/05/31 01:23:02 - mmengine - INFO - Iter(train) [1430/6501]  lr: 1.8169e-04  eta: 1:47:41  time: 1.2038  data_time: 0.0079  memory: 12061  loss: 1.1207
+2024/05/31 01:23:14 - mmengine - INFO - Iter(train) [1440/6501]  lr: 1.8140e-04  eta: 1:47:26  time: 1.2035  data_time: 0.0077  memory: 12061  loss: 1.2147
+2024/05/31 01:23:26 - mmengine - INFO - Iter(train) [1450/6501]  lr: 1.8111e-04  eta: 1:47:10  time: 1.2011  data_time: 0.0077  memory: 12061  loss: 1.2001
+2024/05/31 01:23:38 - mmengine - INFO - Iter(train) [1460/6501]  lr: 1.8082e-04  eta: 1:46:55  time: 1.2026  data_time: 0.0074  memory: 12061  loss: 1.1682
+2024/05/31 01:23:50 - mmengine - INFO - Iter(train) [1470/6501]  lr: 1.8053e-04  eta: 1:46:40  time: 1.2010  data_time: 0.0075  memory: 12061  loss: 1.0409
+2024/05/31 01:24:02 - mmengine - INFO - Iter(train) [1480/6501]  lr: 1.8023e-04  eta: 1:46:25  time: 1.2033  data_time: 0.0077  memory: 12061  loss: 1.0336
+2024/05/31 01:24:14 - mmengine - INFO - Iter(train) [1490/6501]  lr: 1.7993e-04  eta: 1:46:10  time: 1.2032  data_time: 0.0077  memory: 12061  loss: 1.0501
+2024/05/31 01:24:26 - mmengine - INFO - Iter(train) [1500/6501]  lr: 1.7963e-04  eta: 1:45:55  time: 1.2014  data_time: 0.0077  memory: 12061  loss: 1.1010
+2024/05/31 01:24:26 - mmengine - INFO - after_train_iter in EvaluateChatHook.
+2024/05/31 01:24:41 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+糖尿病人的康复护理有哪些主要事项？<|im_end|>
+<|im_start|>assistant
+糖尿病的康复护理需要遵循以下主要事项：
+
+1. 饮食控制：糖尿病人需要控制饮食，避免高糖、高脂、高盐等食物，同时保证营养均衡。
+
+2. 运动锻炼：糖尿病人需要进行适当的运动锻炼，如散步、慢跑、游泳等，有助于控制血糖和体重。
+
+3. 药物治疗：糖尿病人需要按照医生的处方进行药物治疗，如口服药物或胰岛素注射等。
+
+4. 血糖监测：糖尿病人需要定期监测血糖，了解自己的血糖水平，及时调整治疗方案。
+
+5. 心理疏导：糖尿病人需要接受心理疏导，缓解压力和焦虑，保持积极的心态。
+
+6. 预防并发症：糖尿病人需要预防并发症，如糖尿病足、视网膜病变等，定期进行体检和检查。
+
+7. 健康教育：糖尿病人需要接受健康教育，了解糖尿病的相关知识，掌握自我管理技能，提高生活质量。
+
+以上是糖尿病的康复护理的主要事项，糖尿病人需要全面掌握这些知识，积极参与治疗和康复，以控制病情，提高生活质量。<|im_end|>
+
+2024/05/31 01:24:57 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+Please tell me five scenic spots in Shanghai<|im_end|>
+<|im_start|>assistant
+1. Yu Garden: Also known as the Classical Garden, Yu Garden is a traditional Chinese garden that dates back to the Ming Dynasty. It features a beautiful lake, rock formations, and traditional Chinese architecture.
+
+2. The Bund: The Bund is a famous waterfront area in Shanghai that offers stunning views of the city skyline. It's a popular spot for tourists and locals alike, and it's especially beautiful at night when the buildings are illuminated.
+
+3. Shanghai Tower: The Shanghai Tower is the tallest building in China and one of the tallest in the world. It offers breathtaking views of the city from its observation deck on the 118th floor.
+
+4. Zhujiajiao Water Town: Zhujiajiao Water Town is a picturesque water town located about an hour outside of Shanghai. It's known for its ancient architecture, canals, and traditional way of life.
+
+5. Longhua Temple: Longhua Temple is one of the oldest and most important temples in Shanghai. It features a beautiful pagoda, a large courtyard, and a variety of statues and carvings.<|im_end|>
+
+2024/05/31 01:24:57 - mmengine - INFO - Saving checkpoint at 1500 iterations
+2024/05/31 01:25:16 - mmengine - INFO - Iter(train) [1510/6501]  lr: 1.7933e-04  eta: 1:47:46  time: 5.0176  data_time: 3.8198  memory: 12061  loss: 1.2440
+2024/05/31 01:25:28 - mmengine - INFO - Iter(train) [1520/6501]  lr: 1.7902e-04  eta: 1:47:30  time: 1.2042  data_time: 0.0084  memory: 12061  loss: 1.1400
+2024/05/31 01:25:40 - mmengine - INFO - Iter(train) [1530/6501]  lr: 1.7872e-04  eta: 1:47:14  time: 1.2053  data_time: 0.0086  memory: 12061  loss: 1.0652
+2024/05/31 01:25:52 - mmengine - INFO - Iter(train) [1540/6501]  lr: 1.7841e-04  eta: 1:46:58  time: 1.2047  data_time: 0.0085  memory: 12061  loss: 1.0251
+2024/05/31 01:26:04 - mmengine - INFO - Iter(train) [1550/6501]  lr: 1.7810e-04  eta: 1:46:43  time: 1.2032  data_time: 0.0084  memory: 12061  loss: 0.9267
+2024/05/31 01:26:16 - mmengine - INFO - Iter(train) [1560/6501]  lr: 1.7779e-04  eta: 1:46:27  time: 1.2039  data_time: 0.0082  memory: 12061  loss: 1.0830
+2024/05/31 01:26:28 - mmengine - INFO - Iter(train) [1570/6501]  lr: 1.7747e-04  eta: 1:46:11  time: 1.2045  data_time: 0.0083  memory: 12061  loss: 0.9800
+2024/05/31 01:26:40 - mmengine - INFO - Iter(train) [1580/6501]  lr: 1.7716e-04  eta: 1:45:55  time: 1.2040  data_time: 0.0090  memory: 12061  loss: 1.0614
+2024/05/31 01:26:53 - mmengine - INFO - Iter(train) [1590/6501]  lr: 1.7684e-04  eta: 1:45:41  time: 1.2287  data_time: 0.0084  memory: 12061  loss: 0.9873
+2024/05/31 01:27:05 - mmengine - INFO - Iter(train) [1600/6501]  lr: 1.7652e-04  eta: 1:45:25  time: 1.2047  data_time: 0.0083  memory: 12061  loss: 1.0995
+2024/05/31 01:27:17 - mmengine - INFO - Iter(train) [1610/6501]  lr: 1.7620e-04  eta: 1:45:09  time: 1.2019  data_time: 0.0083  memory: 12061  loss: 1.1137
+2024/05/31 01:27:29 - mmengine - INFO - Iter(train) [1620/6501]  lr: 1.7587e-04  eta: 1:44:54  time: 1.2044  data_time: 0.0083  memory: 12061  loss: 1.0186
+2024/05/31 01:27:41 - mmengine - INFO - Iter(train) [1630/6501]  lr: 1.7555e-04  eta: 1:44:38  time: 1.2019  data_time: 0.0084  memory: 12061  loss: 1.1546
+2024/05/31 01:27:53 - mmengine - INFO - Iter(train) [1640/6501]  lr: 1.7522e-04  eta: 1:44:23  time: 1.2043  data_time: 0.0087  memory: 12061  loss: 1.1498
+2024/05/31 01:28:05 - mmengine - INFO - Iter(train) [1650/6501]  lr: 1.7489e-04  eta: 1:44:08  time: 1.2042  data_time: 0.0082  memory: 12061  loss: 1.0496
+2024/05/31 01:28:17 - mmengine - INFO - Iter(train) [1660/6501]  lr: 1.7456e-04  eta: 1:43:52  time: 1.2024  data_time: 0.0084  memory: 12061  loss: 1.0427
+2024/05/31 01:28:29 - mmengine - INFO - Iter(train) [1670/6501]  lr: 1.7423e-04  eta: 1:43:37  time: 1.2044  data_time: 0.0083  memory: 12061  loss: 1.1920
+2024/05/31 01:28:41 - mmengine - INFO - Iter(train) [1680/6501]  lr: 1.7389e-04  eta: 1:43:22  time: 1.2038  data_time: 0.0081  memory: 12061  loss: 1.0995
+2024/05/31 01:28:53 - mmengine - INFO - Iter(train) [1690/6501]  lr: 1.7356e-04  eta: 1:43:06  time: 1.2017  data_time: 0.0082  memory: 12061  loss: 1.0850
+2024/05/31 01:29:05 - mmengine - INFO - Iter(train) [1700/6501]  lr: 1.7322e-04  eta: 1:42:51  time: 1.2040  data_time: 0.0082  memory: 12061  loss: 0.8550
+2024/05/31 01:29:17 - mmengine - INFO - Iter(train) [1710/6501]  lr: 1.7288e-04  eta: 1:42:36  time: 1.2021  data_time: 0.0082  memory: 12061  loss: 1.0970
+2024/05/31 01:29:29 - mmengine - INFO - Iter(train) [1720/6501]  lr: 1.7254e-04  eta: 1:42:21  time: 1.2041  data_time: 0.0084  memory: 12061  loss: 1.1644
+2024/05/31 01:29:41 - mmengine - INFO - Iter(train) [1730/6501]  lr: 1.7219e-04  eta: 1:42:06  time: 1.2041  data_time: 0.0083  memory: 12061  loss: 0.9553
+2024/05/31 01:29:53 - mmengine - INFO - Iter(train) [1740/6501]  lr: 1.7185e-04  eta: 1:41:51  time: 1.2028  data_time: 0.0087  memory: 12061  loss: 1.0928
+2024/05/31 01:30:05 - mmengine - INFO - Iter(train) [1750/6501]  lr: 1.7150e-04  eta: 1:41:36  time: 1.2043  data_time: 0.0085  memory: 12061  loss: 1.1238
+2024/05/31 01:30:17 - mmengine - INFO - Iter(train) [1760/6501]  lr: 1.7115e-04  eta: 1:41:21  time: 1.2030  data_time: 0.0079  memory: 12061  loss: 1.1277
+2024/05/31 01:30:29 - mmengine - INFO - Iter(train) [1770/6501]  lr: 1.7080e-04  eta: 1:41:06  time: 1.1999  data_time: 0.0075  memory: 12061  loss: 0.9913
+2024/05/31 01:30:41 - mmengine - INFO - Iter(train) [1780/6501]  lr: 1.7045e-04  eta: 1:40:51  time: 1.2034  data_time: 0.0085  memory: 12061  loss: 1.1081
+2024/05/31 01:30:53 - mmengine - INFO - Iter(train) [1790/6501]  lr: 1.7009e-04  eta: 1:40:36  time: 1.2007  data_time: 0.0079  memory: 12061  loss: 1.0333
+2024/05/31 01:31:05 - mmengine - INFO - Iter(train) [1800/6501]  lr: 1.6974e-04  eta: 1:40:21  time: 1.2030  data_time: 0.0078  memory: 12061  loss: 1.0122
+2024/05/31 01:31:17 - mmengine - INFO - Iter(train) [1810/6501]  lr: 1.6938e-04  eta: 1:40:06  time: 1.2030  data_time: 0.0076  memory: 12061  loss: 1.4204
+2024/05/31 01:31:29 - mmengine - INFO - Iter(train) [1820/6501]  lr: 1.6902e-04  eta: 1:39:51  time: 1.2010  data_time: 0.0078  memory: 12061  loss: 1.0012
+2024/05/31 01:31:41 - mmengine - INFO - Iter(train) [1830/6501]  lr: 1.6866e-04  eta: 1:39:37  time: 1.2027  data_time: 0.0077  memory: 12061  loss: 1.1860
+2024/05/31 01:31:53 - mmengine - INFO - Iter(train) [1840/6501]  lr: 1.6829e-04  eta: 1:39:22  time: 1.2033  data_time: 0.0080  memory: 12061  loss: 0.9967
+2024/05/31 01:32:05 - mmengine - INFO - Iter(train) [1850/6501]  lr: 1.6793e-04  eta: 1:39:07  time: 1.2010  data_time: 0.0079  memory: 12061  loss: 1.0106
+2024/05/31 01:32:18 - mmengine - INFO - Iter(train) [1860/6501]  lr: 1.6756e-04  eta: 1:38:52  time: 1.2039  data_time: 0.0083  memory: 12061  loss: 1.2405
+2024/05/31 01:32:30 - mmengine - INFO - Iter(train) [1870/6501]  lr: 1.6719e-04  eta: 1:38:38  time: 1.2017  data_time: 0.0083  memory: 12061  loss: 1.0807
+2024/05/31 01:32:42 - mmengine - INFO - Iter(train) [1880/6501]  lr: 1.6682e-04  eta: 1:38:23  time: 1.2034  data_time: 0.0080  memory: 12061  loss: 1.0589
+2024/05/31 01:32:54 - mmengine - INFO - Iter(train) [1890/6501]  lr: 1.6645e-04  eta: 1:38:09  time: 1.2041  data_time: 0.0083  memory: 12061  loss: 0.8685
+2024/05/31 01:33:06 - mmengine - INFO - Iter(train) [1900/6501]  lr: 1.6608e-04  eta: 1:37:54  time: 1.2020  data_time: 0.0083  memory: 12061  loss: 1.1352
+2024/05/31 01:33:18 - mmengine - INFO - Iter(train) [1910/6501]  lr: 1.6570e-04  eta: 1:37:39  time: 1.2030  data_time: 0.0078  memory: 12061  loss: 0.9943
+2024/05/31 01:33:30 - mmengine - INFO - Iter(train) [1920/6501]  lr: 1.6533e-04  eta: 1:37:25  time: 1.2031  data_time: 0.0076  memory: 12061  loss: 1.0178
+2024/05/31 01:33:42 - mmengine - INFO - Iter(train) [1930/6501]  lr: 1.6495e-04  eta: 1:37:10  time: 1.2006  data_time: 0.0076  memory: 12061  loss: 1.0713
+2024/05/31 01:33:54 - mmengine - INFO - Iter(train) [1940/6501]  lr: 1.6457e-04  eta: 1:36:56  time: 1.2030  data_time: 0.0076  memory: 12061  loss: 0.9764
+2024/05/31 01:34:06 - mmengine - INFO - Iter(train) [1950/6501]  lr: 1.6419e-04  eta: 1:36:41  time: 1.2015  data_time: 0.0080  memory: 12061  loss: 1.2027
+2024/05/31 01:34:18 - mmengine - INFO - Iter(train) [1960/6501]  lr: 1.6381e-04  eta: 1:36:27  time: 1.2033  data_time: 0.0078  memory: 12061  loss: 1.2813
+2024/05/31 01:34:30 - mmengine - INFO - Iter(train) [1970/6501]  lr: 1.6342e-04  eta: 1:36:13  time: 1.2028  data_time: 0.0075  memory: 12061  loss: 1.1269
+2024/05/31 01:34:42 - mmengine - INFO - Iter(train) [1980/6501]  lr: 1.6304e-04  eta: 1:35:58  time: 1.2007  data_time: 0.0076  memory: 12061  loss: 0.9761
+2024/05/31 01:34:54 - mmengine - INFO - Iter(train) [1990/6501]  lr: 1.6265e-04  eta: 1:35:44  time: 1.2031  data_time: 0.0076  memory: 12061  loss: 1.0793
+2024/05/31 01:35:06 - mmengine - INFO - Exp name: customised_internlm2_chat_7b_qlora_oasst1_e3_20240531_003647
+2024/05/31 01:35:06 - mmengine - INFO - Iter(train) [2000/6501]  lr: 1.6226e-04  eta: 1:35:30  time: 1.2033  data_time: 0.0078  memory: 12061  loss: 1.1163
+2024/05/31 01:35:06 - mmengine - INFO - after_train_iter in EvaluateChatHook.
+2024/05/31 01:35:18 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+糖尿病人的康复护理有哪些主要事项？<|im_end|>
+<|im_start|>assistant
+糖尿病康复护理的主要事项包括：
+
+1. 饮食控制：糖尿病患者需要严格控制饮食，避免高糖、高脂肪、高盐等食物，多吃蔬菜、水果、全谷类食物等低糖、低脂、低盐食物。
+
+2. 运动锻炼：适当的运动可以帮助糖尿病患者控制血糖，增强身体素质。但运动前应咨询医生，选择适合自己的运动方式和强度。
+
+3. 监测血糖：糖尿病患者需要定期监测血糖，了解自己的血糖变化，及时调整饮食和运动计划。
+
+4. 药物治疗：糖尿病患者需要按照医生的建议，按时服药，控制血糖。
+
+5. 心理疏导：糖尿病患者需要保持积极的心态，避免情绪波动对血糖的影响。
+
+6. 定期复查：糖尿病患者需要定期到医院复查，了解病情变化，及时调整治疗方案。<|im_end|>
+
+2024/05/31 01:35:35 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+Please tell me five scenic spots in Shanghai<|im_end|>
+<|im_start|>assistant
+1. The Bund: The Bund is one of the most famous landmarks in Shanghai, located along the Huangpu River. It features a row of colonial-era buildings and is a great spot to watch the sunset over the river.
+
+2. Yuyuan Garden: Yuyuan Garden is a traditional Chinese garden located in the heart of Shanghai's Old Town. It features a beautiful lake, rock formations, and pavilions, and is a great place to relax and enjoy the scenery.
+
+3. Shanghai Tower: The Shanghai Tower is the tallest building in China and one of the tallest in the world. It offers stunning views of the city from its observation deck on the 118th floor.
+
+4. Zhujiajiao Water Town: Zhujiajiao Water Town is a picturesque village located just outside of Shanghai. It features traditional architecture, canals, and bridges, and is a great place to explore on foot or by boat.
+
+5. Jade Buddha Temple: The Jade Buddha Temple is a Buddhist temple located in the heart of Shanghai. It features a beautiful courtyard, a large hall with a Jade Buddha statue, and a collection of other Buddha statues and artifacts.<|im_end|>
+
+2024/05/31 01:35:35 - mmengine - INFO - Saving checkpoint at 2000 iterations
+2024/05/31 01:35:54 - mmengine - INFO - Iter(train) [2010/6501]  lr: 1.6187e-04  eta: 1:36:36  time: 4.8135  data_time: 3.6182  memory: 12061  loss: 1.1804
+2024/05/31 01:36:06 - mmengine - INFO - Iter(train) [2020/6501]  lr: 1.6148e-04  eta: 1:36:21  time: 1.2039  data_time: 0.0079  memory: 12061  loss: 1.0312
+2024/05/31 01:36:18 - mmengine - INFO - Iter(train) [2030/6501]  lr: 1.6108e-04  eta: 1:36:06  time: 1.2012  data_time: 0.0076  memory: 12061  loss: 1.1015
+2024/05/31 01:36:30 - mmengine - INFO - Iter(train) [2040/6501]  lr: 1.6069e-04  eta: 1:35:51  time: 1.2034  data_time: 0.0077  memory: 12061  loss: 1.3194
+2024/05/31 01:36:42 - mmengine - INFO - Iter(train) [2050/6501]  lr: 1.6029e-04  eta: 1:35:37  time: 1.2042  data_time: 0.0083  memory: 12061  loss: 1.0962
+2024/05/31 01:36:54 - mmengine - INFO - Iter(train) [2060/6501]  lr: 1.5989e-04  eta: 1:35:22  time: 1.2026  data_time: 0.0085  memory: 12061  loss: 1.0163
+2024/05/31 01:37:06 - mmengine - INFO - Iter(train) [2070/6501]  lr: 1.5949e-04  eta: 1:35:07  time: 1.2031  data_time: 0.0079  memory: 12061  loss: 0.9057
+2024/05/31 01:37:18 - mmengine - INFO - Iter(train) [2080/6501]  lr: 1.5909e-04  eta: 1:34:53  time: 1.2035  data_time: 0.0078  memory: 12061  loss: 1.2048
+2024/05/31 01:37:30 - mmengine - INFO - Iter(train) [2090/6501]  lr: 1.5869e-04  eta: 1:34:38  time: 1.2014  data_time: 0.0078  memory: 12061  loss: 0.9732
+2024/05/31 01:37:42 - mmengine - INFO - Iter(train) [2100/6501]  lr: 1.5829e-04  eta: 1:34:23  time: 1.2024  data_time: 0.0072  memory: 12061  loss: 1.1120
+2024/05/31 01:37:54 - mmengine - INFO - Iter(train) [2110/6501]  lr: 1.5788e-04  eta: 1:34:09  time: 1.2009  data_time: 0.0074  memory: 12061  loss: 0.9661
+2024/05/31 01:38:06 - mmengine - INFO - Iter(train) [2120/6501]  lr: 1.5747e-04  eta: 1:33:54  time: 1.2026  data_time: 0.0074  memory: 12061  loss: 1.0480
+2024/05/31 01:38:18 - mmengine - INFO - Iter(train) [2130/6501]  lr: 1.5706e-04  eta: 1:33:39  time: 1.2029  data_time: 0.0073  memory: 12061  loss: 0.9928
+2024/05/31 01:38:30 - mmengine - INFO - Iter(train) [2140/6501]  lr: 1.5665e-04  eta: 1:33:25  time: 1.2005  data_time: 0.0073  memory: 12061  loss: 1.1234
+2024/05/31 01:38:42 - mmengine - INFO - Iter(train) [2150/6501]  lr: 1.5624e-04  eta: 1:33:10  time: 1.2026  data_time: 0.0073  memory: 12061  loss: 0.9883
+2024/05/31 01:38:54 - mmengine - INFO - Iter(train) [2160/6501]  lr: 1.5583e-04  eta: 1:32:56  time: 1.2033  data_time: 0.0075  memory: 12061  loss: 1.0269
+2024/05/31 01:39:03 - mmengine - INFO - Exp name: customised_internlm2_chat_7b_qlora_oasst1_e3_20240531_003647
+2024/05/31 01:39:03 - mmengine - WARNING - Reach the end of the dataloader, it will be restarted and continue to iterate. It is recommended to use `mmengine.dataset.InfiniteSampler` to enable the dataloader to iterate infinitely.
+2024/05/31 01:39:08 - mmengine - INFO - Iter(train) [2170/6501]  lr: 1.5542e-04  eta: 1:32:45  time: 1.4024  data_time: 0.2080  memory: 12061  loss: 1.0769
+2024/05/31 01:39:20 - mmengine - INFO - Iter(train) [2180/6501]  lr: 1.5500e-04  eta: 1:32:31  time: 1.2027  data_time: 0.0075  memory: 12061  loss: 1.1971
+2024/05/31 01:39:32 - mmengine - INFO - Iter(train) [2190/6501]  lr: 1.5459e-04  eta: 1:32:16  time: 1.2019  data_time: 0.0076  memory: 12061  loss: 1.0089
+2024/05/31 01:39:45 - mmengine - INFO - Iter(train) [2200/6501]  lr: 1.5417e-04  eta: 1:32:02  time: 1.2040  data_time: 0.0074  memory: 12061  loss: 0.9492
+2024/05/31 01:39:57 - mmengine - INFO - Iter(train) [2210/6501]  lr: 1.5375e-04  eta: 1:31:48  time: 1.2031  data_time: 0.0074  memory: 12061  loss: 0.9302
+2024/05/31 01:40:09 - mmengine - INFO - Iter(train) [2220/6501]  lr: 1.5333e-04  eta: 1:31:33  time: 1.2013  data_time: 0.0075  memory: 12061  loss: 1.1924
+2024/05/31 01:40:21 - mmengine - INFO - Iter(train) [2230/6501]  lr: 1.5290e-04  eta: 1:31:19  time: 1.2037  data_time: 0.0075  memory: 12061  loss: 0.9673
+2024/05/31 01:40:33 - mmengine - INFO - Iter(train) [2240/6501]  lr: 1.5248e-04  eta: 1:31:04  time: 1.2036  data_time: 0.0074  memory: 12061  loss: 0.9338
+2024/05/31 01:40:45 - mmengine - INFO - Iter(train) [2250/6501]  lr: 1.5206e-04  eta: 1:30:50  time: 1.2009  data_time: 0.0073  memory: 12061  loss: 1.0300
+2024/05/31 01:40:57 - mmengine - INFO - Iter(train) [2260/6501]  lr: 1.5163e-04  eta: 1:30:36  time: 1.2032  data_time: 0.0074  memory: 12061  loss: 1.2616
+2024/05/31 01:41:09 - mmengine - INFO - Iter(train) [2270/6501]  lr: 1.5120e-04  eta: 1:30:21  time: 1.2022  data_time: 0.0078  memory: 12061  loss: 0.9938
+2024/05/31 01:41:21 - mmengine - INFO - Iter(train) [2280/6501]  lr: 1.5077e-04  eta: 1:30:07  time: 1.2036  data_time: 0.0077  memory: 12061  loss: 0.9175
+2024/05/31 01:41:33 - mmengine - INFO - Iter(train) [2290/6501]  lr: 1.5034e-04  eta: 1:29:53  time: 1.2031  data_time: 0.0074  memory: 12061  loss: 0.9234
+2024/05/31 01:41:45 - mmengine - INFO - Iter(train) [2300/6501]  lr: 1.4991e-04  eta: 1:29:39  time: 1.2012  data_time: 0.0074  memory: 12061  loss: 1.1221
+2024/05/31 01:41:57 - mmengine - INFO - Iter(train) [2310/6501]  lr: 1.4948e-04  eta: 1:29:24  time: 1.2034  data_time: 0.0076  memory: 12061  loss: 1.0868
+2024/05/31 01:42:09 - mmengine - INFO - Iter(train) [2320/6501]  lr: 1.4905e-04  eta: 1:29:10  time: 1.2034  data_time: 0.0075  memory: 12061  loss: 1.0477
+2024/05/31 01:42:21 - mmengine - INFO - Iter(train) [2330/6501]  lr: 1.4861e-04  eta: 1:28:56  time: 1.2012  data_time: 0.0074  memory: 12061  loss: 1.1082
+2024/05/31 01:42:33 - mmengine - INFO - Iter(train) [2340/6501]  lr: 1.4818e-04  eta: 1:28:42  time: 1.2036  data_time: 0.0077  memory: 12061  loss: 1.1745
+2024/05/31 01:42:45 - mmengine - INFO - Iter(train) [2350/6501]  lr: 1.4774e-04  eta: 1:28:28  time: 1.2005  data_time: 0.0072  memory: 12061  loss: 0.8909
+2024/05/31 01:42:57 - mmengine - INFO - Iter(train) [2360/6501]  lr: 1.4730e-04  eta: 1:28:14  time: 1.2029  data_time: 0.0074  memory: 12061  loss: 1.4443
+2024/05/31 01:43:09 - mmengine - INFO - Iter(train) [2370/6501]  lr: 1.4686e-04  eta: 1:28:00  time: 1.2031  data_time: 0.0074  memory: 12061  loss: 0.8720
+2024/05/31 01:43:21 - mmengine - INFO - Iter(train) [2380/6501]  lr: 1.4642e-04  eta: 1:27:45  time: 1.2011  data_time: 0.0073  memory: 12061  loss: 0.9915
+2024/05/31 01:43:33 - mmengine - INFO - Iter(train) [2390/6501]  lr: 1.4598e-04  eta: 1:27:31  time: 1.2029  data_time: 0.0073  memory: 12061  loss: 0.8502
+2024/05/31 01:43:45 - mmengine - INFO - Iter(train) [2400/6501]  lr: 1.4554e-04  eta: 1:27:17  time: 1.2033  data_time: 0.0073  memory: 12061  loss: 0.9661
+2024/05/31 01:43:57 - mmengine - INFO - Iter(train) [2410/6501]  lr: 1.4509e-04  eta: 1:27:03  time: 1.2010  data_time: 0.0073  memory: 12061  loss: 1.1109
+2024/05/31 01:44:09 - mmengine - INFO - Iter(train) [2420/6501]  lr: 1.4465e-04  eta: 1:26:49  time: 1.2029  data_time: 0.0073  memory: 12061  loss: 1.0085
+2024/05/31 01:44:21 - mmengine - INFO - Iter(train) [2430/6501]  lr: 1.4420e-04  eta: 1:26:35  time: 1.2010  data_time: 0.0073  memory: 12061  loss: 0.9115
+2024/05/31 01:44:33 - mmengine - INFO - Iter(train) [2440/6501]  lr: 1.4375e-04  eta: 1:26:21  time: 1.2030  data_time: 0.0072  memory: 12061  loss: 1.1713
+2024/05/31 01:44:45 - mmengine - INFO - Iter(train) [2450/6501]  lr: 1.4330e-04  eta: 1:26:07  time: 1.2029  data_time: 0.0073  memory: 12061  loss: 1.0258
+2024/05/31 01:44:57 - mmengine - INFO - Iter(train) [2460/6501]  lr: 1.4286e-04  eta: 1:25:53  time: 1.2013  data_time: 0.0073  memory: 12061  loss: 1.1392
+2024/05/31 01:45:09 - mmengine - INFO - Iter(train) [2470/6501]  lr: 1.4240e-04  eta: 1:25:39  time: 1.2034  data_time: 0.0074  memory: 12061  loss: 0.9287
+2024/05/31 01:45:21 - mmengine - INFO - Iter(train) [2480/6501]  lr: 1.4195e-04  eta: 1:25:25  time: 1.2031  data_time: 0.0072  memory: 12061  loss: 0.8883
+2024/05/31 01:45:33 - mmengine - INFO - Iter(train) [2490/6501]  lr: 1.4150e-04  eta: 1:25:11  time: 1.2009  data_time: 0.0072  memory: 12061  loss: 1.0203
+2024/05/31 01:45:45 - mmengine - INFO - Iter(train) [2500/6501]  lr: 1.4105e-04  eta: 1:24:58  time: 1.2035  data_time: 0.0072  memory: 12061  loss: 0.8634
+2024/05/31 01:45:45 - mmengine - INFO - after_train_iter in EvaluateChatHook.
+2024/05/31 01:46:01 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+糖尿病人的康复护理有哪些主要事项？<|im_end|>
+<|im_start|>assistant
+对于糖尿病患者的康复护理，主要包括以下几个方面的事项：
+
+饮食控制：饮食控制是糖尿病治疗的基础。糖尿病患者应该遵循低糖、低脂、低盐、高纤维、适量蛋白质的饮食原则，控制总热量摄入，避免暴饮暴食。
+
+药物治疗：糖尿病患者需要按照医生的建议进行药物治疗，包括口服降糖药、胰岛素注射等，以控制血糖水平。
+
+运动锻炼：适当的运动锻炼可以帮助糖尿病患者控制血糖，增强身体素质，减少并发症的发生。建议糖尿病患者每天进行30分钟以上的有氧运动，如快走、骑车、游泳等。
+
+定期检测：糖尿病患者需要定期检测血糖、血压、血脂等指标，以便及时调整治疗方案，控制病情。
+
+心理调养：糖尿病是一种慢性病，患者需要长期面对病情，容易产生焦虑、抑郁等情绪。因此，糖尿病患者需要注意心理调养，保持乐观心态，积极面对疾病。
+
+总之，糖尿病患者的康复护理需要全面、系统地进行，包括饮食、药物治疗、运动锻炼、定期检测和心理调养等方面。只有全面地进行康复护理，才能有效地控制糖尿病，提高生活质量。<|im_end|>
+
+2024/05/31 01:46:13 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+Please tell me five scenic spots in Shanghai<|im_end|>
+<|im_start|>assistant
+Sure, here are five scenic spots in Shanghai:
+
+1. Yu Garden (Yuyuan Garden) - a classical Chinese garden with a history of over 500 years, featuring pavilions, bridges, and a beautiful lake.
+2. The Bund - a famous waterfront area along the Huangpu River, known for its historic buildings and stunning views of the city skyline.
+3. Zhujiajiao Ancient Town - a picturesque water town located just outside of Shanghai, with canals, bridges, and traditional architecture.
+4. Shanghai Tower - a 632-meter-tall skyscraper that offers panoramic views of the city from its observation deck.
+5. Xintiandi - a trendy pedestrian street in the heart of the city, with a mix of historic buildings, boutiques, and restaurants.<|im_end|>
+
+2024/05/31 01:46:13 - mmengine - INFO - Saving checkpoint at 2500 iterations
+2024/05/31 01:46:32 - mmengine - INFO - Iter(train) [2510/6501]  lr: 1.4059e-04  eta: 1:25:38  time: 4.6280  data_time: 3.4324  memory: 12061  loss: 0.9522
+2024/05/31 01:46:44 - mmengine - INFO - Iter(train) [2520/6501]  lr: 1.4014e-04  eta: 1:25:24  time: 1.2026  data_time: 0.0074  memory: 12061  loss: 0.8538
+2024/05/31 01:46:56 - mmengine - INFO - Iter(train) [2530/6501]  lr: 1.3968e-04  eta: 1:25:10  time: 1.2029  data_time: 0.0074  memory: 12061  loss: 1.0436
+2024/05/31 01:47:08 - mmengine - INFO - Iter(train) [2540/6501]  lr: 1.3922e-04  eta: 1:24:56  time: 1.2011  data_time: 0.0076  memory: 12061  loss: 1.1696
+2024/05/31 01:47:20 - mmengine - INFO - Iter(train) [2550/6501]  lr: 1.3876e-04  eta: 1:24:41  time: 1.2022  data_time: 0.0073  memory: 12061  loss: 0.8995
+2024/05/31 01:47:32 - mmengine - INFO - Iter(train) [2560/6501]  lr: 1.3830e-04  eta: 1:24:27  time: 1.2024  data_time: 0.0073  memory: 12061  loss: 1.1057
+2024/05/31 01:47:44 - mmengine - INFO - Iter(train) [2570/6501]  lr: 1.3784e-04  eta: 1:24:13  time: 1.2001  data_time: 0.0072  memory: 12061  loss: 0.9275
+2024/05/31 01:47:56 - mmengine - INFO - Iter(train) [2580/6501]  lr: 1.3738e-04  eta: 1:23:59  time: 1.2026  data_time: 0.0075  memory: 12061  loss: 0.8399
+2024/05/31 01:48:08 - mmengine - INFO - Iter(train) [2590/6501]  lr: 1.3692e-04  eta: 1:23:45  time: 1.2008  data_time: 0.0075  memory: 12061  loss: 0.9323
+2024/05/31 01:48:20 - mmengine - INFO - Iter(train) [2600/6501]  lr: 1.3645e-04  eta: 1:23:31  time: 1.2042  data_time: 0.0089  memory: 12061  loss: 0.8508
+2024/05/31 01:48:32 - mmengine - INFO - Iter(train) [2610/6501]  lr: 1.3599e-04  eta: 1:23:17  time: 1.2022  data_time: 0.0072  memory: 12061  loss: 1.0591
+2024/05/31 01:48:44 - mmengine - INFO - Iter(train) [2620/6501]  lr: 1.3552e-04  eta: 1:23:03  time: 1.2001  data_time: 0.0072  memory: 12061  loss: 1.0173
+2024/05/31 01:48:56 - mmengine - INFO - Iter(train) [2630/6501]  lr: 1.3506e-04  eta: 1:22:49  time: 1.2023  data_time: 0.0072  memory: 12061  loss: 0.9968
+2024/05/31 01:49:08 - mmengine - INFO - Iter(train) [2640/6501]  lr: 1.3459e-04  eta: 1:22:35  time: 1.2027  data_time: 0.0073  memory: 12061  loss: 0.7864
+2024/05/31 01:49:20 - mmengine - INFO - Iter(train) [2650/6501]  lr: 1.3412e-04  eta: 1:22:20  time: 1.2006  data_time: 0.0072  memory: 12061  loss: 0.8978
+2024/05/31 01:49:32 - mmengine - INFO - Iter(train) [2660/6501]  lr: 1.3366e-04  eta: 1:22:07  time: 1.2029  data_time: 0.0073  memory: 12061  loss: 0.9590
+2024/05/31 01:49:44 - mmengine - INFO - Iter(train) [2670/6501]  lr: 1.3319e-04  eta: 1:21:52  time: 1.2002  data_time: 0.0072  memory: 12061  loss: 1.0784
+2024/05/31 01:49:56 - mmengine - INFO - Iter(train) [2680/6501]  lr: 1.3272e-04  eta: 1:21:39  time: 1.2021  data_time: 0.0072  memory: 12061  loss: 0.9218
+2024/05/31 01:50:08 - mmengine - INFO - Iter(train) [2690/6501]  lr: 1.3224e-04  eta: 1:21:25  time: 1.2023  data_time: 0.0074  memory: 12061  loss: 1.0914
+2024/05/31 01:50:20 - mmengine - INFO - Iter(train) [2700/6501]  lr: 1.3177e-04  eta: 1:21:11  time: 1.2002  data_time: 0.0073  memory: 12061  loss: 1.0376
+2024/05/31 01:50:32 - mmengine - INFO - Iter(train) [2710/6501]  lr: 1.3130e-04  eta: 1:20:57  time: 1.2028  data_time: 0.0073  memory: 12061  loss: 0.9228
+2024/05/31 01:50:44 - mmengine - INFO - Iter(train) [2720/6501]  lr: 1.3083e-04  eta: 1:20:43  time: 1.2131  data_time: 0.0081  memory: 12061  loss: 0.9433
+2024/05/31 01:50:56 - mmengine - INFO - Iter(train) [2730/6501]  lr: 1.3035e-04  eta: 1:20:29  time: 1.2004  data_time: 0.0074  memory: 12061  loss: 1.3012
+2024/05/31 01:51:08 - mmengine - INFO - Iter(train) [2740/6501]  lr: 1.2988e-04  eta: 1:20:15  time: 1.2030  data_time: 0.0076  memory: 12061  loss: 0.9789
+2024/05/31 01:51:20 - mmengine - INFO - Iter(train) [2750/6501]  lr: 1.2940e-04  eta: 1:20:01  time: 1.2005  data_time: 0.0074  memory: 12061  loss: 1.1957
+2024/05/31 01:51:32 - mmengine - INFO - Iter(train) [2760/6501]  lr: 1.2892e-04  eta: 1:19:47  time: 1.2028  data_time: 0.0074  memory: 12061  loss: 0.8304
+2024/05/31 01:51:44 - mmengine - INFO - Iter(train) [2770/6501]  lr: 1.2845e-04  eta: 1:19:34  time: 1.2022  data_time: 0.0072  memory: 12061  loss: 1.2251
+2024/05/31 01:51:56 - mmengine - INFO - Iter(train) [2780/6501]  lr: 1.2797e-04  eta: 1:19:20  time: 1.2008  data_time: 0.0076  memory: 12061  loss: 0.9268
+2024/05/31 01:52:08 - mmengine - INFO - Iter(train) [2790/6501]  lr: 1.2749e-04  eta: 1:19:06  time: 1.2032  data_time: 0.0077  memory: 12061  loss: 1.2749
+2024/05/31 01:52:20 - mmengine - INFO - Iter(train) [2800/6501]  lr: 1.2701e-04  eta: 1:18:52  time: 1.2035  data_time: 0.0078  memory: 12061  loss: 1.0177
+2024/05/31 01:52:32 - mmengine - INFO - Iter(train) [2810/6501]  lr: 1.2653e-04  eta: 1:18:38  time: 1.2005  data_time: 0.0074  memory: 12061  loss: 1.1001
+2024/05/31 01:52:44 - mmengine - INFO - Iter(train) [2820/6501]  lr: 1.2605e-04  eta: 1:18:25  time: 1.2026  data_time: 0.0073  memory: 12061  loss: 0.9556
+2024/05/31 01:52:56 - mmengine - INFO - Iter(train) [2830/6501]  lr: 1.2557e-04  eta: 1:18:11  time: 1.2001  data_time: 0.0072  memory: 12061  loss: 1.0312
+2024/05/31 01:53:08 - mmengine - INFO - Iter(train) [2840/6501]  lr: 1.2509e-04  eta: 1:17:57  time: 1.2022  data_time: 0.0074  memory: 12061  loss: 0.9909
+2024/05/31 01:53:20 - mmengine - INFO - Iter(train) [2850/6501]  lr: 1.2460e-04  eta: 1:17:43  time: 1.2019  data_time: 0.0071  memory: 12061  loss: 0.9580
+2024/05/31 01:53:32 - mmengine - INFO - Iter(train) [2860/6501]  lr: 1.2412e-04  eta: 1:17:29  time: 1.2008  data_time: 0.0077  memory: 12061  loss: 1.0142
+2024/05/31 01:53:44 - mmengine - INFO - Iter(train) [2870/6501]  lr: 1.2364e-04  eta: 1:17:16  time: 1.2021  data_time: 0.0072  memory: 12061  loss: 1.0281
+2024/05/31 01:53:56 - mmengine - INFO - Iter(train) [2880/6501]  lr: 1.2315e-04  eta: 1:17:02  time: 1.2028  data_time: 0.0076  memory: 12061  loss: 0.9889
+2024/05/31 01:54:08 - mmengine - INFO - Iter(train) [2890/6501]  lr: 1.2267e-04  eta: 1:16:48  time: 1.2004  data_time: 0.0074  memory: 12061  loss: 1.0146
+2024/05/31 01:54:20 - mmengine - INFO - Iter(train) [2900/6501]  lr: 1.2218e-04  eta: 1:16:35  time: 1.2022  data_time: 0.0073  memory: 12061  loss: 1.2013
+2024/05/31 01:54:32 - mmengine - INFO - Iter(train) [2910/6501]  lr: 1.2170e-04  eta: 1:16:21  time: 1.2005  data_time: 0.0073  memory: 12061  loss: 1.1417
+2024/05/31 01:54:44 - mmengine - INFO - Iter(train) [2920/6501]  lr: 1.2121e-04  eta: 1:16:07  time: 1.2025  data_time: 0.0076  memory: 12061  loss: 1.0587
+2024/05/31 01:54:56 - mmengine - INFO - Iter(train) [2930/6501]  lr: 1.2072e-04  eta: 1:15:54  time: 1.2024  data_time: 0.0074  memory: 12061  loss: 0.9892
+2024/05/31 01:55:08 - mmengine - INFO - Iter(train) [2940/6501]  lr: 1.2024e-04  eta: 1:15:40  time: 1.2005  data_time: 0.0076  memory: 12061  loss: 1.0466
+2024/05/31 01:55:20 - mmengine - INFO - Iter(train) [2950/6501]  lr: 1.1975e-04  eta: 1:15:26  time: 1.2029  data_time: 0.0077  memory: 12061  loss: 1.0646
+2024/05/31 01:55:32 - mmengine - INFO - Iter(train) [2960/6501]  lr: 1.1926e-04  eta: 1:15:13  time: 1.2028  data_time: 0.0076  memory: 12061  loss: 0.9756
+2024/05/31 01:55:44 - mmengine - INFO - Iter(train) [2970/6501]  lr: 1.1877e-04  eta: 1:14:59  time: 1.2004  data_time: 0.0073  memory: 12061  loss: 0.9478
+2024/05/31 01:55:57 - mmengine - INFO - Iter(train) [2980/6501]  lr: 1.1828e-04  eta: 1:14:46  time: 1.2025  data_time: 0.0073  memory: 12061  loss: 0.9530
+2024/05/31 01:56:09 - mmengine - INFO - Iter(train) [2990/6501]  lr: 1.1779e-04  eta: 1:14:32  time: 1.2010  data_time: 0.0078  memory: 12061  loss: 0.9902
+2024/05/31 01:56:21 - mmengine - INFO - Exp name: customised_internlm2_chat_7b_qlora_oasst1_e3_20240531_003647
+2024/05/31 01:56:21 - mmengine - INFO - Iter(train) [3000/6501]  lr: 1.1730e-04  eta: 1:14:18  time: 1.2024  data_time: 0.0074  memory: 12061  loss: 0.9808
+2024/05/31 01:56:21 - mmengine - INFO - after_train_iter in EvaluateChatHook.
+2024/05/31 01:56:40 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+糖尿病人的康复护理有哪些主要事项？<|im_end|>
+<|im_start|>assistant
+糖尿病是一种慢性代谢性疾病，需要长期治疗和康复护理。以下是糖尿病康复护理的主要事项：
+
+1. 饮食控制：饮食控制是糖尿病康复护理的重要措施之一。糖尿病患者应该遵循低糖、低脂、低盐、高纤维的饮食原则，控制总热量摄入，避免暴饮暴食。
+
+2. 运动锻炼：适当的运动锻炼可以帮助糖尿病患者控制血糖水平，增强身体代谢能力，预防并发症。建议糖尿病患者进行适量的有氧运动，如散步、慢跑、游泳等。
+
+3. 血糖监测：糖尿病患者需要定期监测血糖水平，及时调整治疗方案。可以使用家用血糖仪进行自我监测，或者定期到医院进行血糖检测。
+
+4. 药物治疗：糖尿病患者需要根据医生的建议进行药物治疗，如口服降糖药或胰岛素注射等。
+
+5. 心理调节：糖尿病是一种慢性病，需要长期治疗和康复护理，糖尿病患者需要保持积极的心态，避免情绪波动和焦虑。
+
+6. 预防并发症：糖尿病患者需要预防并发症的发生，如糖尿病足、糖尿病视网膜病变、糖尿病肾病等。定期进行相关检查，如足部检查、眼科检查等，及时发现和治疗并发症。
+
+总之，糖尿病康复护理需要综合考虑饮食、运动、药物治疗、心理调节、预防并发症等多个方面，糖尿病患者需要积极配合医生的治疗，定期进行康复护理，才能有效地控制血糖水平，预防并发症的发生。<|im_end|>
+
+2024/05/31 01:57:02 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+Please tell me five scenic spots in Shanghai<|im_end|>
+<|im_start|>assistant
+1. The Bund: The Bund is a famous waterfront promenade located in the heart of Shanghai. It offers stunning views of the city's skyline and the Huangpu River. The Bund is also home to many historic buildings and landmarks, including the Shanghai Tower, the Oriental Pearl Tower, and the Customs House.
+
+2. Yu Garden: Yu Garden is a classical Chinese garden located in the center of Shanghai. It is one of the oldest and most famous gardens in the city, dating back to the Ming Dynasty. The garden features traditional Chinese architecture, beautiful rock formations, and a tranquil lake.
+
+3. Shanghai Tower: Shanghai Tower is a 632-meter-tall skyscraper located in the Pudong district of Shanghai. It is the second-tallest building in the world and offers breathtaking views of the city from its observation deck on the 118th floor.
+
+4. Zhujiajiao Water Town: Zhujiajiao Water Town is a picturesque water town located about 50 kilometers southwest of Shanghai. It is famous for its ancient architecture, narrow canals, and traditional way of life. Visitors can take a boat ride through the canals, visit local shops and restaurants, and explore the historic temples and bridges.
+
+5. Shanghai Disney Resort: Shanghai Disney Resort is a theme park located in the Pudong district of Shanghai. It features a wide range of attractions, shows, and entertainment options, as well as a variety of dining and shopping options. The park is designed to resemble a magical world and is a great place to visit with family and friends.<|im_end|>
+
+2024/05/31 01:57:02 - mmengine - INFO - Saving checkpoint at 3000 iterations
+2024/05/31 01:57:21 - mmengine - INFO - Iter(train) [3010/6501]  lr: 1.1681e-04  eta: 1:15:01  time: 6.0781  data_time: 4.8801  memory: 12061  loss: 1.0087
+2024/05/31 01:57:33 - mmengine - INFO - Iter(train) [3020/6501]  lr: 1.1632e-04  eta: 1:14:47  time: 1.2015  data_time: 0.0075  memory: 12061  loss: 1.0881
+2024/05/31 01:57:45 - mmengine - INFO - Iter(train) [3030/6501]  lr: 1.1583e-04  eta: 1:14:34  time: 1.2039  data_time: 0.0075  memory: 12061  loss: 1.0240
+2024/05/31 01:57:57 - mmengine - INFO - Iter(train) [3040/6501]  lr: 1.1533e-04  eta: 1:14:20  time: 1.2036  data_time: 0.0074  memory: 12061  loss: 0.8500
+2024/05/31 01:58:09 - mmengine - INFO - Iter(train) [3050/6501]  lr: 1.1484e-04  eta: 1:14:06  time: 1.2010  data_time: 0.0074  memory: 12061  loss: 1.1218
+2024/05/31 01:58:21 - mmengine - INFO - Iter(train) [3060/6501]  lr: 1.1435e-04  eta: 1:13:52  time: 1.2027  data_time: 0.0073  memory: 12061  loss: 0.8582
+2024/05/31 01:58:33 - mmengine - INFO - Iter(train) [3070/6501]  lr: 1.1385e-04  eta: 1:13:38  time: 1.2010  data_time: 0.0072  memory: 12061  loss: 1.0747
+2024/05/31 01:58:45 - mmengine - INFO - Iter(train) [3080/6501]  lr: 1.1336e-04  eta: 1:13:24  time: 1.2026  data_time: 0.0071  memory: 12061  loss: 1.0438
+2024/05/31 01:58:58 - mmengine - INFO - Iter(train) [3090/6501]  lr: 1.1287e-04  eta: 1:13:11  time: 1.2043  data_time: 0.0078  memory: 12061  loss: 0.9636
+2024/05/31 01:59:10 - mmengine - INFO - Iter(train) [3100/6501]  lr: 1.1237e-04  eta: 1:12:57  time: 1.2022  data_time: 0.0079  memory: 12061  loss: 0.9985
+2024/05/31 01:59:22 - mmengine - INFO - Iter(train) [3110/6501]  lr: 1.1188e-04  eta: 1:12:43  time: 1.2042  data_time: 0.0080  memory: 12061  loss: 0.9531
+2024/05/31 01:59:34 - mmengine - INFO - Iter(train) [3120/6501]  lr: 1.1138e-04  eta: 1:12:29  time: 1.2044  data_time: 0.0083  memory: 12061  loss: 1.1090
+2024/05/31 01:59:46 - mmengine - INFO - Iter(train) [3130/6501]  lr: 1.1089e-04  eta: 1:12:15  time: 1.2021  data_time: 0.0082  memory: 12061  loss: 1.0227
+2024/05/31 01:59:58 - mmengine - INFO - Iter(train) [3140/6501]  lr: 1.1039e-04  eta: 1:12:02  time: 1.2045  data_time: 0.0084  memory: 12061  loss: 0.8505
+2024/05/31 02:00:10 - mmengine - INFO - Iter(train) [3150/6501]  lr: 1.0990e-04  eta: 1:11:48  time: 1.2022  data_time: 0.0083  memory: 12061  loss: 0.9272
+2024/05/31 02:00:22 - mmengine - INFO - Iter(train) [3160/6501]  lr: 1.0940e-04  eta: 1:11:34  time: 1.2045  data_time: 0.0084  memory: 12061  loss: 0.8069
+2024/05/31 02:00:34 - mmengine - INFO - Iter(train) [3170/6501]  lr: 1.0891e-04  eta: 1:11:20  time: 1.2042  data_time: 0.0084  memory: 12061  loss: 1.1166
+2024/05/31 02:00:46 - mmengine - INFO - Iter(train) [3180/6501]  lr: 1.0841e-04  eta: 1:11:07  time: 1.2026  data_time: 0.0083  memory: 12061  loss: 1.0255
+2024/05/31 02:00:58 - mmengine - INFO - Iter(train) [3190/6501]  lr: 1.0791e-04  eta: 1:10:53  time: 1.2049  data_time: 0.0083  memory: 12061  loss: 1.0687
+2024/05/31 02:01:10 - mmengine - INFO - Iter(train) [3200/6501]  lr: 1.0742e-04  eta: 1:10:40  time: 1.2140  data_time: 0.0084  memory: 12061  loss: 0.9054
+2024/05/31 02:01:22 - mmengine - INFO - Iter(train) [3210/6501]  lr: 1.0692e-04  eta: 1:10:26  time: 1.2024  data_time: 0.0082  memory: 12061  loss: 0.9506
+2024/05/31 02:01:34 - mmengine - INFO - Iter(train) [3220/6501]  lr: 1.0642e-04  eta: 1:10:12  time: 1.2047  data_time: 0.0083  memory: 12061  loss: 0.9225
+2024/05/31 02:01:46 - mmengine - INFO - Iter(train) [3230/6501]  lr: 1.0593e-04  eta: 1:09:59  time: 1.2031  data_time: 0.0085  memory: 12061  loss: 0.8665
+2024/05/31 02:01:58 - mmengine - INFO - Iter(train) [3240/6501]  lr: 1.0543e-04  eta: 1:09:45  time: 1.2051  data_time: 0.0083  memory: 12061  loss: 1.2500
+2024/05/31 02:02:10 - mmengine - INFO - Iter(train) [3250/6501]  lr: 1.0493e-04  eta: 1:09:31  time: 1.2089  data_time: 0.0085  memory: 12061  loss: 1.0450
+2024/05/31 02:02:22 - mmengine - INFO - Iter(train) [3260/6501]  lr: 1.0443e-04  eta: 1:09:18  time: 1.2029  data_time: 0.0082  memory: 12061  loss: 0.9551
+2024/05/31 02:02:34 - mmengine - INFO - Iter(train) [3270/6501]  lr: 1.0393e-04  eta: 1:09:04  time: 1.2060  data_time: 0.0087  memory: 12061  loss: 0.9803
+2024/05/31 02:02:46 - mmengine - INFO - Iter(train) [3280/6501]  lr: 1.0344e-04  eta: 1:08:50  time: 1.2056  data_time: 0.0086  memory: 12061  loss: 0.9849
+2024/05/31 02:02:58 - mmengine - INFO - Iter(train) [3290/6501]  lr: 1.0294e-04  eta: 1:08:37  time: 1.2026  data_time: 0.0083  memory: 12061  loss: 1.1464
+2024/05/31 02:03:10 - mmengine - INFO - Iter(train) [3300/6501]  lr: 1.0244e-04  eta: 1:08:23  time: 1.2050  data_time: 0.0082  memory: 12061  loss: 1.0233
+2024/05/31 02:03:23 - mmengine - INFO - Iter(train) [3310/6501]  lr: 1.0194e-04  eta: 1:08:10  time: 1.2028  data_time: 0.0083  memory: 12061  loss: 1.0297
+2024/05/31 02:03:35 - mmengine - INFO - Iter(train) [3320/6501]  lr: 1.0144e-04  eta: 1:07:56  time: 1.2059  data_time: 0.0090  memory: 12061  loss: 1.1745
+2024/05/31 02:03:47 - mmengine - INFO - Iter(train) [3330/6501]  lr: 1.0095e-04  eta: 1:07:43  time: 1.2057  data_time: 0.0090  memory: 12061  loss: 0.9066
+2024/05/31 02:03:59 - mmengine - INFO - Iter(train) [3340/6501]  lr: 1.0045e-04  eta: 1:07:29  time: 1.2036  data_time: 0.0088  memory: 12061  loss: 1.1099
+2024/05/31 02:04:11 - mmengine - INFO - Iter(train) [3350/6501]  lr: 9.9950e-05  eta: 1:07:16  time: 1.2049  data_time: 0.0084  memory: 12061  loss: 0.9708
+2024/05/31 02:04:23 - mmengine - INFO - Iter(train) [3360/6501]  lr: 9.9452e-05  eta: 1:07:02  time: 1.2047  data_time: 0.0085  memory: 12061  loss: 0.8842
+2024/05/31 02:04:35 - mmengine - INFO - Iter(train) [3370/6501]  lr: 9.8954e-05  eta: 1:06:49  time: 1.2066  data_time: 0.0084  memory: 12061  loss: 0.9563
+2024/05/31 02:04:47 - mmengine - INFO - Iter(train) [3380/6501]  lr: 9.8456e-05  eta: 1:06:35  time: 1.2155  data_time: 0.0174  memory: 12061  loss: 1.0563
+2024/05/31 02:04:59 - mmengine - INFO - Iter(train) [3390/6501]  lr: 9.7958e-05  eta: 1:06:22  time: 1.2073  data_time: 0.0085  memory: 12061  loss: 0.9849
+2024/05/31 02:05:11 - mmengine - INFO - Iter(train) [3400/6501]  lr: 9.7459e-05  eta: 1:06:08  time: 1.2039  data_time: 0.0080  memory: 12061  loss: 0.9359
+2024/05/31 02:05:23 - mmengine - INFO - Iter(train) [3410/6501]  lr: 9.6962e-05  eta: 1:05:55  time: 1.2044  data_time: 0.0085  memory: 12061  loss: 0.8989
+2024/05/31 02:05:35 - mmengine - INFO - Iter(train) [3420/6501]  lr: 9.6464e-05  eta: 1:05:41  time: 1.2019  data_time: 0.0082  memory: 12061  loss: 0.9814
+2024/05/31 02:05:47 - mmengine - INFO - Iter(train) [3430/6501]  lr: 9.5966e-05  eta: 1:05:28  time: 1.2037  data_time: 0.0078  memory: 12061  loss: 0.8718
+2024/05/31 02:05:59 - mmengine - INFO - Iter(train) [3440/6501]  lr: 9.5468e-05  eta: 1:05:14  time: 1.2044  data_time: 0.0082  memory: 12061  loss: 1.0690
+2024/05/31 02:06:11 - mmengine - INFO - Iter(train) [3450/6501]  lr: 9.4970e-05  eta: 1:05:01  time: 1.2014  data_time: 0.0078  memory: 12061  loss: 1.0276
+2024/05/31 02:06:23 - mmengine - INFO - Iter(train) [3460/6501]  lr: 9.4473e-05  eta: 1:04:47  time: 1.2040  data_time: 0.0080  memory: 12061  loss: 1.0282
+2024/05/31 02:06:35 - mmengine - INFO - Iter(train) [3470/6501]  lr: 9.3976e-05  eta: 1:04:34  time: 1.2030  data_time: 0.0088  memory: 12061  loss: 0.9141
+2024/05/31 02:06:47 - mmengine - INFO - Iter(train) [3480/6501]  lr: 9.3478e-05  eta: 1:04:21  time: 1.2056  data_time: 0.0092  memory: 12061  loss: 0.9893
+2024/05/31 02:06:59 - mmengine - INFO - Iter(train) [3490/6501]  lr: 9.2981e-05  eta: 1:04:07  time: 1.2051  data_time: 0.0088  memory: 12061  loss: 1.0272
+2024/05/31 02:07:11 - mmengine - INFO - Iter(train) [3500/6501]  lr: 9.2484e-05  eta: 1:03:54  time: 1.2032  data_time: 0.0089  memory: 12061  loss: 0.8936
+2024/05/31 02:07:11 - mmengine - INFO - after_train_iter in EvaluateChatHook.
+2024/05/31 02:07:26 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+糖尿病人的康复护理有哪些主要事项？<|im_end|>
+<|im_start|>assistant
+糖尿病的康复护理主要包括以下几个方面：
+
+1. 饮食控制：糖尿病患者需要控制饮食，避免高糖、高脂肪和高盐的食物，多吃蔬菜、水果和粗粮等低热量、高纤维的食物。
+
+2. 运动锻炼：适当的运动锻炼可以帮助控制血糖，增强身体的代谢能力，改善胰岛素敏感性，减少并发症的发生。
+
+3. 定期监测：糖尿病患者需要定期监测血糖、血压、血脂等指标，以及时调整治疗方案，防止并发症的发生。
+
+4. 药物治疗：糖尿病患者需要按照医生的建议进行药物治疗，包括口服药物和胰岛素注射等，以控制血糖水平。
+
+5. 心理调适：糖尿病患者需要注意心理调适，保持积极乐观的心态，避免情绪波动和焦虑，以减轻疾病对生活的影响。
+
+总之，糖尿病的康复护理需要全面、系统地进行，包括饮食控制、运动锻炼、定期监测、药物治疗和心理调适等方面，以控制血糖水平，预防并发症的发生，提高生活质量。<|im_end|>
+
+2024/05/31 02:07:39 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+Please tell me five scenic spots in Shanghai<|im_end|>
+<|im_start|>assistant
+Sure! Here are five scenic spots in Shanghai:
+
+1. Yu Garden (Yù Yù Tài Yuan) - A traditional Chinese garden with beautiful architecture, ponds, and rock formations. It's located in the heart of Shanghai's Old Town.
+
+2. The Bund (Bàndì) - A waterfront promenade along the Huangpu River, lined with historic colonial-era buildings and offering stunning views of the city skyline.
+
+3. Zhujiajiao Water Town - A picturesque water town located just outside of Shanghai, with narrow canals, ancient bridges, and traditional architecture.
+
+4. Shanghai Tower - The tallest building in China, with a height of 632 meters, offering panoramic views of the city from its observation deck.
+
+5. Xujiahui Greenland Plaza - A shopping center with a beautiful rooftop garden, complete with a lake, walking paths, and a variety of plants and trees.<|im_end|>
+
+2024/05/31 02:07:39 - mmengine - INFO - Saving checkpoint at 3500 iterations
+2024/05/31 02:07:58 - mmengine - INFO - Iter(train) [3510/6501]  lr: 9.1988e-05  eta: 1:04:10  time: 4.6701  data_time: 3.4734  memory: 12061  loss: 0.9729
+2024/05/31 02:08:10 - mmengine - INFO - Iter(train) [3520/6501]  lr: 9.1491e-05  eta: 1:03:56  time: 1.2041  data_time: 0.0079  memory: 12061  loss: 0.8940
+2024/05/31 02:08:22 - mmengine - INFO - Iter(train) [3530/6501]  lr: 9.0995e-05  eta: 1:03:43  time: 1.2020  data_time: 0.0080  memory: 12061  loss: 1.1457
+2024/05/31 02:08:34 - mmengine - INFO - Iter(train) [3540/6501]  lr: 9.0499e-05  eta: 1:03:29  time: 1.2040  data_time: 0.0080  memory: 12061  loss: 0.9780
+2024/05/31 02:08:46 - mmengine - INFO - Iter(train) [3550/6501]  lr: 9.0003e-05  eta: 1:03:16  time: 1.2021  data_time: 0.0079  memory: 12061  loss: 0.9782
+2024/05/31 02:08:58 - mmengine - INFO - Iter(train) [3560/6501]  lr: 8.9508e-05  eta: 1:03:02  time: 1.2037  data_time: 0.0078  memory: 12061  loss: 1.1446
+2024/05/31 02:09:10 - mmengine - INFO - Iter(train) [3570/6501]  lr: 8.9012e-05  eta: 1:02:48  time: 1.2038  data_time: 0.0078  memory: 12061  loss: 0.8823
+2024/05/31 02:09:22 - mmengine - INFO - Iter(train) [3580/6501]  lr: 8.8517e-05  eta: 1:02:35  time: 1.2018  data_time: 0.0079  memory: 12061  loss: 1.1291
+2024/05/31 02:09:34 - mmengine - INFO - Iter(train) [3590/6501]  lr: 8.8022e-05  eta: 1:02:21  time: 1.2035  data_time: 0.0079  memory: 12061  loss: 1.0452
+2024/05/31 02:09:46 - mmengine - INFO - Iter(train) [3600/6501]  lr: 8.7528e-05  eta: 1:02:08  time: 1.2046  data_time: 0.0084  memory: 12061  loss: 0.9675
+2024/05/31 02:09:58 - mmengine - INFO - Iter(train) [3610/6501]  lr: 8.7034e-05  eta: 1:01:54  time: 1.2019  data_time: 0.0081  memory: 12061  loss: 0.8254
+2024/05/31 02:10:11 - mmengine - INFO - Iter(train) [3620/6501]  lr: 8.6540e-05  eta: 1:01:41  time: 1.2036  data_time: 0.0078  memory: 12061  loss: 1.0404
+2024/05/31 02:10:23 - mmengine - INFO - Iter(train) [3630/6501]  lr: 8.6047e-05  eta: 1:01:27  time: 1.2013  data_time: 0.0077  memory: 12061  loss: 0.9597
+2024/05/31 02:10:35 - mmengine - INFO - Iter(train) [3640/6501]  lr: 8.5553e-05  eta: 1:01:14  time: 1.2036  data_time: 0.0077  memory: 12061  loss: 0.8575
+2024/05/31 02:10:47 - mmengine - INFO - Iter(train) [3650/6501]  lr: 8.5061e-05  eta: 1:01:00  time: 1.2034  data_time: 0.0077  memory: 12061  loss: 1.0925
+2024/05/31 02:10:59 - mmengine - INFO - Iter(train) [3660/6501]  lr: 8.4568e-05  eta: 1:00:47  time: 1.2017  data_time: 0.0080  memory: 12061  loss: 1.1366
+2024/05/31 02:11:11 - mmengine - INFO - Iter(train) [3670/6501]  lr: 8.4076e-05  eta: 1:00:33  time: 1.2042  data_time: 0.0082  memory: 12061  loss: 1.0748
+2024/05/31 02:11:23 - mmengine - INFO - Iter(train) [3680/6501]  lr: 8.3585e-05  eta: 1:00:20  time: 1.2040  data_time: 0.0078  memory: 12061  loss: 0.9081
+2024/05/31 02:11:35 - mmengine - INFO - Iter(train) [3690/6501]  lr: 8.3093e-05  eta: 1:00:07  time: 1.2043  data_time: 0.0095  memory: 12061  loss: 1.1467
+2024/05/31 02:11:47 - mmengine - INFO - Iter(train) [3700/6501]  lr: 8.2602e-05  eta: 0:59:53  time: 1.2052  data_time: 0.0088  memory: 12061  loss: 0.9180
+2024/05/31 02:11:59 - mmengine - INFO - Iter(train) [3710/6501]  lr: 8.2112e-05  eta: 0:59:40  time: 1.2021  data_time: 0.0082  memory: 12061  loss: 0.9923
+2024/05/31 02:12:11 - mmengine - INFO - Iter(train) [3720/6501]  lr: 8.1622e-05  eta: 0:59:26  time: 1.2043  data_time: 0.0080  memory: 12061  loss: 0.9623
+2024/05/31 02:12:23 - mmengine - INFO - Iter(train) [3730/6501]  lr: 8.1133e-05  eta: 0:59:13  time: 1.2041  data_time: 0.0080  memory: 12061  loss: 1.0837
+2024/05/31 02:12:35 - mmengine - INFO - Iter(train) [3740/6501]  lr: 8.0644e-05  eta: 0:58:59  time: 1.2020  data_time: 0.0082  memory: 12061  loss: 1.0794
+2024/05/31 02:12:47 - mmengine - INFO - Iter(train) [3750/6501]  lr: 8.0155e-05  eta: 0:58:46  time: 1.2056  data_time: 0.0089  memory: 12061  loss: 0.9109
+2024/05/31 02:12:59 - mmengine - INFO - Iter(train) [3760/6501]  lr: 7.9667e-05  eta: 0:58:33  time: 1.2039  data_time: 0.0080  memory: 12061  loss: 1.0082
+2024/05/31 02:13:11 - mmengine - INFO - Iter(train) [3770/6501]  lr: 7.9180e-05  eta: 0:58:19  time: 1.2018  data_time: 0.0082  memory: 12061  loss: 0.8402
+2024/05/31 02:13:23 - mmengine - INFO - Iter(train) [3780/6501]  lr: 7.8693e-05  eta: 0:58:06  time: 1.2055  data_time: 0.0090  memory: 12061  loss: 0.9461
+2024/05/31 02:13:35 - mmengine - INFO - Iter(train) [3790/6501]  lr: 7.8206e-05  eta: 0:57:53  time: 1.2019  data_time: 0.0080  memory: 12061  loss: 1.0450
+2024/05/31 02:13:47 - mmengine - INFO - Iter(train) [3800/6501]  lr: 7.7720e-05  eta: 0:57:39  time: 1.2041  data_time: 0.0081  memory: 12061  loss: 1.0844
+2024/05/31 02:13:59 - mmengine - INFO - Iter(train) [3810/6501]  lr: 7.7235e-05  eta: 0:57:26  time: 1.2045  data_time: 0.0084  memory: 12061  loss: 1.0147
+2024/05/31 02:14:11 - mmengine - INFO - Iter(train) [3820/6501]  lr: 7.6750e-05  eta: 0:57:12  time: 1.2018  data_time: 0.0079  memory: 12061  loss: 1.1370
+2024/05/31 02:14:23 - mmengine - INFO - Iter(train) [3830/6501]  lr: 7.6266e-05  eta: 0:56:59  time: 1.2045  data_time: 0.0082  memory: 12061  loss: 0.9935
+2024/05/31 02:14:35 - mmengine - INFO - Iter(train) [3840/6501]  lr: 7.5782e-05  eta: 0:56:46  time: 1.2037  data_time: 0.0078  memory: 12061  loss: 0.9207
+2024/05/31 02:14:47 - mmengine - INFO - Iter(train) [3850/6501]  lr: 7.5299e-05  eta: 0:56:32  time: 1.2024  data_time: 0.0089  memory: 12061  loss: 0.9896
+2024/05/31 02:14:59 - mmengine - INFO - Iter(train) [3860/6501]  lr: 7.4817e-05  eta: 0:56:19  time: 1.2039  data_time: 0.0079  memory: 12061  loss: 0.9028
+2024/05/31 02:15:11 - mmengine - INFO - Iter(train) [3870/6501]  lr: 7.4335e-05  eta: 0:56:06  time: 1.2016  data_time: 0.0079  memory: 12061  loss: 0.9292
+2024/05/31 02:15:23 - mmengine - INFO - Iter(train) [3880/6501]  lr: 7.3854e-05  eta: 0:55:53  time: 1.2036  data_time: 0.0077  memory: 12061  loss: 0.9467
+2024/05/31 02:15:35 - mmengine - INFO - Iter(train) [3890/6501]  lr: 7.3373e-05  eta: 0:55:39  time: 1.2045  data_time: 0.0085  memory: 12061  loss: 1.0470
+2024/05/31 02:15:47 - mmengine - INFO - Iter(train) [3900/6501]  lr: 7.2893e-05  eta: 0:55:26  time: 1.2021  data_time: 0.0081  memory: 12061  loss: 0.9752
+2024/05/31 02:16:00 - mmengine - INFO - Iter(train) [3910/6501]  lr: 7.2414e-05  eta: 0:55:13  time: 1.2037  data_time: 0.0078  memory: 12061  loss: 0.8565
+2024/05/31 02:16:12 - mmengine - INFO - Iter(train) [3920/6501]  lr: 7.1935e-05  eta: 0:54:59  time: 1.2039  data_time: 0.0079  memory: 12061  loss: 1.0489
+2024/05/31 02:16:24 - mmengine - INFO - Iter(train) [3930/6501]  lr: 7.1458e-05  eta: 0:54:46  time: 1.2022  data_time: 0.0085  memory: 12061  loss: 0.9471
+2024/05/31 02:16:36 - mmengine - INFO - Iter(train) [3940/6501]  lr: 7.0980e-05  eta: 0:54:33  time: 1.2035  data_time: 0.0077  memory: 12061  loss: 0.9515
+2024/05/31 02:16:48 - mmengine - INFO - Iter(train) [3950/6501]  lr: 7.0504e-05  eta: 0:54:20  time: 1.2015  data_time: 0.0078  memory: 12061  loss: 1.1166
+2024/05/31 02:17:00 - mmengine - INFO - Iter(train) [3960/6501]  lr: 7.0028e-05  eta: 0:54:06  time: 1.2036  data_time: 0.0078  memory: 12061  loss: 0.9861
+2024/05/31 02:17:12 - mmengine - INFO - Iter(train) [3970/6501]  lr: 6.9554e-05  eta: 0:53:53  time: 1.2035  data_time: 0.0077  memory: 12061  loss: 1.0340
+2024/05/31 02:17:24 - mmengine - INFO - Iter(train) [3980/6501]  lr: 6.9079e-05  eta: 0:53:40  time: 1.2014  data_time: 0.0077  memory: 12061  loss: 0.9910
+2024/05/31 02:17:36 - mmengine - INFO - Iter(train) [3990/6501]  lr: 6.8606e-05  eta: 0:53:27  time: 1.2036  data_time: 0.0078  memory: 12061  loss: 1.0775
+2024/05/31 02:17:48 - mmengine - INFO - Exp name: customised_internlm2_chat_7b_qlora_oasst1_e3_20240531_003647
+2024/05/31 02:17:48 - mmengine - INFO - Iter(train) [4000/6501]  lr: 6.8133e-05  eta: 0:53:13  time: 1.2035  data_time: 0.0076  memory: 12061  loss: 0.9119
+2024/05/31 02:17:48 - mmengine - INFO - after_train_iter in EvaluateChatHook.
+2024/05/31 02:18:09 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+糖尿病人的康复护理有哪些主要事项？<|im_end|>
+<|im_start|>assistant
+糖尿病是一种慢性代谢性疾病，康复护理对于糖尿病患者的治疗和预防非常重要。以下是一些主要事项：
+
+1. 饮食控制：合理的饮食控制是糖尿病康复护理的重要组成部分。患者应该遵循医生的建议，控制饮食，限制高糖、高脂、高盐、高热量的食物，多吃蔬菜、水果、全谷类、低脂肪的蛋白质和健康脂肪。
+
+2. 运动锻炼：适当的运动锻炼可以帮助糖尿病患者控制血糖，减少心血管疾病的风险。建议每周进行至少150分钟的中等强度有氧运动，如快走、骑车、游泳等。
+
+3. 监测血糖：糖尿病患者需要定期监测血糖水平，以便及时调整治疗方案。建议每天测量血糖，并在医生指导下制定合理的监测计划。
+
+4. 药物治疗：药物治疗是糖尿病康复护理的重要组成部分。根据医生的建议，糖尿病患者需要定期服用药物，如口服降糖药或胰岛素注射。
+
+5. 定期检查：糖尿病患者需要定期进行身体检查，如眼底检查、肾功能检查、神经功能检查等，以便及早发现并发症并及时治疗。
+
+6. 心理支持：糖尿病康复护理也需要心理支持。糖尿病患者可能会面临情绪低落、焦虑、抑郁等问题，需要得到家人和医生的支持和鼓励。
+
+总之，糖尿病康复护理需要全面的措施，包括饮食控制、运动锻炼、药物治疗、定期检查和心理支持。患者需要积极配合医生的治疗方案，保持良好的生活习惯，才能有效地控制血糖，预防并发症，提高生活质量。<|im_end|>
+
+2024/05/31 02:18:19 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+Please tell me five scenic spots in Shanghai<|im_end|>
+<|im_start|>assistant
+1. The Bund - A famous waterfront promenade lined with historic buildings, offering stunning views of the city skyline and the Huangpu River.
+
+2. Yu Garden - A classical Chinese garden with beautiful pavilions, rock formations, and a serene pond.
+
+3. Shanghai Tower - A towering skyscraper with an observation deck offering panoramic views of the city from the 118th floor.
+
+4. Zhujiajiao Water Town - A picturesque ancient town with canals, bridges, and traditional architecture, located just outside of Shanghai.
+
+5. Oriental Pearl Tower - A futuristic-looking tower with observation decks and a revolving restaurant, offering breathtaking views of the city.<|im_end|>
+
+2024/05/31 02:18:19 - mmengine - INFO - Saving checkpoint at 4000 iterations
+2024/05/31 02:18:38 - mmengine - INFO - Iter(train) [4010/6501]  lr: 6.7662e-05  eta: 0:53:24  time: 5.0401  data_time: 3.8448  memory: 12061  loss: 0.9445
+2024/05/31 02:18:50 - mmengine - INFO - Iter(train) [4020/6501]  lr: 6.7191e-05  eta: 0:53:11  time: 1.2037  data_time: 0.0080  memory: 12061  loss: 0.9327
+2024/05/31 02:19:02 - mmengine - INFO - Iter(train) [4030/6501]  lr: 6.6720e-05  eta: 0:52:57  time: 1.2017  data_time: 0.0078  memory: 12061  loss: 0.8884
+2024/05/31 02:19:14 - mmengine - INFO - Iter(train) [4040/6501]  lr: 6.6251e-05  eta: 0:52:44  time: 1.2035  data_time: 0.0078  memory: 12061  loss: 0.9210
+2024/05/31 02:19:26 - mmengine - INFO - Iter(train) [4050/6501]  lr: 6.5782e-05  eta: 0:52:30  time: 1.2038  data_time: 0.0084  memory: 12061  loss: 0.9821
+2024/05/31 02:19:38 - mmengine - INFO - Iter(train) [4060/6501]  lr: 6.5315e-05  eta: 0:52:17  time: 1.2018  data_time: 0.0082  memory: 12061  loss: 1.0054
+2024/05/31 02:19:50 - mmengine - INFO - Iter(train) [4070/6501]  lr: 6.4848e-05  eta: 0:52:04  time: 1.2032  data_time: 0.0081  memory: 12061  loss: 1.1101
+2024/05/31 02:20:02 - mmengine - INFO - Iter(train) [4080/6501]  lr: 6.4382e-05  eta: 0:51:50  time: 1.2033  data_time: 0.0079  memory: 12061  loss: 1.0098
+2024/05/31 02:20:14 - mmengine - INFO - Iter(train) [4090/6501]  lr: 6.3917e-05  eta: 0:51:37  time: 1.2010  data_time: 0.0080  memory: 12061  loss: 1.0637
+2024/05/31 02:20:26 - mmengine - INFO - Iter(train) [4100/6501]  lr: 6.3453e-05  eta: 0:51:24  time: 1.2038  data_time: 0.0084  memory: 12061  loss: 0.9584
+2024/05/31 02:20:38 - mmengine - INFO - Iter(train) [4110/6501]  lr: 6.2989e-05  eta: 0:51:10  time: 1.2015  data_time: 0.0083  memory: 12061  loss: 1.0301
+2024/05/31 02:20:51 - mmengine - INFO - Iter(train) [4120/6501]  lr: 6.2527e-05  eta: 0:50:57  time: 1.2033  data_time: 0.0080  memory: 12061  loss: 1.1943
+2024/05/31 02:21:03 - mmengine - INFO - Iter(train) [4130/6501]  lr: 6.2066e-05  eta: 0:50:44  time: 1.2031  data_time: 0.0080  memory: 12061  loss: 0.9679
+2024/05/31 02:21:15 - mmengine - INFO - Iter(train) [4140/6501]  lr: 6.1605e-05  eta: 0:50:31  time: 1.2118  data_time: 0.0087  memory: 12061  loss: 0.9817
+2024/05/31 02:21:27 - mmengine - INFO - Iter(train) [4150/6501]  lr: 6.1146e-05  eta: 0:50:17  time: 1.2035  data_time: 0.0082  memory: 12061  loss: 0.9887
+2024/05/31 02:21:39 - mmengine - INFO - Iter(train) [4160/6501]  lr: 6.0687e-05  eta: 0:50:04  time: 1.2036  data_time: 0.0081  memory: 12061  loss: 1.0240
+2024/05/31 02:21:51 - mmengine - INFO - Iter(train) [4170/6501]  lr: 6.0229e-05  eta: 0:49:51  time: 1.2015  data_time: 0.0082  memory: 12061  loss: 0.8856
+2024/05/31 02:22:03 - mmengine - INFO - Iter(train) [4180/6501]  lr: 5.9773e-05  eta: 0:49:37  time: 1.2041  data_time: 0.0084  memory: 12061  loss: 1.0051
+2024/05/31 02:22:15 - mmengine - INFO - Iter(train) [4190/6501]  lr: 5.9317e-05  eta: 0:49:24  time: 1.2014  data_time: 0.0080  memory: 12061  loss: 1.0609
+2024/05/31 02:22:27 - mmengine - INFO - Iter(train) [4200/6501]  lr: 5.8863e-05  eta: 0:49:11  time: 1.2043  data_time: 0.0086  memory: 12061  loss: 0.9464
+2024/05/31 02:22:39 - mmengine - INFO - Iter(train) [4210/6501]  lr: 5.8409e-05  eta: 0:48:58  time: 1.2033  data_time: 0.0080  memory: 12061  loss: 1.2125
+2024/05/31 02:22:51 - mmengine - INFO - Iter(train) [4220/6501]  lr: 5.7957e-05  eta: 0:48:44  time: 1.2013  data_time: 0.0079  memory: 12061  loss: 1.0270
+2024/05/31 02:23:03 - mmengine - INFO - Iter(train) [4230/6501]  lr: 5.7505e-05  eta: 0:48:31  time: 1.2032  data_time: 0.0079  memory: 12061  loss: 0.9571
+2024/05/31 02:23:15 - mmengine - INFO - Iter(train) [4240/6501]  lr: 5.7055e-05  eta: 0:48:18  time: 1.2037  data_time: 0.0080  memory: 12061  loss: 1.2048
+2024/05/31 02:23:27 - mmengine - INFO - Iter(train) [4250/6501]  lr: 5.6605e-05  eta: 0:48:05  time: 1.2021  data_time: 0.0088  memory: 12061  loss: 1.1360
+2024/05/31 02:23:39 - mmengine - INFO - Iter(train) [4260/6501]  lr: 5.6157e-05  eta: 0:47:51  time: 1.2032  data_time: 0.0078  memory: 12061  loss: 0.9398
+2024/05/31 02:23:51 - mmengine - INFO - Iter(train) [4270/6501]  lr: 5.5710e-05  eta: 0:47:38  time: 1.2014  data_time: 0.0081  memory: 12061  loss: 1.0225
+2024/05/31 02:24:03 - mmengine - INFO - Iter(train) [4280/6501]  lr: 5.5264e-05  eta: 0:47:25  time: 1.2037  data_time: 0.0082  memory: 12061  loss: 1.0268
+2024/05/31 02:24:15 - mmengine - INFO - Iter(train) [4290/6501]  lr: 5.4819e-05  eta: 0:47:12  time: 1.2037  data_time: 0.0081  memory: 12061  loss: 0.9841
+2024/05/31 02:24:27 - mmengine - INFO - Iter(train) [4300/6501]  lr: 5.4375e-05  eta: 0:46:58  time: 1.2015  data_time: 0.0081  memory: 12061  loss: 1.0285
+2024/05/31 02:24:39 - mmengine - INFO - Iter(train) [4310/6501]  lr: 5.3932e-05  eta: 0:46:45  time: 1.2037  data_time: 0.0084  memory: 12061  loss: 0.9733
+2024/05/31 02:24:51 - mmengine - INFO - Iter(train) [4320/6501]  lr: 5.3490e-05  eta: 0:46:32  time: 1.2035  data_time: 0.0081  memory: 12061  loss: 0.9758
+2024/05/31 02:25:03 - mmengine - INFO - Iter(train) [4330/6501]  lr: 5.3050e-05  eta: 0:46:19  time: 1.2016  data_time: 0.0083  memory: 12061  loss: 1.0159
+2024/05/31 02:25:17 - mmengine - INFO - Iter(train) [4340/6501]  lr: 5.2611e-05  eta: 0:46:07  time: 1.4065  data_time: 0.2086  memory: 12061  loss: 0.9792
+2024/05/31 02:25:29 - mmengine - INFO - Iter(train) [4350/6501]  lr: 5.2173e-05  eta: 0:45:54  time: 1.2026  data_time: 0.0084  memory: 12061  loss: 0.8003
+2024/05/31 02:25:41 - mmengine - INFO - Iter(train) [4360/6501]  lr: 5.1736e-05  eta: 0:45:40  time: 1.2044  data_time: 0.0081  memory: 12061  loss: 0.9284
+2024/05/31 02:25:53 - mmengine - INFO - Iter(train) [4370/6501]  lr: 5.1300e-05  eta: 0:45:27  time: 1.2053  data_time: 0.0083  memory: 12061  loss: 1.0398
+2024/05/31 02:26:05 - mmengine - INFO - Iter(train) [4380/6501]  lr: 5.0865e-05  eta: 0:45:14  time: 1.2026  data_time: 0.0083  memory: 12061  loss: 0.8838
+2024/05/31 02:26:17 - mmengine - INFO - Iter(train) [4390/6501]  lr: 5.0432e-05  eta: 0:45:01  time: 1.2040  data_time: 0.0081  memory: 12061  loss: 1.0879
+2024/05/31 02:26:30 - mmengine - INFO - Iter(train) [4400/6501]  lr: 5.0000e-05  eta: 0:44:48  time: 1.2041  data_time: 0.0079  memory: 12061  loss: 0.9577
+2024/05/31 02:26:42 - mmengine - INFO - Iter(train) [4410/6501]  lr: 4.9569e-05  eta: 0:44:35  time: 1.2015  data_time: 0.0080  memory: 12061  loss: 0.8244
+2024/05/31 02:26:54 - mmengine - INFO - Iter(train) [4420/6501]  lr: 4.9140e-05  eta: 0:44:21  time: 1.2042  data_time: 0.0081  memory: 12061  loss: 0.9719
+2024/05/31 02:27:06 - mmengine - INFO - Iter(train) [4430/6501]  lr: 4.8711e-05  eta: 0:44:08  time: 1.2023  data_time: 0.0082  memory: 12061  loss: 0.9375
+2024/05/31 02:27:18 - mmengine - INFO - Iter(train) [4440/6501]  lr: 4.8284e-05  eta: 0:43:55  time: 1.2039  data_time: 0.0079  memory: 12061  loss: 0.8382
+2024/05/31 02:27:30 - mmengine - INFO - Iter(train) [4450/6501]  lr: 4.7859e-05  eta: 0:43:42  time: 1.2050  data_time: 0.0085  memory: 12061  loss: 1.0902
+2024/05/31 02:27:42 - mmengine - INFO - Iter(train) [4460/6501]  lr: 4.7434e-05  eta: 0:43:29  time: 1.2020  data_time: 0.0079  memory: 12061  loss: 0.9098
+2024/05/31 02:27:54 - mmengine - INFO - Iter(train) [4470/6501]  lr: 4.7011e-05  eta: 0:43:16  time: 1.2043  data_time: 0.0082  memory: 12061  loss: 0.8099
+2024/05/31 02:28:06 - mmengine - INFO - Iter(train) [4480/6501]  lr: 4.6589e-05  eta: 0:43:03  time: 1.2047  data_time: 0.0081  memory: 12061  loss: 0.8019
+2024/05/31 02:28:18 - mmengine - INFO - Iter(train) [4490/6501]  lr: 4.6169e-05  eta: 0:42:49  time: 1.2035  data_time: 0.0089  memory: 12061  loss: 0.9005
+2024/05/31 02:28:30 - mmengine - INFO - Iter(train) [4500/6501]  lr: 4.5749e-05  eta: 0:42:36  time: 1.2049  data_time: 0.0082  memory: 12061  loss: 0.9777
+2024/05/31 02:28:30 - mmengine - INFO - after_train_iter in EvaluateChatHook.
+2024/05/31 02:28:47 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+糖尿病人的康复护理有哪些主要事项？<|im_end|>
+<|im_start|>assistant
+糖尿病的康复护理主要包括以下几个方面：
+
+1. 控制饮食：饮食控制是糖尿病康复的重要措施。糖尿病患者应遵循低糖、低脂、低盐、高纤维的饮食原则，控制碳水化合物和脂肪的摄入量，多吃蔬菜、水果、全谷类食物和瘦肉。
+
+2. 运动锻炼：适当的运动锻炼可以帮助糖尿病患者控制血糖水平，增强身体素质。建议每周进行至少150分钟的有氧运动，如快走、慢跑、游泳等。
+
+3. 监测血糖：糖尿病患者需要定期监测血糖水平，了解自己的病情变化。可以通过使用血糖仪来监测，并根据监测结果调整饮食和运动计划。
+
+4. 药物治疗：糖尿病患者可能需要使用口服药物或胰岛素来控制血糖水平。在使用药物时，应遵循医生的建议，并注意药物的副作用。
+
+5. 心理支持：糖尿病康复过程中，患者可能会遇到一些心理问题，如焦虑、抑郁等。因此，患者需要得到家庭成员和医生的支持和鼓励。
+
+总之，糖尿病的康复护理需要全面的管理，包括饮食、运动、药物治疗、监测和心理支持等方面。患者应积极配合医生的治疗，保持良好的生活习惯，才能有效地控制病情。<|im_end|>
+
+2024/05/31 02:29:04 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+Please tell me five scenic spots in Shanghai<|im_end|>
+<|im_start|>assistant
+Here are five scenic spots in Shanghai that you might enjoy:
+
+1. The Bund: The Bund is a famous waterfront promenade in Shanghai that offers stunning views of the city skyline. It's a great place to take a walk, snap some photos, or simply enjoy the view.
+
+2. Yu Garden: Yu Garden is a traditional Chinese garden located in the heart of Shanghai's Old Town. It's a peaceful oasis in the midst of the bustling city, with beautiful pavilions, rock formations, and a serene lake.
+
+3. Shanghai Tower: Shanghai Tower is the tallest building in China and one of the tallest in the world. Visitors can take a high-speed elevator to the observation deck on the 118th floor for breathtaking views of the city.
+
+4. Zhujiajiao Water Town: Zhujiajiao Water Town is a charming waterfront town located about 50 km southwest of Shanghai. It's known for its picturesque canals, ancient bridges, and traditional architecture.
+
+5. Shanghai Disney Resort: Shanghai Disney Resort is a massive theme park located in the city's Pudong district. It features a variety of rides, attractions, and entertainment, as well as a Disney-themed shopping and dining area.<|im_end|>
+
+2024/05/31 02:29:04 - mmengine - INFO - Saving checkpoint at 4500 iterations
+2024/05/31 02:29:23 - mmengine - INFO - Iter(train) [4510/6501]  lr: 4.5332e-05  eta: 0:42:42  time: 5.3539  data_time: 4.1585  memory: 12061  loss: 0.9762
+2024/05/31 02:29:35 - mmengine - INFO - Iter(train) [4520/6501]  lr: 4.4915e-05  eta: 0:42:28  time: 1.2036  data_time: 0.0081  memory: 12061  loss: 0.9925
+2024/05/31 02:29:47 - mmengine - INFO - Iter(train) [4530/6501]  lr: 4.4500e-05  eta: 0:42:15  time: 1.2046  data_time: 0.0087  memory: 12061  loss: 0.8212
+2024/05/31 02:30:00 - mmengine - INFO - Iter(train) [4540/6501]  lr: 4.4086e-05  eta: 0:42:02  time: 1.2026  data_time: 0.0087  memory: 12061  loss: 1.0059
+2024/05/31 02:30:12 - mmengine - INFO - Iter(train) [4550/6501]  lr: 4.3674e-05  eta: 0:41:49  time: 1.2045  data_time: 0.0088  memory: 12061  loss: 0.9899
+2024/05/31 02:30:24 - mmengine - INFO - Iter(train) [4560/6501]  lr: 4.3263e-05  eta: 0:41:35  time: 1.2035  data_time: 0.0083  memory: 12061  loss: 0.9171
+2024/05/31 02:30:36 - mmengine - INFO - Iter(train) [4570/6501]  lr: 4.2853e-05  eta: 0:41:22  time: 1.2010  data_time: 0.0083  memory: 12061  loss: 0.9317
+2024/05/31 02:30:48 - mmengine - INFO - Iter(train) [4580/6501]  lr: 4.2445e-05  eta: 0:41:09  time: 1.2034  data_time: 0.0082  memory: 12061  loss: 1.0151
+2024/05/31 02:31:00 - mmengine - INFO - Iter(train) [4590/6501]  lr: 4.2039e-05  eta: 0:40:56  time: 1.2017  data_time: 0.0084  memory: 12061  loss: 0.8971
+2024/05/31 02:31:12 - mmengine - INFO - Iter(train) [4600/6501]  lr: 4.1633e-05  eta: 0:40:43  time: 1.2042  data_time: 0.0086  memory: 12061  loss: 1.0106
+2024/05/31 02:31:24 - mmengine - INFO - Iter(train) [4610/6501]  lr: 4.1230e-05  eta: 0:40:29  time: 1.2043  data_time: 0.0086  memory: 12061  loss: 0.8912
+2024/05/31 02:31:36 - mmengine - INFO - Iter(train) [4620/6501]  lr: 4.0827e-05  eta: 0:40:16  time: 1.2020  data_time: 0.0084  memory: 12061  loss: 0.8380
+2024/05/31 02:31:48 - mmengine - INFO - Iter(train) [4630/6501]  lr: 4.0426e-05  eta: 0:40:03  time: 1.2046  data_time: 0.0088  memory: 12061  loss: 0.9304
+2024/05/31 02:32:00 - mmengine - INFO - Iter(train) [4640/6501]  lr: 4.0027e-05  eta: 0:39:50  time: 1.2047  data_time: 0.0088  memory: 12061  loss: 1.0032
+2024/05/31 02:32:12 - mmengine - INFO - Iter(train) [4650/6501]  lr: 3.9629e-05  eta: 0:39:37  time: 1.2019  data_time: 0.0084  memory: 12061  loss: 0.7102
+2024/05/31 02:32:24 - mmengine - INFO - Iter(train) [4660/6501]  lr: 3.9233e-05  eta: 0:39:24  time: 1.2048  data_time: 0.0089  memory: 12061  loss: 1.1388
+2024/05/31 02:32:36 - mmengine - INFO - Iter(train) [4670/6501]  lr: 3.8838e-05  eta: 0:39:10  time: 1.2021  data_time: 0.0086  memory: 12061  loss: 1.0222
+2024/05/31 02:32:48 - mmengine - INFO - Iter(train) [4680/6501]  lr: 3.8444e-05  eta: 0:38:57  time: 1.2044  data_time: 0.0087  memory: 12061  loss: 0.9255
+2024/05/31 02:33:00 - mmengine - INFO - Iter(train) [4690/6501]  lr: 3.8052e-05  eta: 0:38:44  time: 1.2044  data_time: 0.0086  memory: 12061  loss: 1.0327
+2024/05/31 02:33:12 - mmengine - INFO - Iter(train) [4700/6501]  lr: 3.7662e-05  eta: 0:38:31  time: 1.2018  data_time: 0.0083  memory: 12061  loss: 0.9259
+2024/05/31 02:33:24 - mmengine - INFO - Iter(train) [4710/6501]  lr: 3.7273e-05  eta: 0:38:18  time: 1.2038  data_time: 0.0083  memory: 12061  loss: 0.9704
+2024/05/31 02:33:36 - mmengine - INFO - Iter(train) [4720/6501]  lr: 3.6886e-05  eta: 0:38:05  time: 1.2047  data_time: 0.0088  memory: 12061  loss: 1.1006
+2024/05/31 02:33:48 - mmengine - INFO - Iter(train) [4730/6501]  lr: 3.6501e-05  eta: 0:37:52  time: 1.2019  data_time: 0.0086  memory: 12061  loss: 0.9790
+2024/05/31 02:34:00 - mmengine - INFO - Iter(train) [4740/6501]  lr: 3.6116e-05  eta: 0:37:38  time: 1.2044  data_time: 0.0085  memory: 12061  loss: 1.0124
+2024/05/31 02:34:12 - mmengine - INFO - Iter(train) [4750/6501]  lr: 3.5734e-05  eta: 0:37:25  time: 1.2018  data_time: 0.0086  memory: 12061  loss: 0.8244
+2024/05/31 02:34:24 - mmengine - INFO - Iter(train) [4760/6501]  lr: 3.5353e-05  eta: 0:37:12  time: 1.2036  data_time: 0.0083  memory: 12061  loss: 0.9264
+2024/05/31 02:34:36 - mmengine - INFO - Iter(train) [4770/6501]  lr: 3.4974e-05  eta: 0:36:59  time: 1.2039  data_time: 0.0085  memory: 12061  loss: 1.0490
+2024/05/31 02:34:48 - mmengine - INFO - Iter(train) [4780/6501]  lr: 3.4596e-05  eta: 0:36:46  time: 1.2013  data_time: 0.0080  memory: 12061  loss: 0.8344
+2024/05/31 02:35:00 - mmengine - INFO - Iter(train) [4790/6501]  lr: 3.4220e-05  eta: 0:36:33  time: 1.2035  data_time: 0.0081  memory: 12061  loss: 1.0659
+2024/05/31 02:35:12 - mmengine - INFO - Iter(train) [4800/6501]  lr: 3.3846e-05  eta: 0:36:20  time: 1.2041  data_time: 0.0084  memory: 12061  loss: 0.9372
+2024/05/31 02:35:24 - mmengine - INFO - Iter(train) [4810/6501]  lr: 3.3473e-05  eta: 0:36:07  time: 1.2023  data_time: 0.0088  memory: 12061  loss: 0.9568
+2024/05/31 02:35:36 - mmengine - INFO - Iter(train) [4820/6501]  lr: 3.3102e-05  eta: 0:35:54  time: 1.2049  data_time: 0.0090  memory: 12061  loss: 0.9068
+2024/05/31 02:35:48 - mmengine - INFO - Iter(train) [4830/6501]  lr: 3.2732e-05  eta: 0:35:41  time: 1.2022  data_time: 0.0085  memory: 12061  loss: 0.8956
+2024/05/31 02:36:01 - mmengine - INFO - Iter(train) [4840/6501]  lr: 3.2364e-05  eta: 0:35:27  time: 1.2050  data_time: 0.0092  memory: 12061  loss: 0.8911
+2024/05/31 02:36:13 - mmengine - INFO - Iter(train) [4850/6501]  lr: 3.1998e-05  eta: 0:35:14  time: 1.2044  data_time: 0.0085  memory: 12061  loss: 0.8741
+2024/05/31 02:36:25 - mmengine - INFO - Iter(train) [4860/6501]  lr: 3.1634e-05  eta: 0:35:01  time: 1.2022  data_time: 0.0086  memory: 12061  loss: 0.9515
+2024/05/31 02:36:37 - mmengine - INFO - Iter(train) [4870/6501]  lr: 3.1271e-05  eta: 0:34:48  time: 1.2043  data_time: 0.0087  memory: 12061  loss: 0.9161
+2024/05/31 02:36:49 - mmengine - INFO - Iter(train) [4880/6501]  lr: 3.0910e-05  eta: 0:34:35  time: 1.2053  data_time: 0.0092  memory: 12061  loss: 0.8667
+2024/05/31 02:37:01 - mmengine - INFO - Iter(train) [4890/6501]  lr: 3.0551e-05  eta: 0:34:22  time: 1.2026  data_time: 0.0089  memory: 12061  loss: 0.8374
+2024/05/31 02:37:13 - mmengine - INFO - Iter(train) [4900/6501]  lr: 3.0193e-05  eta: 0:34:09  time: 1.2039  data_time: 0.0084  memory: 12061  loss: 0.9894
+2024/05/31 02:37:25 - mmengine - INFO - Iter(train) [4910/6501]  lr: 2.9837e-05  eta: 0:33:56  time: 1.2026  data_time: 0.0089  memory: 12061  loss: 0.8255
+2024/05/31 02:37:37 - mmengine - INFO - Iter(train) [4920/6501]  lr: 2.9483e-05  eta: 0:33:43  time: 1.2041  data_time: 0.0086  memory: 12061  loss: 0.8884
+2024/05/31 02:37:49 - mmengine - INFO - Iter(train) [4930/6501]  lr: 2.9131e-05  eta: 0:33:30  time: 1.2038  data_time: 0.0084  memory: 12061  loss: 0.9264
+2024/05/31 02:38:01 - mmengine - INFO - Iter(train) [4940/6501]  lr: 2.8780e-05  eta: 0:33:17  time: 1.2021  data_time: 0.0086  memory: 12061  loss: 1.0095
+2024/05/31 02:38:13 - mmengine - INFO - Iter(train) [4950/6501]  lr: 2.8432e-05  eta: 0:33:04  time: 1.2040  data_time: 0.0085  memory: 12061  loss: 0.8902
+2024/05/31 02:38:25 - mmengine - INFO - Iter(train) [4960/6501]  lr: 2.8084e-05  eta: 0:32:51  time: 1.2037  data_time: 0.0082  memory: 12061  loss: 0.9053
+2024/05/31 02:38:37 - mmengine - INFO - Iter(train) [4970/6501]  lr: 2.7739e-05  eta: 0:32:38  time: 1.2012  data_time: 0.0081  memory: 12061  loss: 1.0354
+2024/05/31 02:38:49 - mmengine - INFO - Iter(train) [4980/6501]  lr: 2.7396e-05  eta: 0:32:25  time: 1.2036  data_time: 0.0081  memory: 12061  loss: 0.9062
+2024/05/31 02:39:01 - mmengine - INFO - Iter(train) [4990/6501]  lr: 2.7054e-05  eta: 0:32:12  time: 1.2016  data_time: 0.0083  memory: 12061  loss: 0.9787
+2024/05/31 02:39:13 - mmengine - INFO - Exp name: customised_internlm2_chat_7b_qlora_oasst1_e3_20240531_003647
+2024/05/31 02:39:13 - mmengine - INFO - Iter(train) [5000/6501]  lr: 2.6714e-05  eta: 0:31:59  time: 1.2037  data_time: 0.0081  memory: 12061  loss: 0.9826
+2024/05/31 02:39:13 - mmengine - INFO - after_train_iter in EvaluateChatHook.
+2024/05/31 02:39:30 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+糖尿病人的康复护理有哪些主要事项？<|im_end|>
+<|im_start|>assistant
+糖尿病的康复护理需要综合考虑患者的病情、生活习惯、饮食习惯、用药情况等多个方面。以下是一些主要事项：
+
+1. 监测血糖：定期监测血糖水平，及时调整用药和饮食方案。
+
+2. 控制饮食：合理控制饮食，限制糖分和碳水化合物的摄入，增加蔬菜、水果、全谷类食物等富含纤维的食物摄入。
+
+3. 锻炼身体：适当锻炼身体，增强身体对胰岛素的敏感性，降低血糖水平。
+
+4. 控制体重：保持健康的体重，减轻身体负担，降低糖尿病并发症的风险。
+
+5. 定期检查：定期检查身体各项指标，及时发现和处理异常情况。
+
+6. 用药管理：按照医生的建议，正确用药，避免漏服或误服。
+
+7. 心理调节：积极面对疾病，保持乐观心态，减轻心理压力，避免情绪波动对血糖的影响。
+
+8. 预防并发症：预防糖尿病并发症，如视网膜病变、神经病变、肾病等。
+
+总之，糖尿病的康复护理需要全面、科学、持续地进行，患者需要积极配合医生的治疗和指导，养成健康的生活习惯，才能有效地控制糖尿病，提高生活质量。<|im_end|>
+
+2024/05/31 02:39:41 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+Please tell me five scenic spots in Shanghai<|im_end|>
+<|im_start|>assistant
+1. The Bund: A famous waterfront promenade along the Huangpu River, lined with colonial-era buildings and offering stunning views of the city skyline.
+
+2. Yu Garden: A classical Chinese garden with beautiful rock formations, ponds, and pavilions, located in the heart of Shanghai's old town.
+
+3. Shanghai Tower: The tallest building in China, offering panoramic views of the city from its observation deck on the 118th floor.
+
+4. Zhujiajiao Water Town: A picturesque water town located on the outskirts of Shanghai, with canals, bridges, and traditional architecture.
+
+5. Shanghai Disney Resort: A theme park complex with rides, attractions, and entertainment, featuring a mix of Disney and Chinese cultural elements.<|im_end|>
+
+2024/05/31 02:39:41 - mmengine - INFO - Saving checkpoint at 5000 iterations
+2024/05/31 02:40:00 - mmengine - INFO - Iter(train) [5010/6501]  lr: 2.6376e-05  eta: 0:31:56  time: 4.7253  data_time: 3.5272  memory: 12061  loss: 0.8312
+2024/05/31 02:40:12 - mmengine - INFO - Iter(train) [5020/6501]  lr: 2.6040e-05  eta: 0:31:43  time: 1.2032  data_time: 0.0091  memory: 12061  loss: 1.1345
+2024/05/31 02:40:24 - mmengine - INFO - Iter(train) [5030/6501]  lr: 2.5706e-05  eta: 0:31:30  time: 1.2043  data_time: 0.0084  memory: 12061  loss: 0.9141
+2024/05/31 02:40:36 - mmengine - INFO - Iter(train) [5040/6501]  lr: 2.5373e-05  eta: 0:31:17  time: 1.2045  data_time: 0.0085  memory: 12061  loss: 0.9250
+2024/05/31 02:40:48 - mmengine - INFO - Iter(train) [5050/6501]  lr: 2.5042e-05  eta: 0:31:04  time: 1.2014  data_time: 0.0082  memory: 12061  loss: 1.1037
+2024/05/31 02:41:00 - mmengine - INFO - Iter(train) [5060/6501]  lr: 2.4713e-05  eta: 0:30:51  time: 1.2040  data_time: 0.0082  memory: 12061  loss: 1.2950
+2024/05/31 02:41:13 - mmengine - INFO - Iter(train) [5070/6501]  lr: 2.4386e-05  eta: 0:30:38  time: 1.2014  data_time: 0.0081  memory: 12061  loss: 0.8759
+2024/05/31 02:41:25 - mmengine - INFO - Iter(train) [5080/6501]  lr: 2.4061e-05  eta: 0:30:25  time: 1.2041  data_time: 0.0087  memory: 12061  loss: 0.9218
+2024/05/31 02:41:37 - mmengine - INFO - Iter(train) [5090/6501]  lr: 2.3738e-05  eta: 0:30:12  time: 1.2040  data_time: 0.0084  memory: 12061  loss: 1.0293
+2024/05/31 02:41:49 - mmengine - INFO - Iter(train) [5100/6501]  lr: 2.3417e-05  eta: 0:29:58  time: 1.2013  data_time: 0.0079  memory: 12061  loss: 0.8923
+2024/05/31 02:42:01 - mmengine - INFO - Iter(train) [5110/6501]  lr: 2.3098e-05  eta: 0:29:45  time: 1.2033  data_time: 0.0080  memory: 12061  loss: 0.7947
+2024/05/31 02:42:13 - mmengine - INFO - Iter(train) [5120/6501]  lr: 2.2780e-05  eta: 0:29:32  time: 1.2037  data_time: 0.0081  memory: 12061  loss: 0.8561
+2024/05/31 02:42:25 - mmengine - INFO - Iter(train) [5130/6501]  lr: 2.2464e-05  eta: 0:29:19  time: 1.2018  data_time: 0.0082  memory: 12061  loss: 0.8930
+2024/05/31 02:42:37 - mmengine - INFO - Iter(train) [5140/6501]  lr: 2.2151e-05  eta: 0:29:06  time: 1.2037  data_time: 0.0081  memory: 12061  loss: 0.8326
+2024/05/31 02:42:49 - mmengine - INFO - Iter(train) [5150/6501]  lr: 2.1839e-05  eta: 0:28:53  time: 1.2015  data_time: 0.0080  memory: 12061  loss: 0.7532
+2024/05/31 02:43:01 - mmengine - INFO - Iter(train) [5160/6501]  lr: 2.1529e-05  eta: 0:28:40  time: 1.2042  data_time: 0.0084  memory: 12061  loss: 1.2634
+2024/05/31 02:43:13 - mmengine - INFO - Iter(train) [5170/6501]  lr: 2.1221e-05  eta: 0:28:27  time: 1.2072  data_time: 0.0119  memory: 12061  loss: 0.8543
+2024/05/31 02:43:25 - mmengine - INFO - Iter(train) [5180/6501]  lr: 2.0916e-05  eta: 0:28:14  time: 1.2014  data_time: 0.0080  memory: 12061  loss: 0.9746
+2024/05/31 02:43:37 - mmengine - INFO - Iter(train) [5190/6501]  lr: 2.0612e-05  eta: 0:28:01  time: 1.2030  data_time: 0.0080  memory: 12061  loss: 0.9500
+2024/05/31 02:43:49 - mmengine - INFO - Iter(train) [5200/6501]  lr: 2.0310e-05  eta: 0:27:48  time: 1.2032  data_time: 0.0077  memory: 12061  loss: 0.9138
+2024/05/31 02:44:01 - mmengine - INFO - Iter(train) [5210/6501]  lr: 2.0010e-05  eta: 0:27:35  time: 1.2008  data_time: 0.0078  memory: 12061  loss: 0.8490
+2024/05/31 02:44:13 - mmengine - INFO - Iter(train) [5220/6501]  lr: 1.9712e-05  eta: 0:27:22  time: 1.2028  data_time: 0.0077  memory: 12061  loss: 0.7690
+2024/05/31 02:44:25 - mmengine - INFO - Iter(train) [5230/6501]  lr: 1.9416e-05  eta: 0:27:09  time: 1.2006  data_time: 0.0076  memory: 12061  loss: 0.9113
+2024/05/31 02:44:37 - mmengine - INFO - Iter(train) [5240/6501]  lr: 1.9122e-05  eta: 0:26:56  time: 1.2027  data_time: 0.0075  memory: 12061  loss: 0.8674
+2024/05/31 02:44:49 - mmengine - INFO - Iter(train) [5250/6501]  lr: 1.8830e-05  eta: 0:26:43  time: 1.2037  data_time: 0.0082  memory: 12061  loss: 1.0405
+2024/05/31 02:45:01 - mmengine - INFO - Iter(train) [5260/6501]  lr: 1.8540e-05  eta: 0:26:30  time: 1.2008  data_time: 0.0079  memory: 12061  loss: 1.0130
+2024/05/31 02:45:13 - mmengine - INFO - Iter(train) [5270/6501]  lr: 1.8252e-05  eta: 0:26:17  time: 1.2031  data_time: 0.0079  memory: 12061  loss: 1.1005
+2024/05/31 02:45:25 - mmengine - INFO - Iter(train) [5280/6501]  lr: 1.7966e-05  eta: 0:26:04  time: 1.2037  data_time: 0.0081  memory: 12061  loss: 0.8777
+2024/05/31 02:45:37 - mmengine - INFO - Iter(train) [5290/6501]  lr: 1.7682e-05  eta: 0:25:51  time: 1.2009  data_time: 0.0078  memory: 12061  loss: 0.9061
+2024/05/31 02:45:49 - mmengine - INFO - Iter(train) [5300/6501]  lr: 1.7400e-05  eta: 0:25:38  time: 1.2031  data_time: 0.0080  memory: 12061  loss: 0.9809
+2024/05/31 02:46:01 - mmengine - INFO - Iter(train) [5310/6501]  lr: 1.7120e-05  eta: 0:25:25  time: 1.2017  data_time: 0.0083  memory: 12061  loss: 1.0950
+2024/05/31 02:46:13 - mmengine - INFO - Iter(train) [5320/6501]  lr: 1.6843e-05  eta: 0:25:12  time: 1.2032  data_time: 0.0080  memory: 12061  loss: 0.9996
+2024/05/31 02:46:25 - mmengine - INFO - Iter(train) [5330/6501]  lr: 1.6567e-05  eta: 0:24:59  time: 1.2031  data_time: 0.0078  memory: 12061  loss: 0.8904
+2024/05/31 02:46:37 - mmengine - INFO - Iter(train) [5340/6501]  lr: 1.6293e-05  eta: 0:24:46  time: 1.2008  data_time: 0.0077  memory: 12061  loss: 0.9114
+2024/05/31 02:46:49 - mmengine - INFO - Iter(train) [5350/6501]  lr: 1.6022e-05  eta: 0:24:33  time: 1.2037  data_time: 0.0082  memory: 12061  loss: 0.9076
+2024/05/31 02:47:01 - mmengine - INFO - Iter(train) [5360/6501]  lr: 1.5752e-05  eta: 0:24:20  time: 1.2030  data_time: 0.0078  memory: 12061  loss: 1.0943
+2024/05/31 02:47:13 - mmengine - INFO - Iter(train) [5370/6501]  lr: 1.5485e-05  eta: 0:24:07  time: 1.2007  data_time: 0.0078  memory: 12061  loss: 1.0414
+2024/05/31 02:47:25 - mmengine - INFO - Iter(train) [5380/6501]  lr: 1.5220e-05  eta: 0:23:54  time: 1.2032  data_time: 0.0080  memory: 12061  loss: 0.9658
+2024/05/31 02:47:37 - mmengine - INFO - Iter(train) [5390/6501]  lr: 1.4957e-05  eta: 0:23:41  time: 1.2009  data_time: 0.0077  memory: 12061  loss: 0.9104
+2024/05/31 02:47:49 - mmengine - INFO - Iter(train) [5400/6501]  lr: 1.4696e-05  eta: 0:23:28  time: 1.2039  data_time: 0.0083  memory: 12061  loss: 1.0597
+2024/05/31 02:48:01 - mmengine - INFO - Iter(train) [5410/6501]  lr: 1.4437e-05  eta: 0:23:15  time: 1.2029  data_time: 0.0077  memory: 12061  loss: 1.0880
+2024/05/31 02:48:13 - mmengine - INFO - Iter(train) [5420/6501]  lr: 1.4180e-05  eta: 0:23:02  time: 1.2010  data_time: 0.0079  memory: 12061  loss: 1.0859
+2024/05/31 02:48:25 - mmengine - INFO - Iter(train) [5430/6501]  lr: 1.3925e-05  eta: 0:22:49  time: 1.2042  data_time: 0.0084  memory: 12061  loss: 0.9626
+2024/05/31 02:48:38 - mmengine - INFO - Iter(train) [5440/6501]  lr: 1.3673e-05  eta: 0:22:37  time: 1.2036  data_time: 0.0080  memory: 12061  loss: 0.8047
+2024/05/31 02:48:50 - mmengine - INFO - Iter(train) [5450/6501]  lr: 1.3422e-05  eta: 0:22:24  time: 1.2021  data_time: 0.0086  memory: 12061  loss: 0.9203
+2024/05/31 02:49:02 - mmengine - INFO - Iter(train) [5460/6501]  lr: 1.3174e-05  eta: 0:22:11  time: 1.2042  data_time: 0.0086  memory: 12061  loss: 0.9010
+2024/05/31 02:49:14 - mmengine - INFO - Iter(train) [5470/6501]  lr: 1.2928e-05  eta: 0:21:58  time: 1.2014  data_time: 0.0080  memory: 12061  loss: 1.0872
+2024/05/31 02:49:26 - mmengine - INFO - Iter(train) [5480/6501]  lr: 1.2684e-05  eta: 0:21:45  time: 1.2030  data_time: 0.0078  memory: 12061  loss: 0.9576
+2024/05/31 02:49:38 - mmengine - INFO - Iter(train) [5490/6501]  lr: 1.2442e-05  eta: 0:21:32  time: 1.2028  data_time: 0.0078  memory: 12061  loss: 0.8765
+2024/05/31 02:49:50 - mmengine - INFO - Iter(train) [5500/6501]  lr: 1.2203e-05  eta: 0:21:19  time: 1.2009  data_time: 0.0077  memory: 12061  loss: 0.7633
+2024/05/31 02:49:50 - mmengine - INFO - after_train_iter in EvaluateChatHook.
+2024/05/31 02:50:08 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+糖尿病人的康复护理有哪些主要事项？<|im_end|>
+<|im_start|>assistant
+糖尿病的康复护理需要综合考虑患者的身体状况、饮食、运动、药物等多个方面。以下是一些主要事项：
+
+1. 饮食控制：糖尿病人需要注意饮食，控制碳水化合物的摄入量，选择低糖、低脂、高纤维的食物，如全麦面包、糙米饭、蔬菜、水果等。
+
+2. 运动锻炼：适当的运动可以降低血糖水平，增强身体免疫力，提高生活质量。建议每天进行适量的有氧运动，如快走、骑车、游泳等。
+
+3. 监测血糖：定期监测血糖水平，以便及时调整饮食、运动和药物方案。
+
+4. 药物管理：按照医生的建议，按时服药，避免漏服或滥用药物。
+
+5. 心理调节：糖尿病是一种慢性病，需要长期治疗，患者需要保持乐观、积极的心态，避免焦虑、抑郁等负面情绪。
+
+6. 预防并发症：糖尿病容易引起多种并发症，如视网膜病变、肾病、神经病变等，因此需要定期进行相关检查，及时预防和治疗。
+
+7. 戒烟限酒：吸烟和饮酒会加重糖尿病患者的病情，因此需要戒烟限酒。
+
+总之，糖尿病的康复护理需要全面、综合、个体化的管理，患者需要积极参与，与医生密切合作，才能有效控制病情，提高生活质量。<|im_end|>
+
+2024/05/31 02:50:30 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+Please tell me five scenic spots in Shanghai<|im_end|>
+<|im_start|>assistant
+1. The Bund: The Bund is one of the most iconic and recognizable landmarks in Shanghai, and is a must-see for any visitor to the city. It is a waterfront promenade that stretches along the Huangpu River, and offers stunning views of the city skyline, including the famous Shanghai Tower and the Oriental Pearl TV Tower.
+
+2. Yu Garden: Yu Garden is a traditional Chinese garden located in the heart of Shanghai's Old City. It features a beautiful lake, rock formations, and a variety of plants and flowers, making it a peaceful oasis in the midst of the bustling city.
+
+3. Shanghai Tower: Shanghai Tower is one of the tallest buildings in the world, and offers breathtaking views of the city from its observation deck on the 118th floor. It's a great spot for taking in the cityscape and getting a sense of Shanghai's skyline.
+
+4. French Concession: The French Concession is a historic neighborhood in Shanghai that is known for its beautiful tree-lined streets, colonial-style architecture, and charming cafes and restaurants. It's a great place to take a stroll and soak up the atmosphere of the city's past.
+
+5. Zhujiajiao Water Town: Zhujiajiao Water Town is a picturesque ancient town located about an hour outside of Shanghai. It's known for its canals, bridges, and traditional architecture, and is a great place to escape the city and experience a slower pace of life.<|im_end|>
+
+2024/05/31 02:50:30 - mmengine - INFO - Saving checkpoint at 5500 iterations
+2024/05/31 02:50:49 - mmengine - INFO - Iter(train) [5510/6501]  lr: 1.1965e-05  eta: 0:21:14  time: 5.8953  data_time: 4.6978  memory: 12061  loss: 0.9969
+2024/05/31 02:51:01 - mmengine - INFO - Iter(train) [5520/6501]  lr: 1.1730e-05  eta: 0:21:01  time: 1.2045  data_time: 0.0082  memory: 12061  loss: 0.8549
+2024/05/31 02:51:13 - mmengine - INFO - Iter(train) [5530/6501]  lr: 1.1497e-05  eta: 0:20:48  time: 1.2138  data_time: 0.0081  memory: 12061  loss: 1.0807
+2024/05/31 02:51:25 - mmengine - INFO - Iter(train) [5540/6501]  lr: 1.1266e-05  eta: 0:20:35  time: 1.2039  data_time: 0.0078  memory: 12061  loss: 0.9049
+2024/05/31 02:51:37 - mmengine - INFO - Iter(train) [5550/6501]  lr: 1.1038e-05  eta: 0:20:22  time: 1.2013  data_time: 0.0078  memory: 12061  loss: 0.9979
+2024/05/31 02:51:49 - mmengine - INFO - Iter(train) [5560/6501]  lr: 1.0811e-05  eta: 0:20:09  time: 1.2038  data_time: 0.0079  memory: 12061  loss: 0.8053
+2024/05/31 02:52:01 - mmengine - INFO - Iter(train) [5570/6501]  lr: 1.0587e-05  eta: 0:19:56  time: 1.2042  data_time: 0.0082  memory: 12061  loss: 0.9122
+2024/05/31 02:52:13 - mmengine - INFO - Iter(train) [5580/6501]  lr: 1.0365e-05  eta: 0:19:43  time: 1.2025  data_time: 0.0083  memory: 12061  loss: 1.0117
+2024/05/31 02:52:25 - mmengine - INFO - Iter(train) [5590/6501]  lr: 1.0145e-05  eta: 0:19:30  time: 1.2048  data_time: 0.0086  memory: 12061  loss: 0.8982
+2024/05/31 02:52:37 - mmengine - INFO - Iter(train) [5600/6501]  lr: 9.9278e-06  eta: 0:19:17  time: 1.2049  data_time: 0.0082  memory: 12061  loss: 0.9293
+2024/05/31 02:52:49 - mmengine - INFO - Iter(train) [5610/6501]  lr: 9.7125e-06  eta: 0:19:05  time: 1.2023  data_time: 0.0083  memory: 12061  loss: 0.9613
+2024/05/31 02:53:01 - mmengine - INFO - Iter(train) [5620/6501]  lr: 9.4995e-06  eta: 0:18:52  time: 1.2066  data_time: 0.0098  memory: 12061  loss: 0.7920
+2024/05/31 02:53:13 - mmengine - INFO - Iter(train) [5630/6501]  lr: 9.2887e-06  eta: 0:18:39  time: 1.2028  data_time: 0.0082  memory: 12061  loss: 0.9547
+2024/05/31 02:53:25 - mmengine - INFO - Iter(train) [5640/6501]  lr: 9.0801e-06  eta: 0:18:26  time: 1.2038  data_time: 0.0079  memory: 12061  loss: 1.0918
+2024/05/31 02:53:37 - mmengine - INFO - Iter(train) [5650/6501]  lr: 8.8738e-06  eta: 0:18:13  time: 1.2036  data_time: 0.0079  memory: 12061  loss: 0.8707
+2024/05/31 02:53:49 - mmengine - INFO - Iter(train) [5660/6501]  lr: 8.6698e-06  eta: 0:18:00  time: 1.2019  data_time: 0.0078  memory: 12061  loss: 1.0404
+2024/05/31 02:54:01 - mmengine - INFO - Iter(train) [5670/6501]  lr: 8.4680e-06  eta: 0:17:47  time: 1.2034  data_time: 0.0075  memory: 12061  loss: 0.8749
+2024/05/31 02:54:13 - mmengine - INFO - Iter(train) [5680/6501]  lr: 8.2685e-06  eta: 0:17:34  time: 1.2035  data_time: 0.0075  memory: 12061  loss: 0.9758
+2024/05/31 02:54:25 - mmengine - INFO - Iter(train) [5690/6501]  lr: 8.0713e-06  eta: 0:17:21  time: 1.2014  data_time: 0.0076  memory: 12061  loss: 0.9824
+2024/05/31 02:54:37 - mmengine - INFO - Iter(train) [5700/6501]  lr: 7.8764e-06  eta: 0:17:08  time: 1.2036  data_time: 0.0079  memory: 12061  loss: 0.6827
+2024/05/31 02:54:49 - mmengine - INFO - Iter(train) [5710/6501]  lr: 7.6837e-06  eta: 0:16:55  time: 1.2016  data_time: 0.0079  memory: 12061  loss: 0.9823
+2024/05/31 02:55:01 - mmengine - INFO - Iter(train) [5720/6501]  lr: 7.4933e-06  eta: 0:16:42  time: 1.2036  data_time: 0.0078  memory: 12061  loss: 1.0254
+2024/05/31 02:55:13 - mmengine - INFO - Iter(train) [5730/6501]  lr: 7.3053e-06  eta: 0:16:29  time: 1.2030  data_time: 0.0076  memory: 12061  loss: 1.0015
+2024/05/31 02:55:25 - mmengine - INFO - Iter(train) [5740/6501]  lr: 7.1195e-06  eta: 0:16:16  time: 1.2007  data_time: 0.0073  memory: 12061  loss: 0.8208
+2024/05/31 02:55:38 - mmengine - INFO - Iter(train) [5750/6501]  lr: 6.9360e-06  eta: 0:16:03  time: 1.2041  data_time: 0.0081  memory: 12061  loss: 0.9122
+2024/05/31 02:55:50 - mmengine - INFO - Iter(train) [5760/6501]  lr: 6.7549e-06  eta: 0:15:50  time: 1.2035  data_time: 0.0077  memory: 12061  loss: 1.0049
+2024/05/31 02:56:02 - mmengine - INFO - Iter(train) [5770/6501]  lr: 6.5761e-06  eta: 0:15:37  time: 1.2018  data_time: 0.0080  memory: 12061  loss: 0.9360
+2024/05/31 02:56:14 - mmengine - INFO - Iter(train) [5780/6501]  lr: 6.3995e-06  eta: 0:15:24  time: 1.2033  data_time: 0.0077  memory: 12061  loss: 1.3180
+2024/05/31 02:56:26 - mmengine - INFO - Iter(train) [5790/6501]  lr: 6.2253e-06  eta: 0:15:11  time: 1.2009  data_time: 0.0076  memory: 12061  loss: 0.9804
+2024/05/31 02:56:38 - mmengine - INFO - Iter(train) [5800/6501]  lr: 6.0535e-06  eta: 0:14:58  time: 1.2030  data_time: 0.0076  memory: 12061  loss: 0.9951
+2024/05/31 02:56:50 - mmengine - INFO - Iter(train) [5810/6501]  lr: 5.8839e-06  eta: 0:14:46  time: 1.2030  data_time: 0.0076  memory: 12061  loss: 1.2890
+2024/05/31 02:57:02 - mmengine - INFO - Iter(train) [5820/6501]  lr: 5.7167e-06  eta: 0:14:33  time: 1.2015  data_time: 0.0078  memory: 12061  loss: 1.1060
+2024/05/31 02:57:14 - mmengine - INFO - Iter(train) [5830/6501]  lr: 5.5519e-06  eta: 0:14:20  time: 1.2043  data_time: 0.0083  memory: 12061  loss: 0.8466
+2024/05/31 02:57:26 - mmengine - INFO - Iter(train) [5840/6501]  lr: 5.3894e-06  eta: 0:14:07  time: 1.2043  data_time: 0.0083  memory: 12061  loss: 0.9369
+2024/05/31 02:57:38 - mmengine - INFO - Iter(train) [5850/6501]  lr: 5.2292e-06  eta: 0:13:54  time: 1.2018  data_time: 0.0080  memory: 12061  loss: 0.7507
+2024/05/31 02:57:50 - mmengine - INFO - Iter(train) [5860/6501]  lr: 5.0714e-06  eta: 0:13:41  time: 1.2029  data_time: 0.0074  memory: 12061  loss: 0.8961
+2024/05/31 02:58:02 - mmengine - INFO - Iter(train) [5870/6501]  lr: 4.9159e-06  eta: 0:13:28  time: 1.2020  data_time: 0.0081  memory: 12061  loss: 0.8803
+2024/05/31 02:58:14 - mmengine - INFO - Iter(train) [5880/6501]  lr: 4.7628e-06  eta: 0:13:15  time: 1.2040  data_time: 0.0081  memory: 12061  loss: 0.9143
+2024/05/31 02:58:26 - mmengine - INFO - Iter(train) [5890/6501]  lr: 4.6121e-06  eta: 0:13:02  time: 1.2030  data_time: 0.0076  memory: 12061  loss: 0.8955
+2024/05/31 02:58:38 - mmengine - INFO - Iter(train) [5900/6501]  lr: 4.4637e-06  eta: 0:12:49  time: 1.2006  data_time: 0.0073  memory: 12061  loss: 0.8848
+2024/05/31 02:58:50 - mmengine - INFO - Iter(train) [5910/6501]  lr: 4.3177e-06  eta: 0:12:37  time: 1.2038  data_time: 0.0080  memory: 12061  loss: 1.0316
+2024/05/31 02:59:02 - mmengine - INFO - Iter(train) [5920/6501]  lr: 4.1741e-06  eta: 0:12:24  time: 1.2042  data_time: 0.0080  memory: 12061  loss: 1.1177
+2024/05/31 02:59:14 - mmengine - INFO - Iter(train) [5930/6501]  lr: 4.0329e-06  eta: 0:12:11  time: 1.2011  data_time: 0.0076  memory: 12061  loss: 1.0077
+2024/05/31 02:59:26 - mmengine - INFO - Iter(train) [5940/6501]  lr: 3.8940e-06  eta: 0:11:58  time: 1.2029  data_time: 0.0074  memory: 12061  loss: 0.8847
+2024/05/31 02:59:38 - mmengine - INFO - Iter(train) [5950/6501]  lr: 3.7575e-06  eta: 0:11:45  time: 1.2014  data_time: 0.0076  memory: 12061  loss: 0.9089
+2024/05/31 02:59:50 - mmengine - INFO - Iter(train) [5960/6501]  lr: 3.6234e-06  eta: 0:11:32  time: 1.2027  data_time: 0.0074  memory: 12061  loss: 0.9291
+2024/05/31 03:00:02 - mmengine - INFO - Iter(train) [5970/6501]  lr: 3.4917e-06  eta: 0:11:19  time: 1.2027  data_time: 0.0073  memory: 12061  loss: 0.9332
+2024/05/31 03:00:14 - mmengine - INFO - Iter(train) [5980/6501]  lr: 3.3624e-06  eta: 0:11:06  time: 1.2006  data_time: 0.0072  memory: 12061  loss: 0.9588
+2024/05/31 03:00:26 - mmengine - INFO - Iter(train) [5990/6501]  lr: 3.2355e-06  eta: 0:10:54  time: 1.2020  data_time: 0.0072  memory: 12061  loss: 0.7990
+2024/05/31 03:00:38 - mmengine - INFO - Exp name: customised_internlm2_chat_7b_qlora_oasst1_e3_20240531_003647
+2024/05/31 03:00:38 - mmengine - INFO - Iter(train) [6000/6501]  lr: 3.1110e-06  eta: 0:10:41  time: 1.2034  data_time: 0.0082  memory: 12061  loss: 1.0057
+2024/05/31 03:00:38 - mmengine - INFO - after_train_iter in EvaluateChatHook.
+2024/05/31 03:01:00 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+糖尿病人的康复护理有哪些主要事项？<|im_end|>
+<|im_start|>assistant
+糖尿病康复护理的主要事项包括以下几点：
+
+1. 控制饮食：合理控制饮食是糖尿病康复的关键。糖尿病患者应该遵循低脂、低盐、低糖、高纤维的原则，多吃蔬菜、水果、全谷类食品、瘦肉、鱼类等健康食品。同时，避免暴饮暴食、过量饮酒等不良饮食习惯。
+
+2. 控制体重：控制体重是预防和控制糖尿病的重要措施。糖尿病患者应该根据自己的身高、体重和年龄等因素，制定合理的饮食计划和运动计划，保持健康体重。
+
+3. 定期监测血糖：糖尿病患者应该定期监测血糖，了解自己的血糖水平，以便及时调整治疗方案。如果血糖控制不佳，应该及时就医，寻求专业医生的帮助。
+
+4. 坚持运动：运动是控制糖尿病的重要手段之一。糖尿病患者应该根据自身情况，选择适合自己的运动方式，如散步、慢跑、游泳等。坚持运动可以降低血糖、控制体重、提高身体素质。
+
+5. 控制血压和血脂：糖尿病患者还应该控制血压和血脂，避免高血压和高血脂对糖尿病康复造成影响。
+
+6. 预防并发症：糖尿病患者应该预防并发症的发生，如视网膜病变、肾病、神经病变等。定期进行体检，及时发现和治疗并发症。
+
+总之，糖尿病康复需要综合治疗，包括饮食控制、体重控制、血糖监测、运动锻炼、血压血脂控制和预防并发症等方面。糖尿病患者应该积极配合医生治疗，坚持康复护理，保持健康的生活习惯，提高生活质量。<|im_end|>
+
+2024/05/31 03:01:08 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+Please tell me five scenic spots in Shanghai<|im_end|>
+<|im_start|>assistant
+1. Yu Garden (Gongqiang Yuan) - a classical Chinese garden with pavilions, rock formations, and water features.
+2. Bund - a famous promenade along the Huangpu River with colonial-era architecture.
+3. Zhujiajiao Ancient Town - a picturesque water town with canals, bridges, and traditional houses.
+4. Shanghai Tower - the tallest building in China with stunning views of the city.
+5. Zhongshan Park - a large park with a lake, gardens, and a tower offering panoramic views of Shanghai.<|im_end|>
+
+2024/05/31 03:01:08 - mmengine - INFO - Saving checkpoint at 6000 iterations
+2024/05/31 03:01:27 - mmengine - INFO - Iter(train) [6010/6501]  lr: 2.9889e-06  eta: 0:10:31  time: 4.8916  data_time: 3.6975  memory: 12061  loss: 0.9441
+2024/05/31 03:01:39 - mmengine - INFO - Iter(train) [6020/6501]  lr: 2.8692e-06  eta: 0:10:18  time: 1.2022  data_time: 0.0077  memory: 12061  loss: 1.1019
+2024/05/31 03:01:51 - mmengine - INFO - Iter(train) [6030/6501]  lr: 2.7520e-06  eta: 0:10:05  time: 1.2006  data_time: 0.0077  memory: 12061  loss: 0.8480
+2024/05/31 03:02:03 - mmengine - INFO - Iter(train) [6040/6501]  lr: 2.6371e-06  eta: 0:09:52  time: 1.2028  data_time: 0.0080  memory: 12061  loss: 0.8376
+2024/05/31 03:02:15 - mmengine - INFO - Iter(train) [6050/6501]  lr: 2.5247e-06  eta: 0:09:39  time: 1.2032  data_time: 0.0081  memory: 12061  loss: 0.9338
+2024/05/31 03:02:27 - mmengine - INFO - Iter(train) [6060/6501]  lr: 2.4146e-06  eta: 0:09:26  time: 1.1999  data_time: 0.0074  memory: 12061  loss: 0.8824
+2024/05/31 03:02:39 - mmengine - INFO - Iter(train) [6070/6501]  lr: 2.3070e-06  eta: 0:09:13  time: 1.2021  data_time: 0.0075  memory: 12061  loss: 0.9416
+2024/05/31 03:02:51 - mmengine - INFO - Iter(train) [6080/6501]  lr: 2.2018e-06  eta: 0:09:00  time: 1.2024  data_time: 0.0077  memory: 12061  loss: 1.1114
+2024/05/31 03:03:03 - mmengine - INFO - Iter(train) [6090/6501]  lr: 2.0991e-06  eta: 0:08:47  time: 1.2000  data_time: 0.0077  memory: 12061  loss: 0.8497
+2024/05/31 03:03:15 - mmengine - INFO - Iter(train) [6100/6501]  lr: 1.9988e-06  eta: 0:08:35  time: 1.2017  data_time: 0.0073  memory: 12061  loss: 0.9265
+2024/05/31 03:03:27 - mmengine - INFO - Iter(train) [6110/6501]  lr: 1.9009e-06  eta: 0:08:22  time: 1.2003  data_time: 0.0075  memory: 12061  loss: 0.8442
+2024/05/31 03:03:39 - mmengine - INFO - Iter(train) [6120/6501]  lr: 1.8054e-06  eta: 0:08:09  time: 1.2026  data_time: 0.0080  memory: 12061  loss: 0.7925
+2024/05/31 03:03:51 - mmengine - INFO - Iter(train) [6130/6501]  lr: 1.7124e-06  eta: 0:07:56  time: 1.2019  data_time: 0.0074  memory: 12061  loss: 0.8414
+2024/05/31 03:04:03 - mmengine - INFO - Iter(train) [6140/6501]  lr: 1.6218e-06  eta: 0:07:43  time: 1.2002  data_time: 0.0075  memory: 12061  loss: 0.7819
+2024/05/31 03:04:15 - mmengine - INFO - Iter(train) [6150/6501]  lr: 1.5337e-06  eta: 0:07:30  time: 1.2024  data_time: 0.0080  memory: 12061  loss: 0.9820
+2024/05/31 03:04:27 - mmengine - INFO - Iter(train) [6160/6501]  lr: 1.4480e-06  eta: 0:07:17  time: 1.2021  data_time: 0.0074  memory: 12061  loss: 1.1580
+2024/05/31 03:04:39 - mmengine - INFO - Iter(train) [6170/6501]  lr: 1.3647e-06  eta: 0:07:04  time: 1.1999  data_time: 0.0076  memory: 12061  loss: 0.8382
+2024/05/31 03:04:51 - mmengine - INFO - Iter(train) [6180/6501]  lr: 1.2839e-06  eta: 0:06:51  time: 1.2023  data_time: 0.0076  memory: 12061  loss: 0.9637
+2024/05/31 03:05:03 - mmengine - INFO - Iter(train) [6190/6501]  lr: 1.2056e-06  eta: 0:06:39  time: 1.2000  data_time: 0.0076  memory: 12061  loss: 1.0473
+2024/05/31 03:05:15 - mmengine - INFO - Iter(train) [6200/6501]  lr: 1.1297e-06  eta: 0:06:26  time: 1.2018  data_time: 0.0074  memory: 12061  loss: 1.0199
+2024/05/31 03:05:27 - mmengine - INFO - Iter(train) [6210/6501]  lr: 1.0562e-06  eta: 0:06:13  time: 1.2027  data_time: 0.0076  memory: 12061  loss: 0.9897
+2024/05/31 03:05:39 - mmengine - INFO - Iter(train) [6220/6501]  lr: 9.8525e-07  eta: 0:06:00  time: 1.2012  data_time: 0.0079  memory: 12061  loss: 0.9258
+2024/05/31 03:05:51 - mmengine - INFO - Iter(train) [6230/6501]  lr: 9.1672e-07  eta: 0:05:47  time: 1.2029  data_time: 0.0079  memory: 12061  loss: 0.8125
+2024/05/31 03:06:03 - mmengine - INFO - Iter(train) [6240/6501]  lr: 8.5064e-07  eta: 0:05:34  time: 1.2029  data_time: 0.0079  memory: 12061  loss: 0.9288
+2024/05/31 03:06:15 - mmengine - INFO - Iter(train) [6250/6501]  lr: 7.8703e-07  eta: 0:05:21  time: 1.2005  data_time: 0.0078  memory: 12061  loss: 0.8212
+2024/05/31 03:06:28 - mmengine - INFO - Iter(train) [6260/6501]  lr: 7.2588e-07  eta: 0:05:09  time: 1.2028  data_time: 0.0079  memory: 12061  loss: 0.8937
+2024/05/31 03:06:40 - mmengine - INFO - Iter(train) [6270/6501]  lr: 6.6720e-07  eta: 0:04:56  time: 1.1998  data_time: 0.0074  memory: 12061  loss: 1.0187
+2024/05/31 03:06:52 - mmengine - INFO - Iter(train) [6280/6501]  lr: 6.1098e-07  eta: 0:04:43  time: 1.2024  data_time: 0.0079  memory: 12061  loss: 0.9496
+2024/05/31 03:07:04 - mmengine - INFO - Iter(train) [6290/6501]  lr: 5.5722e-07  eta: 0:04:30  time: 1.2024  data_time: 0.0078  memory: 12061  loss: 1.0191
+2024/05/31 03:07:16 - mmengine - INFO - Iter(train) [6300/6501]  lr: 5.0594e-07  eta: 0:04:17  time: 1.1997  data_time: 0.0073  memory: 12061  loss: 0.8065
+2024/05/31 03:07:28 - mmengine - INFO - Iter(train) [6310/6501]  lr: 4.5712e-07  eta: 0:04:04  time: 1.2021  data_time: 0.0076  memory: 12061  loss: 0.7726
+2024/05/31 03:07:40 - mmengine - INFO - Iter(train) [6320/6501]  lr: 4.1078e-07  eta: 0:03:51  time: 1.2025  data_time: 0.0076  memory: 12061  loss: 0.8186
+2024/05/31 03:07:52 - mmengine - INFO - Iter(train) [6330/6501]  lr: 3.6690e-07  eta: 0:03:39  time: 1.2003  data_time: 0.0078  memory: 12061  loss: 0.9443
+2024/05/31 03:08:04 - mmengine - INFO - Iter(train) [6340/6501]  lr: 3.2550e-07  eta: 0:03:26  time: 1.2029  data_time: 0.0081  memory: 12061  loss: 0.9623
+2024/05/31 03:08:16 - mmengine - INFO - Iter(train) [6350/6501]  lr: 2.8658e-07  eta: 0:03:13  time: 1.2004  data_time: 0.0075  memory: 12061  loss: 0.9871
+2024/05/31 03:08:28 - mmengine - INFO - Iter(train) [6360/6501]  lr: 2.5013e-07  eta: 0:03:00  time: 1.2018  data_time: 0.0073  memory: 12061  loss: 0.9727
+2024/05/31 03:08:40 - mmengine - INFO - Iter(train) [6370/6501]  lr: 2.1615e-07  eta: 0:02:47  time: 1.2018  data_time: 0.0073  memory: 12061  loss: 1.0352
+2024/05/31 03:08:52 - mmengine - INFO - Iter(train) [6380/6501]  lr: 1.8465e-07  eta: 0:02:34  time: 1.1997  data_time: 0.0071  memory: 12061  loss: 0.7635
+2024/05/31 03:09:04 - mmengine - INFO - Iter(train) [6390/6501]  lr: 1.5563e-07  eta: 0:02:22  time: 1.2030  data_time: 0.0079  memory: 12061  loss: 0.9436
+2024/05/31 03:09:16 - mmengine - INFO - Iter(train) [6400/6501]  lr: 1.2908e-07  eta: 0:02:09  time: 1.2019  data_time: 0.0075  memory: 12061  loss: 0.9688
+2024/05/31 03:09:28 - mmengine - INFO - Iter(train) [6410/6501]  lr: 1.0502e-07  eta: 0:01:56  time: 1.1998  data_time: 0.0076  memory: 12061  loss: 0.8429
+2024/05/31 03:09:40 - mmengine - INFO - Iter(train) [6420/6501]  lr: 8.3431e-08  eta: 0:01:43  time: 1.2019  data_time: 0.0075  memory: 12061  loss: 0.8905
+2024/05/31 03:09:52 - mmengine - INFO - Iter(train) [6430/6501]  lr: 6.4325e-08  eta: 0:01:30  time: 1.2001  data_time: 0.0075  memory: 12061  loss: 0.9635
+2024/05/31 03:10:04 - mmengine - INFO - Iter(train) [6440/6501]  lr: 4.7699e-08  eta: 0:01:18  time: 1.2019  data_time: 0.0076  memory: 12061  loss: 0.9269
+2024/05/31 03:10:16 - mmengine - INFO - Iter(train) [6450/6501]  lr: 3.3554e-08  eta: 0:01:05  time: 1.2021  data_time: 0.0075  memory: 12061  loss: 0.8363
+2024/05/31 03:10:28 - mmengine - INFO - Iter(train) [6460/6501]  lr: 2.1890e-08  eta: 0:00:52  time: 1.1999  data_time: 0.0074  memory: 12061  loss: 1.0159
+2024/05/31 03:10:40 - mmengine - INFO - Iter(train) [6470/6501]  lr: 1.2707e-08  eta: 0:00:39  time: 1.2017  data_time: 0.0073  memory: 12061  loss: 1.0764
+2024/05/31 03:10:52 - mmengine - INFO - Iter(train) [6480/6501]  lr: 6.0062e-09  eta: 0:00:26  time: 1.2029  data_time: 0.0079  memory: 12061  loss: 0.9138
+2024/05/31 03:11:04 - mmengine - INFO - Iter(train) [6490/6501]  lr: 1.7870e-09  eta: 0:00:14  time: 1.2001  data_time: 0.0078  memory: 12061  loss: 0.9566
+2024/05/31 03:11:16 - mmengine - INFO - Iter(train) [6500/6501]  lr: 4.9639e-11  eta: 0:00:01  time: 1.2023  data_time: 0.0078  memory: 12061  loss: 0.9900
+2024/05/31 03:11:16 - mmengine - INFO - after_train_iter in EvaluateChatHook.
+2024/05/31 03:11:30 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+糖尿病人的康复护理有哪些主要事项？<|im_end|>
+<|im_start|>assistant
+糖尿病的康复护理需要注意以下几点：
+
+1. 饮食控制：糖尿病人应该遵循低糖、低脂、高纤维的饮食原则，避免食用高热量、高脂肪、高糖分的食物，控制饮食量，保持规律的饮食习惯。
+
+2. 运动锻炼：适当的运动锻炼可以有助于控制血糖，增强身体代谢能力，提高身体免疫力。建议糖尿病人每天进行适量的有氧运动，如快走、慢跑、游泳等。
+
+3. 定期监测：糖尿病人需要定期监测血糖、血压、血脂等指标，以便及时调整治疗方案，控制病情发展。
+
+4. 药物治疗：糖尿病人需要根据医生的建议，按时按量服用降糖药物，如胰岛素、口服降糖药等。
+
+5. 心理调节：糖尿病的康复护理也需要注重心理调节，避免情绪波动，保持乐观的心态，积极面对疾病。
+
+总之，糖尿病的康复护理需要全面考虑，包括饮食、运动、监测、药物治疗和心理调节等方面，需要糖尿病人和家属共同努力，共同促进糖尿病康复。<|im_end|>
+
+2024/05/31 03:11:47 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+Please tell me five scenic spots in Shanghai<|im_end|>
+<|im_start|>assistant
+1. Yu Garden: This traditional Chinese garden is located in the heart of Shanghai and is one of the most popular tourist destinations in the city. With its beautiful pavilions, bridges, and rock formations, it is a great place to relax and enjoy the natural beauty of Shanghai.
+
+2. The Bund: The Bund is a waterfront promenade that stretches along the Huangpu River in central Shanghai. It is lined with historic buildings, including the iconic Shanghai Tower and the Peace Hotel, and offers stunning views of the city skyline.
+
+3. Shanghai Tower: This 632-meter tall skyscraper is one of the tallest buildings in the world and offers breathtaking views of Shanghai from its observation deck on the 118th floor.
+
+4. Shanghai Museum: This world-class museum is home to a vast collection of Chinese art and artifacts, including bronzes, ceramics, and calligraphy.
+
+5. Zhujiajiao Water Town: This charming water town is located just outside of Shanghai and offers a glimpse into traditional Chinese life. Visitors can explore the narrow canals, ancient bridges, and historic temples and enjoy a relaxing boat ride along the waterways.<|im_end|>
+
+2024/05/31 03:11:47 - mmengine - INFO - Saving checkpoint at 6500 iterations
+2024/05/31 03:11:55 - mmengine - INFO - after_train_iter in EvaluateChatHook.
+2024/05/31 03:12:08 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+糖尿病人的康复护理有哪些主要事项？<|im_end|>
+<|im_start|>assistant
+糖尿病是一种慢性代谢性疾病，康复护理非常重要。以下是一些主要事项：
+
+1. 饮食控制：糖尿病患者的饮食控制非常重要。他们需要遵循低糖、低脂、高纤维的饮食原则，并定期测量自己的血糖水平。
+
+2. 运动锻炼：适当的运动锻炼可以帮助控制血糖水平，提高身体对胰岛素的敏感性。建议每周进行至少150分钟的中等强度运动。
+
+3. 监测血糖水平：定期监测血糖水平可以帮助糖尿病患者了解自己的病情，并及时调整治疗方案。
+
+4. 预防并发症：糖尿病患者需要注意预防并发症，如视网膜病变、神经病变、肾病等。定期进行相关检查可以帮助早期发现和治疗这些并发症。
+
+5. 药物治疗：糖尿病患者的药物治疗需要根据医生的建议进行，并定期进行复查和调整。
+
+6. 心理支持：糖尿病是一种长期疾病，需要患者和家属共同面对。提供心理支持和鼓励可以帮助糖尿病患者更好地控制疾病。<|im_end|>
+
+2024/05/31 03:12:26 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+Please tell me five scenic spots in Shanghai<|im_end|>
+<|im_start|>assistant
+Sure! Here are five scenic spots in Shanghai:
+
+1. The Bund: This iconic waterfront promenade offers stunning views of Shanghai's skyline and is a popular spot for tourists and locals alike. It's lined with historic buildings, including the iconic Customs House and the Shanghai Tower.
+
+2. Yu Garden: This traditional Chinese garden is located in the heart of Shanghai's Old Town and is a peaceful oasis amid the bustling city. The garden features winding paths, rock formations, and a central lake with a bridge and pavilion.
+
+3. Shanghai Tower: This 632-meter-tall skyscraper is the tallest building in China and offers breathtaking views of the city from its observation deck on the 118th floor.
+
+4. Shanghai Disney Resort: This theme park is located on the outskirts of Shanghai and offers a fun-filled day for families and Disney fans alike. The park features rides, attractions, and shows inspired by Disney movies and characters.
+
+5. Zhujiajiao Water Town: This ancient water town is located just outside of Shanghai and is a great place to escape the city and experience traditional Chinese architecture and culture. The town is surrounded by canals and bridges and features narrow streets lined with shops and restaurants.<|im_end|>
+
+2024/05/31 03:12:26 - mmengine - INFO - Saving checkpoint at 6501 iterations
+2024/05/31 03:12:33 - mmengine - INFO - after_train in EvaluateChatHook.
+2024/05/31 03:12:48 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+糖尿病人的康复护理有哪些主要事项？<|im_end|>
+<|im_start|>assistant
+糖尿病是一种慢性代谢性疾病，需要进行长期的管理和康复护理。以下是一些主要事项：
+
+1. 控制饮食：饮食管理是糖尿病康复护理的重要组成部分。糖尿病患者需要遵循低糖、低脂、高纤维的饮食原则，并根据个人情况制定适合自己的饮食计划。
+
+2. 运动锻炼：适当的运动可以改善胰岛素敏感性，降低血糖水平。糖尿病患者应该根据自己的身体状况选择适合自己的运动方式，如散步、骑车、游泳等。
+
+3. 监测血糖：定期监测血糖可以帮助糖尿病患者了解自己的血糖水平，及时调整治疗方案。
+
+4. 控制体重：过重或肥胖是糖尿病的重要风险因素，控制体重可以降低糖尿病的风险。
+
+5. 药物治疗：药物治疗是糖尿病康复护理的重要手段之一。糖尿病患者需要在医生的指导下选择合适的药物，并按照医生的建议进行用药。
+
+6. 心理调节：糖尿病是一种慢性疾病，长期的治疗和管理会给患者带来一定的心理压力。糖尿病患者需要进行心理调节，保持乐观的心态，积极面对疾病。<|im_end|>
+
+2024/05/31 03:12:56 - mmengine - INFO - Sample output:
+<s><|im_start|>user
+Please tell me five scenic spots in Shanghai<|im_end|>
+<|im_start|>assistant
+Here are five scenic spots in Shanghai:
+
+1. The Bund: A waterfront promenade with stunning views of the city's skyline.
+
+2. Yu Garden: A traditional Chinese garden with beautiful pavilions, ponds, and rock formations.
+
+3. Shanghai Tower: The tallest building in China, offering panoramic views of the city.
+
+4. Zhujiajiao Water Town: A picturesque water town with canals, bridges, and traditional architecture.
+
+5. Oriental Pearl Tower: A futuristic-looking tower with an observation deck and a museum.<|im_end|>
+

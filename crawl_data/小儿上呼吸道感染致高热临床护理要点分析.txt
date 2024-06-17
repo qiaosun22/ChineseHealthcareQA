@@ -1,0 +1,28 @@
+
+ 　　【摘要】目的：分析小儿上呼吸道感染致高热的临床护理要点及护理效果。方法：选择我院收治的72例上呼吸道感染致高热患儿作为本次观察对象（2014年2月至2015年6月），随机将其分成两组，对照组36例采用基础护理，实验组36例在对照组基础上加用优质护理，观察两组上呼吸道感染致高热患儿高热缓解时间、一周内恢复率及住院时间。结果：对照组一周内恢复率（77.78%）明显低于实验组（94.44%），且两组上呼吸道感染致高热患儿高热缓解时间及住院时间存在显著差异（p<0.05）。结论：针对上呼吸道感染致高热患儿采用优质护理的效果显著，能缩短患儿的恢复时间，促进患儿预后。
+　　[Abstract] Objective：Analysis of pediatric clinical nursing points of the upper respiratory tract infection caused by high fever and nursing effect.Methods：Choose our hospital 72 cases of children with upper respiratory tract infection caused by high fever as the observation object（in February 2014 to June 2015），it is divided into two groups at random，the control group of 36 patients with primary care，experimental group based on 36 cases in the control group used high quality nursing care，observation of two groups of children with upper respiratory tract infection caused by high fever high fever relief time，recovery rate and the length of time in a week.Results：Recovery rate（77.78%），significantly lower than the control group a week group（94.44%），and two groups of children with upper respiratory tract infection caused by high fever high fever relief time and hospital stay there were significant differences（p < 0.05）.Conclusion：In view of the upper respiratory tract infection of children with high fever caused by the high quality nursing effect is remarkable，can shorten the recovery time of children and promote the prognosis of children.
+　　【中?D分类号】R473.7 【文献标识码】B 【文章编号】2095-6851（2017）06-0-01
+　　小儿上呼吸道感染在临床中属于较为常见的疾病之一，主要是由于病毒及细菌感染所致，病情较轻者仅会出现呼吸道症状，症状较重者会出现高热症状，属于重症范畴[1]，若不及时治疗，将会导致高热惊厥的出现，严重影响患儿的成长发育。我院针对收治的上呼吸道感染致高热患儿采用优质护理，报告如下。
+　　1.资料和方法
+　　1.1 临床资料
+　　选择我院收治的72例上呼吸道感染致高热患儿作为本次观察对象（2014年2月至2015年6月），随机将其分成两组，对照组36例患儿中，男性患儿20例，女性患儿16例，年龄1至12岁，年龄均值为（6.52±2.13）岁；实验组36例患儿中，男性患儿21例，女性患儿15例，年龄1至11岁，年龄均值为（6.50±2.10）岁。
+　　对两组上呼吸道感染致高热患儿的临床资料进行均衡性检验后发现，统计学无意义（p>0.05），可对比。
+　　1.2 方法
+　　对照组36例采用基础护理，主要包括药物护理、身体护理及常规降温护理等；实验组36例在对照组基础上加用优质护理，主要包括体温护理、环境护理、优质身体护理、心理护理、预防并发症护理、生活护理等，优质护理不仅能有效帮助患儿迅速降温，提高治疗效果，缩短治疗时间及住院时间，为患儿家属减轻医疗负担。
+　　1.3 观察指标
+　　观察两组上呼吸道感染致高热患儿高热缓解时间、一周内恢复率及住院时间。
+　　1.4 统计学处理
+　　采用SPSS19.0软件对两组上呼吸道感染致高热患儿的观察指标进行统计学处理。一周内恢复率为计数资料，采用检验；高热缓解时间及住院时间为计量资料，采用t检验。P<0.05代表统计学有意义。
+　　2.结果
+　　两组上呼吸道感染致高热患儿高热缓解时间、一周内恢复率及住院时间存在显著差异（p<0.05），统计学有意义；数据如表1所示：
+　　3.讨论
+　　小儿呼吸道感染会在一定程度上导致患儿出现高热症状，高热会导致患儿身体机能严重受损，可能引发一系列并发症出现。因此，采用有效的护理措施进行干预，能在一定程度上提高治疗效果。优质护理主要包括以下几点：   　　（1）体温护理：主要为物理降温，用浸过冷水的毛巾拧干后（冰块）敷于患儿额头，将患儿小腿、手及双前臂浸泡在40度左右的热水中，一次20分钟，每天3次，降温期间多给予温水进行服用；若物理降温效果不佳时，可遵循医嘱给予适量布洛芬口服混悬液或小儿布洛芬栓直肠给药进行降温[2]。
+　　（2）环境护理：保持病房环境干净卫生，保持室内通风，保证适宜的温度及湿度，将室内温度控制在25度左右，将室内湿度控制在50%左右[3]，对患儿家属讲述室内温度、湿度对降温的重要性，让患儿家属配合医护人员进行降温工作。
+　　（3）优质身体护理：患儿高热时，口腔粘膜较为干燥，极易受损引起细菌感染现象出现，因此，护理人员应叮嘱患儿家属喂饭或喂奶后立即为患儿喂适量白开水，必要时可给予生理盐水擦拭患儿口腔；在降温过程中加强对患儿皮肤的护理，将降温时湿透的衣服及时进行更换，避免出现着凉等病症[4]。
+　　（4）心理护理：针对患儿家属给予心理疏导，告知其高热?儆诔＜?病症之一，解答患儿家属的疑问，倾听其内心想法，缓解其负面情绪及心理压力；针对患儿，多与患儿进行沟通交流，多与患儿互动，进行小游戏或小问答，给予患儿一定的奖励及鼓励，缓解其对医院及医护人员的恐惧感。
+　　（5）预防并发症护理：加强对患儿的巡视，特别是夜间巡视，严密观察或采用一对一的专人护理进行监测，在护理服务台准备好急救物品，患儿一旦出现惊厥现象，及时进行处理并报告医师。
+　　（6）生活护理：患儿在高热时，极易大量流失体内水分，因此及时补充水分能防止患儿发生脱水现象，给予患儿食用富含营养、蛋白质等食物，禁食油腻、上火食物，提高患儿的抵抗力及免疫力，保持患儿身体清洁与卫生，告知患儿家属遵医嘱给患儿服用药物，不可自行停药、减药。
+　　优质护理能有效帮助患儿快速降温，减轻患儿的不适及痛苦，提高治疗效果，缩短住院时间，提高恢复率。本次观察的结果数据中显示，采用优质护理的实验组患儿一周内恢复率比对照组高出16.66%，说明优质护理能有效提高患儿恢复率，促进患儿预后；且实验组住院时间及高热缓解时间均明显优于对照组，说明优质护理对于上呼吸道感染致高热患儿的护理效果高于基础护理的效果。
+　　综上所述，针对小儿上呼吸道感染致高热患儿采用优质护理的护理效果明显，能缩短住院时间及恢复时间。
+
+

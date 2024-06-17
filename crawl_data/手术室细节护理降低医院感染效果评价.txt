@@ -1,0 +1,29 @@
+
+ 　　[摘要] 目的 探讨手术室细节护理在对医院感染的控制效果。方法 选取我院2014年4月～ 2016年3月于我院接受手术治疗的患者110例，随机分为对照组和观察组，每组各55例。其中对照组患者接受常规手术护理，观察组患者在对照组的基础上接受手术室细节护理管理。对比分析两组患者的医院感染和术后并发症发生率，同时比较两组患者的护理满意度。 结果 与对照组患者相比，观察组患者的医院感染率和术后并发症发生率均明显降低，差异有统计学意义（P<0.05）；观察组患者的护理满意度为90.9%，明显高于对照组的74.5%，差异有统计学意义（P<0.05）。 结论 手术室细节护理能够有效地降低医院感染发生率，提高护理满意度，改善患者预后，在临床实施手术的过程中值得推广应用。
+　　[中图分类号] R472.3 [文献标识码] A [文章?号] 2095-0616（2017）07-152-03
+　　Effect evaluation of details of nursing management in operation room on the reduction of nosocomial infection
+　　HUANG Xiaoling WEI Weihua HU Jieyun ZHANG Xiuxia
+　　Operation Room， Longchuan Country People's Hospital， Guangdong， Longchuan 517300， China
+　　[Abstract] Objective To explore the control effect of details of nursing management in operation room on the reduction of nosocomial infection. Methods 110 patients received surgical treatment from April 2014 to March 2016 in our hospital were selected and randomly divided into the control group and the observation group， with 55 cases in each group. Patients in the control group were treated with routine surgical care， and patients in the observation group were treated with details of nursing management in operation room on the basis of the control group. The rate of nosocomial infection and postoperative complications in two groups were compared and analyzed. Nursing satisfaction of the two groups of was compared. Results Compared with the control group， the infection rate and postoperative hospital complication rate in the observation group were significantly decreased， the difference was statistically significant （P<0.05）. The nursing satisfaction of the observation patients was 90.9%， which was significantly higher than the control group with 74.5%， the difference was statistically significant （P<0.05）. Conclusion The details of nursing management in operation room can effectively reduce the incidence of nosocomial infection， improve nursing satisfaction， and improve the prognosis of patients. It is worth popularizing in clinical operation.
+　　[Key words] Details of nursing management； Operation room； Nosocomial infection； Effect evaluation
+　　近年来，随着院内感染的发病率的不断提高，各级医院均将院内感染作为医院质量控制管理中的重要部分之一[1]。医院感染严重威胁着患者的生命健康，流行病学研究资料表明，在我国约22.2%的住院死亡患者与医院感染有关[2]。手术室是临床工作中实施手术治疗和护理工作的重要场所，更重要的是，随着手术过程中各类免疫制剂和抗生素的广泛应用，手术室成为医院感染的高危科室之一[3]。因此，在临床实施手术的过程中需要谨防一切可能导致医院感染的危险因素，从而尽可能降低医院感染的发生率。在本项研究中，我们就手术室细节护理对医院感染的控制效果进行了研究，现将结果报道如下。
+　　1 资料与方法
+　　1.1 一般资料   　　?x取我院2014年4月～2016年3月于我院接受手术治疗的患者共110例，随机分为对照组和观察组，每组各55例。对照组患者男32例，女23例，年龄20～65岁，平均（44.6±5.4）岁，其中行阑尾手术25例，行妇科手术12例，行肝胆手术10例，行胃部手术5例，其他3例；观察组患者男30例，女25例，年龄21～63岁，平均（45.4±4.8）岁，其中行阑尾手术23例，行妇科手术14例，行肝胆手术8例，行胃部手术6例，其他4例；两组患者的一般资料无统计学差异（P>0.05），具有可比性。所有患者对本研究均知情同意及与患者签署保密协议书，并经医院相关部门审核批准后实施。
+　　1.2 护理方法
+　　对照组采取常规手术室护理管理，包括手术前后手术室的消毒、清洁等护理工作的登记造册；对手术室医务人员的定期培训等。观察组患者在此基础上接受手术室细节护理，具体措施如下：（1）建立手术室细节护理管理小组：在护士长的带领下选取有丰富经验的护士作为组长， 然后挑选专业技能突出的护士为小组成员，定期组织小组成员进行相关专业知识和护理技能培训，从而提高细节护理管理小组成员的整体护理质量；（2）细节管理的具体实施步骤：术前护理：手术室护理人员在收到手术通知单后，需依据患者入院后常规检查对患者进行全面评估，确定手术过程中需要注意的护理要点。对手术存在紧张、恐惧心理的患者应进行术前心理干预，解释手术目的和手术特点，帮助患者建立战胜疾病的信心。此外，术前应准备相关手术器械，同时对手术器械进行灭菌消毒；术中护理：护理人员在患者送入手术室后认真核对患者的基本信息，所有信息确认无误后，为患者建立静脉通道，连接心电等监护仪器，调整输液量和速度等。协助麻醉师实施麻醉工作，调整患者的体位使手术视野充分暴露。密切关注手术过程中患者脉搏、心电、血压等生命体征变化，一旦出现异常应立即告知麻醉医师和手术医师，协助医师进行处理。术后护理：在手术成功后患者由护理人员护送回到病房，定期清洁手术切口部位皮肤，避免发生感染。（3）建立相应的监管制度：建立有效的奖惩制度并纳入护士考核绩效，对于能够积极、高效完成护理措施的护理人员及时给予奖励，同时对于能够发现细节问题的护士给予相应的奖励，而对于工作不积极、无责任心的护理人员给予扣除奖金等惩罚措施。
+　　1.3 观察指标
+　　记录两组患者医院感染和术后并发症的发生率；统计两组患者对不同护理措施的满意情况，包括非常满意、满意、不满意三个级别，满分 100 分，非常满意：80～100 分；满意：60～79 分；不满意：0～59 分；满意度=（非常满意+满意）例数/总例数×100%。
+　　1.4 统计学方法
+　　本项研究中的所有数据均在专业统计学软件SPSS17.0中进行分析处理，计数资料如满意度和不良反应发生情况采用例表示，比较采用χ2检验；计量资料采用（）表示，比较采用t检验，P<0.05表示差异具有统计学意义。
+　　2 结果
+　　2.1 两组患者医院感染和术后并发症发生情况比较
+　　与对照组患者相比，观察组患者的医院感染率和术后并发症发生率均明显降低，差异有统计学意义（P<0.05）。见表1。
+　　2.2 两组患者护理满意度比较
+　　观察组患者的护理满意度为90.9%，明显高于常规组的74.5%，差异有统计学意义（P<0.05）。具体见表2。
+　　3 讨论
+　　医院感染是指住院患者在医院内获得的感染，具体包括患者在住院期间发生的感染和于医院内获得而出院后发生的感染，但不包括入院前已开始或者入院时已处于潜伏期的感染[4]。医院感染严重威胁着患者的生命健康，流行病学研究资料表明，在我国，约22.2% 的住院死亡患者与医院感染有关。因此，有效的预防、控制和减少医院感染具有重要的意义。临床研究表明，手术室感染是近年来控制医院感染的重点工作，这主要是因为一旦出现手术室感染则可能导致患者出现全身感染和败血症等严重后果，从而阻碍患者预后，甚至增加医患纠纷的发生率[5-6]。
+　　由于临床手术实施过程中所需的手术器械工具繁多且种类复杂，而随着手术技术的成熟，手术时间不断缩短，因而对手术过程中的护理配合要求也越来越严格，如保持手术过程中手术室合适的温湿度，监测患者的体生命体征，熟悉手术流程以便配合医师实施手术等[7-8]。
+　　手术室护理路径属于高效科学的护理方式，护理人员在得到手术通知后主动了解整个手术流程，积极参与手术讨论，确保了护理工作的完整性和规范性，因而相较于较常规手术护理而言，手术室护理的术中配合度更高[9]。在本项研究中，我们就手术室细节护理对医院感染的控制效果进行了探讨，结果发现与仅接受常规护理的对照组患者相比，观察组患者的医院感染率和术后并发症发生率均明显降低（P<0.05），并且观察组患者的护理满意度明显高于对照组（P<0.05）。细节护理属于新型的护理管理模式， 目的是为了保障医院的医疗服务质量和尽可能满足患者的临床[10-12]。在本项研究采用的手术室细节护理中， 我们重点细化了术前、术中和术后的护理操作，量化了考核和奖惩制度，定期对护理人员的专业知识和技能培训提高了护理人员的综合素质，保证了手术室护理的质量，最终有效地防止了手术室感染和术后医院感染的发生几率[13-15]。
+　　综上所述，我们认为手术室细节护理能够有效地降低医院感染发生率，提高护理满意度，改善患者预后，在临床实施手术的过程中值得推广应用。
+
+

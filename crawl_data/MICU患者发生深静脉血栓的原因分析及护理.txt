@@ -1,0 +1,16 @@
+
+ 　　【摘要】 目的：研究MICU患者发生深静脉血栓的原因，并对相应的护理措施进行探讨。方法：选择2014年1月-2016年1月笔者所在医院收治的MICU患者288例，回顾性分析其临床资料，对形成深静脉血栓的原因进行分析，并对相关的护理措施进行探讨。结果：入院时的原发疾病不同，患者深静脉血栓的发生率不同，差异有统计学意义（P<0.05）；年龄越大，卧床时间越长，深静脉血栓发生率越高，差异有统计学意义（P<0.05）。结论：引起MICU患者深静脉血栓发生的主要原因有原发疾病类型、患者年龄、患者卧床时间等，针对不同的发病原因，应采取相应的措施进行护理，从而降低MICU患者发生深静脉血栓的概率。
+　　doi：10.14033/j.cnki.cfmr.2017.12.034 文献标识码 B 文章编号 1674-6805（2017）12-0062-03
+　　【Abstract】 Objective：To investigate the causes of deep venous thrombosis in MICU patients，and the corresponding nursing measures were discussed.Method：From January 2014 to January 2016 in our hospital 288 cases of patients in MICU were selected，and the clinical data were retrospectively analyzed，the causes of deep venous thrombosis on it were analyzed，and the related nursing measures were discussed.Result：With different primary diseases，the incidence of deep vein thrombosis in patients was different，the differences were statistically significant（P<0.05）.The older patients get，the longer patients stay in bed，the higher the incidence of deep vein thrombosis，the differences were statistically significant（P<0.05）.Conclusion：The main reason of deep venous thrombosis in MICU patients with primary disease type，patient age，patient bed time，according to different causes，corresponding measures shall be taken for nursing care，so as to reduce the risk of deep venous thrombosis in MICU patients.
+　　【Key words】 MICU patients； Deep vein thrombosis； Cause analysis； Nursing measures
+　　First-author’s address：The First Affiliated Hospital of Sun Yat-sen University，Guangzhou 510080，China
+　　深?o脉血栓是MICU患者中一种较为常见的并发症类型，也称为DVT，多发于患者的下肢部位。深静脉血栓的病理主要是深静脉中血液异常凝结，造成深静脉血液回流障碍，在临床上主要表现为肌肤颜色异常、浅层静脉非正常扩张、双腿胀痛发麻、双腿异常肿胀等情况，对患者的身体健康和疾病康复十分不利，具有较高的致残率，严重时甚至会导致患者死亡。基于此，在MICU患者的日常治疗及护理当中，应当充分了解深静脉血栓的发病原因，及时发现并采取有效的措施进行护理和治疗，降低MICU患者发生深静脉血栓的概率。
+　　1 资料与方法
+　　1.1 一般资料
+　　选择2014年1月-2016年1月中山大学附属第一医院收治的MICU患者288例，其中男156例，女132例。所选患者中，经多普勒超声检查显示单侧或双侧存在深静脉血栓的患者36例，发生率为12.50%。其中累及左下肢患者18例，占50.00%；累及右下肢患者16例，占44.44%；累及双下肢患者2例，占5.56%。所选患者中，包括肿瘤患者47例，占16.32%；脑卒中患者115例，占39.93%；严重细菌感染患者53例，占18.40%；严重外伤骨折患者68例，占23.61%；其他疾病患者5例，占1.74%。
+　　1.2 方法
+　　对所选的288例MICU患者的临床资料进行回顾性分析，整理患者入院的原发病资料。整理288例MICU患者中发生深静脉血栓的36例患者的临床资料，调查患者发生深静脉血栓的原因，同时整理深静脉血栓患者的原发疾病、年龄、卧床时间，分析其与深静脉血栓发病之间的关系。
+　　1.3 观察指标
+　　按照原发疾病对MICU患者进行分组，分别计算肿瘤患者、脑卒中患者、严重细菌感染患者、严重外伤骨折患者中发生深静脉血栓的例数和百分比；按照年龄对MICU患者进行分组，分别计算15岁以下患者、16～60岁患者、61岁以上患者发生深静脉血栓的例数和百分比；按照卧床时间对MICU患者进行分组，分别计算卧床7 d以下患者、卧床8～15 d患者、卧床16 d以上患者中发生深静脉血栓的例数和百分比。   　　综上所述，对于MICU患者来说，由于受到原发疾病、年龄、卧床时间等原因的影响，容易发生深静脉血栓的并发症。对此，应采取有效的措施进行护理，从而降低患者发生深静脉血栓的概率，促?M患者更快康复。
+
+

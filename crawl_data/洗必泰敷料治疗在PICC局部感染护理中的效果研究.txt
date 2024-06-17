@@ -1,0 +1,34 @@
+
+ 　　[摘要] 目的 探?洗必泰敷料治疗在经外周静脉置入中心静脉导管（peripherally inserted central catheter，PICC）局部感染护理中的效果。 方法 选取2013年12月～2015年12月期间在我院确诊治疗的PICC相关性局部感染患者100例，依据随机数表法随机分为洗必泰组和碘伏组，每组50例，碘伏组患者给予碘伏湿敷换药治疗，洗必泰组患者给予洗必泰敷料换药治疗，采用酶联免疫吸附法（enzyme-linked immunosorbent，ELISA）检测血清降钙素原（proclacitonin，PCT）、C反应蛋白（c-reactive protein，CRP）水平，统计分析所有患者治疗疗效、换药次数、导管留置和治愈时间及治疗前后血清PCT、CRP、白细胞计数（white blood cell count，WBC）水平。 结果 洗必泰组患者治疗有效率明显高于碘伏组，差异有统计学意义（P<0.05）；洗必泰组患者换药次数和治愈时间明显短于碘伏组，前者导管留置时间明显长于后者，差异有统计学意义（P<0.05）；洗必泰组患者治疗后血清PCT、CRP、WBC水平明显低于碘伏组，差异有统计学意义（P<0.05）。 结论 洗必泰敷料治疗可有效提高PICC相关性局部感染患者的治疗疗效，能够有效改善机体的炎症状态和减少换药次数，且可有效延长导管留置时间，值得临床作进一步推广。
+　　[中图分类号] R473.73 [文献标识码] B [文章编号] 1673-9701（2016）34-0153-04
+　　Study on the effect of chlorhexidine dressing in PICC local infection nursing
+　　YU Suqin GUO Haizhen
+　　Department of General Oncology， Hangzhou Cancer Hospital， Hangzhou 310002， China
+　　[Abstract] Objective To investigate the effect of chlorhexidine dressing on local infection nursing by peripherally inserted central catheters（PICC）. Methods 100 patients with PICC in our hospital from December 2013 to December 2015 were selected. According to the random number table method， they were randomly divided into chlorhexidine group and iodophor group， with 50 patients in each group. The patients in the iodophor group were given iodophor wet dressing treatment， and the patients in the chlorhexidine group were given chlorhexidine dressing treatment. The levels of serum procalcitonin（PCT） and c-reactive protein（CRP） were detected by enzyme-linked immunosorbent assay （ELISA）， and the curative effects， number of dressing， catheter retention time and healing time， and the levels of serum PCT， CRP and white blood cell count（WBC） before and after the treatment were statistically analyzed. Results The effective rate of treatment in the chlorhexidine group was significantly higher than that in the iodophor group， and the difference was statistically significant （P<0.05）； the time of dressing and healing time in the chlorhexidine group were significantly shorter than those in the iodophor group， and the catheter retention time of the former was significantly longer than the latter. The difference was statistically significant（P<0.05）； the levels of serum PCT， CRP and WBC were significantly lower in the chlorhexidine group than in the iodophor group， and the differences were statistically significant（P<0.05）. Conclusion The treatment of chlorhexidine dressing can effectively improve the efficacy of the treatment of PICC-related local infection. It can effectively improve the inflammation of the body and reduce the number of dressing， and can effectively prolong the catheter retention time， which is worthy of further clinical promotion.   　　[Key words] Chlorhexidine dressing； Central venous catheter via peripheral vein； Local infection； Catheter retention time
+　　经外周静脉穿刺中心静脉导管（PICC）是一种从周围静脉导入且末端位于中心静脉的深静脉置管技术，为肿瘤患者提供了一条安全、无痛、便捷的输液通路，因其操作简单、安全、导管留置时间长等特点而被广泛应用于临床，但置管后穿刺点周围皮肤局部感染至今仍然是置管护理中的主要问题之一，也是导管计划外拔管的主要原因之一，给临床护理工作带来很多困扰[1]。目前，针对穿刺点感染治疗除了加强换药、严密观察外，多采用碘伏等湿敷于感染部位上，可有效缓解患者的感染症状，但仍有部分患者未能有效杀灭感染菌，影响疗效和置管效果[2]。对此，本研究通过给予患者洗必泰敷料换药治疗，探讨其对患者疗效和置管时间的影响，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2013年12月～2015年12月期间在我院确诊治疗的PICC相关性局部感染患者100例。依据随机数表法将患者随机分为洗必泰组和碘伏组，每组50例，洗必泰组：男20例，女30例，年龄38～74岁，平均（57.32±11.78）岁，依据感染程度分为轻度（导管入口处红肿）27例、中度（导管入口处硬结）18例、重度（导管入口处有脓性分泌物）5例；碘伏组：男22例，女28例，年龄36～72岁，平均（56.63±10.73）岁，依据感染程度分为轻度28例、中度16例、重度6例，本次研究经我院伦理委员会审批通过，两组患者在性别、年龄、感染程度等资料上比较差异无统计学意义（P>0.05），具有可比性。
+　　纳入标准：①经临床症状、病史、血常规、实验室检查等证实为PICC相关性局部感染[3]；②年龄>18岁且预计所需置管时间>14 d；③患者或其家属签署知情同意书。排除标准：①生活不能自理，全身营养状况差及肿瘤晚期全身各系统衰竭者；②有血管内导管或拔除血管内导管48 h内出现菌血症或真菌血症并伴有发热（>38℃）、寒颤或低血压等感染表现但除血管导管外无其他明确的感染源者或机械性静脉炎者；③拒绝或中途退出本次研究者。
+　　PICC相关性局部感染诊断标准：①导管穿刺点周围组织出现红肿、硬结，范围在2 cm以内，血清样物质自发或触压后流出，穿刺部位细菌培养阳性；②主诉轻度疼痛、局部自发或轻触压后有脓液流出，无需细菌学证实；符合以上任意一条即可（根据《人民军医出版社》输液治疗护理实践指南与实施细则）。
+　　1.2方法
+　　洗必泰组患者给予洗必泰[江西汇康实业有限公司，卫消字（2012）第0005号]敷料换药治疗，即患者入院后给予临床症状、病史、血常规、实验室等检查，行常规穿刺和PICC置管后，依据《导管相关性血流感染预防与控制技术指南》进行护理，观察穿刺点感染的表现和主诉并记录，去除贴膜、常规消毒、有脓液者正确排脓（一手以消毒棉签在脓腔上方轻轻挤压，另手持无针的无菌注射器回抽，脓腔不明显的直接以消毒棉签轻拭分泌物）后，穿刺点上方覆盖含2%洗必泰敷料，大小在0～2 cm内，棉球不可过湿（以挤压不出现滴液为准），完毕后以无菌透明敷料固定，每1～2 d换药1次；碘伏组患者给予碘伏[广州朝邦医药科技有限公司，卫消证字（2002）第0003号]湿敷换药治疗，即患者敷料换药操作均同洗必泰组，但敷料为0.5%碘伏棉球。
+　　1.3?^察指标和判定标准
+　　所有患者于治疗前后抽取左上臂静脉血6 mL置入无菌抗凝试管中，常规分离血清（3000 r/min，持续12 min）后采用ELISA法检测血清PCT、CRP水平，所有操作均依据说明书相关规定进行，同时进行血常规检查，统计分析所有患者治疗疗效、换药次数、导管留置和治愈时间及治疗前后血清PCT、CRP、WBC水平，其中治疗10 d后与治疗前比较，红肿、硬结、分泌物等感染症状消失、皮肤溃烂基本愈合、实验室培养呈阴性为显效，感染症状明显缓解、局部皮肤溃烂好转、实验室培养呈阴性为有效，感染症状、皮肤溃烂无变化、实验室培养呈阳性或病情加重为无效，治疗有效率=（显效数+有效数）/总例数×100%，PCT正常值为0～0.5 μg/L，CRP正常值：0～10 mg/L，成人WBC正常值为（4.0～10.0）×109/L[4，5]。
+　　1.4 统计学方法
+　　采用SPSS 20.0统计软件处理数据，计数资料比较采用χ2检验，计量资料以（x±s）表示，比较采用t检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者疗效比较
+　　洗必泰组患者治疗有效率明显高于碘伏组，差异有统计学意义（P<0.05），见表1。
+　　表1 两组患者疗效比较
+　　2.2两组患者换药次数、导管留置时间、治愈时间比较
+　　洗必泰组患者换药次数和治愈时间明显短于碘伏组，前者导管留置时间明显长于后者，差异有统计学意义（P<0.05），见表2。
+　　2.3两组患者治疗前后血清PCT、CRP、WBC水平比较
+　　治疗前，洗必泰组和碘伏组患者血清PCT、CRP、WBC水平基本相同，差异无统计学意义（P>0.05），治疗后，洗必泰组患者血清PCT、CRP、WBC水平明显低于碘伏组，差异有统计学意义（P<0.05），见表3。
+　　3 讨论
+　　PICC是临床上常用的一种导管置管方法，具有操作简单、安全、导管留置时间长等特点，适用于长期静脉输液治疗、肿瘤化疗、肠外营养、老年人输液等，但在实际使用过程中，患者由于免疫力低下、汗液刺激、化疗药物毒性反应及置管处皮肤细菌侵入等原因，导致导管相关性局部感染的发生[6，7]。导管相关性局部感染是指导管穿刺点周围（2 cm内）出现红肿、硬结，主诉轻度疼痛、局部自发或触压后脓液流出且无伴随血液感染[8，9]。有研究表明，导管穿刺部位局部感染占中心静脉有关感染并发症的17%～45%，感染患者中平均死亡率为12%～25%，其发生还使患者住院费用的增加和导管留置时间缩短，故如何提高该并发症的治疗疗效具有重要的临床意义[10，11]。   　　而??静等研究表明，碘伏是临床上常用的消毒抗菌药物之一，由碘与表面活性剂结合而成，在与皮肤、黏膜接触时可缓慢释放出活性碘，并通过氧化作用使细菌中的蛋白质变性，从而达杀菌的作用[12-14]。也有研究表明，洗必泰是临床上一种双胍类高效、广谱杀菌剂，可通过改变细胞浆膜通透性而凋亡病原菌，且对细菌的抑制无耐药性，已逐渐被应用于多种创面感染的治疗中，且具有良好临床疗效[15-17]。此外，血清PCT、WBC水平是临床上常用于诊断和评估细菌感染性疾病的指标，其水平变化可有效反映病情的变化，CRP则是人体中一种急性时相蛋白，在机体感染时可急剧上升，其水平变化可有效反映机体的炎症状态[18-20]。
+　　对此，本研究通过给予患者洗必泰敷料换药治疗，发现洗必泰组患者治疗有效率明显高于碘伏组，前者治疗后血清PCT、CRP、WBC水平明显低于后者，表明洗必泰敷料治疗可有效提高患者的治疗疗效，能有效改善机体的炎症状态；可能是由于在碘伏治疗中，其可通过释放出的活性碘氧化病原菌胞浆中的活性基团，并与蛋白的氨基结合使其变性，进而干扰病原菌繁殖所需的蛋白质而凋亡病原菌，但可能由于其成分为含9%～12%有效碘的聚维酮和碘的水溶液，虽留了碘杀菌活性，使其杀菌效果较为一般，且不能彻底清除穿刺周围皮肤的的代谢废物，使病原菌可再次定植与繁殖，导致疗效欠佳。而在本研究洗必泰治疗中，其可能通过改变细胞浆膜通透性而凋亡病原菌，并还可与皮肤细胞中的多糖结合形成保护膜，干扰菌群形成，同时其含有乙醇的水溶性消毒液，易于蒸发，能彻底清除皮肤与导管上的有机物，可从多方面减少细菌的定植与生长，确保治疗疗效，从而更有利于改善病原菌感染所致的机体炎症状态。
+　　此外，本研究还发现洗必泰组患者换药次数和治愈时间明显短于碘伏组，前者导管留置时间明显长于后者，可能是由于洗必泰敷料治疗有效提高了患者的治疗疗效，可更快杀灭局部感染中的病原菌，进而减少换药次数和缩短治愈时间，且有利于减少频繁换药或患者感染部位不适触碰导管等情况所致非导管移位、脱管等风险，进而确保置管的护理安全，从而可有效延长导管留置时间。
+　　综上所述，洗必泰敷料治疗可有效提高PICC相关性局部感染患者的治疗疗效，可有效改善机体的炎症状态和减少换药次数，能够有效延长导管留置时间，值得临床作进一步推广。
+
+

@@ -1,0 +1,23 @@
+
+　　[摘要] 目的 探讨可追溯管理方法在护理质量控制中的应用及效果。方法 将该院2010年6月―2012年7月在护理质量控制中实施可追溯管理方法作为观察组，选取2009年5月―2010年5月该科实施常规管理作为对照组，比较两组的护理质量、护士主动上报杜绝不良事件率和服务满意度评价情况。 结果 观察组的特一级护理、基础护理、病区管理和急救物品管理的护理质量评价均优于对照组，结果有统计学意义（P<0.05），对照组护士主动上报杜绝不良事件率为0.009%，观察组护士主动上报杜绝不良事件率为0.030%，结果有统计学意义（P<0.05），观察组满意度为96.0%，对照组满意度为90.0%，结果有统计学意义（P<0.05）。 结论 可追溯管理可提高了护理质量，促进护理质量的持续改进。
+　　[中图分类号] R933 [文献标识码] A [文章编号] 1674-0742（2014）06（b）-0167-02
+　　[Abstract] Objective To explore the application and effect of traceability management method in nursing quality control. Methods The group treated by given nursing quality control with traceability management method in our department from June， 2010 to July， 2012 was selected as the observation group， the group treated with conventional management in our department from May， 2009 to May， 2010 was selected as the control group. The nursing quality， the rate of nurses actively reporting for eliminating adverse events and evaluation of service satisfaction of two groups were compared. Results The nursing quality evaluation of special grade one nursing， basic nursing， ward management and emergency materials management in observation group were better than those in control group， the results were statistically significant （P<0.05）. The rate of nurses actively reporting for eliminating adverse events in control group was 0.009%， while that was 0.030% in observation group， the result was statistical significance （P<0.05）； the satisfaction in observation group was 96.0%， while that was 90.0% in control group， the result was statistically significant （P<0.05）. Conclusion Traceability management can improve the quality of nursing， promote the continuous improvement of quality of nursing.
+　　[Key words] Traceability management； Nursing quality control； Application effect
+　　护理管理的核心是护理质量管理，是达到医疗目的，改善，提高病人诊疗全程体验的重要组成部分，可追溯性是指追溯所考虑对象的历史、应用情况或所处位置的能力，即组织运用各类方法和技术对产品进行追踪的能力[1-2]，“所考虑对象” 可以指一种措施、一项活动、一种机构、一个过程或是一个人等，为探讨可追溯管理方法在护理质量控制中的应用及效果，该院2010年6月―2012年7月间将可追溯性管理理念引入到护理质量控制中，取得了较好的效果，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　分析该科在护理质量控制工作中运用可追溯性管理的具体情况，该科住院部医务人员20人为研究对象，其中男7例，女13例，学历：硕士2人，本科8人，大专5人，中专5人。
+　　1.2 具体方法
+　　1.2.1 建立健全组织 组织成立的质量控制小组主要以护士长为组长，一护理骨干为成员，护理质量控制小组严格按照“检查-确认问题-分析原因-追究责任人-制定整改措施-追踪整改效果-再反馈”的控制环进行工作，制定出可追溯性反馈表，此表分为两个部分，眉栏和表格，眉栏包括科室、检查时间、综合评分、检查者签名，表格部分由项目与分值、扣分、得分、质量问题、原因分析、岗位情况、整改措施、整改措施效果评价等信息组成，护理质量控制小组在检查时根据表中项目，认真做好记录。
+　　1.2.2 收集各项信息，查找存在问题 在检查中或从可追溯反馈表中发现存在的质量问题，将确认的质量问题调查到发生时间、发生地点、发生班次及其他方面的信息，根据所得信息进行分析，查找事情的真相，确定责任人，让责任人来承担对应的责任。   　　1.2.3 制定整改措施，追溯整改效果 查找分析出出现问题的原因，寻求解决的有效办法和整改措施，并限期整改，防止同样的问题再次出现。护理质量控制小组追踪整改效果，观察整改情况，整改措施是否切实可行，责任人是否落实，措施是否有效，问题是否得到解决等，若问题未得到解决，继续查找原因，不断修正整改措施，直到问题解决为止。
+　　1.3 效果观察
+　　比较实施前后护理质量、护士主动上报杜绝不良事件率和服务满意度评价，满意度判定标准采用李克特量表，即分别对5级态度“很满意、满意、不满意、很不满意”进行评价，满意度=（很满意+满意）/（很满意+满意+不满意+很不满意）×100%。
+　　1.4 统计方法
+　　采用SPSS13.0统计软件对数据进行分析，计量资料采用均值±标准差（x±s）表示，采用t 检验，计数资料采用χ2检验。
+　　2 结果
+　　2.1 护理质量评价
+　　观察组的一级护理、基础护理、病区管理和急救物品管理的护理质量评价均优于对照组，差异有统计学意义（P<0.05），见表1。
+　　3 讨论
+　　可追溯管理方法更加注重对护理质量控制工作的全过程进行可追溯，从原先的关注问题转换为关注问题解决，它强调了在护理的全过程都要做要翔实的记录，当发现问题时，做到有据可查[3]。一个完整可追溯的管理应包括[4-5]：①可追溯实体和信息等的识别，可追溯单元的识别是建立可追溯体系的基础之上；②信息收集和记录；③环节的管理，对可追溯单元在各个操作步骤的转化进行管理；④供应链内沟通，可追溯单元与其对应信息之间的联系，制定的可追溯性反馈表体现了护理质量管理的连续性，时效性，也为日后问题的查找和提出整改措施提供了一个信息平台，可追溯管理强调工作过程监测、管理及改进，重视终末质量，不断改进结果，梳理、优化各种工作流程，不断改进、制定各种考核标准，变事后发现为事前干预，使质量缺陷减少到最低限度，使护理质量管理更加科学化。可追溯管理的实质是找出可追溯单元承载的物理流及信息流之间的逻辑关系，并且将它们相结合，对其进行有效的管理以及实现护理服务和信息记录的匹配[6-7]，因此在实施可追溯管理时要注意对每一个环节要进行详细记录，使其都能可追溯，形成护理质量“凡事有人负责，凡查必有反馈，反馈必有追踪，追踪必有结果”良好的局面，进而提高了全科护理人员参与质量控制的意识。在该报告中观察组的特一级护理、基础护理、病区管理和急救物品管理的护理质量评价均优于对照组，结果差异有统计学意义（P<0.05），对照组护士主动上报杜绝不良事件率为0.009%，观察组护士主动上报杜绝不良事件率为0.030%，结果差异有统计学意义（P<0.05），观察组满意度为96.0%，对照组满意度为90.0%，结果差异有统计学意义（P<0.05），其结果与练敏等的研究结果一致[8]，可追溯管理通过采取一系列措施，还原事实真相，从源头上查找问题真相，提出整改措施，追踪整改效果，提高了护理质量，促进护理质量的持续改进。
+
+

@@ -1,0 +1,31 @@
+
+　　[中图分类号] R473.77 [文献标识码] A [文章编号] 1672-4062（2017）04（a）-0146-02
+　　[Abstract] Objective To study and analyze the causes of patients with diabetic eye disease and provide the targeted nursing measures to evaluate the nursing effect. Methods 120 cases of patients with diabetic eye disease in our hospital from May 2014 to April 2015 were selected and the disease causes were researched and the targeted nursing measures were adopted and the blood glucose levels before and after nursing were compared. Results 37 percent of patients had diseases due to the irregular daily dieting， and 25.9 percent of patients had diseases due to the unauthorized use of pinotherapy， and 29.6 percent of patients had diseases due to the improper use of insulin， after the effective nursing measures， the fasting blood glucose level of patients returned to（4.55±0.31）mmol/L， and the blood glucose control rate was 88.9%. Conclusion Hypoglycemia symptoms are easy to occur to the patients with diabetic eye disease， and the unauthorized change of regular diet and improper dose of insulin can have a direct effect on the onset of patients， in order to enhance the disease cognitive degree and improve the compliance with doctors， and the ophthalmologists and nursing staff should educate the patients and analyze the causes from multiple aspects and enhance the prevention.
+　　[Key words] Diabetic eye disease； Hypoglycemia； Cause； Nursing
+　　糖尿病患者有很高的?茁屎喜⒀邸⑸窬?、肾脏、心血管等疾病[1]，糖尿病眼病也是糖尿病比较常见的并发症，因为该疾病导致的低血糖在临床中广受关注，对糖尿病眼病合并低血糖的病因进行分析能够有助于临床的预防和治疗[2]。此次选取了该院2014年5月―2015年4月的120例糖尿病眼病患者来分析，对患者的发病原因和类型进行分析，为临床治疗提供参考，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　2014年5月―2015年4月该院对120例糖尿病眼病患者进行了分析，均确诊。有男性患者64例，女性患者56例，最小患者48岁，最大患者72岁，平均（62.4±3.2）岁；病程3～8年，平均病程（4.42±1.26）年。治疗方式：胰岛素注射94例，口服药物26例。根据“2009年糖尿病专科十大安全目标”关于低血糖的诊断标准，27例确诊为低血糖反应，占总例数的22.5%。
+　　1.2 低血糖反应诊断
+　　自主（交感）神经过度兴奋、冷汗、眩晕等，经血糖检测为低血糖反应，满足糖尿病专科十大安全目标。
+　　1.3 研究方法
+　　回顾性分析120例糖尿病眼病患者临床资料，包括年龄、性别、病程、病史、家族史、用药史及血糖水平等，采取询问和查阅病历资料等形式进行。重点对27例并发低血糖反应病例一般资料、并发症原因、并发次数及几率、干预情况等进行了解，总结归纳并发症原因类型，并给予针对性的护理干预，评价护理效果。   　　1.4 观察指标
+　　选择护理前后空腹血糖水平、护理后低血糖复发率等指标进行对比。
+　　1.5 临床疗效评价
+　　显效：糖尿病及糖尿病眼病临床症状基本消失，血糖水平趋于正常；有效：糖尿病及糖尿病眼病症状较护理前明显减轻，视力水平较治疗前有一定的改善，血糖水平改善率>50%；无效：糖尿病及糖尿病眼病症状未见改善，或病情有恶化。
+　　1.6 统计方法
+　　该组需要处理的数据采用SPSS 15.0统计学软件处理，计量资料采用（x±s）形式表示，符合正态分布的数据采用t检验；计数资料采用χ2检验。P<0.05表示差异有统计学意义。
+　　2 结果
+　　全部患者中有37%的患者是因为日常饮食不规律而发病，有25.9%的患者是因为擅自使用饥饿疗法导致发病，有29.6%的患者是因为胰岛素使用剂量不当而导致发病。护理前患者的平均空腹血糖水平为（3.26±0.28）mmol/L，采取有效护理措施之后，患者的空腹血糖水平恢复到了（4.55±0.31）mmol/L，血糖控制率88.9%。临床中护理满意度是96.3%，共有1例复发病例，复发率是3.7%。
+　　低血糖控制效果，27例患者，经护理干预后显效11例，有效13例，无效3例，血糖控制率88.9%。
+　　3 讨论
+　　3.1 关于糖尿病眼病患者并发低血糖的原因分析
+　　此次研究中，全部患者中有37%的患者是因为日常饮食不规律而发病，有25.9%的患者是因为擅自使用饥饿疗法导致发病，有29.6%的患者是因为胰岛素使用剂量不当而导致发病。护理前患者的平均空腹血糖水平为（3.26±0.28）mmol/L，采取有效护理措施之后，患者的空腹血糖水平恢复到了（4.55±0.31）mmol/L，血糖控制率88.9%。临床中护理满意度是96.3%，共有1例复发病例，复发率是3.7%。说明饮食不规律、擅用饥饿疗法、胰岛素使用不当是主要的致病原因。饮食疗法是控制患者血糖的关键和基础，定时定量进食，患者因为主管原因而打乱了这一规律，导致了低血糖反应[3]。糖尿病患者长期接受激素类药物治疗，停药后采取以往的胰岛素剂量就会让患者的血糖骤降。
+　　3.2 糖尿病眼病患者预防和控制低血糖的护理措施
+　　对糖尿病眼病患者的糖尿病认知进行纠正，让其能够遵医嘱接受治疗。糖尿病眼病合并低血糖翻译患者的临床发病原因主要是不按规律饮食，抑或胰岛素剂量调整不及时、擅自进行饥饿疗法等，这些因素为主观因素，患者自身对疾病不够重视，导致了发病[4]。所以，需要让患者的主观性得到纠正，避免随意性，增强患者对低血糖的认知度，让其能够遵医嘱进食和使用胰岛素。
+　　对患者的病情进行监控，眼科手术患者对眼痛、头晕、呕吐等异常反应应该格外的重视。为患者提供降眼压药物治疗，叮嘱其控制饮水量。对患者的生命体征进行监控，评估患者的血糖和血压水平。对激素的使用情况进行记录，如果停用激素，应该进行科?W评估再使用胰岛素，避免胰岛素剂量不合理[5]。对患者餐前使用胰岛素时间进行控制，剂量准确，使用后半小时内必须进食，预防低血糖。观察患者的病情，视情况增减胰岛素。注射部位需要更换，长期在一个部位注射会导致肌肉萎缩，对胰岛素的利用率下降；如果患者合并肾衰竭、妇科病等疾病，也可以采取胰岛素注射治疗。
+　　叮嘱患者严格规律进食，养成良好的进食习惯，控制患者的饮食非常重要。糖尿病患者的并发症多数都是因为血糖不稳定，对血糖合理的控制是关键，让患者的内分泌系统保持稳定[6]。定时进行血糖动态监测，为患者提供合理的护理方案。饮食上应该保持低盐、低脂、低糖的食物，增加纤维素、维生素的补给，保持总热量在合理范围内。住院患者可以放置饮食标识，对患者的每日饮食情况进行监控，评估患者的血糖、用药、进食等情况。如果患者血糖波动比较大，需要从饮食方面进行改善，对饮食计划进行完善。
+　　适当的运动可以对血糖水平进行调节，糖尿病并发症患者接受适当的运动能够让其血糖水平下降，改善患者的高血糖状态，促进血液循环。运动疗法对患者的血糖血脂控制具有非常好的帮助，每天锻炼半小时，就可以改善患者的血糖水平。患者要改掉长时间静坐。上网等毛病，应该从小运动量和短时间运动开始锻炼，餐后1～2 h是最佳的降血糖时间段。
+　　综上所述，饮食不规律、胰岛素使用不当是糖尿病患者并发低血糖的主要病因，对患者提供护理和干预，提升患者遵医嘱希行为，能够有效的降低患者的血糖水平。
+
+

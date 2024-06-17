@@ -1,0 +1,35 @@
+
+ 　　【摘要】 目的：分析全面手术室护理对胃肠肿瘤手术患者术后康复症状的影响。方法：选择2012年1月-2015年1月收治的胃肠肿瘤患者76例，根据随机数字表法分为观察组和对照组，每组38例，两组患者均常规行胃肠道肿瘤手术。对照组给予常规的术前准备，观察组在此基础上给予全面的手术室护理。比较两组患者手术的相关指标及术后康复症状情况。结果：两组患者手术时间及术中输液量方面比较，差异均无统计学意义（P>0.05）。但观察组患者在术后清醒及拔管时间均显著短于对照组，差异均有统计学意义（P<0.05）。观察组患者术后的胃部不适、饮食受限、味觉及反流症状的康复评分均显著低于对照组，差异均有统计学意义（P<0.05）。结论：实施手术室全面护理，能够帮助胃肠道肿瘤手术患者改善负性情绪，促进症状康复，效果显著，值得临床推荐。
+　　中图分类号 R473.73 文献标识码 B 文章编号 1674-6805（2016）15-0104-02
+　　【Abstract】 Objective：To analyze the effect of comprehensive operation room nursing on the postoperative recovery of patients with gastrointestinal cancer surgery.Method：76 patients with gastrointestinal cancer from January 2012 to January 2015 were selected，according to the randomly number table method divided into the observation group and the control group，38 cases in each group，two groups of patients with gastrointestinal tumor surgery.The control group received routine preoperative preparation，on the basis of the control group，the observation group received a comprehensive operation room nursing，compared the surgery and postoperative recovery symptoms of patients of the two groups.Result：The operation time and intraoperative infusion quantity of the two groups，there were no statistically significant differences（P>0.05）.In the time of awake and extubationthe observation group was less than the control group，the differences were statistically significant（P<0.05）.The scores of patients with stomach discomfort，diet limit，gustation and regurgitation in the observation group were significantly lower than those in the control group，the differences were statistically significant（P<0.05）.Conclusion：The implementation of comprehensive nursing care in operation room can help patients with gastrointestinal tumor surgery to improve the negative emotions，promote the symptoms of recovery，the effect is significant，it is worthy of clinical recommendations.
+　　【Key words】 Gastrointestinal tumor surgery； Operation room nursing； Rehabilitation symptoms
+　　First-author’s address：Lipu County People’s Hospital，Lipu 546600，China
+　　doi：10.14033/j.cnki.cfmr.2016.15.054
+　　手术作为应激源，使患者易形成以焦虑为主的心理应激反应，从而影响神经系统及内分泌系统的正常功能，严重时甚至会影响手术疗效，文献[1]报道，胃肠癌患者在手术过程中的护理措施对其预后康复有正面影响。为此，选取2012年1月-2015年1月笔者所在医院收治的胃肠道肿瘤手术患者，观察手术室护理对术后康复症状的影响，现报告如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选择2012年1月-2015年1月在笔者所在医院手术治疗的76例胃肠道肿瘤患者作为研究对象，全部病例均经临床表现、影像检查手段证实，并经手术后病理检查确诊。根据随机数字表法分为观察组和对照组，每组38例，观察组中，男23例，女15例，年龄48～78岁，平均58.5岁；其中D2胃癌根治术   　　15例，姑息性胃大切5例，D3结肠癌根治术10例，直肠癌Dixin术5例，直肠癌Miles术3例。对照组中，男22例，女16例，年龄50～76岁，平均60.5岁；其中D2胃癌根治术16例，姑息性胃大切5例，D3结肠癌根治术9例，直肠癌Dixin术6例，直肠癌Miles术2例。两组患者性别、年龄及手术方式等一般资料比较差异无统计学意义（P>0.05），具有可比性。所有患者均经术前谈话沟通并签署知情同意书。
+　　1.2 护理方法
+　　两组患者均常规接受胃肠肿瘤手术操作，对照组患者给予正常的手术室体征指标监测，术前准备及术中用药、麻醉等护理操作。观察组患者在此基础上给予全面的手术室护理，包括：（1）术前访视，给予患者心理健康支持，在访视前24 h内完成对患者病历的查阅，对患者病情作出简单评估，根据患者身体状况、年龄、性别等情况展开心理疏导，为患者讲解手术目的、手术方式，术中需要患者的配合，了解是否存在焦虑恐惧等不良情绪并采取针对性的处理并督促家属对其进行鼓励和暗示，从而使患者愉快地接受手术。（2）术中护理，注意手术体位，在不影响手术的情况下尽量保持患者的舒适性。保持手术室环境的安静，防止患者受到不良刺激。术中注意保温，确保患者体温维持在理想手术状态。（3）手术完成后，对全麻患者给予唤醒疗法，指导患者配合气管拔管，正确咳嗽，以利于呼吸道和口腔内的分泌物排出。
+　　1.3 观察指标与效果评价
+　　比较两组手术相关指标，护理前后焦虑自评量表（SAS）、汉密顿焦虑量表（HAMA）评分及术后康复症状情况。SAS评分的标准分界值是50分，>50分为有焦虑症状，分值越高，则患者的焦虑症状越明显。HAMA评分为0～5分的五级评分法，满分为56分，分值越高，表示患者的焦虑症状越明显[2]。
+　　1.4 统计学处理
+　　采用SPSS 13.0软件对所得数据进行统计分析，计量资料用（x±s）表示，比较采用t检验；计数资料以率（%）表示，比较采用字2检验。P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者手术相关指标比较
+　　两组患者手术时间、术中输液量方面比较，差异均无统计学意义（P>0.05）；两组患者拔管时间及术后清醒时间比较，差异均有统计学意义（P<0.05），详见表1。
+　　2.2 护理前后SAS、HAMA评分比较
+　　两组患者在护理后的SAS及HAMA评分均下降，但观察组的下降幅度均显著大于对照组，差异均有统计学意义（P<0.05），详见表2。
+　　2.3 两组患者术后康复症状评分比较
+　　观察组患者术后胃部不适、饮食受限、味觉及反流症状的康复评分均显著低于对照组，差异均有统计学意义（P<0.05），详见表3。
+　　3 讨论
+　　恶性肿瘤患者容易引发恐惧、紧张及焦虑等不良情绪，不仅增加了患者自身的痛苦，同时可能影响手术的顺利实施，甚至对预后产生不良的影响[3]。因此，实施手术室护理十分重要，对患者的预后及康复有较好的促进作用。笔者观察结果显示，虽然两组患者手术时间、术中输液量方面比较，差异均无统计学意义（P>0.05），但观察组患者术后清醒及拔管时间均显著少于对照组，说明全面手术室护理能够较好地减轻麻醉对患者的影响，促进其苏醒，改善其情绪状态及康复症状，与Higashi等[4]的研究结果一致。分析其原因，可能与以下有关。
+　　3.1 术前访视
+　　术前访视，拉近了医患之间距离，缓解患者的不安及焦虑情绪，让其感受医护人员对自己的关心及重视，并使患者了解手术过程，从而缓解由于对手术缺少了解而造成的负面感受。
+　　3.2 术中环境
+　　注意术中环境的清静，减少对患者的不良刺激，术中做好体温护理，不仅可以避免低体温对患者产生的不良影响，而且对患者术后康复症状有较好地促进作用[5]。
+　　3.3 术后处理
+　　术后第一时间告知患者手术已结束，这具有积极的暗示意义，有利于患者配合拔除气管插管，并指导和帮助患者将呼吸道及口腔内的分泌物排出体外，从而维持呼吸道的畅通。
+　　综上所述，实施手术室全面护理有助于改善胃肠道肿瘤手术患者负性情绪的影响，促进症状康复，效果显著，值得临床推广应用。
+
+

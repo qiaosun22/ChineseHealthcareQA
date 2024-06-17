@@ -1,0 +1,37 @@
+
+　　【摘要】 目的：探讨心理护理在非急诊冠心病介入治疗中的应用价值。方法：将192例非急诊冠心病介入治疗患者作为研究对象，随机分成观察组和对照组，对照组采用常规的护理措施，观察组除采用常规的护理措施外，并给予全程心理护理干预。观察两组患者介入手术前后的焦虑、抑郁心理状况。结果：与术前比较，术后观察组患者的焦虑与抑郁心理状况明显改善（P<0.05）。术后观察组患者的焦虑与抑郁心理状况较对照组改善明显（P<0.05）。结论：心理护理可明显减少非急诊冠心病介入治疗患者的焦虑、抑郁的发生率。
+　　中图分类号 R541.4 文献标识码 B 文章编号 1674-6805（2014）20-0091-02
+　　Application of Psychological Nursing in Non Emergency Intervention Treatment of Coronary Heart Disease Patients/HU Rong-hong，YE Pei-jun.//Chinese and Foreign Medical Research，2014，12（20）：91-92
+　　【Abstract】 Objective：To explore the application value of psychological nursing in non emergency intervention therapy of coronary heart disease patients.Method：192 cases of non emergency interventional therapy of coronary heart disease patients were selected as research object.They were randomly divided into the observation group and the control group.The control group used routine nursing measures.The observation group used the routine nursing measures，and were given the psychological nursing intervention.Anxiety and depression status of the two groups were observed before and after interventional operation.Result：Compared with the preoperative，anxiety and depression status of postoperative patients in the observation group improved significantly（P<0.05）.Compared with the control group，anxiety and depression status of postoperative patients of the observation group improved significantly（P<0.05）.Conclusion：Psychological nursing can significantly reduce the incidence of anxiety and depression in the non emergency percutaneous coronary intervention patients.
+　　【Key words】 Intervention therapy； Psychological nursing； Anxiety； Depression
+　　First-author’s address：The People’s Hospital of Chizhou City，Chizhou 247000，China
+　　随着我国人民生活水平的广泛提高，冠心病已成为危害人类健康的首要致死性疾病[1]。冠心病介入手术治疗的发展，为冠心病的治愈及改善冠心病患者的生活质量起到非常重要的作用。冠心病介入手术治疗也因其创伤小、康复快及并发症少，在临床上已经成为冠心病治疗的重要手段。但冠心病介入手术的绝大多数患者术中采用局麻或镇静镇痛的麻醉方式，患者在手术整个过程中处于清醒状态，不可避免的会产生焦虑、抑郁，甚至恐惧的情绪，这些都对手术的顺利进行产生重大影响，可能会促使患者病情加重，使手术的并发症发生率增高[2]。本研究探讨心理护理干预在非急诊冠心病介入治疗中的应用价值。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2011年10月-2013年12月在池州市人民医院心内科住院的非急诊行冠心病介入手术治疗患者192例，其中男113例，女79例。随机分成对照组和观察组，各96例。两组患者性别、年龄、文化程度及术前焦虑、抑郁心理状况比较，差异均无统计学意义（P>0.05），具有可比性，见表1。
+　　1.2 干预方法
+　　对照组采用常规的护理措施，观察组除采用常规的护理措施外，并采取全程的心理护理干预。心理护理干预的具体措施如下。（1）术前心理护理：为患者营造温馨舒适的住院环境及氛围，耐心、细致与患者及家属交流沟通，建立良好的护患关系；系统评估患者的焦虑和抑郁心理状态情况，有针对性地制定个体化的健康宣教内容。（2）术中心理护理：密切观察患者术中的病情变化，主动关心术中患者的心理状况，必要时可用言语转移患者的注意力，减轻患者术中的紧张情绪，保持患者术中良好的心理状态，使得手术能够顺利进行。（3）术后心理护理：手术结束除向患者交代术后的注意事项外，给予相应的鼓励和支持，促进患者术后的心理康复。   　　1.3 观察指标
+　　采用焦虑自评量表（self-rating anxiety scale，SAS）对冠心病介入治疗患者的焦虑情况进行测评，以≥45分为界值，采用抑郁自评量表（self-rating depression scale，SDS）对冠心病介入治疗患者抑郁情况进行测评，以≥40分为界值[3]；对术前患者的焦虑及抑郁测评在术前谈话时进行，对术后患者的焦虑及抑郁心理状况测评在术后48 h内进行。
+　　1.4 统计学处理
+　　采用SPSS 16.0统计软件，计量资料用均数±标准差（x±s）表示，采用t检验，计数资料采用字2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 观察组患者术前、术后焦虑与抑郁心理状况比较
+　　与术前比较，术后观察组患者的焦虑与抑郁心理状况明显改善，差异有统计学意义（P<0.05），见表2。
+　　表2 观察组患者术前、术后焦虑与抑郁心理状况比较 例（%）
+　　时间 焦虑 抑郁
+　　术前（n=96） 54（56.3） 15（15.6）
+　　术后（n=96） 10（10.4） 3（3.1）
+　　P 值 <0.05 <0.05
+　　2.2 术后两组患者焦虑与抑郁心理状况比较
+　　术后观察组患者的焦虑与抑郁心理状况较对照组改善明显，差异有统计学意义（P<0.05），见表3。
+　　表3 术后两组患者焦虑与抑郁心理状况比较 例（%）
+　　组别 焦虑 抑郁
+　　对照组（n=96） 28（29.2） 12（12.5）
+　　观察组（n=96） 10（10.4） 3（3.1）
+　　P值 <0.05 <0.05
+　　3 讨论
+　　冠心病介入诊疗技术现已证实是一种安全有效的诊断和治疗技术[4]。但因冠心病的健康知识及现阶段高水平的诊疗技术普及不充分，绝大多数患者对其知之甚少，有少数患者产生了恐惧的心理。也因此多数患者介入手术过程中会有焦虑或抑郁心理状态，术前或术后会产生较强的应激状态，不利于患者冠心病的治疗及术后的康复。冠心病患者的焦虑或抑郁状态等负面情绪影响可使交感神经的兴奋性增高，促使血管活性物质的释放，诱发或加重血管痉挛，增加心肌耗氧量，从而增加冠心病患者介入围手术期的猝死及相关并发症的风险。心理护理干预是个性化护理的一个重要体现，是现代医学护理模式重要组成部分。它是根据医学心理学的基本理论，通过护理人员与患者及家属有效沟通和交流，改善患者及家属的焦虑或抑郁的心理状态，促使患者康复，并改善患者的预后[5]。
+　　冠心病患者大多以老年患者居多，其生理适应性和应激能力差[6]。只有做好术前正确的心理评估，才能有针对性的进行心理指导和干预。术前必要的焦虑或抑郁心理状态的评测，有利于针对术前患者的不良情绪和心理采取有效的心理护理干预措施[7]。有临床研究表明，持续的焦虑或抑郁心理状况会增加冠心病患者的死亡率[8-9]。另一项研究显示，术前的恐惧和焦虑反应，将直接影响手术的效果，而且此种不良的心理状态更加容易引起手术的相关并发症，尤其是绝望增加了冠脉介入治疗患者术后3倍的临床不良事件的风险。心理护理干预通过影响或改变患者不利的焦虑或抑郁状态，消除或减轻患者的各种异常情绪，从而调动患者的主观能动性，增加冠心病患者正确认识及治愈疾病的信心。正确的、恰当的心理护理干预，可以调动患者的积极性，可以改变患者不科学的行为和生活方式，使患者能够积极的遵照医嘱，使得冠心病的介入治疗尽可能达到满意的效果。本项研究是在常规护理的基础上并采取全程的心理护理干预，术前及术后对患者的焦虑及抑郁状态进行有效的评估，从而比较全程的心理护理干预在冠心病介入治疗的应用价值。心理护理干预后，术后观察组患者的焦虑与抑郁心理状况较术前明显改善（P<0.05）。术后观察组患者的焦虑与抑郁心理状况较对照组改善明显（P<0.05）。因此，只有做好冠心病介入治疗患者的心理护理干预，才能从真正意义上实现“双心医学”治疗的人文理念。
+　　综上所述，冠心病介入治疗中的心理护理干预，可明显减少患者焦虑、抑郁心理状况的发生率，值得临床应用和推广。冠心病介入治疗中的心理护理干预，是促进冠心病患者身心健康的一项重要举措，并具有长远且深刻的意义。
+
+

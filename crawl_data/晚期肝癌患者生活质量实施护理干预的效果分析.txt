@@ -1,0 +1,22 @@
+
+ 　　摘要：目的 分析对晚期肝癌患者实施护理干预的生活质量及其效果。方法 选取2014年2月～2015年4月我院外科收治的肝癌晚期患者80例为研究对象，按照随机数字法将其分为实验组和对照组各40例。实验组采用护理干预，对照组采用常规护理，比较两组患者不适症状发生率、症状评分。结果 实验组住院期间不适症状发生率为73.5%，明显少于对照组83%，差异显著（P<0.05），具有统计学意义；实验组住院期间症状评分为1.89分，明显低于对照组2.73分，差异显著（P<0.05），具有统计学意义。结论 给予肝癌晚期瘤患者护理干预，兼具不适症状发生率低、症状评分低、生活质量高等特征，具有临床推广价值。
+　　Abstract：Objective To analyze the quality of life and its effect of nursing intervention for patients with advanced liver cancer.Methods 80 patients with advanced hepatocellular carcinoma admitted to our hospital during the period from February 2014 to April 2015 were selected as study subjects.The patients were randomly divided into experimental group and control group with 40 cases in each group.Nursing intervention was used in the experimental group，the control group received routine nursing care，compared with the two groups of patients with symptoms of discomfort rate，symptom score.Results Experimental group during hospitalization discomfort symptoms occur rate was 73.5%，significantly less than that in the control group was 83%，the difference was significant（P<0.05），with statistical significance；experimental group hospitalization period symptom score is 1.89 points，was significantly lower than that of the control group 273 points，and the difference is significant（P<0.05），with statistical significance.Conclusion The nursing intervention for patients with advanced cancer of liver cancer，which has the characteristics of low incidence rate，low symptom score and high quality of life，has the value of clinical application.
+　　Key words：Advanced liver cancer；Nursing intervention；Conventional nursing
+　　肝癌包含原发性、转移性两种，在临床上属于常见的恶性肿瘤，发病率极高。目前，外科通常采用护理干预、常规护理等方式对肝癌晚期患者进行护理治疗，其中，护理干预具有不适症状发生率低、症状评分低、生活质量高等特征，因此被广泛利用。本文就比较护理干预和常规护理的不适症状发生率、症状评分分析护理干预应用于肝癌晚期患者的护理效果，具体报道如下。
+　　1 资料与方法
+　　1.1一般资料 选取2014年2月～2015年4月我院收治的80例外科肝癌晚期患者，其中80例肝癌患者均为晚期，并且错失手术治疗的机会，按随机数字法将其分为实验组和对照组。其中，实验组40例，年龄52～75岁，平均年龄（63.5±11.5）岁；对照组40例，年龄54～76岁，平均年龄（65±11）岁。两组患者一般资料差异不显著（P<0.05），具有可比性。
+　　1.2方法 对照组采用常规护理，给予药物治疗，在病情稳定时进行护理治疗。实验组采用护理干预，采取以上护理措施，并给予健康教育、心理护理、疼痛护理、生活护理、药物护理。护理干预详细内容如下。
+　　1.2.1健康教育 患者住院期间，与其密切交流，根据患者基本情况建立档案，进行一对一的健康宣教，疏通患者心理障碍。
+　　1.2.2心理护理 在治疗阶段，为患者讲述"好心态"对身体机能的各种帮助以及提升治疗效果的效能，护理人员要有激情、热情和耐心开导患者、带动患者，并叙述成功康复的案例鼓励患者。
+　　1.2.3疼痛护理 由于肝癌患者会有器官疼痛、不适等症状，因此需要进行疼痛护理。在护理过程中，以私信、讲座、咨询和其他方式向患者家属普及肝癌的治疗方案、注意事项、预防临床症状等相关知识，并传授患者呼吸技巧、躺卧技巧和镇痛技巧。
+　　1.2.4生活护理 住院期间，控制患者的饮食、运动，建议其外出散步、打太极舒缓心情，多食用高蛋白、清淡的食物，为提高康复率，保证睡眠充足、精力充沛、激情四溢。   　　1.2.5药物护理 在药物方面，详细告知患者及家属各种药物的药理作用、服用方法、使用禁忌，防止各种药物对患者产生副作用或影响。
+　　1.3观察指标 将上述两种护理方式和护理效果进行统计处理，观察比较两组患者的不适症状发生率、症状评分。
+　　1.4统计方法 采用SPSS21.0统计学软件对两组数据进行统计分析，计量资料用（x±s）表示，采用t检验；计数资料用率（%）表示，采用χ2检验。以P<0.05表示比较有差异，具有统计学意义。
+　　2 结果
+　　2.1两组患者住院期间不适症状发生率比较 实验组住院期间不适症状发生率为73.5%，对照组住院期间不适症状发生率为83%，实验组住院期间不适症状发生率明显低于对照组，差异显著（P<0.05），具有统计学意义。见表1。
+　　2.2两组患者住院期间症状评分比较 实验组住院期间症状评分为1.89分，对照组住院期间症状评分为2.73分，实验组住院期间症状评分明显优于对照组，差异显著（P<0.05），具有统计学意义。见表2。
+　　3 结论
+　　肝癌分为原发性、转移性两种，是临床上比较常见的恶性肿瘤，发病率极高。对于此类疾病，我们不但要理性对待，我们更要细心呵护处于厄运中的病患，不仅要少做多余的化疗、放疗，还要调理患者的身体，调整患者的心理状态，勇敢配合相关治疗[1]；与患者进行友好沟通，给予其较为舒适的饮食护理、运动护理，并给予中药治疗，提高患者生活质量[2]。在临床上，开展护理干预，不仅能强化各种治疗措施，还能很大程度提高患者生活质量，改善心理状态，总之，护理干预能提升患者的社会功能、生活能力、心理素质、躯体功能等，是肝癌晚期治疗最有效、最乐观的护理方式，该护理不仅能提高患者的抵抗力、承受力和耐挫力[3]，还能非常全面的激发患者的生存欲和积极性。在本次研究中，采用护理干预的实验组住院期间不适症状发生率为73.5%，明显低于采用常规护理的对照组住院期间不适症状发生率83%，有显著性差异（P<0.05），具有统计学意义；采用护理干预的实验组住院期间症状评分为1.89分，明显低于采用常规护理的对照组住院期间症状评分2.73分，有显著性差异（P<0.05），具有统计学意义。
+　　综上所述，护理干预具有不适症状发生率低、症状评分低、生活质量高的优势，值得临床推广。
+
+

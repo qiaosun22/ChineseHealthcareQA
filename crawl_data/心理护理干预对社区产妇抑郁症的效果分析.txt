@@ -1,0 +1,34 @@
+
+ 　　[摘要] 目的 分析心理护理干预对社区产妇抑郁症的效果。 方法 选择2014年7月～2015年9月在我院分娩并患有产后抑郁的60例产妇作为本次研究对象，按照随机数字表法分为观察组和对照组，各30例。对照组给予常规护理，观察组在常规护理基础上给予心理护理干预，干预周期为两周。比较两组患者干预前后SDS评分及EPDS评分、干预后心理S-AI评分变化和护理满意度。 结果 干预后，两组患者的SDS评分、EPDS评分与干预前比较均有所下降，观察组患者干预前后的SDS评分、EPDS评分比较，差异有统计学意义（P<0.05）；对照组干预前后SDS评分比较，差异有统计学意义（P<0.05），EPDS评分比较，差异无统计学意义（P>0.05）。干预后，两组患者组间SDS评分、EPDS评分比较，差异有统计学意义（P<0.05）。对照组患者S-AI评分明显高于观察组，两组患者在偏执、恐惧、躯体化、抑郁等方面比较，差异有统计学意义（P<0.05），人际关系比较，差异无统计学意义（P>0.05）。对照组患者总满意率为50.00%，观察组患者总满意率为80.00%，两组患者护理满意度比较，差异有统计学意义（P<0.05）。 结论 心理护理干预能显著改善产妇抑郁程度，提高护理满意度。
+　　[中图分类号] R473.71 [文献标识码] A [文章编号] 1674-4721（2016）04（c）-0175-03
+　　Effects analysis of psychological nursing intervention in community maternal depression
+　　LAI Wan-yu1 ZHEN Yong-hong2 WEN Geng-feng1
+　　1.Xiuxin Clubs Health Center，Pingshan District Maternal and Child Health Care in Shenzhen City，Shenzhen 518122，China；2.Department of Health，Pingshan District Maternal and Child Health Care in Shenzhen City，Shenzhen 518122，China
+　　[Abstract] Objective To analyze the effects of psychological nursing intervention in community maternal depression. Methods 60 maternal，delivery and postpartum depression，from June 2014 to September 2015 of our hospital were selected as study object.Patients were divided into observation group and control group according to random number table method and each group was 30 cases.Patients in control group were given routine nursing and patients in observation group were given psychological nursing intervention on the basis of routine nursing.The intervention period was two weeks.SDS and EPDS before and after intervention，the changes of psychological S-AI score and nursing satisfaction after intervention in two groups were compared. Results After intervention，SDS and EPDS in two groups decreased compared with before intervention and the difference of EPDS between before intervention and after intervention in observation group had obvious significance （P<0.05）；The difference of SDS between before intervention and after intervention in control group had obvious significance （P<0.05），but the EPDS had no statistical significance （P>0.05）.After intervention，SDS and EPDS between two groups had statistical significance （P<0.05）.The S-AI score in control group was obvious higher than that of observation group.In the field of paranoid，fear，somatization and depression，the two groups had obvious difference （P<0.05）.The interpersonal relationship between two groups had no statistical significance （P>0.05）.The total satisfaction rate in patients of control group was 50.00%，which was 80.00% in observation group，and the difference between two groups was obvious （P<0.05）. Conclusion Psychological nursing intervention can improve the maternal depression degree effectively and enhance nursing satisfaction.   　　[Key words] Psychological nursing；Community； maternal；Depression；Improvement；Intervention
+　　产后抑郁症主要是指产褥期发生的抑郁，多发于产后两周，该病在产妇产后较为常见，属于心理障碍性疾病的一种。临床表现明显，主要为悲观、抑郁、沮丧，严重者甚至有自杀倾向。统计学调查结果显示[1-2]，我国产妇产后抑郁的发病率高达10%，产后抑郁症严重影响了产妇产后恢复及身心健康，对新生儿的生长发育及家庭的和谐产生一定的负面影响。对于早期存在抑郁倾向的产妇，应及时给予心理辅导。本研究针对心理护理干预对社区产妇抑郁症的改善效果进行了分析，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选择2014年7月～2015年9月在我院分娩并患有产后抑郁的60例产妇作为本次研究对象。按照随机数字表法分为观察组和对照组，各30例，平均年龄（27.16±4.86）岁，产后平均BMI（22.46±4.12）kg/m2。入选标准[3]：正常分娩足月妊娠产妇；无妊娠合并症。排除标准：心、肺等主要脏器官患有疾病；智力障碍患者；不同意本项研究者。本研究产妇知情并同意，我院伦理委员会审批通过。两组患者在年龄，产后平均BMI等一般资料比较，差异无统计学意义（P>0.05），具有可比性。
+　　1.2 方法
+　　对照组给予常规护理干预，主要从饮食、并发症、体位三方面进行干预。根据患者的病情适当提供高热量、容易消化的饮食，注意增强患者食欲并注意饮食卫生，创造洁净饮食环境。
+　　观察组在常规护理基础上，给予心理护理干预。护理人员应根据产妇的心理特点，积极耐心地同产妇交流，倾听产妇的诉说。通过适当的安慰方式，给予产妇温暖，鼓励其对母亲角色的肯定。全程护理过程中，鼓励丈夫参与其中，为产妇抑郁症的恢复营造温馨的家庭氛围。积极利用社区资源，向产妇及家属普及产后抑郁症的相关知识，并定期开展产后抑郁症专家讲座，通过随访、上门访视等方式指导产妇产后恢复。
+　　1.3 观察指标
+　　1.3.1 SDS评分及EPDS评分标准[4]，具体如下。采用抑郁自评量表（SDS）及爱丁堡抑郁量表（EPDS）评价两组患者干预前后抑郁状态，SDS评分含有20个项目，分为4级评分。轻度抑郁：53～62分；中度抑郁：63～72分；重度抑郁：>72分。EPDS评分包括10项内容，根据症状的严重度， 每项内容分4级评分（0、1、2、3分），10个项目分值的总和为总分，总分在12～13分者可能患有不同程度的抑郁性疾病。
+　　1.3.2 S-AI评分标准[5]：涵盖躯体变化、人际关系、恐惧、抑郁、偏执等方面的内容，评定方法，0分为从无，1分为轻度，2分为中度，3分为相当重，4分为严重。
+　　1.3.3满意度评分标准：根据我院自制的满意度调查表，评价护理满意程度。该份满意度调查表，分设了10个题目，满分100分，每题分设四个选项。A为5分；B为3分；C为2分；D为0分。根据最后分值将护理满意度分为以下三个等级：满意为100～80分；比较满意为79～60分；不满意≤59分。满意率=（满意+比较满意）例数/总例数×100.00%。
+　　1.4 统计学分析
+　　采用SPSS 18.0统计学软件对数据进行分析，计量资料以均数±标准差（x±s）表示，采用t检验，计数资料采用χ2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组产妇干预前后SDS评分及EPDS评分的比较
+　　干预后，两组产妇的SDS评分、EPDS评分与干预前比较均有所下降，观察组产妇干预前后的SDS评分、EPDS评分比较，差异有统计学意义（P<0.05）；对照组SDS评分干预前后比较，差异有统计学意义（P<0.05），EPDS评分比较，差异无统计学意义（P>0.05）。干预后，两组产妇组间SDS评分、EPDS评分比较，差异有统计学意义（P<0.05）（表1）。
+　　表1 两组产妇干预前后SDS评分及EPDS评分的比较（分，x±s）
+　　2.2 两组产妇干预前后心理S-AI评分的比较
+　　对照组产妇S-AI评分明显高于观察组，两组产妇在偏执、恐惧、躯体变化、抑郁等方面比较，差异有统计学意义（P<0.05），人际关系方面比较，差异无统计学意义（P>0.05）（表2）。
+　　表 2 两组产妇干预前后心理S-AI评分的比较（x±s）
+　　2.3两组产妇护理满意度的比较
+　　对照组产妇总满意率为50.00%，观察组产妇总满意率为80.00%，两组产妇护理满意度比较，差异有统计学意义（P<0.05）（表3）。
+　　表3 两组产妇护理满意度的比较[n（%）]
+　　3 讨论
+　　产后抑郁是一种非精神病性的抑郁症状，维持时间不等，对产妇产后恢复影响较严重。产妇产后由于不能接受社会角色的突然改变，导致认知和行为产生很大的变化，当超越正常范围时极易造成病理性疾病。为保证产妇能安全度过产褥期，必须加强产后抑郁产妇的护理，为产妇创造温馨舒适和谐的家庭环境，做好产后抑郁症的预防工作。临床实践结果显示[6-10]，心理护理干预方式能有效地改善产后抑郁治疗效果，本研究针对60例产后抑郁产妇给予心理护理干预，探讨心理护理干预对产妇抑郁改善程度。结果显示，给予常规护理干预的产妇，干预结束后，SDS评分及EPDS评分分别为（48.79±3.86）分、（13.26±4.96）分，与干预前比较，分值下降，抑郁程度降低。而在常规护理基础上给予心理护理干预的产妇，干预后SDS评分及EPDS评分分别为（27.46±4.91）分、（6.76±2.56）分，与干预前比较，下降幅度更加明显，因此，心理护理干预效果同常规护理干预比较，差异有统计学意义，与有关报道结果相符合。报道称[11-13]，及时发现产后抑郁倾向，并给予合理的心理护理干预能改善产后抑郁症状。干预后心理S-AI评分比较结果显示，常规护理干预产妇S-AI评分明显高于心理护理干预产妇。根据我院自制的满意度调查表，评价护理满意程度结果显示，30例给予常规护理干预的产妇，干预治疗两周后，总满意率为50.00%；而在常规治疗基础上给予心理护理干预的产妇，总满意率为80.00%，满意程度明显提高。曾有研究显示，护理模式干预的产后抑郁症产妇的满意率较低，本研究通过心理干预产后抑郁产妇，满意率高于相关报道[14-16]。   　　综上所述，对社区产后抑郁症产妇给予心理护理干预能显著改善产妇抑郁程度，提高护理满意度，临床上推广应用价值高。
+
+

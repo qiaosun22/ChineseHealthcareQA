@@ -1,0 +1,30 @@
+
+　　[摘要] 目的 探讨PDCA护理对恶性脑胶质瘤术后放疗联合替莫唑胺同期化疗所致不良反应患者生活质量的影响。 方法 选取2011年10月～2013年10月沈阳军区总医院恶性脑胶质瘤术后放疗联合替莫唑胺同期化疗所致不良反应的患者28例，按随机数字法分为观察组与对照组，各14例，观察组给予PDCA护理，对照组给予一般常规护理，比较两组患者经护理后不良反应发生情况及生存质量评分。 结果 经过护理干预后，观察组恶性、呕吐等胃肠道反应占28.6%，骨髓抑制占7.2%，血液系统反应占14.3%，发生情况好于对照组（57.1%、21.4%、35.7%），差异均有统计学意义（均P < 0.05）。经过护理干预，观察组生存质量评分包括躯体功能、角色状态、社会功能、心理健康、疼痛、精力、体力[（71.3±6.0）、（78.1±6.4）、（68.6±6.5）、（80.2±7.3）、（76.5±5.5）、（78.8±6.7）、（68.1±6.5）分]高于对照组躯体功能、角色状态、社会功能、心理健康、疼痛、精力、体力等生存质量评分[（63.2±5.5）、（69.8±6.2）、（60.3±6.2）、（73.1±7.0）、（65.7±5.4）、（67.4±6.2）、（57.9±6.3）分]，差异均有统计学意义（均P < 0.05）。 结论 对恶性脑胶质瘤术后放疗联合替莫唑胺同期化疗所致不良反应的患者给予PDCA程序护理，可显著减少不良反应发生率，提高患者的生活质量。
+　　[中图分类号] R739.41 [文献标识码] B [文章编号] 1673-7210（2014）08（c）-0130-03
+　　Influence of PDCA care on the life quality of adverse reaction induced by malignant glioma combined Temozolomide concurrent chemotherapy in patients after radiotherapy
+　　WANG Danling ZHAO Liping GAO Xu
+　　Department of Neurosurgery， General Hospital of Shenyang Military Region， Liaoning Province， Shenyang 110840， China
+　　[Abstract] Objective To study the influence of PDCA care on the life quality of adverse reaction induced by malignant glioma combined Temozolomide concurrent chemotherapy in patients after radiotherapy. Methods From October 2011 to October 2013， 28 cases of patients in the General Hospital of Shenyang Military Region， with the same period with adverse reaction induced by malignant glioma combined Temozolomide concurrent chemotherapy in patients after radiotherapy， were divided into observation and control way according to the method of digital way， each had 14 cases. The observation group was given PDCA nursing， the control group was given conventional nursing care， two groups of patients after nursing adverse reaction conditions and the quality of life scores were compared. Results After nursing intervention， the observation group of gastrointestinal reactions such as malignant， vomiting （28.6%）， bone marrow suppression （7.2%）， blood system response （14.3%）， was better than the control group （57.1%， 21.4%， 35.7%）， the differences were statistically significant （all P < 0.05）. After nursing intervention， quality of life score in the observation group of body function， role function， social function， mental health， pain， energy， physical were （71.3±6.0）， （78.1±6.4）， （68.6±6.5）， （80.2±7.3）， （76.5±5.5）， （78.8±6.7）， （68.1±6.5） scores， which were higher than control group in body function， role function， social function， mental health， pain， energy， physical [（63.2±5.5）， （69.8±6.2）， （60.3±6.2）， （73.1±7.0）， （65.7±5.4）， （67.4±6.2）， （57.9±6.3） scores]， the differences were statistically significant （all P < 0.05）. Conclusion Patients after radiotherapy with malignant glioma combined Temozolomide concurrent chemotherapy with PDCA program care， can significantly reduce the incidence of adverse reaction， improve the quality of life of the patients.   　　[Key words] Malignant gliomas； Radiotherapy； Temozolomide； Quality of life
+　　恶性胶质瘤是临床上最常见的原发性脑肿瘤，是一种起源于神经上皮的胶质细胞瘤，占脑肿瘤的40%以上[1]，根据病理可分为星形细胞瘤、髓母细胞瘤、多形胶母细胞瘤、室管膜瘤、少枝胶母细胞瘤等。临床上标准的治疗方式为手术联合放疗及化疗[2]。沈阳军区总医院（以下简称“我院”）对28例恶心脑胶质瘤术后放疗联合替莫唑胺同期化疗所致不良反应的患者进行PDCA程序护理干预，现报道如下：
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2011年10月～2013年10月我院进行恶性脑胶质瘤术后放疗联合替莫唑胺同期化疗出现不良反应的患者28例，按随机数字法分为观察组与对照组，观察组14例，男10例，女4例，年龄5～68岁，平均（33.5±6.3）岁，病理诊断为均为星形细胞瘤，其中WHO Ⅲ级11例，WHO Ⅳ级3例；对照组14例，男9例，女5例，年龄15～63岁，平均（39.8±7.1）岁，病理诊断均为星形细胞瘤，其中WHO Ⅲ级12例，WHO Ⅳ级2例。所有患者在接受放化疗前血常规、生化、肝肾功能、心电图等检查结果无明显异常，无放化疗禁忌证。两组患者性别、年龄、病理分型等一般资料差异无统计学意义（P > 0.05），具有可比性。
+　　1.2 治疗方法
+　　28例患者均在术后病理分型确诊后接受放化疗。放疗采用螺旋断层放射治疗系统，进行三维适形放射治疗，处方剂量为50～60 Gy/28F。放疗同期口服替莫唑胺胶囊75 mg/m2，1次/d，晨起空腹服用，直至放疗结束，所有患者均以止吐、补液等对症处理。
+　　1.3护理方法
+　　对照组给予一般常规护理。观察组则在PDCA护理模式的指导下进行护理措施的实施，步骤为：P：制订详细的护理计划；D：采取积极有利的护理措施；C：对护理措施执行情况进行检查；A：对每个护理细节进行质量控制、处理。主要措施为对患者出现的恶性、呕吐、头痛、骨髓抑制及血液系统反应遵医嘱予以止吐、补充液体及电解质、升白细胞及补血等治疗；加强饮食指导，予以高热量、高蛋白质、多种维生素的营养支持，在不影响ICP的情况下多饮水；预防感冒及感染，减少外出，注意卧床休息，增强体质；健康教育等。
+　　1.4 评估工具[3]
+　　采用生存质量评分（SF-36）对患者的生活质量进行评估，包括躯体功能、角色状态、社会功能、心理健康、精力、疼痛、体力状况，每个方面均以0～100分表示状态从最差到最佳。
+　　1.5统计学方法
+　　采用统计软件SPSS 17.0对实验数据进行分析，计量资料数据以均数±标准差（x±s）表示，组间比较应用配对t检验。计数资料以率表示，采用χ2检验。以P < 0.05为差异有统计学意义。
+　　2 结果
+　　2.1两组患者护理后不良反应发生情况比较
+　　经过护理干预后，观察组恶性、呕吐等胃肠道反应占28.6%，骨髓抑制占7.2%，血液系统反应占14.3%，发生情况均好于对照组（57.1%、21.4%、35.7%），差异均有统计学意义（均P < 0.05），见表1。
+　　表1 两组患者护理后不良反应发生情况比较[n（%）]
+　　2.2 两组患者SF-36评分比较
+　　经过护理干预，观察组生存质量评分包括躯体功能、角色状态、社会功能、心理健康、疼痛、精力、体力均明显高于对照组，差异均有统计学意义（均P < 0.05）。见表2。
+　　3 讨论
+　　脑胶质瘤为颅内原发性肿瘤，其中WHOⅢ级、Ⅳ级胶质瘤的治疗方法目前主要采取以手术切除为主、术后辅助放化疗的综合治疗[4]。由于肿瘤呈浸润性生长，与脑组织无明确分界，难以彻底切除，术后易复发，生存率低，平均生存时间只有8～12个月，而术后同期辅以放化疗可有效提高肿瘤的局部控制率，延长患者的生存期限[5-6]。随着新一代烷化剂替莫唑胺的出现，并且治疗恶性脑胶质细胞瘤效果明显，放疗联合化疗逐渐成为治疗恶性胶质瘤趋势之一[7-9]。与此同时，放化疗给患者带来诸多不良反应，且多数患者的耐受力差，最后不能顺利完成放化疗[10-12]。所以，针对患者出现的不良反应给予相应的护理措施以减轻症状，提高患者耐受力意义重大。
+　　PDCA程序是根据PDCA循环发展而成，其特点就是通过对护理措施的效果不断评价，然后依据评价效果不断的总结经验，不断改善护理措施，通过对护理质量循环控制，使护理质量得到不断提升，更达到个性化、有针对性的护理效果[13-14]。PDCA程序包括护理计划的制订、计划的实施、效果的评价及改进等循环过程，实际上PDCA护理过程包括了预见性护理及循证护理的全部内容，是较为科学的护理管理过程[15]。本次研究表明，采用PDCA护理管理程序能够提高护理质量，提高恶性脑胶质细胞瘤术后放疗联合替莫唑胺同期化疗并发不良反应患者的生存质量，是较为理想的护理模式。
+
+

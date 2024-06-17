@@ -1,0 +1,19 @@
+
+　　
+　　Application of mechanical ventilation in patients with hypertensive cerebral hemorrhage and its nursing LI Su-ling. Department of Emergency, First Affiliated Hospital of Shantou University Medical College,Shantou 515041, China
+　　【Abstract】Objective To investigate the application of mechanical ventilation in patients with hypertensive cerebral hemorrhage and its nursing. Methods 72 patients with hypertensive cerebral hemorrhage in the use of mechanical ventilation were randomly divided into observation group and control group, 36 cases in each group, patients in control group were received routine nursing, patients in observation group were received system nursing intervention, the incidence of complications in the two groups were compared. Results 2 patients died in the study group and control group. The incidence of complications in observation group was 17.65%, which was significantly lower than that in control group. Average systolic blood pressure, diastolic blood pressure was (123.48±10.14)mmHg, (84.56±6.85) mmHg, controlling was more reasonable. Conclusion The implementation of the system nursing in patients with hypertensive intracerebral hemorrhage in the use of mechanical ventilation, can help reduce the incidence of complications, control blood pressure levels and improve patients’outcomes.
+　　【Key words】Mechanical ventilation; Hypertensive intracerebral hemorrhage; Nursing intervention高血压脑出血是临床常见的脑血管疾病, 发病急, 常有较高的发病率、致残率及致死率。当前治疗高血压脑出血的最佳治疗方案是采取颅内血肿微创清除术, 但术后需长期卧床, 易发生肺水肿、肺部感染等并发症, 极易导致呼吸衰竭, 故临床常根据实际情况对患者采取呼吸机辅助通气治疗［1］, 但患者由于多数处于昏迷状态, 不能配合治疗, 不仅影响通气效果, 且易引起多种并发症, 故加强高血压脑出血患者呼吸机辅助通气的护理极为重要。本研究对36例高血压脑出血术后患者实施系统护理干预, 取得良好效果, 现报告如下。
+　　1资料与方法
+　　1. 1一般资料本组共纳入符合研究要求的病例72例, 均为2011年1月~2013年12月期间在本院救治的高血压脑出血患者, 均符合第四届全国脑血管病学术会议制定的高血压脑出血诊断标准［2］, 确诊后均给予外科手术治疗, 术后除常规对症治疗外, 均辅以呼吸机机械通气治疗。随机分成观察组与对照组, 每组36例, 其中观察组男性21例, 女性15例, 年龄最小31岁, 最大87岁, 平均(68.3±7.4)岁, 高血压病程(12.6±5.4)年, 格拉斯哥昏迷评分(3.67±0.47)分；对照组男性22例, 女性14例, 年龄最小30岁, 最大86岁, 平均(67.9±8.3)岁, 高血压病程(12.4±5.2)年, 格拉斯哥昏迷评分(3.75±0.62)分, 两组患者性别构成、平均年龄及格拉斯哥昏迷评分等基本资料比较差异无统计学意义(P>0.05), 具有可比性。
+　　1. 2方法对照组实施常规护理, 观察组实施系统护理干预, 具体措施如下。
+　　①及时调整呼吸机参数：严密观察, 随时根据患者的呼吸质量、呼吸频率及深度、意识程度及血气分析等指标调节呼吸机参数。在急性期发生呼吸肌疲劳的几率较大, 采取部分辅助模式, 当病情好转时, 采取持续正压通气模式逐渐脱机。②加强呼吸道管理：呼吸机管道与患者气道形成一体, 呼吸通道任何部位的改变都有可能改变预后。由于呼吸通道通过气管插管与外界相通, 水分蒸发后易导致气道干燥, 从而引起患者咳嗽, 加重气道损伤, 影响呼吸功能, 有导致肺部感染的可能, 应定期湿化气道或雾化吸入治疗, 对气道进行加温、加湿, 但湿化温度不可过高, 避免使气道内积水量增加。③适当使用肌松药物：高血压脑出血患者多数处于昏迷状态, 使用呼吸机时很少会出现人机对抗现象, 随着病情好转, 患者意识转清, 人机对抗现象加重, 此时可适当使用镇静及肌松药物［3］, 在解除人机对抗的同时, 还有助于稳定病情及控制血压。④控制医源性感染：呼吸机管道尽量使用一次性医疗用品, 定时更换管道, 随时排除管道内的积液。进行吸痰等各项无菌操作时, 应强化无菌操作意识, 提高无菌操作技术, 所有吸痰、雾化吸入用品均使用一次性医疗用品, 口腔吸痰管及管道吸痰管应分开使用, 以免交叉感染。密切观察痰液的量、色、质等, 发现异常及时进行痰培养及药敏检测, 合理使用敏感抗生素, 尽早控制感染, 以降低死亡率。⑤防止误吸：高血压脑出血患者必然存在颅内高压, 患者易发生恶心、呕吐等, 大量胃内容物喷射而出, 极易被误吸进入气道。患者使用呼吸机后, 口腔分泌物或呕吐物难以自行吐出, 逆流进入会厌部位, 常随着拔除的气管导管误吸进入气道［4］, 导致肺部感染的发生。应保持昏迷患者头偏向一侧, 以空心拳助患者翻身拍背, 促进分泌物或呕吐物排出, 加强口腔护理, 选择pH值合适的口腔护理液, 每日彻底清洁口腔。
+   　　1. 3观察指标观察两组患者气道干燥、肺不张、肺部感染及误吸等并发症发生情况及血压变化。
+　　1. 4统计学方法采取SPSS16.0软件对观察指标进行分析处理, 计数资料用(%)表示, 行χ2检验, 计量资料用均数±标准差( x-±s)表示, 行t检验, P<0.05为差异有统计学意义。
+　　2结果
+　　2. 1两组患者并发症发生率比较观察组及对照组各死亡2例, 实际两组各有34例患者纳入观察数据。观察组发生气道干燥1例, 肺不张1例, 肺部感染2例, 误吸2例, 并发症发生率(17.65%)明显低于对照组(P<0.05), 见表1。
+　　2. 2两组患者平均血压值比较治疗前两组收缩压、舒张压比较无统计学意义；干预后观察组平均收缩压、舒张压(123.48±10.14)、(84.56±6.85)mmHg均明显低于常规组(P<0.05), 见表2。
+　　3讨论
+　　高血压脑出血患者病情较重, 无论是术后还是保守治疗, 多伴有意识障碍, 长期卧床易导致肺部感染、肺不张等并发症的发生, 严重影响患者预后, 辅以机械通气治疗既是治疗的需要, 又是生命支持手段［5］, 临床研究表明, 对高血压脑出血患者尽早给予气管切开并辅以机械通气, 有助于缓解低氧血症, 有效改善预后［4］。加强对患者使用呼吸机的护理, 对降低并发症发生率并有效改善预后有重要意义。
+　　本文研究表明, 通过严密监测患者生命体征, 适时调整呼吸机参数、加强呼吸道管理、适当使用肌松药物、控制医源性感染、防止误吸等系统性护理干预措施后, 有效降低气道干燥、肺不张、肺部感染、误吸等并发症发生率, 同时进一步分析两组护理前后血压变化, 可以发现, 观察组治疗后血压控制更为合理, 由此可见, 在高血压脑出血术后呼吸机通气管理中, 系统护理干预措施有助于降低并发症发生率, 控制血压水平, 改善患者预后, 有更积极的临床价值。
+
+

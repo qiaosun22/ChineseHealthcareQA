@@ -1,0 +1,49 @@
+
+　　[摘要] 目的 探讨全程护理干预对呼吸衰竭并发症发生率的影响。 方法 选择本院收治的88例呼吸系统疾病患者，随机分为观察组44例和对照组44例，对照组给予常规护理，观察组在此基础上，给予全程护理干预，对比两组的呼吸衰竭发生率、血气分析及肺功能相关指标、依从性。 结果 观察组的呼吸衰竭发生率为6.82%，明显低于对照组的27.27%，差异有统计学意义（P<0.05）。观察组护理后的血气分析和肺功能相关指标改善均显著优于对照组，差异有统计学意义（P<0.05）。观察组的依从性明显好于对照组，差异有统计学意义（P<0.05）。 结论 全程护理干预能有效降低呼吸系统疾病患者呼吸衰竭的发生率，促进患者呼吸功能恢复，改善患者预后，值得临床推广应用。
+　　[中图分类号] R563.8[文献标识码] B[文章编号] 1674-4721（2014）06（a）-0117-03
+　　
+　　The effect of whole nursing intervention to reduce the incidence rate of complication of respiratory failure
+　　LIU Qiu-mei WANG Qiu-xia
+　　120 Ward of Emergency Department,the First People′s Hospital of Zhangjiagang City in Jiangsu Province,Zhangjiagang 215600, China
+　　[Abstract] Objective To discuss the influence of whole nursing intervention on the incidence rate of complication of respiratory failure. Methods 88 cases of patients with respiratory system diseases in our hospital were selected and randomly divided into observation group with 44 cases and control group with 44 cases.The control group was given routine nursing care and the observation group received whole nursing intervention based on routine nursing.The incidence rate of respiratory failure,related index of blood gas analysis and pulmonary function,compliance in two groups was compared respectively. Results The incidence rate of respiratory failure in observation group was 6.82%,significantly lower than that in control group(27.27%),with statistical difference(P<0.05).Related index of blood gas analysis and pulmonary function in observation group after nursing was better than that in control group respectively,with statistical difference(P<0.05).Compliance in observation group was better than that in control group,with statistical difference(P<0.05). Conclusion The whole nursing intervention can effectively reduce the incidence rate of respiratory failure who had the respiratory system disease patients and promote the recovery and the prognosis of patients with respiratory function,is worthy of clinical promotion and application.
+　　[Key words] Nursing intervention;Respiratory disease;Respiratory failure complication
+　　呼吸衰竭是呼吸系统疾病的严重并发症，如果得不到及时治疗，会严重威胁患者生命。有研究报道显示，护理干预能帮助呼吸系统疾病患者有效避免呼吸衰竭的发生[1]，本院在对44例呼吸系统疾病患者治疗过程中实施综合性护理干预，观察其效果。
+　　1 资料与方法
+　　1.1 一般资料
+　　选择本院2011年4月～2014年1月收治的呼吸系统疾病患者88例，经过胸部X线片、CT、动脉血气分析等检查后诊断为呼吸系统疾病，其中男61例，女27例；年龄49～78岁，平均（55.7±3.4）岁；原发病为肺源性心脏病21例，支气管哮喘11例，慢性阻塞性肺病52例，呼吸窘迫综合征4例；平均病程（3.8±2.1）年。将所有患者随机分为观察组44例和对照组44例，两组的性别、年龄、病程及原发病等一般情况比较差异无统计学意义（P>0.05），具有可比性。
+　　1.2 方法
+　　所有患者均根据病情进行常规的抗感染、扩张支气管、氧气支持、强心、利尿、纠正酸碱平衡及电解质紊乱等治疗[2]。对照组患者给予常规护理；观察组患者给予全程护理干预。首先及时与患者进行交流，取得患者的信任和配合，并保持舒适安静的环境，加强护理巡视，然后对以下几个方面进行干预[3]。①认知干预：对患者进行相关疾病的宣传教育，开展知识讲座，鼓励患者积极学习、沟通；②心理干预：患者承受了对疾病的担忧和经济负担，往往会承受很大的心理压力，因此需要及时对患者进行心理疏导，缓解患者焦虑、恐慌的不良情绪，耐心和细致地开导、鼓励患者以平和心态积极面对治疗；③呼吸肌使用护理干预：保证呼吸机的正常使用，指导患者正确使用鼻面罩，或者采取固定，并积极预防使用呼吸机可能出现的胃肠胀气、局部皮肤受损、吸入性肺炎等并发症；④用药干预：指导患者自行用药，详细讲解药物用量、时间及药物原理和不良反应，并叮嘱患者随身携带呼吸系统急救药；⑤饮食干预：指导患者合理饮食，多补充维生素及高蛋白、低脂的食物，降低食盐摄入量；⑥行为干预：鼓励、帮助患者适当地进行康复训练，禁烟禁酒。
+　　1.3 观察指标
+　　观察并记录两组患者在护理工作中的依从性，护理前后的血气分析和肺功能评价，并记录呼吸衰竭的发生率。其中依从性分为：优良为积极主动配合；中为基本配合；差为说服后配合或者不配合。
+   　　1.4 统计学处理
+　　采用SPSS 15.0统计软件对数据进行分析和处理，计量资料以x±s表示，采用t检验，计数资料采用χ2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组呼吸衰竭发生率的比较
+　　观察组出现3例（6.82%）呼吸衰竭，对照组出现12例（27.27%）呼吸衰竭，观察组的呼吸衰竭发生率明显低于对照组，差异有统计学意义（χ2=5.836，P<0.05）。
+　　2.2 两组护理前后血气分析和肺功能相关指标的比较
+　　观察组护理后的血气分析和肺功能相关指标改善均显著优于对照组，差异有统计学意义（P<0.05）（表1）。
+　　
+　　表1 两组护理前后血气分析和肺功能相关指标的比较（x±s）
+　　
+　　
+　　
+　　
+　　
+　　
+　　 与对照组护理后比较，*P<0.05
+　　2.3 两组依从性的比较
+　　观察组的依从性明显好于对照组，差异有统计学意义（P<0.05）（表2）。
+　　
+　　表2 两组依从性的比较[n（%）]
+　　
+　　
+　　
+　　 与对照组比较，*P<0.05
+　　
+　　3 讨论
+　　呼吸衰竭是由于各种因素造成肺部通气和换气功能的严重障碍，无法有效地进行气体交换，导致缺氧，可能伴有二氧化碳潴留，并引发机体代谢和生理功能紊乱的一组综合征。呼吸衰竭患者的病程较长、治疗困难，反复发作，且具有较多的并发症，因此死亡率较高[4]，同时呼吸衰竭除了原发病常表现的临床症状外，还表现为急性缺氧和二氧化碳潴导致的功能代谢紊乱，会逐步对心脑功能产生影响[5-6]，因此，应当及时对呼吸系统疾病进行干预，防止呼吸衰竭的发生[7]。有研究显示，通过控制感染，并根据患者情况给予营养支持、改善心肺功能、合理氧疗等全面护理干预，能在延缓病情发展时缩短住院时间，且能减少并发症的发生，提高患者的预后和生活质量[8]。
+　　护理干预越来越多被用于各个科室的护理工作中，护理干预是现代护理模式中的一个重要组成部分，能较好地维持患者病情的稳定，显著改善患者预后，获得满意的治疗效果[9]。本研究对观察组采用了全程护理干预，不但对疾病治疗中可能出现的不良情况进行预防护理，而且从心理、饮食、用药、行为等各个方面进行鼓励、督促及引导[10]，结果显示，护理干预后，观察组的呼吸衰竭发生率显著低于对照组，差异具有统计学意义；观察组的血气分析及肺功能相关指标改善均显著优于对照组，差异有统计学意义；观察组在护理干预过程中的依从性显著好于对照组，不但减少了护理人员的工作量，且提高了患者对护理工作的满意度。
+　　科学的护理是患者康复过程的重要环节，为提高护理质量，改善患者预后，在总结经验完善自我的同时，采用循证护理的方法原则对护理中遇见的问题进行整改，并重点加强护理中的巡视工作，对常见并发症进行严密监测，给予预防措施，减少护理缺陷的发生。
+　　综上所述，全程护理干预对降低呼吸衰竭并发症发生率有显著效果，能改善患者的身体状况，促进患者早日康复，值得临床推广应用。
+
+

@@ -1,0 +1,26 @@
+
+ 　　【摘要】 目的 分析急性脑出血患者院前急救护理程序的应用效果。方法 102例急性脑出血患者作为本次的研究对象， 将患者依照计算机随机分组方案分为常规组和实验组， 每组51例。其中常规组患者采取一般急救护理程序， 实验组患者采取改进的急救护理程序， 对比两组患者的急救护理效果。结果 实验组患者的死亡率为11.76%、致残率为43.14%， 均明显低于常规组的29.41%、62.75%， 差异具有统计学意义（P<0.05）；两组患者出诊到达时间及手术治疗时间比较差异无统计学意义（P>0.05）。实验组患者的急救介入时间为（15.86±6.58）min， 待手术时间为（28.99±11.24）min， 均明显短于常规组的（36.56±6.45）、（58.22±11.53）min， 差异具有统计学意义（P<0.05）。结论 对急性脑出血患者采取院前急救护理干预的临床价值显著， 可明显降低患者致残率、死亡率， 缩短急救介入时间， 降低并发症发生率。
+　　DOI：10.14163/j.cnki.11-5547/r.2016.34.068
+　　Investigation of pre-hospital emergency nursing program model for acute cerebral hemorrhage patients HUANG Qiong-fang， WU Zao-lian， KONG Jian-yi， et al. Department of Emergency， Zhaoqing City First People’s Hospital， Zhaoqing 526000， China
+　　【Abstract】 Objective To analyze application effect by pre-hospital emergency nursing program for acute cerebral hemorrhage patients. Methods A total of 102 patients with acute cerebral hemorrhage as study subjects were divided by computer random allocation into conventional group and experimental group， with 51 cases in each group. The conventional group received normal emergency nursing program， and the experimental group received modified emergency nursing program. Emergency nursing effects were compared between the two groups. Results The experimental group had mortality rate as 11.76% and disability rate as 43.14%， which were all much lower than 29.41% and 62.75% in the conventional group， and their difference had statistical significance （P<0.05）. There was no statistically significant difference of out-call arrival time and operation treatment time between the two groups （P>0.05）. The experimental group had emergency intervention time as （15.86±6.58） min and operation waiting time as （28.99±11.24） min， which were all shorter than （36.56±6.45） and （58.22±11.53） min in the conventional group， and the difference had statistical significance （P<0.05）. Conclusion Implement of pre-hospital emergency nursing intervention for acute cerebral hemorrhage patients contains remarkable clinical value. It can precisely reduce disability rate and mortality rate in patients， shorten emergency intervention time and decrease incidence of complications.
+　　【Key words】 Pre-hospital emergency； Acute cerebral hemorrhage； Nursing program
+　　急性?X出血是临床上较为常见的一类急诊科疾病， 主要是由于脑实质内血管破裂引发的一类急症[1]， 具有死亡率高、致残率高等特点[2]， 其中发病后的6 h内为该类疾病的急性期治疗时间窗[3]， 因此， 及早对患者进行临床干预， 有利于改善患者预后， 减少对患者神经功能的损伤等。为此， 本次研究对2015年1月～2016年3月本院急性脑出血患者采取改进急救护理程序， 分析其应用效果， 现报告如下。   　　1 资料与方法
+　　1. 1 一般资料 择取2015年1月～2016年3月本院收治的102例急性脑出血患者作为本次的研究对象。将患者依照计算机随机分组方案分为常规组和实验组， 每组51例。常规组患者男27例， 女24例， 年龄52～82岁， 平均年龄（66.58±5.14）岁；实验组患者男28例， 女23例， 年龄53～83岁， 平均年龄（66.89±5.37）岁。两组患者一般资料比较差异无统计学意义（P>0.05）， 具有可比性。
+　　1. 2 方法 常规组患者采取一般急救护理流程， 包括接听急救电话、出诊、现场救治、转运途中护理、入院、常规检查、术前准备、手术治疗等。实验组患者采取改进急救护理程序， 主要内容如下。
+　　1. 2. 1 院前电话指导 接到急救电话后， 急救中心护理人员应指导患者家属如何进行自救， 若患者存在意识障碍， 应嘱咐其家属将患者头部偏向一侧， 可保持患者处于平卧位， 若患者已经发生昏迷， 可指导现场有急救资格人员帮助患者进行心肺?退眨? 同时嘱咐患者家属无需表现出过度的紧张、慌乱等情绪， 以防带给患者巨大的压力， 应与处于清醒状态的患者进行聊天， 使得患者感受到家人的关心与鼓励。
+　　1. 2. 2 现场评估 急救人员到达现场后， 应争取在最短的时间内展开救援行动， 最大程度上降低患者致残率， 对现场环境进行快速评估， 并询问患者家属关于患者的疾病史、治疗情况等；及时开展生命体征的检查， 包括血压、体温、脉搏等， 观察患者意识状态， 若患者处于清醒状态， 应询问其是否头痛、四肢乏力、视物清楚等， 若处于昏迷状态， 应对瞳孔、眼球部位、神经系统症状进行严格检查， 从而快速准确评估患者病情。
+　　1. 2. 3 输液护理 快速帮助患者建立2条或者2条以上的静脉通道， 使得药物能够快速进入患者体内， 采取静脉留置针， 以防患者体位发生改变或者躁狂状态时针头将患者血管刺破并导致输液无效；另外， 应及时输入适量的脱水药物， 选择较大且直的静脉通道， 大关节处尽量避开。
+　　1. 2. 4 心理护理 患者出现急性脑出血后往往心理十分紧张焦虑， 因此， 护理人员应耐心同患者解释发病的原因、治疗措施等， 缓解患者紧张情绪， 并告知患者专业救治人员已经赶到现场， 帮助患者稳定情绪， 有利于降低低压值， 便于开展后续的急救措施。
+　　1. 2. 5 现场复苏 对现场进行正确评估后， 若患者心跳骤停， 应及时进行心肺复苏。护理人员应帮助患者调整为相对舒适的体位， 其中清醒患者可采取平卧位；呕吐、意识障碍患者应去枕平卧， 抬高头部约30°；若患者呼吸心跳骤停， 并即刻进行心肺复苏， 由2位专业救治人员负责， 一人胸外按压， 另外一人捏气囊， 其中按压速率为118次/min， 捏气速率为1次/s， 并连续进行5个循环后对患者生命体征与病情进行全面评估。
+　　1. 2. 6 转运途中 帮助患者尽快安排转运， 由于随身携带的医药器械有限， 加之患者病情变化迅速， 及时进行转运对患者预后的影响较大。对患者进行搬运时应动作轻柔， 以防患者血压增高， 对患者病情进行严密的观察评估， 并及时与科室进行联系， 保证患者安全转运。
+　　1. 3 观察指标 对比两组患者的死亡情况、致残情况及出诊到达时间、急救介入时间、待手术时间、手术治疗时间。
+　　1. 4 统计学方法 采用SPSS18.0统计学软件对数据进行统计分析。计量资料以均数±标准差 （ x-±s）表示， 采用t检验；计数资料以率（%）表示， 采用χ2检验。P<0.05表示差异具有统计学意义。
+　　2 结果
+　　2. 1 两组患者死亡及致残情况对比 实验组患者的死亡率为11.76%， 致残率为43.14%， 明显低于常规组的29.41%、62.75%， 差异具有统计学意义（P<0.05）。见表1。
+　　2. 2 两组患者出诊到达时间、急救介入时间、待手术时间、手术治疗时间对比 两组患者出诊到达时间及手术治疗时间比较差异无统计学意义（P>0.05）。实验组患者的急救介入时间为（15.86±6.58）min， 待手术时间为（28.99±11.24）min， 均明显短于常规组的（36.56±6.45）、（58.22±11.53）min， 差异有统计学意义（P<0.05）。见表2。
+　　3 讨论
+　　脑出血患者以50岁以上的患者较为多见[4-8]， 其中男性患者比女性患者的发病率稍高， 多半是由于情绪激动或者活动中突发疾病， 具有起病急、病情发展快、预后不良等特征[5]。有研究显示[6]， 对于急性脑出血患者来说， 多半在几分钟至几小时内病情急剧发展， 并在发病后的0.5 h内出血停止， 导致出现血肿症状， 且多半在发病后的0.5～1.5 h内神经功能受损障碍发展至高峰。所以， 对急性脑出血患者争取最短的时间进行抢救的临床意义重大， 可最大程度上挽救患者生命， 缩短脑出血时间， 改善患者预后。
+　　目前临床上多数学者认为[7， 9-13]， 对于符合手术适应证的急性脑出血患者应尽可能采取手术治疗。有关研究表明[14-16]， 手术治疗的最佳时间窗为发病后的6～8 h内， 其中待手术治疗时间越长， 越不利于患者术后病情的恢复， 同时也会在一定程度上升高患者的致残率、病死率、并发症发生率等。另有关研究显示[8， 17-20]， 脑出血患者的急性病死率可达到35%左右， 发现造成患者死亡主要是由于急性脑出血治疗48 h后引发的肺部感染、消化道出血、脑疝等并发症所致。所以， 降低该类疾病患者的死亡率需要有效防治临床并发症。本次研究对实验组患者采取改进后的急救护理程序， 主要内容在于注重接到急救电话时即对患者进行简单有效的护理操作， 帮助患者将头部偏往一侧并略微抬高， 促进脑部血液回流， 并达到降低颅内压、降低脑疝发病率的效果；保持患者呼吸道处于通畅状态， 对气道异物及时进行清理， 有利于防止出现误吸情况， 降低肺部感染等。   　　本次研究中实验组患者采取改进后的院前急救护理程序， 该组患者的死亡率与致残率均明显低于常规组（P<0.05）， 另外， 实验组患者的急救介入时间与待手术时间均明显短于常规组（P<0.05）。
+　　综上所述， 对急性脑出血患者采取院前急救护理干预的临床价值显著， 可明显降低患者致残率、死亡率， 缩短急救介入时间， 降低并发症发生率， 值得实践推广。
+
+

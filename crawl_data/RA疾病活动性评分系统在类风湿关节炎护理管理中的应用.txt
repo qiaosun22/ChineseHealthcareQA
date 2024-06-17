@@ -1,0 +1,29 @@
+
+　　[中图分类号] R473.5 [文献标识码] B [文章编号] 1673-9701（2017）11-0122-03
+　　Application of RA disease activity scoring system in rheumatoid arthritis nursing management
+　　WU Zhuqun WANG Hongzhi ZHANG Bin MA Juanmei MIAO Guofang ZHANG Ye
+　　Department of Rheumatology， Jiaxing City First Hospital in Zhejiang Province， Jiaxing 314000， China
+　　[Abstract] Objective To observe the effect of rheumatoid arthritis（RA） disease activity scoring system（DAS28） in nursing care management of RA patients. Methods 55 patients with RA who were treated in the department of rheumatology in our hospital from March to September 2015 were selected as subjects. Patients were trained to master the DAS28 assessment methods， and underwent self periodic re-evaluation to carry out "treat-to-target". Results The intraclass correlation coefficient（ICC） of mean TJCs， SJCs and DAS28 scores in the self-assessment of patients were 0.96， 0.96 and 0.98 respectively compared with the results of the physician/nurse assessment until September 2015. Follow-up found that medication program of 31% patients were adjusted， and after 3 months of treatment， DAS28 activity compliance rate increased from 63.64% to 89.09%. Conclusion Self-assessment of patients and assessment results of medical staff are consistent through training by the DAS28 scoring system. The DAS28 score can understand the patients' condition more accurately and adjust the medication program to carry the "treat-to-target".
+　　[Key words] DAS28 scoring system； Rheumatoid arthritis； Nursing； Patient management； Treat-to-target
+　　?风湿关节炎（RA）属于自身免疫性慢性疾病类型，常侵袭性损害手、足等小关节，严重者可导致关节畸形，甚至功能丧失[1]。国际上常采用28个关节疾病活动度评分系统（DAS28）对RA患者关节活动度进行评价，以指导医师进行科学、合理的治疗[2，3]。既往研究表明，DAS28评分系统的资料采集、数据处理等流程均较为复杂，评分结果的准确性会影响病情评价的客观性[4]。为此，本研究以我院RA患者为研究对象，分析其与医务人员评分的相关性，更科学地评价治疗前后RA患者关节活动度达标率，现报道如下。
+　　1 资料与方法
+　　1.1 临床资料
+　　选择2015年3～9月我院风湿科收治的RA患者作为研究对象。入组标准：①符合1987年美国风湿病协会关于RA的诊断标准[5]；②有初步的智能手机或相应终端的使用能力；③患者自愿参加本项目研究。排除标准：①合并精神障碍影响正常研究者；②随访期间数据采集不完整或失访者。截止2015年9月，1位医生、2位护士参与研究，回收患者调查问卷63份，排除8例未评估疾病患者，累计入组55例。其中男8例，女47例，男∶女=1∶5.9；年龄19～83岁，平均（52.16±12.86）岁；病程0.5～20年，平均（3.90±5.37）年。职业分布：退休11例，无业5例，未填写12例，在职27例；受教育程度：文盲5例，小学17例，初中17例，高中13例，大学3例。见封三图8、9。   　　1.2 疾病管理体系
+　　哥特医疗网（gw.91dr.cn）开发的智能疾病管理系统（SMART SYSTEM OF DISEASE MANAGEMENT SSDM）包括2个APP：“风湿咨询中心”和“风湿管理专家”，医生界面有苹果版、网页版，患者界面有苹果版、安卓版、网页版。基本思路为患者录入疾病数据、医生进行管理，形成以“医生为中心，患者为主体”的疾病管理体系。
+　　1.3 研究方法
+　　（1）患者：通过调查表，了解患者的一般情况（性别、年龄、病程、受教育程度、是否进行自我评估、治疗等）作为基线，小群组（每次4～6名患者）接受自我管理教育，使用“风湿咨询中心”应用APP，对触痛关节数（TJCs）、肿胀关节数（SJCs）及病情整体情况进行自我评估，结合血液检查结果（ESR/CRP），录入APP，得出28个关节类风湿关节炎疾病活动度评分（DAS28）。并使用APP进行HAQ指数评估。（2）专业人员：医生/护士使用“风湿咨询中心”应用APP，对患者进行TJCs、SJCs及病情整体情况评估，结合血液检查结果（ESR/CRP）得出DAS28评分。（3）DAS28以28个关节计分，其计算公式为：（0.56×sqrtTJC+0.28×sqrtSJC+0.7×lnESR）×1.08+0.16[6]。参考2010年EULAR推荐的关于疾病活动度的规定[7]，分为缓解：DAS28≤2.6；低活动度：2.65.1。达标率=（缓解+低活动度）例数/总例数×100%。
+　　1.4 统计学处理
+　　将所有采集的数据录入EXCEL电子表格，并应用SPSS 18.0统计学软件进行统计分析，计量资料以（x±s）表示，比较采用t检验，计数资料以[n（%）]表示，采用χ2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 RA患者与医护人员DAS28评估结果比较
+　　通过比较患者和医护人员的触痛关节数、肿胀关节数及DAS评分，评价同类相关系数（ICC），结果基本一致，ICC均不低于0.96，一致性较好，见表1。
+　　2.2 用药方案调整
+　　55例RA患者共采用11种用药方案，在3个月治疗期间，共有17例患者的用药方案发生调整，占比31%，各治疗方案应用情况见封三图10。
+　　2.3治疗前后DAS28评分达标率变化
+　　治疗3个月后对患者进行重新评估，与治疗前比较，达标率明显提高，差异有统计学意义（P<0.05）。见表2。
+　　3 讨论
+　　类风湿关节炎（RA）是以累及关节病变为主的慢性进展型自身免疫病，好发于女性，其发病率约为男性患者的2～3倍[8]。一旦患病，将给患者带来很大的身体及精神负担，国外将RA的预后结局归纳为“5D”，即痛苦（discomfort）、残疾（disability）、花钱（dollar lost）、药物并发症（drug toxity）、死亡（death）之说[9]。Gabriel等[10]报道了美国综合排名第一的梅奥诊所对609例RA患者进行为期40年的随访发现，与健康人群相比，RA患者的预期寿命缩短10～15年。最新的美国风湿病协会（American College of Rheumatology，ACR）和欧洲风湿病防治联合会（European League Against Rheu-matism，EULAR）[11]均建议所有RA患者的治疗均应该以实现缓解或降低RA活动度为首要目标。目前国内外关于RA患者治疗的达标率仍然偏低，与EULAR和ACR建议的目标尚存在一定的差距[12-14]。?M早给予明确诊断，并实施对症治疗和规范管理，对于改善患者的临床症状，降低患病后致残、致畸发生率具有重要意义[15]。
+　　RA活动度评价表示疾病进展的速度，对RA患者病情进行准确评价有利于正确指导医师进行临床治疗，降低致残和致畸的发生率，而DAS28评分系统是临床常用的RA活动度评价方法[16]。DAS28能够有效评估RA病情，是临床上实现“达标治疗”的主要参考依据，具备科学性和必要性[17]。本研究对55例RA患者进行DAS28评分系统培训，培训后患者对TJCs、SJCs及病情整体情况进行评估，并通过录入软件计算出DAS28评分。研究结果显示，患者自我评估结果与医护人员评估结果一致性良好，ICCs均不低于0.96，说明患者自我评估结果可信。患者准确而有效的自我评估有利于医务人员准确判断病情，辅助医师及时调整治疗方案。Tuyl等[18]依据RA患者在用药过程中DAS28评估的结果调整用药方案，进行积极的治疗，患者比健康人群的预期寿命长出7岁。李春等[19]通过调查研究发现，RA患者治疗2周后其DAS28评分即有显著下降，且持续降低至12周，治疗第4周时患者的疾病总体评分及疼痛评分接近最大改善。邓雪蓉等[20]研究发现，RA患者在不同治疗方案下的达标率差异较大，及时调整用药方案对达到和维持治疗目标的意义重大。本研究根据患者的DAS28自我评分结果，及时对31%患者的用药方案进行了调整，3个月治疗后其DAS28活动度达标率由63.64%升高至89.09%，显示DAS28评分系统在“达标治疗”中的应用价值，与相关研究结论一致。
+　　综上所述，对RA患者进行DAS28评分系统培训，患者可以有效地进行自我评估，有利于医务人员准确判断病情，调整治疗方案，实现达标治疗。不过，本研究所纳入病例数偏少，评估周期较短，所以对DAS28的临床应用效果尚待多中心、大样本临床试验进行验证。
+
+

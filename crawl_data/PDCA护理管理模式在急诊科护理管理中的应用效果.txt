@@ -1,0 +1,33 @@
+
+ 　　[摘要]目的 探?PDCA护理管理模式在急诊科护理管理中的应用效果，以提高急诊科医生与患者的满意度。方法 抽取2011年1月～2012年12月急诊科接诊的6000例患者，另抽取实施PDCA护理管理模式后，2013年1月～2014年12月急诊科接诊的8000例患者，比较两组纠纷发生率；选取PDCA实施前后各100例患者，比较两组满意度；选取2011年1月1日～31日及2014年12月1日～31日同批30名护理人员，比较两组的护理质量。结果 PDCA护理管理模式实施前，纠纷发生率为2.38%，实施后为0.69%，纠纷发生率显著下降，差异有统计学意义（P<0.05）；PDCA护理管理模式实施前患者的满意度为63.00%，低于实施后的89.00%，差异有统计学意义（χ2=14.871，P<0.05）。PDCA护理管理模式实施前急诊科医疗人员的满意度为63.33%，低于实施后的满意度为90.00%，差异有统计学意义（χ2=16.756，P<0.05）。结论 PDCA护理管理模式能够循环、持续地提高急诊科护理与医疗水平，从而使得急诊科就诊的流程更加系统化、规范化，在实际工作中具有推广意义。
+　　[中图分类号] R197.323 [文献标识码] A [文章编号] 1674-4721（2017）04（b）-0162-03
+　　Application effect of PDCA nursing management mode in nursing management of emergency department
+　　ZHOU Gui-zhi
+　　Department of Emergency Medicine，the Second People′s Hospital of Chiping in Shandong Province，Chiping 252111，China
+　　[Abstract]Objective To explore the application of PDCA nursing management mode in the emergency department nursing management，in order to improve the emergency department doctors and patients satisfaction.Methods A total of 6000 patients were enrolled in the emergency department from January 2011 to December 2012，respectively.After taking the PDCA nursing management model，the patients were enrolled in the emergency department from January 2013 to December 2014，and the incidence of medical disputes between two groups was compared.100 patients before PDCA implemented and 100 patients after PDCA implemented were selected and the degree of satisfaction between two groups was compared.The same 30 nurses in Jaunary 1-31 2011 and December 1-31 2014 were selected，and the quality of nuring between two groups was compared.Results Beforeimplementation of the PDCA nursing management pattern，the incidence of disputes is 2.38%，comparing to 0.69% after the implementation of PDCA，the incidence of disputes declined significantly，and the differences were statistically significant （P<0.05）；before carrying out PDCA nursing management mode，the patients′ satisfaction was 63%，lower than 89% after the implementation of the PDCA，and the differences were statistically significant （χ2=14.871，P<0.05）.Before carrying out emergency medical staff degree of satisfaction was 63.33%，lower than 90.00% after implementation of PDCA，the differences were statistically significant （χ2=16.756，P<0.05）.Conclusion The PDCA nursing management model can circulate and continuously improve the nursing and medical level of emergency department，so that the process of emergency department is more systematic and standardized，and it is of practical significance in practical work.   　　[Key words]PDCA；Emergency department；Dispute；Quality of nursing；Nursing management
+　　急诊科是医院的窗口科室，急诊科的形象往往代表了整个医院的形象，故急诊科护理工作尤为重要。PDCA护理管理模式即循环管理模式，是由美国著名的质量管理学家戴明博士在20世纪50年代首先提出的一种比较系统、科学、全面的管理方法，主要是通过制订计划、实施方案、检查计划结果和有效处理存在的问题等不断循环的工作过程，从而保证工作质量的持续改进[1]。PDCA护理管理模式主要分为计划阶段P（Plan）、实施阶段D（Do）、检查阶段C（Check）、处理阶段A（Action）四部分组成[2]。PDCA护理管理模式最早运用于企业管理，为企业的管理取得了良好的效果，在管理界被公认为高效的管理模式之一[3]。将PDCA应用于急诊科的日常护理管理工作中，对提高整个科室的护理工作质量和患者对护理服务的满意度具有重要的意义，并促使整个科室工作能够标准化和制度化。?o理质量关系到整个医院整体的医疗服务质量，是衡量医院服务质量的重要指标[4]。随着急诊科医疗工作的推进，对急诊科护理工作要求规范化、科学化、有效化的不断提高，我院从2013年开始将PDCA护理管理模式运用到急诊科护理管理中，在日常的工作之中不断总结经验，发现PDCA护理管理模式在急诊科护理管理应用中可行、方便、有效，现报道如下。
+　　1对象与方法
+　　1.1研究对象
+　　选取2011年1月～2012年12月急诊科实施PDCA护理管理模式前接诊的6000例患者，2013年1月后实施PDCA护理管理模式，选取2013年1月～2014年12月急诊科接诊的8000例患者。随机抽取PDCA实施前的100例患者作为干预前观察对象，其中男性57例，女性43例；平均年龄（48±2.33）岁。另随机抽取PDCA实施后的100例患者作为干预后观察对象，其中男性52例，女性48例，平均年龄（44±1.81）岁，两组观察对象的一般资料比较，差异无统计学意义（P>0.05），具有可比性。抽取2011年1月本科室30例医务人员作为干预前观察对象，另在2014年12月选取同一批医务人员作为干预后观察对象，30例医务人员均为护士，其中女性28例，男性2例；平均年龄（28.00±1.02）岁；大专18例，本科12例。
+　　1.2 PDCA护理管理模式实施方法
+　　1.2.1计划阶段P（Plan） ①制定质量标准：根据急诊实际情况制定一系列安全标准，如基础护理标准、急救设备管理标准、抢救药品及抢危重患者的管理标准等。②制订岗位职责：由科室医务人员参加讨论，结合急诊特点，明确各班的岗位职责，要求明确分工，具体工作具体到个人，新老搭配排班。③明确工作流程：结合急诊科的工作特点，制订出各班工作流程、输液流程、抢救流程以及急诊四步骤等。④建立建全并不断完善工作制度：包括交接班制度，查对制度以及对患者进行坠床、跌倒、压疮评估制度等。
+　　1.2.2实施阶段D（Do） 根据质量标准进行工作培训，开展日常工作以及建立健全管理制度。①培训。一方面加强业务学习，每天组织1次小讲课，每周1次业务学习，其内容包括：各项工作标准，护患沟通技巧，各种流程、抢救药品的作用和副作用，各种应急预案，基本技能的培训以及抢救设备的使用。另一方面鼓励护士参加各种形式再教育。②日常工作。护理人员合理搭配，老带新，强弱搭配，有备班准备，弹性排班。抢救药品及设备固定人员管理，定期补充维修，每天检查，班班交接。确保设备时时处于完好备用状态，人人熟知抢救车内每种药品的准确位置。确保用药安全，对于高浓度电解质贴上明确的警示标识，对包装类似、易混淆的药品分开摆放。预防跌倒、压疮、坠床的发生。加强与患者、家属的沟通，告知注意事项，班班在床头对患者全身皮肤护理情况进行认真交接并记录。③健全管理体制。建立护理安全质控小组，组长由护士长担任，其他质控成员分工明确。
+　　1.2.3检查阶段C（Check） 积极号召人人参加护理安全质控，护士长每周质控1次，检查方式采用集中质控和时时质控相结合，定期考核和随时抽查相结合。每月进行质控分析1次，查找问题原因，提出整改措施。每月对护士依从性进行调查，同时调查患者满意度。
+　　1.2.4处理阶段A（Action） 每月考核科室护士业务水平，工作表现，主要根据质控结果和患者满意度以及护士的依从性结果进行评比，根据结果进行奖惩，工作优秀的给予表扬和奖励，屡出差错的给与批评教育，并扣质控分，奖金与此挂钩。每月召开质控分析会，全员参与护理安全问题的原因分析，找出护理安全问题的根本原因和隐患，采取措施制订出计划进入下一个PDCA循环。
+　　1.3评估标准
+　　分别统计PDCA实施前后纠纷发生率，以及患者和急诊科医疗人员对急诊科使用的满意度评价[5]。
+　　1.4统计学方法
+　　采用SPSS 18.0统计学软件进行数据分析，计数资料用率表示，组间比较采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1 PDCA护理管理模式实施前后急诊科纠纷发生率的比较
+　　PDCA护理管理模式实施前，急诊科接诊6000例患者，纠纷发生率2.38%（143/6000）；2013年1月～2014年12月，急诊科接诊8000例患者，纠纷发生率为0.69%（55/8000），纠纷发生率显著下降，差异有统计学意义（P<0.05）。
+　　2.2 PDCA护理管理模式实施前后患者满意度的比较
+　　PDCA护理管理模式实施前患者的满意度为63%，PDCA护理管理模式实施后患者的满意度为89%，差异有统计学意义（P<0.05）（表1）。
+　　2.3 PDCA护理管理模式实施前后急诊科医疗人员满意度的比较   　　PDCA护理管理模式实施前急诊科医疗人员的满意度为63.33%，实施后的满意度为90.00%，实施后医疗人员的满意度高于实施前，差异有统计学意义（P<0.05）（表2）。
+　　3讨论
+　　医院急诊科室是医院纠纷发生率较高的科室，由于急诊科每天接触的患者流动性较大，人员素质参差不齐，临床护理质量的好坏和患者在住院接受治疗期间康复程度密切相关，而且也对医患关系和矛盾起到一定的缓冲作用[6-7]。随着我国的医疗体系结构日臻完善，先进的急诊科已成为大中型医院的一个重要领域，并在临床工作中发挥着举足轻重的作用。如何更好地服务于临床工作，提供急诊科诊疗与护理水平，降低纠纷发生率，提高患者满意度，从而提高医院的整体效益，是急诊科护理管理应当思考的问题[8]。国内外学者在医疗质量管理研究中，运用PDCA循环模式取得了比较显著的成绩[9]，因此我院将PDCA护理管理模式运用于急诊科的护理之中。
+　　通过采用PDCA护理管理模式使得急诊科的护理工作更加规范化、合理化、系统化。在本研究显示实施PDCA护理管理模式后护理质量较实施前显著提高，说明PDCA护理管理模式有其自身的优势[10]，有助于提高护理质量与效率，在进行质控过程中不仅可以加深对护理标准和检查方法的了解，同时也增强了护士自我管理意识，让护理质量得到稳步提升，增强了护理人员在工作中的责任心，有效地弥补了护理漏洞，减少医患纠纷的发生[11]，提高了护理人员的自身素质。通过培训各种临床技能，提高了急诊科护理人员的护理水平，也保证了护理质量的稳步提高[12]，增强了护理人员的法律意识。通过对护理人员的文书书写的培训，提高了文书书写的质量，有助于护理人员对风险的评估，能够及时准确地反映患者病情变化，有效降低各种医患矛盾发生的概率，保证护理的安全[13]。
+　　唐永仙等[14]探讨了在急诊护理质量管理中实施PDCA循环的价值，结果发现实施PDCA护理管理模式后，患者对护理满意度有显著提高，研究结果显示将PDCA护理管理模式引入急诊科护理管理中，通过上述4个阶段进行不断地循环，及时发现护理管理中存在的各种问题，并不断地提出针对性的解决措施进行改进，可逐步提高护理质量，进一步促进护患关系的良好发展。这与本研究的满意度调查结果相一致。赵树娟等[15]做了一项临床研究，构建急诊护理安全管理屏障，减少护理风险，提高急诊护理质量，应用PDCA循环法，全面排查急诊科护理安全隐患，并制订改进措施，研究发现，PDCA循环工作方法对构建急诊科护理安全管理屏障，具有高效、科学、严密及可持续发展性，与本研究观点一致。
+　　综上所述，PDCA护理管理模式作为科学的管理工具能够在急诊科护理中运用，规范了工作流程和工作质量，实践证明，PDCA护理管理模式可以有效提高急诊科在护理方面的水平，提高急诊科护理保养的服务满意度。
+
+

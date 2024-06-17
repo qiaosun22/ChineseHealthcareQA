@@ -1,0 +1,27 @@
+
+　　[摘要] 目的 探讨2型糖尿病（T2DM）患者腹腔镜下胃旁路手术治疗后护理干预效果。方法 将80例腹腔镜下胃旁路手术治疗的T2DM患者分为对照组与观察组各40例，分别采用常规护理与个性化护理，比较两组护理前后各项指标（BMI、FPG、餐后2 h血糖、HbA1c及空腹C肽）、SAS及SDS评分、术后各项指标恢复所需时间。 结果 两组护理前后BMI、FPG、餐后2 h血糖、HbA1c及空腹C肽水平差异均有统计学意义（P<0.05），且两组护理后上述指标差异也均有统计学意义（P<0.05）；两组护理前后SAS及SDS评分差异均有统计学意义（P<0.05），且护理后观察组上述评分显著小于对照组（P<0.05）；观察组首次下床活动时间、首次排气时间及伤口拆线时间均显著短于对照组（P<0.05）。结论 针对性护理干预在腹腔镜下胃旁路手术治疗T2DM患者护理中效果显著，值得在临床上推广应用。
+　　[中图分类号] R473.6 [文献标识码] B [文章编号] 1673-9701（2014）27-0073-02
+　　[Abstract] Objective To investigate the effect of nursing interventions on type 2 diabetic（T2DM） patients after laparoscopic gastric bypass surgery treatment. Methods Eighty patients with T2DM cases of laparoscopic gastric bypass surgery in accordance with balloting were divided into control group and observation group， each of 40 cases， which were treated with routine care and personalized care respectively， the indicators （including BMI， FPG， 2 h postprandial blood glucose， HbA1c and fasting C-peptide）， SAS and SDS scores， postoperative recovery time indicators were compared before and after treatment. Results BMI， FPG， 2 h postprandial blood glucose， HbA1c and fasting C- peptide levels were statistically significant differences between two groups before and after nursing （P<0.05）， and these indicators were statistically significant difference between two groups after treatment（P<0.05）； SAS and SDS scores were statistically significant differences in two groups before and after nursing （P<0.05）， and post-treatment observation group was significantly lower than the above rates in the control group after treatment （P<0.05）； First ambulation time， exhaust time and wound stitches first time of observation group were significantly lower than the control group， the difference was significant （P<0.05）. Conclusion Nursing intervention targeted patient care of laparoscopic gastric bypass surgery in the treatment of T2DM is significant effect， it is worth to the promotion and application in clinical practice.
+　　[Key words] Type 2 diabetes； Laparoscopy； Gastric bypass surgery； Individualized care
+　　随着人们生活水平的不断改善和生活结构的不断改变，T2DM的临床发病率呈逐年上升的趋势[1]。传统治疗T2DM的方法较多，包括食疗、运动锻炼、口服降糖药以及肌注胰岛素等，但是这些方法经临床实践证实均无显著性效果，也难以从根本上降低患者的血糖水平，阻止糖尿病各种并发症的发生、发展[2]。当前已有越来越多的临床实践研究表明，手术治疗T2DM疗效显著，能够从根本上对其进行治疗，其中最为常见的一种外科手术方法为腹腔镜下Roux-en-Y胃旁路术（LRYGB）减重手术，其在T2DM中的临效果已经得到了证实[3]。为了提高手术治疗疗效，还应采取必要的护理干预措施。本研究将个性化护理干预用于腹腔镜下胃旁路术后的临床护理之中，取得了较为满意的效果，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料   　　回顾性分析2010年10月～2013年10月入住我院的80例腹腔镜下胃旁路手术治疗的T2DM患者的临床资料，术前诊断为2型糖尿病。其中男45例，女35例；年龄24～72岁，平均（52.83±11.28）岁；体质量52～120 kg，平均（71.38±9.37）kg。将本组患者随机分为对照组与观察组各40例，两组患者在性别、年龄等一般资料方面差异均无统计学意义（P>0.05）。
+　　1.2 方法
+　　对照组采用常规护理方法，观察组在此基础上采用个性化护理干预，具体方法为[3-5]：（1）心理护理。主动与患者及其家属之间进行沟通与交流，向其传授关于糖尿病的健康知识，以消除其忧虑、焦躁以及不安等不良情绪，让每位患者均能够积极、主动地配合实施手术；（2）加强术前血糖水平的控制：入院之后对患者血糖水平进行动态化监测，凡是口服降糖药或使用长效胰岛素的患者，应换成皮下肌注普通胰岛素，并注意胰岛素的治疗疗效，以避免低血糖现象的出现；（3）术前做好充分准备：术前应对患者足部进行仔细检查，对可能存在感染的具体位置进行检查，以防止并发症的发生，并注意对患者及家属的自我护理能力进行综合性评估，应将手术安排在清晨进行，以规避长期禁食而引起低血糖事件的出现；（4）术中护理：术后对患者血糖水平、血气及渗透压等方面的指标进行动态化监测、分析，使患者血糖水平控制在（8.3～13.9） mmol/L以内；（5）术后护理：首先应该对患者的病情变化情况进行仔细观察，以防止发生并发症；其次，按照血糖水平逐渐对胰岛素泵入量进行调节；此外，还应注意严格预防血糖或是酮症酸中毒事件的出现，并对患者是否腹痛及腹胀等现象进行仔细观察。在禁食过程中，应给予患者静脉高营养，待患者肛门排气后的第5天给予上消化道碘水造影，未见任何异常状况之后应注意将胃管拔出，食用少量流质食物，并停止使用静脉高营养，第6天可以进食半流质饮食。术后3周，将所有降糖类药物停止，同时监测内环境情况，以规避水电解质紊乱及营养不良等情况的发生。
+　　1.3 心理状况评分
+　　主要采用Zung制定的焦虑自评量表（SAS）及抑郁自评量表（SDS）对患者的心理状况进行评价，分值越低，则患者心理健康状况越显著[6]。
+　　1.4 观察指标
+　　比较两组护理前后各项指标（BMI、FPG、餐后2 h血糖、HbA1c及空腹C肽）、SAS及SDS评分、术后各项指标恢复所需时间。
+　　1.5 统计学方法
+　　采用SPSS 18.0统计学软件对数据进行统计分析，计量资料以（x±s）表示，组间比较采用t检验， P<0.05表示差异有统计学意义。
+　　2 结果
+　　2.1 两组护理前后各项指标变化情况对比分析
+　　两组护理前后BMI、FPG、餐后2 h血糖、HbA1c及空腹C肽水平比较，差异均有统计学意义（P<0.05），且两组护理后上述指标比较，差异也均有统计学意义（P<0.05），见表1。
+　　2.2 两组护理前后SAS及SDS评分比较
+　　两组护理前后SAS及SDS评分差异均具有统计学意义（P<0.05），且护理后观察组上述评分显著小于对照组（P<0.05），见表2。
+　　3 讨论
+　　当前，采用胃旁路手术治疗T2DM在国内仍处于初步阶段，尚未完全开展、实施。与此同时，关于应用该种术式治疗T2DM患者护理措施方面的报道则非常少[7]。而将个性化护理模式应用于手术护理过程中的报道则更少，该护理模式是按照患者自身的生理及心理等方面的特征，有针对性地对患者实施必要的护理干预[8]。例如，按照手术患者的焦虑及抑郁等方面的特点，给予其必要的心理护理干预，以最大程度地缓解其不良心理反应，让每位患者均能达到最佳的心理状态，积极、主动地配合医生给予手术。
+　　行胃旁路手术的患者很有可能会出现各种并发症，如出血及溃疡等症状，据相关文献资料报道此种手术的死亡率在1.5%之内[9]。术后保持患者胃管的畅通性以及对引流液的量、性质进行严格地监测与观察显得尤为重要。相关临床研究证实，运用个性化护理方法的观察组患者给予术前健康指导，能提高该组患者的自我护理能力，严格预防术后并发症的发生[10，11]。与此同时，护理人员与患者之间的交流较多，这样能够促使良好护患关系的构建，从而能够显著地提高护理质量，使患者术后迅速恢复至正常状态，并提高其生存质量。本研究结果显示：护理后观察组血糖水平、BMI、FPG、HbA1c及空腹C肽水平均显著低于对照组，差异有统计学意义；此外，观察组患者经护理后，其心理状况得到显著改善，明显优于对照组。
+　　综上所述，针对性护理干预在腹腔镜下胃旁路手术治疗T2DM患者护理中的效果显著，值得在临床上推广应用。
+
+

@@ -1,0 +1,31 @@
+
+　　[摘要] 目的 分析颈椎手术患者佩戴颈托的效果，为选择合理护理方案提供参考。 方法 将2011年9月～2013年12月拟进行择期颈椎前路手术的212例颈椎病患者作为观察对象，根据住院号随机分为观察组和对照组。观察组患者自入院时开始行佩戴颈托训练，每日6 h，并由主管护士对其进行护理指导；对照组则在术后开始佩戴颈托，比较两组患者术后佩戴颈托的舒适性主诉分级、 住院天数、护理满意度及并发症情况。 结果 术后当日及第1、2、3日，观察组患者舒适性评分优于对照组，差异有统计学意义（P<0.05）； 观察组住院天数较对照组短（P<0.05）；观察组护理满意度为95.28%，对照组为82.08%，差异有统计学意义（P<0.05）；两组患者并发症主要包括声音嘶哑、吞咽困难、痰液黏稠、咽喉疼痛，其中两组患者在声音嘶哑方面差异无统计学意义（P>0.05），其他并发症观察组低于对照组，差异有统计学意义（P<0.05）。 结论 颈椎手术患者术后佩戴颈托具有良好作用，有利于改善患者的负性心理，提高护理满意度，缩短住院时间。
+　　[中图分类号] R473.6 [文献标识码] B [文章编号] 1673-9701（2014）31-0073-03
+　　Nursing effect of patients with cervical spine surgery wearing a cervical collar
+　　LI Xuejun YUAN Jiandong ZHAN Jiangxian
+　　Department of Orthopedics， the First Affiliated Hospital of Wenzhou Medical College， Wenzhou 325000， China
+　　[Abstract] Objective To analyze the effect of neck brace before surgery applications training for patients，and to provide a reference for the selection of reasonable care programs. Methods From September 2011 to December 2013， selected 212 patients contemplated elective anterior cervical spine surgery as observed object， according to hospital number they were randomly divided into observation group and control group， the observation group were admitted to hospital since the start wearing neck brace after 6 h， and its care by the nurse in charge of guiding， the control group started wearing neck brace after surgery compared postoperative cervical collar worn comfort chief complaint classification， number of days of hospitalization， nursing satisfaction and complications were compared. Results On the day of surgery and afer 1，2，3 days， the comfort scores of the observation group were better than the control group， the difference was statistically significant （P<0.05）； Hospital stay time of observation group was shorter than the control group （P<0.05）； Nursing satisfaction of the observation group was 95.28%， the control group was 82.08%， the difference was statistically significant （P<0.05）； Two main complications in patients included hoarseness， difficulty swallowing， sticky sputum， throat pain， including patients with no significant difference between the two groups in terms of hoarseness （P>0.05）， other complications in the observation group were less than the control group， the difference were statistically significance （P<0.05）. Conclusion Preoperative application of a cervical collar training to improve patient comfort and has a good role in helping to promote the psychological balance of patients， can improve nursing satisfaction，reduce the hospital time.   　　[Key words] Anterior cervical spine surgery； Cervical collar； Nursing intervention
+　　颈椎病是由于颈椎长时间劳损、椎间脱出、骨质增生和韧带增厚导致椎动脉、神经根或颈椎脊髓受压所致的颈椎功能障碍。此类患者临床常采用颈椎前路手术方式进行治疗。由于颈椎特殊的解剖学结构，手术治疗难度大，且术后易存在并发症，因此为了促进此类患者早日康复和减少并发症的发生，需要予以患者良好的护理干预措施，从而促进患者早日康复[1]。以往此类患者的护理往往重视患者术后并发症处理和生命体征的检测方面，对术后患者佩戴颈托产生的不适感很少关注。术后患者常需佩戴颈托进行托扶，短期内增加颈椎的稳定性，帮助恢复功能，起到提高手术疗效、稳定辅助治疗的作用。因此，术前提前训练佩戴颈托可以对患者的康复和依从性起到促进作用。本文通过对212例患者进行护理，同时结合自身的护理经验，比较术前训练佩戴颈托对患者治疗效果的影响，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选择我院2011年9月～2013年12月收治的212例颈椎病行颈椎前路手术者作为观察对象，排除手术禁忌证患者、合并严重功能障碍者、有明确颈部外伤病史者，根据其住院号采用随机数字表法分为观察组和对照组各106例。观察组中男56例，女50例，年龄42～67岁，平均（53.7±5.7）岁；对照组中男54例，女52例；年龄41～69岁，平均（52.9±6.2）岁。经比较，两组患者在性别、年龄、临床诊断方面差异无统计学意义（P>0.05），具有可比性。见表1。
+　　1.2 方法
+　　观察组患者入院时则进行颈托训练，每日6 h，并由主管护士指导患者进行如厕训练、进食训练、翻身训练；对照组则在术后开始佩戴颈托。
+　　1.3 观察指标[2，3]
+　　（1）记录两组患者佩戴的舒适性评分，总分24分，分优、良、可、差四个等级。优：总分≥20分，计3分；良：总分15～20分，计2分；可：总分10～14分，计1分；差：总分<10分，计0分。0～3分的判断标准：0分：不能佩戴；1分：难以耐受但可以接受单片固定；2分：不适可耐受；3分：无不适。（2）两组患者的住院天数、满意度等。（3）并发症（声音嘶哑、吞咽困难、痰液黏稠、咽喉疼痛）情况。
+　　1.4 统计学分析
+　　采用SPSS 12.0统计学软件进行数据处理，符合正态分布的计量资料以（x±s）表示，进行t检验，计数资料采用χ2检验，显著性水平α=0.05。P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者手术当日及术后3日佩戴颈托舒适性评分
+　　手术当日及术后第1、2、3日，观察组患者的舒适性评分优于对照组，差异有统计学意义（P<0.05），见表2。
+　　2.2两组患者术后住院情况
+　　观察组住院天数较对照组短（P<0.05）；观察组护理满意度为95.28%，对照组为82.08%，差异有统计学意义（P<0.05），见表3。
+　　2.3 两组患者术后并发症情况
+　　两组患者并发症主要包括声音嘶哑、吞咽困难、痰液黏稠、咽喉疼痛；在声音嘶哑方面差异无统计学意义（P>0.05），其他并发症观察组低于对照组，差异有统计学意义（P<0.05），见表4。
+　　表4 两组患者术后并发症情况[n（%）]
+　　3 讨论
+　　从解剖学上看，颈椎前路手术入路术中需要采用拉钩将内脏鞘牵引至对侧，从而保障顺利通过颈血管神经鞘与颈部内脏鞘最后抵达椎体，因此该手术操作较为复杂[4]。有研究认为颈椎前路手术术后容易并发咽喉疼痛、痰液黏稠、吞咽困难等并发症[5]，其原因可能与术中过长时间对气管的牵拉有关，因此通过术前气管训练，可以提高内脏鞘松弛度，从而充分暴露椎体并减少术中对内脏鞘的牵引力度，减少误操作和牵引损伤[6]。
+　　由于颈椎前路手术风险较大，因此患者一般存在术前恐惧和紧张心理。通过加强患者围手术期的护理，有利于提高患者生活质量，减轻患者恐惧心理，缩短住院时间。目前比较常用的术前训练包括气管推移训练、体位训练、心理护理等训练，通过这些训练，可极大程度地降低并发症的发生[7]。佩戴颈托已经成为颈椎前路手术后的常规制动手段，但很多患者术后佩戴颈托的舒适性不高，依从性较差，因此应对患者进行术前佩戴颈托训练，具体包括以下几方面。（1）术前宣教：患者入院时普遍存在恐惧和焦虑情绪，对此我科主管护士负责宣教工作，向患者及家属讲解发病的原因，需要手术治疗的方式和原理，术后可能的并发症等情况[8]；（2）术前训练：患者入院时即进行佩戴颈托训练，每日训练6 h，并由主管护士教会患者做推移食管、气管的训练，从而提前适应手术过程中对食管和气管的牵拉操作。具体包括：患者将双手牵拉头部，将颈托后半部分置于颈后，然后患者在平卧位下降颈托前半部分置于颈部，固定颈托使颈托前后边缘重叠。食管和气管将2～4个手指插入拟进行切口的血管神经鞘间隙与内脏鞘的间隙处，每次持续向非手术侧推移10～20 min，以后增加时间至30～60 min；（3）严密监测患者术后生命体征。颈椎前路手术结束后24 h内护理人员要严密观察患者的脊髓神经功能和生命体征变化情况，主要包括伤口是否出现隆起、水肿和渗血等，一旦发现异常情况，应及时报告主治医师，检查是否存在气管压迫。由于术中可能存在损害患者神经和脊髓的情况，因此患者术后会存在大小便失禁、肢体感觉运动功能障碍、声音嘶哑等情况，此时护理人员应对上述情况进行及时检查，并帮助患者使用气垫，减少患者翻身，必要时可协助患者翻身，由专人牵引固定头部位置，将身体和四肢向同一平面同步移动。（4）排便、颈托适应和呼吸功能锻炼。患者术后需卧床排便，从而导致患者极为不适，为此术前需要对患者进行排便、呼吸功能锻炼，以帮助患者尽快适应术后的卧床需要。排便时需嘱咐患者家属及亲属回避，教会患者采用负压排便方式进行排便，同时鼓励患者保持正常的心态，护理人员根据患者颈部尺寸固定好颈托的松紧情况，保证因颈托的使用不让患者产生过多的不适。对照组除未进行术前颈托佩戴训练外，其他护理干预措施与观察组相同[9，10]。术后早期应用颈托可减轻疼痛和神经压迫症状，而且也有利于翻身和拍背，由于颈部活动得以制动，为促进与保证植骨块的融合创造了良好条件。患者拔除引流管后即可早期下床活动，缩短了卧床时间，减少了术后并发症。
+　　研究结果显示，由于颈椎前路手术操作容易引发患者脊髓轻度水肿，导致患者出现咳痰等。该种手术患者术前进行颈托佩戴训练，同时加强患者排便训练和呼吸训练，有助于提高患者佩戴颈托的适应能力，帮助患者减少术后不适，降低术后并发症的发生（P<0.05）。另外，观察组患者住院时间较对照组短（P<0.05），护理满意度高于对照组，因此可认为通过术前佩戴颈托及排便等功能训练，患者术后不适减少，并发症降低，住院时间缩短，提高了患者生活质量。
+
+

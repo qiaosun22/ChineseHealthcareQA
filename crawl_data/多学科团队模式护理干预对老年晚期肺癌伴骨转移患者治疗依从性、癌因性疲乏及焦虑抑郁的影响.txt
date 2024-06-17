@@ -1,0 +1,37 @@
+
+ 　　[摘要] 目的 探?多学科团队模式护理干预对老年晚期肺癌伴骨转移患者治疗依从性、癌因性疲乏及焦虑抑郁的影响。 方法 收集2015年1月～2016年12月新疆医科大学附属肿瘤医院符合纳入标准的老年晚期肺癌伴骨转移患者124例作为观察对象，采用随机数字表法将其分为对照组和观察组，每组各62例。对照组给予常规护理干预，观察组给予多学科团队模式护理干预。采用癌因性疲乏自量评表（PFS）、焦虑自评量表（SAS）、抑郁自评量表（SDS）评价癌因性疲乏、焦虑、抑郁状态。比较两组患者治疗依从性。 结果 干预后观察组治疗依从性（包括按时吃药、合理膳食、合理锻炼及按时复查）均高于对照组，差异均有统计学意义（均P < 0.05）。干预后，两组癌因性疲乏自评量表（包括情感、行为严重程度、感知及认知）各项评分均低于干预前，且观察组上述指标评分均低于对照组，差异均有统计学意义（均P < 0.05）。两组干预后1、2、3个月后，SAS和SDS评分均低于干预前，且观察组均低于对照组，差异均有统计学意义（均P < 0.05）。 结论 多学科团队模式护理干预在老年晚期肺癌伴骨转移患者中的应用效果良好，能够提高治疗依从性，改善癌因性疲乏，减轻焦虑抑郁负性情绪，值得临床推广应用。
+　　[中图分类号] R473.73 [文献标识码] A [文章编号] 1673-7210（2017）09（a）-0167-04
+　　[Abstract] Objective To investigate the influences of multidisciplinary team model nursing intervention for the treatment compliance， cancer-related fatigue， anxiety and depression in elderly patients with advanced lung cancer accompanied with bone metastasis. Methods One hundred and twenty-four cases of elderly patients with advanced lung cancer accompanied with bone metastasis met with the inclusive criteria treated in Tumor Hospital Affiliated to Xinjiang Medical University from January 2015 to December 2016 were selected as research objects， and they were randomly divided into the control group and the observation group by random number table， with 62 cases in each group. The control group was given conventional nursing， while the observation group was given multidisciplinary team model nursing intervention. The revised Piper fatigue scale （PFS）， self-rating anxiety scale （SAS） and self-rating depression scale （SDS） were used to evaluate the status of cancer-related fatigue， anxiety and depression. The treatment compliance between two groups was compared. Results After nursing intervention， the treatment compliance （including taking medicine on time， rational diet， reasonable exercises and timely reexamination） in the observation group was all higher than the control group， the differences were all statistically significant （all P < 0.05）. After intervention， the scores of PFS （including emotion， severity of behavior， perception and cognition） in the observation group were all lower than those before intervention， and the scores of indexes above in the observation group were lower than those of control group， the differences were statistically significant （all P < 0.05）. After intervention for 1， 2， 3 months， the scores of SAS and SDS in the two groups were all lower than those before intervention， and the scores in the observation group were lower than those of control group， the differences were statistically significant （all P < 0.05）. Conclusion Multidisciplinary team model nursing intervention in elderly patients with advanced lung cancer accompanied with bone metastasis has good application effects， which can enhance the treatment compliance， improve cancer-related fatigue， alleviate negative emotions of anxiety and depression， it is worthy of clinical promotion and application.   　　[Key words] Multidisciplinary team model； Elderly； Advance lung cancer； Bone metastasis； Treatment compliance； Cancer-related fatigue； Anxiety； Depression
+　　肺癌是原发于肺脏的常见恶性肿瘤，好发于老年人群，当肿瘤进展至晚期时，可发生远处转移，其中以骨转移多见[1-2]。对于老年晚期肺癌患者，当发生骨转移后，可出现骨痛、病理学骨折等，严重影响患者生活质量，进一步影响患者治疗依从性，并加重焦虑抑郁负性情绪[3]。目前，护理在肺癌治疗中的重要性已经得到普遍认可。近年来，护理逐渐向优质护理方向发展，医护人员不断探讨新的护理模式以提高护理质量，但老年晚期肺癌伴骨转移的护理效果仍有待提高。多学科团队是由两个以上相关学科专业人员组成的对特定疾病进行诊疗的综合团队，该模式逐渐在护理服务中应用，并有效提高了护理效果[4-5]，但目前关于多学科团队模式护理干预在老年晚期肺癌伴骨转移患者中的应用研究报道甚少。本研究中采用多学科团队模式护理干预在老年晚期肺癌伴骨转移患者中取得了良好效果，在提高患者治疗依从性、改善癌因性疲乏及减轻焦虑抑郁负性情绪方面优势明显，现报道如下：
+　　1 资料与方法
+　　1.1 一般资料
+　　选择2015年1月～2016年12月于新疆医科大学附属肿瘤医院肺内科一病区就诊的124例老年晚期肺癌伴骨转移患者作为观察对象，按照随机数字表法将其分为对照组和观察组，每组各62例。纳入标准：①经病理学确诊为肺癌，CT显示伴有骨转移；②肿瘤晚期，TNM分期为Ⅲ期或Ⅳ期；③年龄≥60岁；④预计生存期≥3个月。排除标准：合并血液系统疾病、自身免疫系统疾病、严重心肝肾功能不全、交流障碍等患者。对照组男40例，女22例；年龄60～78岁，平均（68.5±10.2）岁；TNM分期：Ⅲ期42例，Ⅳ期20例。观察组男37例，女25例；年龄60～80岁，平均（69.6±10.8）岁；TNM分期：Ⅲ期39例，Ⅳ期23例。两组基线资料比较差异无统计学意义（P > 0.05），具有可比性。所有患者均知情同意，本研究经医院伦理委员会审核通过。
+　　1.2 方法
+　　1.2.1 对照组
+　　对照组给予常规护理干预，主要由责任护士进行健康宣教、治疗指导、膳食指导、锻炼指导、心理疏导等。
+　　1.2.2 观察组
+　　观察组给予多学科团队模式护理干预，内容如下：
+　　1.2.2.1 成立多学科团队 该团队由1名呼吸科专家、1名主治医生、1名护士长、6名护士、1名心理咨询师、1名营养医生组成，成员均具有良好的专业知识及交流沟通能力。
+　　1.2.2.2 建立完善患者健康档案，制订具体的护理方案 如下：①健康宣教。在充分收集患者疾病信息情况下，评估患者健康宣教需求及接受理解能力，由专家、护士长、护士、心理医生共同制订容易让患者接受的健康宣教方式及宣教频次，包括院内及出院后，由护士具体实施健康宣教，使患者建立正确的疾病认知。②治疗指导。针对患者具体情况，由专家制订个体化的治疗方案，院内治疗过程中由主治医生、护士共同观察患者对治疗方案的反应效果及不良反应，预防不良反应发生，并及时处理已经发生的不良反应；院外由护士每周随访1次，了解治疗情况，对治疗过程中出现的新问题及时向主治医生反馈，由医生及时处理。③膳食指导。由营养医生根??患者个人喜好、营养需求制订个体化的膳食计划，保证营养供应，避免辛辣、刺激食物，适量进餐。院外营养医生每周随访患者1次。④锻炼指导。由护士指导患者进行适当的呼吸锻炼、全身肢体关节运动等，舒展关节，增强机体的疼痛阈值，改善疲乏状态，院外由护士每周随访1次。⑤心理护理。由心理咨询师评估患者心理状态，针对患者心理问题进行针对性疏导，减轻焦虑抑郁情绪，院外由心理咨询师每周随访1次。
+　　1.3 观察指标
+　　①比较患者对治疗的依从性，包括按时吃药、合理膳食、合理锻炼及按时复查等。②采用癌因性疲乏自评量表（PFS）[6]评价癌因性疲乏，PFS包括情感、感知、行为严重度、认知4个项目，每个项目评分范围为0～10分，评分越高，癌因性疲乏程度越严重。③采用焦虑自评量表（SAS）[7]评价患者的焦虑状态，包括20个项目，将20个项目得分相加再乘以1.25即得标准分，总分100分，分值越高，焦虑症状越严重。④采用抑郁自评量表（SDS）[8]评价抑郁状态，包括20个项目，将20个项目得分相加再乘以1.25即得标准分，总分100分，分值越高，抑郁症状越严重。分别于干预前和干预后1、2、3个月对两组患者的治疗依从性、PFS、SAS和SDS进行比较。
+　　1.4 统计学方法
+　　采用统计学软件SPSS 16.0对数据进行分析，计量资料以均数±标准差（x±s）表示，组间比较采用t检验，计数资料采用百分率表示，组间比较采用χ2检验。以P < 0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者依从性比较
+　　观察组患者按时吃药、合理膳食、合理锻炼及按时复查的依从性百分比均高于对照组，差异均有统计学意义（均P < 0.05）。见表1。
+　　2.2 两组患者干预前后癌因性疲乏评分比较
+　　干预前，两组患者情感、行为严重程度、感知、认知等PFS评分比较差异无统计学意义（均P > 0.05）。干预后，两组患者上述评分均较干预前降低，差异均有统计学意义（均P < 0.05）。干预后观察组患者上述各项评分均明显低于对照组，差异均有统计学意义（均P < 0.05）。见表2。
+　　2.3 两组患者焦虑自评量表评分比较
+　　干预前，两组患者SAS评分比较，差异无统计学意义（P > 0.05）。干预后1、2、3个月，两组患者SAS评分均低于干预前，且观察组SAS评分显著低于对照组，差异均有统计学意义（均P < 0.05）。见表3。   　　2.4 两组患者抑郁自评量表评分比较
+　　干预前，两组患者SDS评分比较，差异无统计学意义（P > 0.05）。干预后1、2、3个月，两组患者SDS评分均低于干预前，且观察组SDS评分显著低于对照组，差异均有统计学意义（均P < 0.05）。见表4。
+　　3 讨论
+　　3.1 多学科团队模式护理干预的内涵
+　　多学科团队模式护理是由两个以上学科专业人员共同参与的护理模式，对疾病的认知更全面、更系统，通过团队成员的相互信任、有效沟通，结合患者实际情况，制订有效的护理方案，以提高护理质量[9-10]。该模式并不是多学科人员的简单聚集，而是通过多学科之间的有效融合，使患者疾病治疗过程中能够得到更全面、更规范的护理[11]。目前，多学科团队护理模式已经在肿瘤治疗和护理中应用，并取得了一定效果，但关于多学科团队模式护理干预在老年晚期肺癌伴骨转移患者中应用的研究甚少。
+　　3.2 多学科团队模式护理干预和患者治疗依从性
+　　对于老年晚期肺癌伴骨转移患者，疼痛等临床症状明显困扰患者，加上对肿瘤的恐惧，对疾病缺乏正确认知，患者治疗依从性差，常常不按时吃药，不按时复查，缺乏合理膳食及锻炼，不利于症状改善及生存期的延长[12-13]。因此，加强护理尤为重要。本研究中，与常规护理相比，多学科团队模式护理干预患者按时吃药、合理膳食、合理锻炼及按时复查比例较高，提示多学科团体模式护理干预能够有效提高老年晚期肺癌伴骨转移患者的治疗依从性，这主要与该护理模式能够进行有效的健康宣教有关。本研究中多学科团队模式护理干预中的健康宣教方案由专家、护士长、护士、心理医生在充分了解患者信息的基础上共同制订，具有全面性、可行性的优点，能够发挥各学科专业优势，从而提高健康宣教效果，使患者建立正确疾病认知，积极配合治疗[14-15]。
+　　3.3 多学科团队模式护理干预和患者焦虑抑郁
+　　癌因性疲乏是与患者共存的一种主观感受到的与肿瘤相关的全身性过度劳累感症状，患者常感觉疲乏或精力不足，是肿瘤的常见并发症，在老年晚期肺癌伴骨转移患者中表现明显[16-17]。研究提示[18]，癌因性疲乏是一个多因素问题，具体机制尚不明确，该症状的严重程度将直接影响治疗依从性及患者的心理状态，进一步形成恶性循环，不利于疾病治疗。另外，焦虑抑郁负性情绪是伴随肿瘤患者的常见心理障碍[19-20]。面对疾病，医护人员的职业习惯可能对患者心理方面不够关注。常规护理干预只是了解患者心理状态并疏导，但护士经验不一，效果有待进一步提高。本研究中，两组患者经过护理干预后情感、行为严重程度、感知、认知等PFS评分均有所降低，干预后1、2、3个月时的SAS、SDS评分均有所降低，而与常规护理相比，多学科团队模式护理干预患者上述癌因性评分及SAS、SDS评分下降更明显，提示该护理模式能够更有效地改善老年晚期肺癌伴骨转移患者的癌因性疲乏，并减轻患者焦虑抑郁情绪。分析原因，该护理模式中的治疗指导、膳食指导、锻炼指导及心理护理等内容均由学科专业人员制订，专业性强，且具有个体化，患者更容易接受，从而能够从多个方面共同发挥作用，促进癌因性疲乏的改善及焦虑抑郁情绪的减轻。
+　　综上所述，多学科团队模式护理干预在老年晚期肺癌伴骨转移患者中应用效果良好，能够提高治疗依从性，改善癌因性疲乏，减轻焦虑抑郁负性情绪，值得临床推广应用。
+
+

@@ -1,0 +1,36 @@
+
+　　[摘要] 目的 探讨分析人工关节置换术患者并发症危险因素分析及护理效果。 方法 收集2012年1月～2014年1月于浙江省中医院（以下简称“我院”）接受人工关节置换术40例患者的临床资料，采用单因素分析和多因素Logistic回归分析分析人工关节置换术术后发生并发症的危险因素。另选取2014年3月～2015年3月我院经人工关节置换术后出现并发症70例患者，随机分为实验组和对照组，每组各35例，给予对照组患者常规护理，针对独立危险因素给予实验组患者围术期的护理干预，对两组患者的术后并发症发生率情况进行比较。 结果 单因素分析结果显示，术后并发症发生与术前合并症、肢体制动时间过长、细菌交叉感染、住院时间有关（P < 0.05）；多因素Logistic回归分析结果表明，存在术前的合并症（OR = 4.967，95%CI：1.217～20.376，P = 0.010）、住院的时间>15 d（OR = 5.217，95%CI：2.692～10.175，P = 0.000）、存在细菌交叉感染（OR = 5.657，95%CI：2.487～12.892，P = 0.014）、肢体制动的时间过长（OR = 6.318，95%CI：3.252～12.299，P = 0.021）为人工关节置换术后患者并发症发生的独立危险因素。接受围术期的护理干预后，实验组患者并发症的发生率（14.29%）较对照组（51.43%）显著降低，差异有高度统计学意义（P < 0.01）。 结论 围术期的针对性护理能够显著帮助减少人工关节置换术术后患者的并发症发生率，具一定的临床推广价值。
+　　[中图分类号] R687.4 [文献标识码] A [文章编号] 1673-7210（2015）06（b）-0120-04
+　　Analysis of the risk factors of complications in patients with prosthetic joint replacement and the nursing effect
+　　XIANG Shengyu1 HUANG Donghong2
+　　1.Service Centre， Beilun District People's Hospital of Ningbo City， Zhejiang Province， Ningbo 315800， China； 2. Department of Orthopaedics， the TCM Hospital of Zhejiang Province， Zhejiang Province， Hangzhou 310002， China
+　　[Abstract] Objective To explore the risk factors of complications in patients with prosthetic joint replacement and the nursing effect. Methods The clinical data of 42 patients with prosthetic joint replacement from January 2012 to January 2014 in the TCM Hospital of Zhejiang Province （"our hospital" for short ） were collected， single factor analysis and Logistic regression analysis were uesd to analyze risk factors of complication after prosthetic joint replacement. And 70 patients with complications after prosthetic joint replacement in our hospital from March 2014 to March 2015 were selected and divided into the experimental group and control group， with 35 cases in each group. The patients in control group were given the routine nursing， and patients in experimental group were given perioperative period nursing according to the risk factors. The complications incidence between two groups were compared. Results The single factor analysis showed postoperative complications were connected with preoperative complications， bacteria cross infection， limbs braking time too long， hospital stays （P < 0.05）. Logistic regression analysis showed postoperative complications （OR = 4.967， 95%CI：1.217-20.376， P = 0.010）， hospital stays > 15 d （OR = 5.217， 95%CI： 2.692-10.175， P = 0.000）， bacteria cross infection （OR = 5.657， 95%CI： 2.487-12.892， P = 0.014）， limbs braking time too long （OR = 6.318， 95%CI： 3.252-12.299， P = 0.021） were independent risk factors of complications after prosthetic joint replacement. The complications incidence of experimental group （14.29%） was much lower than that of control group （51.43%）， the difference was statistically significant （P < 0.01）. Conclusion Perioperative targeting nursing can significantly help reduce the rate of complications in patients with prosthetic joint replacement， which is worth for clinical expand.   　　[Key words] Arthroplasty； Complications； Risk factors； Nursing
+　　人工关节置换术主要是把人工关节的假体经由外科技术以植入患者体内，从而替代患病关节的生理功能，实现缓解患者关节疼痛，基本恢复关节生理功能目的[1-2]。按照保守估计，每年全世界150万以上的患者接受了人工关节的置换手术，相应其术后的并发症发生率也居高不下[3-4]。本研究通过回顾性分析人工关节置换手术患者的临床资料，对人工关节置换手术并发症产生的危险因素进行总结，并且针对相关危险因素给予实验组患者围术期的护理干预，对护理后人工关节置换术患者并发症发生情况进行分析，现报道如下：
+　　1 资料与方法
+　　1.1 一般资料
+　　收集2012年1月～2014年1月于浙江省中医院（以下简称“我院”）接受人工关节置换术40例患者的详细资料，其中20例在术后发生了不同的并发症，其并发症发生率为50.0%，男13例，女7例，年龄37～74岁，平均（58.4±2.0）岁。另外选取2014年3月～2015年3月我院经人工关节置换术，且出现术后并发症患者70例，随机分为实验组和对照组，每组各35例。对照组：男20例，女15例，年龄34～76岁，平均年龄（58.9±2.1）岁；实验组：男19例，女16例，年龄33～77岁，平均（58.8±2.2）岁。两组患者年龄、性别等一般资料比较，差异均无统计学意义（P > 0.05），具有可比性。本研究经医院医学伦理委员会批准同意，所有患者和/或家属均知情同意并签署知情同意书。
+　　1.2 方法
+　　1.2.1 危险因素选定策略
+　　经过文献查阅和临床工作的总结，将可能造成患者人工关节置换术术后并发症的因素收集起来，主要包括有性别、年龄、肢体制动的时间过长、术前的合并症、术前抗生素使用、细菌的交叉感染、术中持续时间、住院时常、术中有无严重出血及输血。其中肢体制动时间超过6 h判定为肢体制动的时间过长。将上述的因素做单因素分析，然后对其中有统计学意义的项目进一步做多因素的Logistic回归分析，最后得到人工关节置换术患者术后并发症发生的独立危险因素。
+　　1.2.2 护理方法
+　　1.2.2.1 对照组 给予患者常规护理。
+　　1.2.2.2 实验组 针对独立危险因素给予患者围术期的护理干预，具体如下：于术前调查患者的身体状况，了解患者自身健康问题和术前的合并症情况，按照患者饮酒、吸烟、血脂、血糖和用药史、有无服用激素等情况，对患者手术是否存在潜在危险进行判定，对于术前存在合并症的患者需要提高警惕，帮助和提醒患者于术前尽量将合并症症状减轻[5]。此外应帮助患者于术前进行功能训练，从而保证患者在术后的恢复达到最好效果。术中对患者严格实施无菌的操作，留心手术切口的大小以及面积，最大程度避免交叉感染，于手术过程中对患者血压和心率等指标做密切观察，若出现异常，需及时处理。在术后抗生素的使用应合理且少量，可通过一些中药的制剂对术后并发症出现进行预防。术后给予患者间歇充气加压装置、关节功能恢复期以及下肢弹力袜等辅助装置，以促进患者静脉血液的回流，避免由于制动过久造成的静脉血栓。对患者进行适当心理干预，以防患者术后产生心理障碍或抑郁焦虑的情绪，格外注意患者的饮食，对患者术后的适应性训练进行合理安排，对手术的相关肌肉进行适当按摩，每日温水泡脚，以改善血液的循环，使患者住院时间尽量缩短[6]。
+　　1.3 评价标准
+　　人工关节置换术的并发症：①感染：按照《医院感染诊断标准》的规定，其典型的临床表现是不明原因发热，体温>38℃，可伴有呼吸急促、寒颤，外周血的白细胞水平异常升高，手术切口分离得到病原菌，可诊断为感染[7]。②深静脉血栓（DVT）：按照DVT的诊断标准：静脉腔内实性回声，强弱不等，全部或部分占据了血管腔，加压探头，不能压瘪或者部分压瘪静脉管腔，可判定为DVT[8]。③肺栓塞：肺动脉的CT直接征象可见肺动脉内有充盈缺损，完全或部分包围于血流之间，表现轨道征，或完全的充盈缺损，远端血管没有显影；间接征象有肺野楔形的高密度影，高密度的条带状区或者盘状的肺不张，可见中心肺动脉的扩张和远端的血管分支降低、消失，可以确诊[9]。④肺炎：X线检查可见进展的或新的肺部浸润影，合并两个以上下列的临床症状：血白细胞水平上升或下降，发热>38℃，气道的分泌物为脓性即可确诊[10]。⑤压疮：按照美国国家压疮顾问组的诊断标准，和临近或者对称的身体部位比较，可见完整皮肤有组织硬度、皮肤温度、溃疡、感觉表现中1种或多种的改变，可确诊[11]。
+　　1.4 统计学方法
+　　研究数据的统计分析采用SPSS 17.0统计分析软件，正态分布计量资料以均数±标准差（x±s）表示，两组间比较采用t检验；计数资料以率表示，采用χ2检验。多因素分析采用Logistic回归分析。以P < 0.05为差异有统计学意义。
+　　2 结果
+　　2.1 单因素分析
+　　单因素分析结果表明：患者存在术前合并症，肢体制动的时间过长，存在细菌交叉感染，住院时间>15 d会显著增加术后并发症的发生风险，差异有统计学意义（P < 0.05）。见表1。
+　　表1 患者术后并发症发生的单因素分析[n（%）]
+　　2.2多因素Logistic回归分析
+　　将单因素分析得到的有统计学意义的因素，包括存在术前合并症、肢体制动时间过长、存在细菌交叉感染、住院时间>15 d作为自变量，以有无出现术后并发症作为应变量作多因素的Logistic回归分析。结果表明，此4项因素均为人工关节置换患者术后出现并发症的危险因素。见表2。
+　　表2 术后并发症的多因素Logistic回归分析
+　　2.3 护理干预对并发症发生率的影响   　　实验组患者的术后并发症发生率显著高于对照组，差异有高度统计学意义（P < 0.01）。见表3。
+　　表3 两组患者人工关节术后并发症情况（例）
+　　3 讨论
+　　目前，髋关节的置换术及膝关节的置换术为人工关节置换手术当中两类最常见的手术，除此之外，人工关节置换术也应用到了踝关节、肩关节、腕关节等处，伴随其应用的不断推广，人工关节置换手术实施后患者并发症出现的数量同样上升显著[12-15]，所以找出造成患者术后并发症出现的独立危险因素就显得极为重要，本研究经过文献查阅和临床工作的总结，将可能造成人工关节置换手术患者术后并发症的因素收集起来，在分析后得出人工关节置换手术患者术后并发症发生的独立危险因素包括存在术前合并症、肢体制动时间过长、存在细菌交叉感染和住院时间>15 d。但鉴于能力有限，只是对主要的影响因素进行了分析，而并未涵括所有可能存在的因素，其仍有待于进一步的研究。
+　　本研究另外选取人工关节置换术后出现并发症的70例患者，其中给予对照组患者常规护理，而针对独立危险因素给予实验组患者围术期的护理干预，除去本文当中方法部分叙述的围术期针对性护理之外，对容易造成患者出现术后并发症相关危险因素尤其加以防范和护理：对于部分存在术前合并症患者，需按照病情不同合理用药；对于患者的手术切口进行正确清理，严格按照相关规程进行操作，以防交叉感染的出现；肢体制动的时间应当按照个人情况进行合理掌握，以避免由于过长制动时间所导致形成静脉血栓；尽可能降低患者的住院天数，以防院内的感染给患者带来的不必要的问题[16-17]。此外，患者术后进行恢复运动十分重要，医院的护理干预人员对待患者时应保证足够耐心，帮助和提醒患者按时进行运动，并辅助患者做肢体按摩等的行为干预，与此同时注意患者患肢末梢的感觉、血运、运动和肢体肿胀状况，留意是否形成血栓[18-19]。
+　　已有相关资料统计表明，术后的DTV及感染为最常见的人工关节置换手术术后相关并发症[20-21]，本研究通过针对性的护理干预，明显降低了人工关节置换术后患者并发症发生的概率，帮助患者尽快恢复至比较理想状态，减轻患者病痛，同时提高患者满意度，鉴于此，围术期的针对性护理能够显著帮助减少人工关节置换术术后患者的并发症发生率，具有一定的临床推广价值。
+
+

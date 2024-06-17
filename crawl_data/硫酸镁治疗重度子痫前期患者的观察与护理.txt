@@ -1,0 +1,29 @@
+
+　　中图分类号 R714.24 文献标识码 B 文章编号 1674-6805（2016）12-0079-02
+　　Observation and Nursing of Magnesium Sulfate for the Treatment of Severe Preeclampsia Patients/GAO Lan-feng，DING Yu-qin，ZHANG Yu-hua.//Chinese and Foreign Medical Research，2016，14（12）：79-80
+　　【Abstract】 Objective：To discuss the clinical observation and nursing of Magnesium Sulfate for the treatment of severe preeclampsia patients.Method：From January 2014 to May 2015，106 patients with severe preeclampsia in our hospital were retrospectively analyzed.In the using of Magnesium Sulfate treatment period，all patients were given rigorous clinical observation and normative nursing measures，including specification of observation indexes，timely health education，closely observation of the disease，continuous ECG monitoring，control of the dropping speed by infusion pump，conventional preparation of 10% calcium gluconate，etc.The effect of magnesium sulfate treatment and side effects were observed.Result：The curative effect of 106 patients with severe preeclampsia was effective，without the eclampsia and magnesium poisoning.Conclusion：In severe preeclampsia treated with Magnesium Sulfate，by specification observation and strict monitoring，can achieve effective treatment and prevention of complications，and is safe and effective，which is well worth clinical promoting.
+　　【Key words】 Severe preeclampsia； Magnesium Sulfate； Nursing
+　　First-author’s address：Yangzhou Maternal and Child Care Service Center，Yangzhou 225002，China
+　　doi：10.14033/j.cnki.cfmr.2016.12.043
+　　硫酸镁是子痫治疗的一线药物，也是重度子痫前期预防子痫发作的预防用药[1]。但是应用硫酸镁的治疗浓度与中毒浓度十分接近，要达到良好的治疗作用，又不引起镁中毒，需要医护工作者在用药期间一系列的严密观察与护理。笔者所在医院遵照第8版《妇产科学》的要求[1]，对重度子痫前期患者使用硫酸镁期间进行一系列的严密观察与护理，取得了较好的效果，现报告如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选择2014年1月-2015年5月在笔者所在医院分娩的重度子痫前期患者106例作为研究对象，年龄18～44岁，平均27.5岁；其中，初产妇82例，经产妇24例，按照第8版《妇产科学》的标准诊断为重度子痫前期[1]，并使用硫酸镁解痉治疗，排除肾功能异常的患者。
+　　1.2 硫酸镁用药方案
+　　25%硫酸镁20 ml+5%葡萄糖100 ml在30 min内快速静滴，继而25%硫酸镁60 ml+5%葡萄糖500 ml，以1～2 g/h静滴维持，24 h总量不超过25 g。
+　　1.3 病情观察指标
+　　（1）膝反射存在；（2）尿量≥17 ml/h或≥400 ml/24 h，肾功能正常；（3）呼吸≥12次/min。
+　　1.4 护理方法
+　　1.4.1 健康教育 告诉患者硫酸镁应用期间可能出现面部燥热、潮红的感觉为正常药物作用，消除患者的紧张恐惧心理，积极配合治疗[2]。   　　1.4.2 密切观察病情，持续心电监护 必要时监测血清镁离子浓度，使用硫酸镁前及使用中每小时监测各项观察指标并记录，严格交接班。
+　　1.4.3 输液泵控制滴速 冲击量保证快速滴入，维持量以1～2 g/h维持。硫酸镁滴速对照表见表1。
+　　1.4.4 常规准备有10%葡萄糖酸钙 如有症状时护士应按医嘱静脉注射10%葡萄糖酸钙。
+　　2 结果
+　　治疗成功106例，未发生子痫及镁中毒。其中新生儿窒息2例（1.9%），产后出血1例（0.9%），见表2。
+　　3 讨论
+　　重度子痫前期以妊娠20周后出现血压和尿蛋白持续升高，发生母体脏器功能不全或胎儿并发症为特征，并伴有全身多器官的损害，本病的基本病理生理是全身小血管痉挛，内皮损伤及局部缺血。重度子痫前期患者的治疗原则：休息、镇静、解痉，有指征的降压、利尿，密切监测母胎情况，适时终止妊娠[1]。
+　　硫酸镁是解除本病血管痉挛的首选药物，它的作用机制：抑制乙酰胆碱释放；刺激血管内皮细胞合成前列环素；降低钙离子水平，解除血管痉挛；提高血红蛋白的亲和力，改善氧代谢，达到预防和控制子痫[3]。硫酸镁有效治疗浓度为1.8～3.0 mmol/L，超过3.5 mmol/L即可出现中毒症状[4]。血浆镁浓度达5 mmol/L可出现肌肉兴奋性受抑制，感觉反应迟钝，膝腱反射消失，呼吸开始受抑制，血镁浓度达6 mmol/L可发生呼吸停止和心律失常[2]。临床中毒现象首先表现为膝反射消失[5]。因此，对106例重度子痫前期患者使用硫酸镁前必须检查膝腱反射存在，滴注硫酸镁期间每小时检查一次膝腱反射存在，常规备有葡萄糖酸钙，并严格交接班。发生镁中毒时，立即用葡萄糖酸钙解救。
+　　镁是人体中所必需的元素，健康人每日需要量为0.3～0.35 mmol/L，有报道认为肾小管的再吸收是调节镁的主要方式[6]，血浆镁浓度越高，肾小管再吸收镁越少，当血浆镁浓度达到饱和状态时，肾小管廓清镁的量与滤过率几乎相等，所以，肾功能正常时，镁可以从肾脏很快廓清，不易发生高镁血症[7]。在106例重度子痫前期患者使用硫酸镁治疗期间，患者肾功能正常，护士严格准确执行硫酸镁医嘱，输液泵控制输入的速度。首剂量快速滴入，达到有效治疗浓度，缓解血管痉挛，维持量以输液泵1～2 g/h的速度维持，滴注硫酸镁期间，护士密切观察并记录每小时尿量：留置尿管期间可以使用精密尿袋；非留置尿管时，严格用量杯测量尿量，并保证尿量≥17 ml/h或≥400 ml/24 h，不仅能够有效预防高镁血症，又能达到良好的治疗效果。
+　　硫酸镁是一种非竞争性的N-甲基-天门冬氨酸（NMDA）受体拮抗剂，同时也是天然的钙通道阻滞药，通过阻滞NMDA受体内向钙离子流而预防伤害性刺激诱导和维持的中枢敏感化，对急性疼痛有确切的防治作用[8-11]。孕产妇在产前、产后会有子宫收缩或术后切口疼痛存在，重度子痫前期患者产前、产后均会用硫酸镁治疗，不仅可以解除血管痉挛，而且能够减轻疼痛，有效治疗的效果为患者平静休息状态：呼吸频率12～18次/min[12]。呼吸运动的调节比较复杂。机体对呼吸运动的调节包括中枢神经性调节、机械反射性调节和化学反射性调节[13]。硫酸镁通过抑制乙酰胆碱释放，使骨骼肌松弛，参与呼吸的呼吸机也松弛，然而呼吸运动复杂的中枢性、化学性调节，硫酸镁中毒早期可能会使呼吸频率加快，自觉呼吸困难[7]。用硫酸镁期间第8版《妇产科学》仍然要求呼吸达到16次/min，本次临床106例重度子痫前期患者在应用硫酸镁期间，呼吸低于16次/min时，血液电解质检查，镁离子并未接近中毒浓度。在医生医嘱同意的情况下，患者膝反射存在，尿量≥17 ml/h或≥400 ml/24 h，呼吸可不低于12次/min，并每小时监测一次；106例患者治疗效果满意，未发生子痫及镁中毒。
+　　住院分娩的重度子痫前期患者，在使用硫酸镁治疗期间，配合严密的观察与护理，达到有效治疗与预防子痫等母婴并发症，并能防止镁中毒的发生，临床使用安全有效。本次106例患者中，有2例死胎均为入院前出现胎死宫内后住院分娩，有30例（28%）新生儿体重未达2500 g，且新生儿窒息2例（1.9%），低于邹娜[14]报道的3.75%；产后出血1例（0.9%），低于邹娜[14]报道的7.5%，治疗效果明显。因此，重度子痫前期患者的孕期检查监护与指导有待进一步完善。
+
+

@@ -1,0 +1,33 @@
+
+　　[摘要]目的 研究围手术期护理对腹腔镜子宫肌瘤切除患者的影响。方法 将该院92例行腹腔镜治疗的子宫肌瘤切除患者以随机数表法分为观察组与对照组，两组均为46例，对照组采取常规护理，观察组采取术前、术中、术后围术期全程护理，比较两组临床指标变化情况、止痛剂使用及伤口愈合情况。结果 观察组肛门排气时间、住院时间、手术时间、术中出血量分别为（7.67±1.85）h、（3.03±1.46）d、（66.64±12.03）min、（101.35±22.03）mL与对照组（11.03±2.48）h、（5.82±1.61）d、（72.38±11.98）min、（121.85±25.69）mL比较显著较低，对比差异有统计学意义（P<0.05）；两组止痛剂使用率比较差异无统计学意义（P>0.05），不良反应发生率21.74%与对照组47.83%比较显著较低（P<0.05）。结论 术前、术中、术后全程护理措施可缩短患者康复时间，促进伤口愈合，减少止痛剂使用率，具有较高的临床应用价值。
+　　[中图分类号] R4 [文献标识码] A [文章编号] 1674-0742（2015）05（a）-0148-02
+　　Intervention Effect of Perioperative Nursing on Patients with Laparoscopic Removal of Uterine Fibroids
+　　ZHOU Lan
+　　Department of Cardiology， Baofeng Branch of Pingdingshan the Second People's Hospital， Pingdingshan， Henan Province， 467400 China
+　　[Abstract] Objective To study the intervention effect of perioperative nursing on patients with laparoscopic removal of uterine fibroids. Methods 92 cases underwent laparoscopic removal of uterine fibroids in our hospital were divided into the observation group and the control group with 46 cases in each in accordance with the random number table method. The control group were treated by the conventional nursing， and the observation group were treated by the whole perioperative nursing including preoperative， intraoperative and postoperative nursing. And the changes in clinical indicators， analgesic usage and wound healing were compared between the two groups. Results The anal exhaust time， length of stay， duration of operation and intraoperative blood loss in the observation group was （7.67±1.85） h， （3.03±1.46） d， （66.64±12.03） min， （101.35±22.03） ml， respectively， and that in the control group was （11.03±2.48） h， （5.82±1.61） d， （72.38±11.98） min， （121.85±25.69） ml， respectively， compared with the control group， the values of the above indicators of the observation group were much less with significant differences（P<0.05）. The difference in analgesic usage between the two groups was not statistically significant（P>0.05）. The incidence of adverse reactions of the observation group was 21.74%， much lower than 47.83% of the control group（P<0.05）. Conclusion Preoperative， intraoperative and postoperative nursing measures can shorten the recovery time， promote wound healing， and reduce analgesic usage with high clinical application value.
+　　[Key words] Perioperative period； Nursing； Laparoscope； Uterine fibroids
+　　子宫肌瘤为妇科常见良性肿瘤，目前随着微创技术的不断成熟，腹腔镜子宫肌瘤切除术成为主流治疗手段，其具有创伤小、出血量少，术后恢复快等众多优势，可最大程度避免对子宫正常生理形态产生影响[1]。但腹腔镜围手术期护理质量对手术效果有较大影响。该院在2011年7月―2014年8月实施围手术期全程护理措施并取得显著疗效，现报道如下。   　　1 资料与方法
+　　1.1 一般资料
+　　整群选取该院2011年7月―2014年8月收治的92例患者为研究对象，年龄31～49岁，平均（40.38±6.22）岁，包括阔韧带肌瘤41例、蒂浆膜下肌瘤26例、肌壁间肌瘤和无蒂浆膜下肌瘤25例，肌瘤直径4～7.2 cm，平均（5.62±1.80）cm。所有患者术前均行宫颈细胞学检查，月经紊乱者采取子宫内膜采取术及宫腔镜检查。将上述患者以随机数表法分为观察组与对照组，两组均46例，且年龄、肌瘤部位、肌瘤大小等基线资料对比差异无统计学意义（P>0.05），具有可比性。
+　　1.2 方法
+　　对照组采取常规护理，包括常规术前准备、术后体征监测等，观察组采取术前、术中、术后全程护理措施，具体操作如下。
+　　1.2.1 术前护理 ①心理护理：术前对患者采取必要的心理干预，对患者存在的疑问进行解答，从而获得患者的信任，提高患者的依从度。同时就手术的麻醉方式、术后不良反应、对宫颈影响等方面与患者交流。②阴道准备：手术应避开生理期，对于少量出血患者采取止血或抗感染治疗，术前3 d用5%活力碘棉球对阴道进行擦洗，持续至术前，擦洗完毕后在阴道内放置1枚甲硝唑栓。③胃肠道准备：上午手术患者前1 d晚餐应以流食为主，晚8点以后禁食、禁水，并在术前1 d晚灌肠，手术日清晨0.1%肥皂水灌肠1次，避免手术上因麻醉、腹胀等因素排便导致污染，若患者下午手术，则当日早晨8点开始禁食、禁水，灌肠在上午进行。④皮肤准备：常规备皮，清洁脐孔，可用棉签浸泡脐窝，轻擦去污物。
+　　1.2.2 术中护理 术中建立气腹时护士应观察是否为CO2，压力波动控制在10 mmHg左右，进入量2～3 L即可。对患者体征进行严密监控，如出现呼吸加速、呛咳，应观察是否为空气栓赛，需及时反映给医生，从而停止操作，给予氧气支持，同时保持左侧卧位，注射地塞米松。
+　　1.2.3 术后护理 ①管道护理：腹腔引流患者应对引流液性状进行观察，检查引流管是否出现扭曲、堵塞，引流管固定在床边，保留一定长度，避免翻身或活动时牵拉移位，导尿管在术后24 h时及时拔除，防止尿潴留出现。②体征监护：术后心电监护3 h，每隔6 h对血压、呼吸、脉搏进行1次测量，判断休克、出血发生情况，定时测量体温，观察是否有伤口感染或呼吸道感染发生。③并发症护理：腹腔镜治疗子宫肌瘤术后常见并发症包括穿刺孔出血、宫颈残端出血、腹腔及肩背酸胀。穿刺孔出血浸湿敷料患者，需及时采取纱块压迫止血，更换被浸透的敷料，必要时可缝合1针出血。腹腔及肩背酸胀为术后常见症状，护理人员应及时向患者讲解以缓解其紧张情绪，对此采取床上体操、勤翻身可改善，也可给予0.5 mg新斯的明肌注。而宫颈残端出血可不采取处理，但需对出血量和颜色进行观察，必要时缝合，大量出血需行髂内动脉结扎术。④出院指导：出院后应禁同房、盆浴2月，保持外阴清洁，给予高热量、高蛋白质、高维生素饮食，每隔2月1次复诊。
+　　1.3 观察指标
+　　比较两组肛门排气时间、住院时间、手术时间、术中出血量。记录术后止痛剂使用率及不良反应发生率。
+　　1.4 统计方法
+　　选用SPSS19.0统计学软件对研究数据进行分析和处理，计数资料采取率（%）表示，计量资料行（x±s）表示，组间对比进行χ2检验和t检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组护理后各临床指标变化比较
+　　观察组肛门排气时间、住院时间、手术时间、术中出血量均显著低于对照组，对比差异有统计学意义（P<0.05），见表1。
+　　表1 两组护理后各临床指标变化比较（x±s）
+　　2.2 两组止痛剂使用率及不良反应发生率比较
+　　两组止痛剂使用率比较差异无统计学意义（P>0.05），不良反应发生率21.74%与对照组47.83%比较显著较低（P<0.05），见表2。
+　　3 讨论
+　　近年随着腹腔镜技术的不断成熟，腹腔镜子宫肌瘤切除术在临床的实施数量明显上升，并已成为常规术式，其具有微创、安全性高等优势[2]，但仍可能因操作不当、气腹、穿刺等导致并发症出现，对此必须加强围术期护理，从而保障手术的顺利进行，并降低并发症发生率[3-4]。
+　　护理人员在临床护理中应全面掌握患者病情变化，开展术前、术中、术后的全程护理模式。术前护理核心为心理护理，子宫肌瘤患者因惧怕手术常出现诸多不良情绪，改善患者心理状态有助于减轻负担，从而改善心率等可能影响手术效果的体征表现[5]，同时采取阴道、胃肠道、皮肤等前期准备工作，术中对体征进行严密监控，术后针对引流管、体征监护、并发症护理、出院指导进行护理，可降低并发症发生率，并改善疼痛等临床症状[6-7]。
+　　该研究对观察组采取围手术期护理，结果显示各临床指标改善显著优于对照组，且不良事件发生率较低，与刘小棉[8]等研究结果相符。而本次研究止痛剂使用率以观察组较低，两组比较无统计学意义考虑可能是样本量有限所致，仍需今后扩大样本量进行深入研究。
+　　综上所述，围手术期护理在腹腔镜子宫肌瘤切除术中具有较高的应用价值。
+
+

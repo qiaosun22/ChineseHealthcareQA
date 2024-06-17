@@ -1,0 +1,31 @@
+
+ 　　[摘要]目的 探讨护理干预对妇科腹腔镜手术血栓前状态的影响。方法 选取2014年1月10日～2015年12月10日我院收治的600例实施腹腔镜手术的妇科患者，随机分为观察组与对照组，各300例。观察组患者采用预防性护理干预，对照组采用常规护理。比较两组患者的凝血酶原时间（PT）、活化部分凝血活酶时间（APTT）、纤维蛋白原（FIB）、疼痛情况、肠道排气时间及下床活动时间。结果 观察组患者护理后的PT[（9.45±0.36）s]、APTT[（23.04±2.36）s]短于对照组[（11.02±0.52）、（25.74±2.51）s]，FIB水平[（5.48±1.45）g/L]高于对照组[（3.58±1.03）g/L]，疼痛率（1.67%）低于对照组（24.67%），下床活动时间[（2.36±0.45）d]、肠道排气时间[（1.03±0.06）d]短于对照组[（4.85±1.05）、（3.14±0.98）d]，差异有统计学意义（P<0.05）。结论 对妇科腹腔镜手术患者实施预防性护理干预治疗，能缩短患者PT及APTT，提高FIB水平，减轻患者疼痛，促进患者康复。
+　　[中图分类号] R473.71 [文献标识码] A [文章编号] 1674-4721（2017）05（b）-0155-03
+　　Efficacy of nursing intervention on prethrombotic state in gynecologic laparoscopic surgery
+　　PAN Jia-jia CHEN Zhi-lin
+　　Department of Reproductive Health，Jiangxi Maternal and Child Health Hospital in Jiangxi Province，Nanchang 330006，China
+　　[Abstract]Objective To explore the efficacy of nursing intervention on prethrombotic state in gynecologic laparoscopic surgery.Methods 600 gynecological patients underwent laparoscopic surgery from January 10th 2014 to December 10th 2015 were selected and randomly divided into the observation group and the control group，with 300 cases in each group.Patients in the observation group were given preventive nursing intervention，while patients in the control group were given routine nursing.The PT，APTT，the level of FIB，the incidence of pain，the time of intestinal exhaust and activity time were compared between two groups.Results After nursing，the PT [（9.45±0.36）s] and APTT[（23.04±2.36）s] in the observation group were shorter than those in the control group [（11.02±0.52），（25.74±2.51）s]，the level of FIB [（5.48±1.45）g/L] was higher than thai in the control group [（3.58±1.03）g/L]，the incidence of pain （1.67%）was lower than that in the control group（24.67%），the time of intestinal exhaust [（2.36±0.45）d] and activity time [（1.03±0.06）d] were shorter than those in the control group [（4.85±1.05），（3.14±0.98）d]，and all the differences were statistically significant（P<0.05）.Conclusion The efficacy of nursing intervention on prethrombotic state in gynecologic laparoscopic surgery is definite.It can shorten the PT and PTT and can improve the level of FIB of patients，also can relieve pain and promote patients recover.
+　　[Key words]Nursing intervention；Gynecological laparoscopy；Prethrombotic state
+　　腹腔?R属于微创性手术，随着近年来的广泛应用，目前已成为妇科恶性肿瘤的金标准，虽然效果显著，具有微创性，但术后仍存在下肢深静脉血栓的危险性，且大部分患者在早期无明显特异性表现，因此容易被患者忽视，从而导致病情恶化，出现死亡、致残现象[1]。血栓形成是指在血管内皮细胞、纤溶系统、抗凝、凝血、血小板、血液流变学等因素作用下引起的，此类因素可在血栓形成前，发生不同程度的改变，此类现象称之为血液高凝状态（即血栓前状态）。而在患者围术期实施有效的护理干预，能够降低下肢静脉血栓发生率[2]。本文旨在探索护理干预对妇科腹腔镜手术患者的临床意义，现报道如下。   　　1资料与方法
+　　1.1一般资料
+　　选取2014年1月10日～2015年12月10日我院收治的600例??施腹腔镜手术的妇科患者，将其随机分为两组，各300例。入选标准：①同意本次研究，且签署协议书；②能够配合医务人员完成护理、治疗工作。排除标准：①合并充血性心脏病患者；②合并脑梗死患者；③合并严重肝病患者；④合并凝血功能障碍性疾病患者；⑤近期内服用过促凝药物患者；⑥沟通障碍者。观察组患者，年龄30～58岁，平均（42.45±3.89）岁；手术类型：腹腔镜下全子宫切除术69例，腹腔镜辅助阴式子宫切除术54例，子宫肌瘤剥除术86例，宫腹腔联合手术91例。对照组患者，年龄31～57岁，平均（42.89±3.53）岁；手术类型：腹腔镜下全子宫切除术68例，腹腔镜辅助阴式子宫切除术55例，子宫肌瘤剥除术85例，宫腹腔联合手术92例。两组患者一般资料比较，差异无统计学意义（P>0.05），具有可比性。
+　　1.2方法
+　　对照组采用常规护理，加强患者术中、术后生命体征检测及出院后的健康宣教。观察组采用预防性护理干预，主要措施如下。
+　　1.2.1术前护理 ①术前宣教：对于需进行腹腔镜手术的患者，应在术前告知多食用高纤维素食物，比如新鲜水果、芹菜、韭菜等食物，从而防止患者出现排便困难现象，保证大便通畅，避免影响下肢静脉回流，引起腹压增高，同时需告知患者深静脉血栓危险因素、发病原因，从而提高患者警惕性，并告知患者术后活动方法[3]；②心理疏导：主动与患者沟通，促使患者尽快适宜新环境，耐心回答患者提出问题，向患者讲解腹腔镜的优势、特点、重要性，对于仍存在紧张、不安情绪的患者，应将以往成功案例作为导向，消除患者顾虑[4]；③认知干预：向患者讲解术后可能会出现的不适症状，介绍手术大致过程、手术体位、麻醉方式，对于需进行术前检查患者，应做好解释工作，并陪同患者进行检查[5]。
+　　1.2.2术中护理 患者进入手术室后，进行双人核对，协助患者采取截石位，使用弹力绷带固定下肢，且从远端向近端缠绕，确保患者血流通畅，且在支架上放置软垫，防止压疮，对于手术时间较长者，可分别在两侧足跟悬挂输液架，从而减轻?N窝的重力压迫[6]，同时将气腹压力控制在12～13 mmHg之间，对于肥胖患者，可适当调整为13～14 mmHg之间，术中需控制好输液速度和输液量，防止血容量不足，血粘度增加，血栓形成现象发生[7]。
+　　1.2.3术后护理 ①病情护理：对于高危患者，应加强疼痛、下肢温度、色泽的观察，而为了加快患者病情速度，应在术后次日拔除导尿管，鼓励患者多下床活动，同时避免在下肢进行静脉输液，防止刺激性药物对下肢血管造成损伤，且避免在同一血管多次注射，防止血管内膜损伤[8]；②功能锻炼：术后6 h若无异常现象，便可协助患者进行床上被动运动，保持下肢远端高于近端，教会患者背屈、下肢跖屈、踝关节环转等运动，促使静脉血液回流，避免下肢关节过度屈膝位和屈髋位，对于无法进行主动活动者，可教会患者家属如何使用向心性按摩手法，由肢体远端向心方向和自下往上方向进行按摩，3～4次/d，30 min/次，日后活动主要以主动锻炼为主，且根据患者耐受量合理规范活动范围[9]。
+　　1.3观察指标
+　　比较两组患者的凝血酶原时间（PT）、活化部分凝血活酶时间（APTT）、纤维蛋白原（FIB）、肠道排气时间、下床活动时间、疼痛情况。
+　　1.4统计学方法
+　　采用SPSS 22.0统计学软件进行数据分析，计量资料数据用均数±标准差（x±s）表示，两组间比较采用t检验；计数资料用率表示，组间比较采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1两组患者PT、APTT、FIB水平的比较
+　　观察组患者护理后的PT、APTT短于对照组，FIB水平高于对照组，差异有统计学意义（P<0.05）。
+　　2.2两组患者护理效果的比较
+　　观察组患者疼痛率低于对照组，下床活动时间、肠道排气时间短于对照组，差异有统计学意义（P<0.05）。
+　　3讨论
+　　腹腔镜手术具有安全性高、痛苦小、创伤性小等特点，由于其属于新型的手术模式，因此患者及家属对其了解较少，担心在手术过程中，影响自身生命安全，从而在术前出现不同程度的负面情绪[10]，若患者长时间处于焦虑、不安状态，容易在术中、术后出现应激反应，不仅影响整体手术效果，还影响患者术后恢复，对此应加强患者围术期的护理干预，从而避免应激反应的发生，促使患者保持乐观、健康心态面对治疗[11-12]。
+　　通过分析妇科腹腔镜手术患者临床特点，我院实施了预防性护理干预，其能够帮助患者认识腹腔镜优势、重要性，从而提高患者依从性，促进患者病情的早日恢复[13-14]。本次研究主要通过对患者术前、术中、术后实施预防性护理，能够促使患者在各个时间段体验到细致、周到的护理服务，促使患者伤口愈合，身体康复得到保障[15-16]。其中通过术前护理，能够促使患者对手术有充分了解，缓解患者紧张情绪，确保患者保持乐观心态面对治疗；通过术中护理，能够提高手术安全性，避免压疮的发生，为患者创造一个安全、舒适的手术环境；通过术后护理，能够加快患者病情恢复，缩短患者下床活动时间，提高整体护理治疗，减轻患者痛苦[17-18]。
+　　综上所述，对妇科腹腔镜手术患者实施预防性护理干预，能缩短凝血酶原时间及活化部分凝血活酶时间，提高纤维蛋白原水平，减轻患者疼痛，促进患者康复。
+
+

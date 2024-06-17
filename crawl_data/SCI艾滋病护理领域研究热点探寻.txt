@@ -1,0 +1,27 @@
+
+　　[中图分类号] R473.5 [文献标识码] A [文章编号] 1673-7210（2017）05（a）-0167-04
+　　Department of Infectious Diseases， Capital Medical University Affiliated Beijing Youan Hospital， Beijing 100069， China
+　　[Abstract] Objective To search the research hotspots on AIDS nursing in SCI database. Methods Articles about AIDS nursing published in SCI journals from 2013 to 2015 were reviewed. 41 high frequency key words in this research area were extracted and BICOMB software was used to generate the co-word matrix. Clustering dendrogram was used to statistically anayze the data. PASW statistics 20.0 software was used for the calculations. Combined with professional judgment to obtain AIDS research hotspot. Results AIDS care research topics included high-risk sexual interventions， child and adolescent sexual health education， social support for the elderly HIV/AIDS patients， cognitive disorders， AIDS screening， antiretroviral side effects， female intimate partner violence and AIDS prevention， HIV infection/AIDS quality of life in seven areas. Conclusion These results suggest that domestic counterparts in this research field need to pay close attention to 7 hotspots.
+　　[Key words] Acquired immune deficiency syndrome； Nursing； Research hotspot
+　　艾滋病（AIDS）是由人类免疫缺陷病毒（HIV）引起的慢性传染病，具有传播迅速、发病缓慢、病死率高的特点[1]。截止2014年12月，全球共有存活的HIV/AIDS患者约3690万例[2]。护理学作为一个以人类健康为目标，综合多学科知识的专业，在AIDS的防治和关怀方面起十分重要的作用[3-4]。目前，护理学者们针对AIDS进行了大量研究，?P注点聚焦于多个方面。为了让从事AIDS护理研究的学者以及相关管理者更好地了解该领域所关注的焦点问题，本研究基于国际公认的反映高质量研究水平的引文数据库――科学引文索引（SCI）[5]收录的护理类期刊近三年发表的AIDS护理方面的文献，通过对文献的关键词进行共词分析来探索国际上该领域的研究热点，以期为护理研究者和管理者制订下一步AIDS护理方面的研究计划和政策提供依据。
+　　1 资料与方法
+　　1.1 资料来源
+　　本研究所分析的文献资料来自全球权威引文数据库SCI。检索方式为限定检索，将文献来源期刊限定为SCI所收录的全部护理类期刊，以题目中出现“HIV、AIDS、acquired immune deficiency syndrome或human immunodeficiency virus infections”为检索关键词，语种限定为英语，文献类型限定为“Article or Review”，发表年份限定为2013～2015年。检索过程中，邀请图书馆信息检索专业人员1名及护理专业副高级职称教师2名对检索的文章以及所属期刊进行专业判断，防止出现信息偏倚。最终共检索到相关论文355篇。
+　　1.2 研究工具与统计分析
+　　使用文本挖掘系统BICOMB[6]进行数据清洗和词频统计。将检索结果以xml格式导入到BICOMB中，提取所有的关键词。之后将用于检索的关键词“HIV、AIDS等”删去，通过两人独立审核，将表达相同含义的关键词进行合并，经过数据清洗后，统计每个关键词出现的频次。结合关键词的频次和两名护理专业副高级职称教师的意见，选取出现频次≥4次的41个关键词作为高频关键词，累积频次占到所有关键词出现频次的30%。使用BICOMB对这41个主题词生成共词矩阵，导入Excel中计算Ochiia相关系数，生成相似矩阵。使用SPSS 20.0对相似矩阵进行聚类分析，依据生成的图谱结合文献进行结果分析，总结AIDS护理领域的研究热点。   　　2 结果
+　　2.1 主要来源期刊统计
+　　本研究所纳入的文章来源期刊如表1所示。
+　　2.2 词频统计
+　　选取出现频次≥4次的关键词进行词频统计（见表2）。关键词代表了文献研究或论述的主题，是文章核心内容的浓缩[7]，对出现频次较高的关键词的统计可反映出现有文献的研究热点所在。根据统计结果，“women、prevention、stigma、adherence和adolescents”的出现频次较高，均达到20以上。
+　　2.3 高频关键词相关矩阵
+　　为呈现关键词之间的联系，使用Excel计算各高频关键词之间的Ochiia相似系数，形成相似矩阵（见表3）。Ochiia系数越接近1，表明关键词之间的关系越近；反之则表明关键词间的关系越远[8]。
+　　2.4 高频关键词的聚类分析
+　　聚类分析是根据事物本身的特性研究个体分类的方法，把相似性高或关系密切的样本聚合为一类，从而实现对个体的分类[9]。相互之间相关性越高的关键词会聚到一类，从而实现热点主题的分类。对41个高频主题词的聚类结果如图1所示，上端0～25代表各类之间的距离，距离越近，关联越紧密。根据聚类分析的结果，结合关键词间的相关性以及专业判断，将2012～2015年SCI护理期刊发表的AIDS研究热点主题分为“高危性行为的干预、儿童青少年性健康教育、老年HIV/AIDS患者的社会支持和认知障碍、AIDS筛查、抗病毒治疗副作用、女性遭受亲密伴侣暴力与AIDS预防、HIV/AIDS患者生活质量”7个方面（见图1）。
+　　3 讨论
+　　本研究通过共词分析的方法，对SCI数据库近三年的AIDS护理领域的文章的关键词进行了组合和分析，并得出7个热点研究主题，分别为“高危性行为的干预、儿童青少年性健康教育、老年HIV/AIDS患者的社会支持和认知障碍、AIDS筛查、抗病毒治疗副作用、女性遭受亲密伴侣暴力与AIDS预防、HIV/AIDS患者生活质量”。AIDS作为一种性传播疾病，通过对高危性行为的干预是阻断AIDS传播的重要方式[10]。性传播是我国目前HIV最主要的传播方式，根据我国疾病预防控制中心[11-12]的统计数据显示，2015年我国新发的HIV/AIDS患者当中，由性传播引起的感染已达到94.50%，并且这一比例在近年来一直处于上升趋势。在AIDS护理工作中，开展高危行为干预，预防HIV传播是护士的本职工作[13]。因而，在高危性行为干预方面的护理研究应继续加以重视。青少年性生理成熟要先于心理成熟，性知识相对缺乏，性冲动较为常见但可能采取不恰当的宣泄措施，易发生无保护的性行为[14]。根据UNAIDS[15]的报告，2015年，全球HIV新发感染的人群中，15～24岁的青少年已占到34%。因而对该人群的性健康教育预防AIDS理应成为重点的研究内容。感染HIV的儿童青少年要将感染状况暴露给哪些人以及通过何种途径保护其隐私的问题值得现有的研究深入探讨。
+　　与此同时，随着AIDS抗病毒治疗（ART）在全世界大范围的推广，HIV/AIDS患者的寿命越来越长[16-18]，如何应对AIDS相关的长期问题，如歧视、药物副作用等，并且给予患者必要的社会支持等方面必须加以关注。如何预防HIV相关的认知障碍将需要更多的研究来重视。在筛查的方式上，AIDS自愿咨询检测（VCT）不仅可以及时发现和治疗AIDS，而且可以通过咨询服务为发现的HIV/AIDS提供心理支持，并可以促使受检者减少危险行为[19-20]。但由于社会歧视、知识缺乏、检测意识缺乏等原因，VCT的开展遇到较多的阻碍[21]。因而，具体了解阻碍主动检测的原因，针对其中的原因采取措施提升相关人群AIDS检测的知识、意识和行为是护理研究需要持续关注的重点。抗病毒治疗副作用，关注的问题主要为外周神经损害和心血管疾病。ART所带来的长期副作用是目前关注的重要问题。ART还会造成脂肪转移、贫血、乳酸中毒、神经系统损害等一系列问题[22]。而且在接受ART的?^程中，患者必须长期维持95%以上的服药依从性以保证药物的有效性[23]，因而，护理人员在保证ART治疗高度依从的前提下，必须对药物的副作用做出应对，相关的研究应作为重点的领域。
+　　女性遭受亲密伴侣暴力（IPV）在世界范围内均是一个常见的现象，Garcia-Moreno等[24]的调查显示，15%～71%的女性曾遭受过IPV。IPV与AIDS相关的危险行为，如酗酒、无保护性行为、多性伴密切相关[25]。与此同时，女性的身体结构使其在性交过程中更易发生损伤，增加HIV感染的概率；另外在许多文化下，女性社会地位较男性要低，更易遭受暴力[26]。因此，对于女性的AIDS预防在社会文化层面需要得到更多的深入研究。
+　　HIV/AIDS患者的生活质量受到机体免疫功能、症状数量和严重程度、情绪、所受到的歧视等多方面的影响，现有的ART治疗虽延长了患者寿命，但是给患者带来的副作用以及HIV感染所伴随的歧视和其他心理社会方面的健康问题依然会困扰患者，影响患者的生活质量。对此，研究热点中涉及的患者服药依从性和自我效能的提升可为抗病毒治疗的成功提供保障，从而提升患者免疫力，减轻疾病对患者生理方面的影响。另外，通过对患者抑郁、疲乏、所受到的歧视应对可以在身体、心理、社会全方面地提升患者的生活质量。因而该方面的研究在之后可以更多地挖掘影响患者生活质量的因素并做出应对，从而为改善患者生活质量提供理论依据。
+　　鉴于SCI收录文章代表了相关领域的前沿和关键信息，往往对今后的科研和实践具有重要指导意义，因而以上7个研究主题仍然能够在国内护理研究和实践中得到深入开展和重视。
+
+

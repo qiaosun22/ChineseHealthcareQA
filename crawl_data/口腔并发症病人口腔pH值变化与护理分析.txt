@@ -1,0 +1,32 @@
+
+　　[摘要] 目的 分析和研究护理干预对口腔并发症患者口腔pH值的影响。方法 整群选取2012年6月―2014年8月内科住院口腔pH值异常患者84例，将其按投币随机法分为观察组与对照组，每组各有患者42例。对照组患者给予常规口腔护理干预；观察组患者在常规口腔护理基础上加用pH纠正液含漱，将两组患者护理干预2周后的口腔pH值变化情况及口腔并发症发生情况进行对比。结果 两组患者护理干预前、后口腔pH值相比较：两组患者护理干预前口腔pH值差异无统计学意义，P>0.05；观察组患者护理干预后口腔pH值明显高于对照组，P<0.05。两组患者护理干预后口腔并发症发生情况相比较：观察组明显低于对照组，P<0.05。结论 内科危重患者口腔并发症发生率同口腔pH值异常关系较密切，在常规口腔护理基础上加入pH纠正液含濑，对预防口腔并发症发生及减轻患者痛苦均具有重要作用。
+　　[中图分类号] R47 [文献标识码] A [文章编号] 1674-0742（2015）06（a）-0151-02
+　　Analysis of the Changes in the Value of Oral pH in Patients with Oral Complications and the Corresponding Nursing
+　　LI Jing，ZHANG Nan
+　　Stomatology Department， Anzhen Hospital， Beijing，100029 China
+　　[Abstract] Objective To analyze and study the effect of nursing intervention on the value of oral pH in patients with oral complications. Methods 84 cases with abnormal oral pH value hospitalized in the Department of Internal Medicine from June 2012 to August 2014 were selected and divided into the observation group and the control group with 42 cases in each in accordance with the random coin method. The control group were given the conventional oral nursing intervention， while the observation group were given the pH correction fluid for gargling based on the conventional oral nursing intervention. And the changes in pH value and incidence of oral complications 2 weeks after nursing intervention were compared between the two groups. Results Before nursing intervention， there was no statistically significant difference in the oral pH value， P>0.05. After nursing intervention， the oral pH value was much higher in the observation group than that in the control group， P<0.05. The incidence of oral complications in the observation group was obviously lower than that in the control group， P<0.05. Conclusion The incidence of oral complications in critical patients in Department of Internal Medicine is closely related to the abnormal oral pH value. Conventional oral nursing combined with gargling pH correction fluid plays a key role in preventing the incidence of oral complications and reducing the suffering of the patients.
+　　[Key words] Oral complications； Oral pH value； Internal medicine patients； Nursing intervention
+　　机体正常人群口腔内寄生着约10多种细菌，这些细菌维持着口腔内pH值平衡，使之处于偏碱状态[1]。而对于内科危重患者来说，其口腔自净功能减弱，加之机体免疫力降低，致使口腔内正常菌群失调，导致口腔pH值呈下降状态，呈偏酸性，口腔内偏酸性环境，使细菌逐渐增多，最终引发口腔溃疡、口腔炎、口腔菌斑、牙龈出血、粘膜糜烂等口腔并发症发生[2-4]。为了探讨降低口腔并发症发生几率的有效护理方法，该研究在2012年6月―2014年8月整群选取内科住院口腔pH值异常患者42例，在常规口腔护理基础上加用pH纠正液含漱，预防与治疗效果颇为明显，现报道如下。   　　1 资料与方法
+　　1.1 一般资料
+　　整群选取2012年6月―2014年8月内科住院口腔pH值异常患者84例，将其按投币随机法分为观察组与对照组，每组各有患者42例。42例对照组患者中：男27例，女15例；年龄在26～81岁，平均年龄为（45.9±10.6）岁。患者疾病类型分为：肝硬化19例；上消化道出血13例；骨髓瘤7例；胃癌术后复发3例。42例观察组患者中：男24例，女18例；年龄在23～76岁，平均年龄为（43.2±10.4）岁。患者疾病类型分为：肝硬化17例；上消化道出血14例；骨髓瘤9例；胃癌术后复发2例。两组患者在年龄、性别、疾病类型等构成相比较P>0.05，其相关资料具有可比性。
+　　1.2 方法
+　　对照组患者给予常规口腔护理干预：于患者晨起、午饭后、晚睡前对其进行口腔护理，首先使用0.9%氯化钠注射液漱口达3次，对于有牙龈出血且伴有血痂患者，使用双氧水进行清洗，采用多贝尔液含濑达半分钟。对于有口腔溃疡患者，在含濑完成后将冰硼散敷于口腔溃疡面上。对于不能漱口患者，护理人员使用棉球按上述顺序进行擦洗。
+　　观察组患者在常规口腔护理基础上加用pH纠正液含漱：患者采用多贝尔液含濑后，加用pH纠正液含漱达5 min以上，患者在含濑时，指导其用舌将漱口液在腭、颊、齿部搅动，使其与口腔黏膜充分接触，并让其将齿缝中、舌面部、口腔黏膜处的食物残渣及微生物清除，其他护理方法同对照组。
+　　1.3 评价指标
+　　①口腔pH值异常判定标准[5]：口腔pH值正常范围为6.5～7.0。当患者口腔pH值一个时间点内检测2次超过正常范围，即可判定为口腔pH值异常。
+　　②口腔pH值检测方法[6]：检测时间为起床后；午餐前；午睡后；晚睡前。检测方法：将试纸片放置于患者舌下或舌面正中部，纸片湿透后对其颜色进行观察，以判断口腔内pH值，每个时间点均检测3次。
+　　③观察并统计两组患者口腔溃疡、口腔炎、口腔菌斑、牙龈出血、粘膜糜烂等口腔并发症发生情况。
+　　1.4 统计方法
+　　所有数据应用SPSS 11.0软件行统计学处理，计数资料采用（%）来表示；计量资料采用（x±s）表示，计数资料行χ2检验；计量资料行t检验，当P<0.05时，确定组间的差异有统计学意义。
+　　2 结果
+　　2.1 两组患者护理干预前、后口腔pH值相比较
+　　两组患者护理干预前口腔pH值差异无统计学意义，P>0.05；观察组患者护理干预后口腔pH值明显高于对照组，P<0.05，见表1。
+　　2.2 两组患者护理干预后口腔并发症发生情况相比较
+　　观察组患者护理干预后口腔并发症发生率为23.8%；对照组患者护理干预后口腔并发症发生率为52.4%，两组相比较，观察组明显低于对照组，P<0.05，见表2。
+　　3 讨论
+　　口腔是人体主要腔道，正常人通过饮水、刷牙、唾液分泌等均会降低口腔内微生物含量，维持口腔菌群平衡。但危重患者由于治疗过程中常需行气管插管等诸多侵入性操作，导致患者口腔自洁功能受到影响，加之自身免疫功能降低，给细菌在口腔内大量繁殖创造了机会。另外，患者长时间接爱抗生素类药物治疗，也会增加口腔细菌群落失衡发生几率，导致大量白色念球菌繁殖与生长，从而引发口腔并发症发生[5-6]。
+　　从表1中可以看出，两组患者护理干预前口腔pH值均在5.0左右，与口腔pH值正常范围相比较均偏低，这一结果提示：患者口腔内部环境呈偏酸性，而偏酸性环境更利于细菌繁殖与生长，两组患者经口腔护理干预后，观察组患者口腔内环境得到了显著性改善，使口腔pH值增加至6.7左右，而对照组患者口腔pH值增加程度较少，仍低于6.0。从表2中看，观察组患者口腔并发症发生率明显低于对照组，这一结果说明口腔pH值与口腔并发症发生率呈正相关，即：随着口腔pH值降低，口腔并发症发生率明显增加。
+　　pH纠正液为3%碳酸氢钠液体，碳酸氢钠为强碱与弱酸中和后生成的酸式盐，其溶于水后呈现弱碱性，患者使用其漱口后，可有效改善口腔内的酸碱性[7]，加之合理口腔护理，能够有效促进口腔pH值恢复，对避免或减少诸多口腔并发症发生具有积极作用。该研究结果：观察组患者护理干预后口腔并发症发生率为23.8%；对照组患者护理干预后口腔并发症发生率为52.4%，其与蔡凌等人[8]研究结果相近。
+　　综上所述，口腔pH值变化与口腔并发症发生有着较密切关系，临床只有加强口腔pH值异常患者护理干预，才可避免或减少口腔并发症发生，利于受损黏膜修复及促进口腔pH值恢复，值得临床应用与推广。
+
+

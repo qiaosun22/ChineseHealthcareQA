@@ -1,0 +1,32 @@
+
+　　摘要:目的：观察用早期间歇持续微量喂养早产极低出生体重儿的临床效果及护理干预。方法：将60例入院治疗的早产极低出生体重儿随机分为两组，对照组和观察组，每组30例。对照组患儿出生24 h后进行常规胃管喂养及护理，观察组在常规胃管喂养的基础上对患儿出生后24 h内联合间歇持续微量喂养并加强护理干预，对比观察两组患儿在治疗后喂养不耐受率和体重的恢复情况。结果：观察组喂养的不耐受率、体重恢复时间均显著低于对照组，差异具有显著性的意义（P<0.05）。结论：常规胃管联合间歇持续微量喂养能显著提高早产极低出生体重儿的喂养耐受性，加强护理干预，能改善患儿的各项生理指标，有效的减少并发症的发生。
+　　Abstract :Objective: To observe the early intermittent continuous trace feeding of very low birth weight premature clinical effect and nursing intervention. Methods: 60 cases of hospitalized preterm low birth weight were randomly divided into two groups, control group and observation group, 30 cases in each group. Control group of children born after 24 h routine nasogastric tube feeding and nursing, observation group on the basis of routine gastric tube feeding for children born within 24 h after joint intermittent continuous micro feeding and strengthen the nursing intervention, compared two groups after treatment in children with feeding intolerance rate and the weight of the recovery. Results: Observation group feeding intolerance rate, weight recovery time were significantly lower than the control group, with significant difference significance (P<0.05). Conclusion: Routine gastric tube joint intermittent continuous trace feeding preterm low birth weight can obviously improve the feeding tolerance, strengthen the nursing intervention, can improve the patient's physiological indicators, effectively reduce the occurrence of complications.
+　　Key words :The very low birth weight; Early; Intermittent; Continue; Trace feeding
+　　极低出生体重儿(VLBWI)的体质量在1000～1499g、胎龄<33周[1]。由于过早的出生，VLBWI的胃肠功能不健全，胃肠激素水平低，各项功能指标极其低下 [2]。笔者采用常规胃管喂养联合早期间歇持续微量喂养的方法，完善护理方式，来弥补单纯用常规胃管喂养方法的不足，现将结果总结报告如下：
+　　1资料与方法
+　　1.1临床资料
+　　选择2008年8月～2010年8月期间我院的早产极低出生体重儿60例，按照抽签的方法随机分为两组，对照组和观察组，每组30例。两组患儿均排除消化道畸形、严重心肺功能不全及不适合本实验所用到的喂养方法等。对照组男17例，女13例，体质量(1347±182) g，胎龄(30.2±1.4) 周；对照组男16，女14例，体质量(1293±205) g，胎龄(30.4±1.2) 周。两组患儿在体质量、胎龄、性别等基本情况方面没有明显的差异，具有可比性（P>0.05）。
+　　1.2方法
+　　1.2.1喂养方法
+　　采用雀巢早产儿配方奶粉对所有患儿进行喂养，每日所需的奶量根据患儿体质量计算，外周静脉营养补充胃肠道喂养后不足部分，直到能完全胃肠道喂养为止。观察组的患儿出生后6 h 内进行间歇持续微量喂养，用微量泵注入每天的奶量，每2 h喂一次，然后暂停，2 h后再喂一次，如此反复，当每次喂奶量逐渐增大时，可以将喂奶时间间隔延长一些。对照组出生24 h 后采用常规胃管喂养法，用接入胃管缓慢注入所需奶量，每2 h一次，每次>10 min，中间不暂停。两组患儿的治疗时间均为15天。
+　　1.2.2护理干预
+　　对照组喂养后进行正常的护理，观察组在此基础上加强了护理干预。①体位：采用俯卧位与斜坡卧位交替使用，喂奶后抱起患儿，使其直立，轻拍背部，排出吸入的空气，这样能较好的防止吐奶，也能使胃功能得到好的改善。②按摩：由专业按摩师在患儿喂奶后40 min进行，10～15min/ 次，2～3 次/天，按摩时间可根据患儿腹胀的情况适当延长。③非营养性吸吮：在常规喂养的同时给予患儿给予无孔奶头，刺激患儿吸吮，8～12 min/次，4～5次/天。④人工通便。
+　　1.3观察指标
+　　比较两组患儿治疗后喂养的不耐受率和体重增长情况。
+　　1.4统计学处理
+　　采用spss17.0软件进行分析，计量资料以±s表示，计量资料采用t检验，计数资料采用χ2检验， P<0.05为有统计学意义。
+　　2结果
+　　两组患儿治疗后,观察组喂养的不耐受率(20.00%)显著低于对照组(60.00%)，观察组患儿体重的恢复时间也明显缩短，具有显著性意义（P<0.05）。详情见表1。
+　　表1两组患儿治疗后喂养的不耐受率、体重恢复时间的比较[n(%)]
+　　
+　　
+　　
+　　
+　　
+　　注：与对照组比较，*P<0.05。
+　　3讨论
+　　足月新生儿胃肠道内分泌细胞已经成熟，呈现一种静息和收缩的循环往复运动，这种运动是由胃肠激素引起的,胃肠内分泌细胞的成熟度决定以后的胃肠消化功能[3]。VLBWI由于胃肠道分泌细胞不够成熟，胃肠道激素的分泌量远远低于足月新生儿，盐酸基础分泌量低，胃肠道粘膜较薄，不能有效的将残留在胃肠道表面的有害微粒，细菌等排出体外，因此导致体内产生毒素，容易引起患儿感染、低氧血症等并发症的发生，导致患儿的生活质量下降，严重时可危及生命[4]。VLBWI普遍使用的喂养方法为胃管喂养，这种方法在一定程度上改善了患儿胃肠道的消化吸收，减少了并发症，但喂养的不耐受率始终很高。为了提高VLBWI的喂养耐受率，降低并发症的发生率，作者采用了早期间歇持续微量喂养联合普通胃管喂养，并加强了护理干预。
+　　本实验数据表明，两组患儿治疗后,观察组患儿的不耐受率(20.00%)相比于对照组的(60.00%)显著降低，体质量的恢复时间(11.32±1.07) d比对照组的恢复时间(15.21±3.85) d明显缩短，结果具有显著性意义（P<0.05）。正确的喂养体位能促进胃的消化，减少食物反流，提高耐受率，加快体质量增长；腹部按摩可使患儿感到安全，易于入睡，提高体质量，减少并发症；给予人工奶头吸吮可以刺激患儿的反射功能，使患儿的吞咽能力得到一定改善；人工排便通加快了胃肠的蠕动，建立胃肠道周期性蠕动，恢复消化功能[5]。
+　　总之，早期间歇持续微量喂养联合普通胃管喂养，提高了喂养的耐受率，较快地恢复了患儿的体质量，有效的护理干预，促进了胃肠道的消化，减少了并发症的发生，是一种值得长期推广的治疗方法。
+
+

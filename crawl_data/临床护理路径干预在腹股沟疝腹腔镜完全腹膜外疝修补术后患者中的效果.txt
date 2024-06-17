@@ -1,0 +1,41 @@
+
+ 　　[摘要]目的 探?临床护理路径在腹股沟疝腹腔镜完全腹膜外疝修补术（TEP）患者中的效果。方法 选取2015年6月～2016年12月我院收治的腹股沟疝患者82例，随机分为观察组与对照组，各41例。所有患者采取TEP治疗，对照组采取常规护理，观察组采取临床护理路径干预。比较两组患者术后排气时间、下床活动时间、术后住院时间、术后恢复时间、并发症、护理满意度及血清中CRP水平。结果 观察组的术后排气时间、下床活动时间、术后住院时间以及术后恢复时间均短于对照组，并发症发生率低于对照组，护理满意度高于对照组，差异有统计学意义（P<0.05）。术前，两组患者血清中CRP水平比较，差异均无统计学意义（P>0.05）；术后12、24 h两组患者的血清中CRP水平有所提高，与术前比较，差异有统计学意义（P<0.01）；但观察组水平低于对照组，差异有统计学意义（P<0.01）。结论 临床护理路径可缩短腹股沟疝TEP患者术后排气时间、术后下床时间、术后住院时间以及术后恢复时间，减少并发症，提高患者的满意度，降低血清CRP水平。
+　　[中图分类号] R473.6 [文献标识码] A [文章编号] 1674-4721（2017）09（a）-0179-04
+　　Efficacy of clinical nursing pathway on inguinal hernia patients with laparoscopic total peritoneal hernia repair
+　　FAN Yue-xiu LIAO Qiu-mei FAN Hui-qin HU Xian-yan
+　　Department of Gastroenterology，Fogang County People′s Hospital in Guangdong Province，Fogang 511600，China
+　　[Abstract]Objective To investigate efficacy of clinical nursing pathway on inguinal hernia patients with laparoscopic total peritoneal hernia repair（TEP），and the influence on serum level of C-reactive protein （CRP）.Methods 82 patients with inguinal hernia in our hospital from June 2015 to December 2016 were selected and randomly divided into the control group and the observation group，with 41 cases in each group，all cases were treated with TEP.The control group was given with routine nursing care，while the observation group was given clinical nursing pathway.The postoperative exhaust time，off-bed activity time，length of hospital stays，postoperative recovery time，complication，nursing satisfaction and serum CRP were compared between two groups.Results The postoperative exhaust time，off-bed activity time，length of hospital stays and postoperative recovery time in the observation group were shorter than those in the control group，the incidence of complication was lower than that in the control group，and the differences were statistically significant （P<0.05）.Before operation，there were no significant differences in the level of serum CRP between two groups （P>0.05）；12，24 h after operation，the level of serum CRP in two groups were all increased，and compared with those before operation，the differences were statistically significant （P<0.01），but those in the observation group was lower than those in the control group，and the differences were statistically significant （P<0.01）.Conclusion Clinical nursing pathway can shorten time of postoperative exhaust time，bed time after operation，postoperative hospitalization，postoperative recovery time for inguinal hernia patients after TEP，reduce complications，increase satisfaction，and inhibiting serum level of CRP.   　　[Key words]Clinical nursing pathway；Laparoscopic；Total peritoneal hernia repair；Inguinal hernia
+　　临床护理路径是针对特定患群的一种住院护理模式，以时间为横轴，以入院指导、接诊时诊断、检查、用药、护理、治疗、活动、饮食指导、教育以及出院指导等为纵轴，根据需要给予相应干预措施，为患者提供一套系统、标准、连续且针对性强的护理措施，增强患者自我护理意识和能力，利于患者康复[1-2]。腹股沟疝是普外科常见疾病之一，调查显示其发病率约为3.6%[3]。Meta分析显示，在腹股沟疝修补术临床护理中，临床护理路径获得的效果明显优于常规护理[4]。本组研究选取接受腹股沟疝完全腹膜外疝修补术（TEP）的患者，应用临床护理路径护理和常规护理进行随机对照试验研究，取得了满意的效果，现报道如下。
+　　1资料与方法
+　　1.1一般资料
+　　收集2015年6月～2016年12月在本院住院并拟行TEP的腹股沟疝患者82例，随机分为观察组与对照组，各41例。对照组男25例，女16例；年龄57～68岁，平均（60.62±8.85）岁；体重62～66 kg，平均（64.17±8.05）kg；类型：直疝11例，斜疝30例；位置：左侧疝17例，右侧疝15例，双侧疝9例。观察组男27例，女14例；年龄58～69岁，平均（60.33±8.71）岁；体重：61～67 kg，平均（63.83±8.12）kg；类型：直疝10例，斜疝31例；位置：左侧疝16例，右侧疝16例，双侧疝9例。两组患者临床资料比较，差异无统计学意义（P>0.05）。本研究得到本院医学伦理委员会批准。
+　　1.2诊断标准
+　　根据《成人腹股沟疝诊疗指南（2014年版）》[5]制定。
+　　1.3纳入与排除标准
+　　纳入标准：①符合腹股沟疝及相关诊断标准者；②年龄20～70岁；③首次发生腹股沟疝者；④患者或患者家属知情，且签署同意协议者。排除标准：①伴心、肝、肾等严重功能不全者；②精神病者；③急诊手术者；④依从性差者。
+　　1.4治疗方法
+　　1.4.1 TEP 常规全身麻醉，脐下做―个长约1.5 cm的纵行切口，在腹直肌前鞘的中间位置纵行切开，逐步分离至腹直肌后鞘，再分离腹直肌后鞘间隙；建立人工气腹，置入Trocar和腹腔镜，推镜法游离腹膜外间隙直达耻骨联合，在脐与耻骨联合间处置入5 mm Trocar；分离髂窝间隙（Brogos间隙）和耻骨膀胱间隙（Retzius间隙），显露耻骨梳韧带、耻骨结节等，斜疝钝性将疝囊从精索分离，直疝将疝囊和腹壁剥离，用5 mm Hemlok夹闭后横断疝囊，自内环口及其后方的精索血管和输精管分离5～6 cm，使精索完全腹壁化；常规置入巴德3D补片，将内环口和直疝三角覆盖后逐层关闭腹腔。
+　　1.4.2对照组 采取常规护理。术前嘱患者清淡饮食、禁食、禁饮，术前晚清理肠道。术前至少戒烟2周，对已出现者应给予针对性干预措施。嘱患者清洁身体，尤其是脐部清洁，术前30 min 常规备皮。术后头偏向一侧，去枕平卧6 h，低流量持续吸氧，术后6 h内禁食，术后6 h后予流食，术后2 d后逐渐正常饮食。对术后出现便秘、疼痛等并发症者给予相应护理，并针对性处理。在整个围术期，护理人员需全程监测，做好记录，尤其对切口是否出现不良反应等。
+　　1.4.3观察组 采取临床护理路径进行干预[6]。①术前。对患者行入院评估，遵医嘱予以相应级别护理；发放疾病健康手册，使患者了解诊治和手术方式；对患者进行心理干预，建立良好医护患关系，使患者积极配合治疗，增强信心；按医嘱完善各项术前检查和手术准备；术前1 d根据手术通知单行术前访视，全面评估患者的心理、生理状态，讲述手术配合注意事项等；解答患者提出的疑问或反馈给医生。②术中。调整手术室温度为22～25℃和湿度为50%～60%；安慰和鼓励患者，以缓解其不安、焦虑等不良心理；根据手术情况保持患者舒适体位，全麻后注意保护双眼。③术后。用温盐水擦拭皮肤、穿衣等，取低枕平卧位，术后6 h半坐卧位，适当进食、下床活动；密切观察切口症状如出血、感染等，及时报告医生、进行对症处理；对患者进行疾病相关宣教，耐心解答患者的问题，鼓励其早期恢复锻炼、防止下肢深静脉栓塞等并发症。④出院指导。嘱患者出院后注意切口护理，尽量减少出汗和避免沾水，出?F不适应立即就诊；嘱患者注意休息，保持大便通畅。
+　　1.5观察指标
+　　两组治疗3周后进行检测指标和疗效分析。①观察两组术后排气时间、下床活动时间、术后住院时间以及术后恢复时间。②观察两组术后并发症发生情况。③两组护理工作的满意度。参照相关文献[7]自拟《护理质量满意度调查表》，采取问卷调查形式对护理人员的服务态度、爱伤观念、护理操作水平、解释的合理性、基础护理、健康教育等问题进行评分，每个问题按非常满意、满意、可以接受、不满意4级评分，满分100分。非常满意为100分，满意为≥80分，可以接受为50～79分，不满意为<50分，满意度=（非常满意+满意）例数/总例数×100%。④两组血清中C-反应蛋白（CRP）水平。样本采集：晨起抽取患者的外周血，室温内离心取血清，-20℃储存备测；采取酶联免疫吸附法（Elisa）于术前及术后12 h、24 h测定。⑤疗效评判。根据《妇科疾病诊断与疗效标准》[6]制定。痊愈：阴道流血等症状完全消除，基础体温维持在黄体期水平，B超提示胚胎发育正常，妊娠达28周以上或已正常分娩。有效：阴道出血等症状明显好转，基础体温维持黄体期水平，B超提示胚胎发育正常。无效：阴道出血等症状无好转，甚或加重，基础体温波动较大，B超提示胚胎发育异常或停止发育。总有效率=（痊愈+有效）例数/总例数×100%。
+　　1.6统计学方法   　　采用SPSS 17.0统计学软件进行数据分析，计量资料数据用均数±标准差（x±s）表示，两组间比较采用t检验；计数资料用率表示，组间比较采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1两组患者术后指标的比较
+　　观察组的术后排气时间、下床活动时间、术后住院时间以及术后恢复时间均短于对照组，差异有统计学意义（P<0.01）（表1）。
+　　2.2两组患者术后并发症的比较
+　　观察组并发症发生率低于对照组，差异有统计学意义（P<0.05）（表2）。
+　　2.3两组患者护理满意度的比较
+　　观察组患者护理满意度高于对照组，差异有统计学意义（P<0.01）（表3）。
+　　2.4两组患者血清中CRP水平的比较
+　　术前，两组患者血清中CRP水平比较，差异无统计学意义（P>0.05）；术后12、24 h两组患者的血清中CRP水平有所提高，与术前比较，差异有统计学意义（P<0.01）；但观察组水平均低于对照组，差异有统计学意义（P<0.01）（表4）。
+　　表4 两组血清中CRP水平的比较（mg/L，x±s）
+　　与同组术前比较，aP<0.01；与对照组术后同时点比较，bP<0.01
+　　3讨论
+　　腹股沟疝是临床普外科常见病，治疗不及时易导致多种并发症，对患者的生命产生威胁[8]。目前，临床治疗腹股沟疝最有效的方法是手术，包括传统开放术、无张力疝修补术以及腹腔镜疝修补术[9-10]。临床实践显示，腹腔镜疝修补术是腹股沟疝常用术式，具有手术时间短、创伤小、术后疼痛轻及恢复快等优点，其中TEP的技术路线合理性更佳、疗效更好，已成为当前腹股沟疝的首选手术疗法[11]。然而，常规腹股沟疝TEP术后患者易合并多种并发症，如血肿、慢性疼痛不适及少数血管和内脏损伤等[12]。
+　　临床护理路径是依据特定患者群体而设定的一种新的诊疗护理模式[13]。该护理模式以时间为横轴，以入院指导、诊断、用药、日常护理、饮食指导以及出院计划等为纵轴，使各项护理工作有序进行，提高了护理的准确性，促进了患者术后的康复[14]。多项研究显示[15-16]，在腹股沟疝围术期应用临床护理路径，可缩短患者的平均住院时间和降低住院费用，提高健康教育效果，进而提高患者的满意度，利于患者康复。
+　　本组观察了临床护理路径在腹股沟疝TEP中的应用，结果显示观察组的术后排气时间、下床活动时间、术后住院时间以及术后恢复时间均显著短于对照组（P<0.01）。观察组并发症发生率明显低于对照组（P<0.05）。观察组患者的护理满意度明显高于对照组（P<0.05）。结合既往临床研究报道，提示在腹股沟疝TEP中应用临床护理路径通过预见性和计划性的护理工作，保证了各项护理措施连续性和完整性，利于腹股沟疝TEP患者的康复。
+　　CRP是肝细胞合成的急性反应蛋白，体内CRP水平可一定程度上反映人体的应激反应状况。文献报道人体血清中CRP水平与手术创伤程度呈正相关，手术过程中患者血清中CRP水平在手术早期即有显著变化，CRP伴损伤程度加重而释放增多，随损伤减弱而降低，可客观反映手术对机体的损伤程度，故检测血清中CRP水平可判定手术对组织损伤程度[17-18]。本研究结果显示，术后12 h和24 h，观察组血清中CRP水平明显低于对照组同时点（P<0.01）。
+　　综上所述，临床护理路径可减少腹股沟疝TEP患者的损失，降低并发症，促进疾病康复，值得临床借鉴。由于本研究纳入的患者数量较少，观察时间较短，今后将进一步对上述疗效进行探讨。
+
+

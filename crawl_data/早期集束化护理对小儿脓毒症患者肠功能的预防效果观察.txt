@@ -1,0 +1,37 @@
+
+　　[摘要] 目的 探讨早期集束化护理对小儿脓毒症患者肠功能的预防效果。 方法 将80例小儿脓毒症患者按照护理方式随机分为对照组（n=40）与观察组（n=40），分别采用常规护理与早期集束化护理干预。比较两组患儿护理干预前后急性生理学及慢性健康状况评分系统（APACHE Ⅱ评分）、肠功能障碍评分、D-乳酸水平变化情况。结果 ①两组护理后APACHEⅡ评分均显著小于护理前（P<0.05），且观察组护理后APACHE Ⅱ评分小于对照组（P<0.05）；对照组护理前后肠功能障碍评分差异无统计学意义（P>0.05），但观察组护理后肠功能障碍评分显著小于护理前及对照组护理后（P<0.05）；②两组护理后血浆D-乳酸水平均显著小于护理前（P<0.05），且观察组护理后血浆D-乳酸水平显著小于对照组（P<0.05）。 结论 早期集束化护理对小儿脓毒症患者肠功能的预防效果显著，应在临床上进行推广应用。
+　　[中图分类号] R472.2 [文献标识码] B [文章编号] 1673-9701（2015）12-0144-03
+　　Prevention of early cluster nursing of pediatric observation bowel function in patients with sepsis
+　　ZHANG Xuemei
+　　Department of Pediatrics，Maternal and Child Health Hospital of Zibo City in Shandong Province，Zibo 255029，China
+　　[Abstract] Objective To investigate the effect of early cluster of preventive care for children with bowel function in patients with sepsis. Methods A total of 80 cases of pediatric care in accordance with the manner in patients with sepsis were randomly divided into control group（n=40）with the observation group（n=40），respectively，using conventional cluster nursing care and early intervention. Two groups of children before and after nursing intervention in acute physiology and chronic health evaluation （APACHE Ⅱ score），intestinal dysfunction score，D- lactate level changes. Results （1） after two treatments APACHE Ⅱ scores were significantly lower than before treatment（P<0.05），and the APACHE Ⅱ score in observation group was less than that in the control group after treatment （P<0.05）； the control group before and after treatment of intestinal dysfunction score had no significant difference（P>0.05），but the observation group care and bowel dysfunction scores were significantly lower than pre-treatment and post-treatment control group（P<0.05）； （2）the two groups after treatment plasma D- lactate levels were significantly lower than care before （P<0.05），and the observation group's D- plasma lactate levels were significantly lower than the control group after treatment （P<0.05）. Conclusion Early cluster nursing preventive effect on bowel function in patients with sepsis in children significantly and should be promoted in clinical applications.
+　　[Key words] Pediatric sepsis； Cluster nursing； Preventive effect； Bowel function
+　　脓毒症是一种由感染因素而造成的全身炎性反应综合征（SIRS）。全世界每年该病的临床发病率约为180万，严重脓毒症病死率高达30%左右[1]。临床研究证实，脓毒症时发生肠功能障碍造成肠道菌群失调与细菌移位，是造成多脏器功能衰竭（MODS）的始动因素，肠道作为体内最大的一种免疫器官、储菌库以及内毒素库，参与了MODS的病理生理学过程[2，3]。由此可以得知，对脓毒症患者肠功能障碍进行早期干预具有十分重要的临床价值与现实意义，是预防MODS发生、发展的关键环节。本研究选取80例小儿脓毒症患者作为研究对象，向其提供早期集束化护理干预模式，有效地改善了患儿的胃肠功能，现报道如下。   　　1 资料与方法
+　　1.1 一般资料
+　　选取2011年12月～2014年10月入住我院的80例小儿脓毒症患者，均符合脓毒症临床诊断标准。将其按照护理方式随机分为对照组（n=40）与观察组（n=40）。对照组中男23例，女17例；年龄3～10岁，平均（5.40±0.38）岁；感染源：呼吸道14例，菌血症12例，腹腔感染10例及不明原因4例。观察组中男22例，女18例；年龄4～10岁，平均（5.65±0.45）岁；感染源：呼吸道13例，菌血症14例，腹腔感染9例及不明原因4例。两组患儿的一般资料比较差异均无统计学意义。
+　　1.2 入选标准[4]
+　　①年龄≤12岁；②存在高度疑似或者确切感染，且具备典型的脓毒症症状；③实验室检测证据支持浓度诊断；④临床资料完整；⑤经医院伦理委员会批准，且经患儿家属知情同意。
+　　1.3 排除标准[5]
+　　①器官功能障碍或者衰竭；②无法复苏的临终状态；③存在既往胃肠道重建术史；④发病前长时间胃肠道功能出现紊乱或近一个月胃肠道急症；⑤入住ICU<72 h或主动要求出院；⑥并发恶性肿瘤、长期免疫抑制治疗或者免疫功能低下；⑦肝肾功能不全；⑧未经医院伦理委员会批准，且未经患儿家属知情同意。
+　　1.4 护理方法
+　　两组患儿均根据2012年国际脓毒症指南加以治疗。对照组根据肠功能障碍进行常规护理干预，主要包括：①若出现腹胀时给予禁食、胃肠减压以及肛管排气等；②给予胃肠动力药物辅助治疗；③胃肠功能恢复后给予肠内营养支持，注意尽量少进食易产气的食物。观察组在此基础上联合集束化护理方案，主要包括：①集束化护理培训：对参与脓毒症患儿护理的医务工作者进行集束化护理操作、规范要求等相关培训，待考核合格之后实施临床护理干预；③严格的无菌操作：主要包括手清洁消毒、环境、设备、器械及侵入性操作等均严格遵循无菌操作的原则，并注意定期进行检查。③导管维护：导尿管、输液管、PICC管、鼻胃管及引流管等导管通畅，防止出现逆流情况，细菌定植。④留置鼻胃管：作为肠内营养输送通道，可及时对胃肠内容物的量及性质进行监测、观察，必要的时候可将胃内容物吸出，便于缓解腹内压。⑤早期肠内营养：按照2010年的德国脓毒症指南推荐使用的肠内营养，患者取半坐卧位，按照肠内营养方案配置新鲜营养液，使其温度维持在37℃左右，每天定时经鼻胃管遵循浓度由低到高、由慢到快泵入，并注意对出现的不良反应采取预防措施。⑥清洁灌肠：每日至少3次给予清洁灌肠，及时将肠内排泄物排空，便于促进肠道蠕动，避免直肠内容物长时间滞留而导致的吸收内毒素或者肠道细菌移位。⑦对肠鸣音及腹肌进行检查：每日至少3次对患者肠鸣音进行检查，正常肠鸣音约（4～5）次/min，数分钟听到1次即为肠鸣音减弱，5 min未听到肠鸣音叩击腹部仍未见肠鸣音则结果可能为肠鸣音消失。通过触摸检查腹肌紧张程度，清醒患儿应询问其腹痛情况，判断腹膜刺激征是否存在。⑧物理促进胃肠蠕动：在清洁腹部皮肤表面之后使用少量无菌甘油润滑沿着脐周进行顺时针轻度按摩，患者可配合的条件下进行腹式呼吸运动，或者可配合两侧天枢穴以及足三里等穴位进行按揉，以促进胃肠道蠕动，避免尖锐物体与皮肤相接触。
+　　1.5 评分方法
+　　急性生理学及慢性健康状况评分系统（APACHE Ⅱ评分）[6]：总得分为71分，分值越高，表明病情越严重；肠功能障碍评分[7]：1～3分，分值越高，则表明病情越严重。
+　　1.6 观察指标
+　　比较两组患儿护理干预前后急性生理学及慢性健康状况评分系统（APACHE Ⅱ评分）、肠功能障碍评分、D-乳酸水平变化情况。
+　　1.7 统计学方法
+　　采用SPSS18.0统计学软件进行分析，计量资料均以（x±s）表示，采用t检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组护理干预前后APACHE Ⅱ评分及肠功能障碍评分对比
+　　两组护理后APACHE Ⅱ评分均显著小于护理前（P<0.05），且观察组护理后APACHE Ⅱ评分小于对照组（P<0.05）；对照组护理前后肠功能障碍评分差异无统计学意义（P>0.05），但观察组护理后肠功能障碍评分显著小于护理前及对照组护理后（P<0.05），见表1。
+　　表1 两组护理干预前后APACHE Ⅱ评分及肠功能障碍评分比较
+　　（x±s，分）
+　　注：与本组护理前，*P<0.05；与对照组护理后，△P<0.05
+　　2.2 两组护理干预前后血浆D-乳酸水平变化对比
+　　两组护理后血浆D-乳酸水平均显著小于护理前（P<0.05），且观察组护理后血浆D-乳酸水平显著小于对照组（P<0.05），见表2。
+　　表2 两组护理干预前后血浆D-乳酸水平变化比较（x±s，μg/mL）
+　　3 讨论
+　　脓毒症严重炎性反应会导致胃肠道功能障碍，并出现一定的损伤，胃肠道黏膜结构损坏，免疫功能低下，菌群功能失调，内毒素以及肠源性病菌进入血液循环系统之中，形成内毒素血症或者菌血症，从而显著地加重了患者全身性感染病情，诱发MODS[8]。肠道屏障依赖于肠道黏膜完整性、肠道免疫系统、肠道黏膜分泌物以及肠道正常菌群等。脓毒症早期肠道黏膜以及局部免疫功能可受累，肠道黏膜微循环畅通性较差，毒素及炎性细胞因子浸润，对胃肠黏膜的完整性产生了一定的破坏，从而使得肠道屏障防御功能显著降低；D-乳酸源于肠道细菌酵解，可透过受损肠黏膜而进入血液循环之中。临床研究表明[9]，血浆D-乳酸水平能够直接地反映肠道屏障功能。本研究中，两组患儿在护理干预前外周血浆D-乳酸水平均处于较高的水平，表明脓毒症患者早期肠道屏障受损。肠源性假说认为，肠道毒素以及细菌的迁移可能成为加重患儿病情的始动原因。所以，早期给予胃肠功能保护干预非常重要。   　　集束化护理属于一系列捆绑型的护理干预策略，通过循证收集相关有效改善结局的护理干预对策其中某一项措施及与其他措施相互协助也可独立存在，对于不符合某一项所示适应证的患儿则可不必强制执行，具有集中性的高效及独立性的灵活两大特征[10，11]。本研究观察组采用集束化护理干预的模式，包括严格的无菌操作、导管维护、留置鼻胃管、早期肠内营养、清洁灌肠、对肠鸣音及腹肌进行检查、物理促进胃肠蠕动等干预措施，结果表明：两组护理后APACHE Ⅱ评分均显著小于护理前（P<0.05），且观察组护理后APACHE Ⅱ评分小于对照组（P<0.05）；对照组护理前后肠功能障碍评分差异无统计学意义（P>0.05），但观察组护理后肠功能障碍评分显著小于护理前及对照组护理后（P<0.05）；两组护理后血浆D-乳酸水平均显著小于护理前（P<0.05），且观察组护理后血浆D-乳酸水平显著小于对照组（P<0.05）。此结果表明集束化护理干预通过保护胃肠道的功能，促进胃肠道生理功能恢复，从而有效地预防了胃肠功能障碍，改善患者预后。
+　　综上所述，早期集束化护理对小儿脓毒症患者肠功能的预防效果显著，应在临床上进行推广、应用。
+
+

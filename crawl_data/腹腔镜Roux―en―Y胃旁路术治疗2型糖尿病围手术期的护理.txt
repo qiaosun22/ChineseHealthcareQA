@@ -1,0 +1,23 @@
+
+　　4月-2015年4月收治的54例2型糖尿病患者，按照随机数字表法将其划分为对照组与围手术期组，每组27例，两组患者均接受腹腔镜Roux-en-Y胃旁路术治疗，对照组患者接受手术期间一般护理流程，围手术期组接受术前、术中及术后等全程护理措施，观察满意度评价。结果：对照组患者临床服务满意度为66.67%，围手术期组为88.89%，对照组明显较低，差异有统计学意义（P<0.05）。结论：对于2型糖尿病肥胖患者而言，实施腹腔镜Roux-en-Y胃旁路术手术治疗，做好围手术期护理措施，患者均对临床服务感到满意。
+　　doi：10.14033/j.cnki.cfmr.2017.13.036 文献标识码 B 文章编号 1674-6805（2017）13-0072-03
+　　【Abstract】 Objective：To summarize the measures of perioperative nursing care for patients with type 2 diabetes mellitus treated by laparoscopic Roux-en-Y gastric bypass Method：54 patients with type 2 diabetes mellitus admitted to the author’s hospital from April 2014 to April 2015 were divided into control group and perioperative period group as random number method，with 27 cases of each group.The patients in both groups were treated with laparoscope Roux-en-Y gastric bypass，the control group was given general nursing process，the perioperative period group was given whole nursing measures，the satisfaction assessment of the two groups were observed.Result：The satisfaction rate of the control group was 66.67%，and the perioperative period group was 88.89%， the control group was significantly lower，the difference was statistically significant（P<0.05）.Conclusion：For patients with type 2 diabetes obese patients，the implementation of laparoscopic Roux-en-Y gastric bypass surgery and perioperative care measures，patients are satisfied with the clinical services.
+　　【Key words】 Type 2 diabetes mellitus； Operation； Nursing； Influence
+　　有学者提出观点称，对于2型糖尿病患者实施腹腔镜Roux-en-Y胃旁路术治疗可有效控制患者血糖变化[1]。上述手术目的是改变机体内肠道结构，缩减胃功能范围，手术过程中需由医师将患者胃部划分为上下两部，缩小容纳食物的部分，后在胃部做一条通路与小肠连接，改变患者肠道位置，将食物经过消化道位置稍作改变，以达到降低机体吸收功能目的，从而帮助患者减肥。本文总结对于2型糖尿病患者实施腹腔镜Roux-en-Y胃旁路术治疗期间的围手术期护理措施，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取笔者所在医院2014年4月-2015年4月收治的54例2型糖尿病患者为研究对象，所有患者均符合2型糖尿病诊断标准；所有患者病史均在（5.6±1.1）年，所有患者肥胖指数（BMI）平均为（33.24±1.67）kg/m2。本次研究已取得所有患者本人同意且符合手术指征[2]；患者术前1周停止服药，通过实施皮下注射胰岛素控制血糖，保证患者术前血糖范围维持在5.56 mmol/L以上。按照随机数字表法将其划分为对照组与围手术期组，每组27例，对照组男19例、女8例，平均年龄 （48.4±2.9）岁；围手术期组男21例、女6例，平均年龄（46.5±3.2）岁。两组患者基本资料比较差异无统计学意义（P>0.05）。
+　　1.2 方法
+　　对照组患者手术期间接受常规护理措施，包括手术前记录患者体重指数、全面检查患者各项器官功能、做好病情整体评估工作，为患者进行常规手术知识宣教，缓解患者不良心理。术前1周需指导患者停止服药，改用胰岛素注射以保持血糖值稳定，术前做好饮食指导工作，术后积极监测患者体征变化情况，定时监测血糖，且需为患者提供各种导管护理措施，出院后做好健康宣教工作。
+　　围手术期组做好术前检查手段，包括自身免疫性糖尿病抗体检测、口服糖耐量试验等，评估患者各项检查结果。术前积极用药控制血糖，做好手术知识说明，缓解不良情绪，告知患者糖尿病疾病发展对机体其他心脑器官的?p害，术前为患者加强夜间巡视护理，观察呼吸表现，术中监测血糖，防止出现低血糖表现，及时用药。术后为患者做好麻醉苏醒期护理服务，及时判断机体疼痛表现，遵医嘱实施镇痛护理，保持舒适卧位，及时清理呼吸道，做好体征监测，提供吸氧护理，观察术中留置引流管情况，为患者提供口腔清洁护理，监测体温变化，做好抗感染治疗。告知家属术后饮食要点，应坚持少食多餐、流食为主的原则，注意加强术后伤口护理，及时更换，为患者提供雾化用药，促进痰液排出，及时鼓励患者离床活动，防止出现下肢深静脉血栓。及时发现患者术后并发症情况，如伤口感染等，为患者做好出院指导，告知其术后低血糖表现及处理措施，定期告知患者来院复查[3-4]。   　　1.3 ?^察指标
+　　总结患者满意度，分为完全满意、一般、不满意三个等级。完全满意：患者对于围手术期健康教育、心理安抚、用药及手术伤口、引流管、护理服务态度等措施均表示满意，身心需求得到满足，主诉满意；一般：患者提出护理过程中可改进方面；不满意：主诉不满意。满意度=（完全满意例数+一般例数）/总例数×100%[5]。
+　　1.4 统计学处理
+　　采用SPSS 18.0软件对所得数据进行统计分析，计量资料以（x±s）表示，采用t检验；计数资料以率（%）表示，采用字2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　对照组护理满意度为66.67%，明显低于围手术期组的88.89%，差异有统计学意义（P<0.05），见表1。
+　　3 讨论
+　　围手术期意指患者在接受某种手术治疗的术前、术中及术后等全部时间，由于2型糖尿病患者及其家属对于腹腔镜Roux-en-Y胃旁路术手术不甚了解，对手术效果、过程与方法等均存在担忧情绪[6-7]。
+　　针对此种现状，术前积极了解患者日常饮食习惯，询问家属患者排便习惯与饮食特点，既往糖尿病用药史与病情控制情况，积极血糖监测，术中严密配合医师操作，术后需严密监测患者生命体征变化情况，常规麻醉监护半小时后，安全护送患者返回病房，进行心电监护，术后2 d内实施肠外营养补充，2 d后为患者提供肠内营养，术后注意查看切口及引流情况；做好患者出院后健康指导工作，进行电话随访，出院前教会患者及家属正确使用血糖仪，以便患者可以在家庭中监测血糖，指导饮食原则，嘱咐患者应保持适度的运动，提高机体免疫力[8-10]。
+　　综上所述，对于2型糖尿病肥胖患者而言，实施腹腔镜Roux-en-Y胃旁路术手术治疗，不仅可以帮助患者有效控制血糖、通过临床合理有效的护理措施，包括健康指导、知识宣教、饮食与运动指导、血糖监测等。术前做好心理疏导护理，帮助患者缓解内心不良情绪，与家属详细解释手术基本流程，告知术中注意事项，术后实时监测血糖变化，做好出院指导与随访护理，大部分患者对临床护理服务感到满意。
+
+

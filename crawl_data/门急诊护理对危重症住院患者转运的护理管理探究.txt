@@ -1,0 +1,28 @@
+
+ 　　【摘要】 目的：分析急诊护理对危重症住院患者转运的护理管理的应用价值。方法：选取2013年8月-2014年8月笔者所在医院接收的急诊危重症住院患者120例作为观察组，采取风险管理及护理。另选取2011年8月-2013年7月笔者所在医院接收的急诊危重症住院患者120例作为对照组，对其采取传统转运方式，对两组患者的转运效果进行对比。结果：观察组转运过程中意外发生率和死亡率均明显低于对照组（P<0.05）；观察组转运接收科室不知病情、转运不当以及送错科室发生率均明显低于对照组（P<0.05）。结论：针对急诊护理患者在院内转运过程中采取相对应的风险管理以及护理干预，可以使危重患者在转运过程中的安全性明显提高，具有临床推广价值。
+　　中图分类号 R473 文献标识码 B 文章编号 1674-6805（2016）13-0071-02
+　　【Abstract】 Objective：To analyze the application value of nursing management of emergency nursing on transport of hospitalized patients with critically ill.Method：120 hospitalized patients with critically ill in our hospital from August 2013 to August 2014 were selected as the observation group，the observation group was given risk management and nursing.In addition，120 hospitalized patients with critically ill in our hospital from August 2011 to July 2013 were selected as the control group，the control group was given the traditional transport way.The transfer effects of the two groups were compared.Result：The observation group in the transport process of accident incidence and mortality rates significantly lower than those in control group（P<0.05）.The observation group received the transfer of the receiving department did not know the condition，the transfer of improper and the delivery of the wrong section rates were significantly lower than those in control group（P<0.05）.Conclusion：According to the risk management and nursing intervention of emergency nursing patients in hospital，the safety of critical patients can be improved obviously，which has the value of clinical application.
+　　【Key words】 Out-patient and emergency department nursing； Critically ill in hospital； Transport； Nursing management
+　　First-author’s address：Nanning Second People’s Hospital， Nanning 530031，China
+　　急诊科是抢救危重症患者的最前沿，其相关病情变化较为复杂，必须要到其他科室进行临床检查以及诊治，在转运过程中由于病情不稳定、人员配备不足等相关因素，造成患者生命安全隐患。根据相关临床数据统计证实[1]，大约70%的转运患者在转运过程中出现轻微甚至严重的并发症。本文选取2013年8月-2014年8月笔者所在医院接收的120例急诊危重症住院患者作为观察组，对其相关资料给予回顾性分析，现报告如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2013年8月-2014年8月笔者所在医院接收的急诊危重症住院患者120例作为观察组，其中男67例，女53例，年龄18～69岁，平均（43.6±3.5）岁。另选取2011年8月-2013年7月笔者所在医院接收的120例急诊危重症住院患者作为对照组，其中男72例，女48例，年龄20～73岁，平均（46.5±4.1）岁。两组患者一般资料比较差异无统计学意义（P>0.05），具有可比性。
+　　1.2 方法
+　　1.2.1 转运前全面评估 危重症患者在转运途中会出现各种各样的并发症，急诊科医护人员要对其可行性给予全面评估。当患者一定要采取院内转运，但患者生命体征不平稳时，需要主管医师随同，同时明确告知转运的风险，并征得患者或其家属签字同意[2]。
+　　1.2.2 转运途中的护理 （1）转运的时候应该有效固定患者，使患者保持安全体位；（2）在转运途中对患者各项生命体征观察指标给予密切监测，采取简短对话对患者意识变化给予判断，发生意识障碍的时候应随时注意患者瞳孔变化；（3）随时做好应急处理措施，患者生命体征发生异常情况时，应该立即停止转运，并就地实施抢救[3]。   　　1.2.3 转运后的护理 待患者顺利转运到目的地后，护送人员一定要协同接收科室护士将患者转换到预先准备好的病床[4]，并且做好转运患者的相关资料、病情交接班，交接班内容可以采取专门设计的交接记录表，其内容包括转运前患者的生命体征、初步诊断、特殊使用药物情况、液体出入量、各个管道在位情况以及皮肤情况等，同时需要双方科室交接人员签字[5]。
+　　1.3 观察指标
+　　对两组患者的转运过程当中的意外发生率、死亡率以及转运接收科室不满情况给予记录和对比。
+　　1.4 统计学处理
+　　采用SPSS 16.0软件对所得数据进行统计分析，计量资料用均数±标准差（x±s）表示，比较采用t检验；计数资料以率（%）表示，比较采用字2检验。P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者转运过程中意外发生情况比较
+　　观察组转运过程中意外发生率和死亡率均明显低于对照组（P<0.05），详见表1。
+　　2.2 两组患者转运接收科室不满情况比较
+　　观察组患者转运接收科室不知病情、转运不当以及送错科室发生率均明显低于对照组（P<0.05），详见表2。
+　　3 讨论
+　　现今，随着临床急诊医学的日益发展以及社会需求逐渐提高，急诊以及各种意外事故发生率每年呈递增趋势，因此除了急诊科室进行急救措施以外，如何安全转运危重症患者，已经成为急救过程中的关键环节[6]。
+　　为了能够确保院内安全转运，就一定要提高安全意识以及风险意识，对患者相关病情变化给予全面评估，做好院内安全转运前准备工作以及预处理，转运过程的监护以及记录等，使患者能够安全到达专科医院进行下一步的治疗，使患者生命安全得到保障。转运危重症患者属于一个连续监护、治疗以及护理的过程。所以，对危重症患者进行院内转运，在转运前正确的评估，给予恰当的保护措施是安全转运的保证。做好人员、器材以及药品的准备工作，在转运过程中保持监护以及抢救措施不予间断，对可能出现的各种意外情况做好相对应的处理措施，可以使危重症患者院内转运的风险性以及伤残性得到有效性的预防和降低[5]。本文结果显示，观察组转运过程中意外发生率和死亡率均明显低于对照组（P<0.05）；观察组患者转运接收科室不知病情、转运不当以及送错科室发生率均明显低于对照组（P<0.05），和文献[5]结果相一致。
+　　总之，针对急诊护理患者在院内转运过程当中采取相对应的风险管理以及护理干预，可以使危重患者在转运过程当中的安全性明显提高。
+
+

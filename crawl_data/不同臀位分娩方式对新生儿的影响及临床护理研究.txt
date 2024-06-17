@@ -1,0 +1,29 @@
+
+ 　　[摘要]目的 探讨不同臀位分娩方式对新生儿的影响，提高母婴健康的分娩方式及护理措施。方法 回顾性分析2014年3月～2016年4月本院收治的臀位分娩的妊娠病例317例，283例采用剖宫产分娩（A组），另34例采用经阴道分娩（B组），比较两组新生儿体重、死亡率及并发症等情况。结果 A组体重低于3.00 kg的新生儿占总数42.76%（121例），而B组为21例，占总数61.76%，B组明显高于A组，差异有统计学意义（P<0.05）。两组均未见死亡病例。A组颅内出血3例（1.06%）、吸入性肺炎为6例（2.12%），且并未发现产伤，并发症发生率为3.18%；B组1例颅内出血（2.94%）、2例吸入性肺炎（5.88%）、3例产伤（8.82%），并发症发生率为17.65%，差异有统计学意义（P<0.01）。A组Apgar评分为（7.26±1.06）分，B组评分为（4.57±1.20）分，差异有统计学意义（P<0.05）。结论 及时发现胎位异常，积极做好孕妇保健，可提高母婴的预后。
+　　[中图分类号] R248.3 [文献标识码] A [文章编号] 1674-4721（2016）12（b）-0190-03
+　　The study of the inference of different breech delivery modes on infants and relevant nursing measures
+　　ZHU Xi-mei WU Wei-fang YE Xiao-ying
+　　Department of Pediatrics，Dongping Branch Courth of the Third People′s Hospital of Huizhou City in Guangdong Province，Huizhou 516002，China
+　　[Abstract]Objective To explore the prognosis of different breech delivery modes on infants and discuss methods of delivery and nursing measures to improve maternal and infant health.Methods Retrospective analysis of 317 cases of breech delivery clinical data in our hospital from March 2014 to April 2016，283 cases of cesarean section （group A），34 cases of vaginal delivery （group B），the neonatal weights，the neonatal deaths and complications of two groups were compared.Results Newborns with a lower than 3.00 kg of group A was 42.76%（121 cases），the group B was 61.76%（21 cases），the group B was higher than that of group A，the difference was significant（P<0.05）.There were no one case died in two groups.There were 3 cases（1.06%）intracranial hemorrhage，6 cases（2.12%）aspiration pneumonia in group A and none of birth injury，the incidence rate of cornplication was 3.18%.However，there was 1 cases（2.94%） intracranial hemorrhage，2 cases（5.88%）aspiration pneumonia and 3 cases（8.82%）birth injury in group B，the incidence rate of cornplication was 17.65%，the difference was significant（P<0.01）.The Apgar score of group A was （7.26±1.06） scores，the group B was （4.57±1.20） scores，the difference was significant（P<0.05）.Conclusion Detection timely of abnormal fetal position and carry out maternal health actively always can improve maternal and infant prognosis.
+　　[Key words]Breech delivery；Neonatal complications；Vaginal delivery；Cesarean section；Maternity nursing
+　　臀位是?D产科常见的异常胎位之一，亦是增高围生儿死亡率风险的原因之一。据报道，该体位分娩方式多发生在妊娠30周前，占妊娠足月分娩总数的3%～4%。虽然发生概率较低，但是臀位分娩对胎儿的负面影响不可忽略[1-3]，如脐带脱垂、胎臂上举、后出头困难等。当臀位分娩方式处理不当时，很容易造成颅内出血、新生儿窒息、死产等严重后果，因此，如何选择合适的分娩方式，护理人员如何针对性的辅助，对新生儿预后和母体健康有着很重要的意义[4-6]。剖宫产分娩和经阴道分娩是常见的两种分娩方式，本文回顾性分析不同分娩方式中护理臀位产妇的的影响，探讨何种分娩方式更有利，现报道如下。   　　1资料与方法
+　　1.1一般资料
+　　回顾性分析2014年3月～2016年4月本院收治的臀位分娩的妊娠患者317例。其中，283例采用剖宫产分娩（A组），年龄29～37岁，平均（31.55±2.61）岁；妊娠32～43周，平均（37.98±3.06）周。另34例采用经阴道分娩（B组），年龄27～37岁，平均（31.37±2.88）岁；妊娠33～42周，平均（38.26±3.17）周。入院检查均提示单胎臀位，所有产妇无感染性疾病或存在严重心、肝、肾系统性疾病，且胎盘、胎儿、羊水正常。两组患者由同一优秀的护理团队进行护理，两组产妇的基本身体情况、胎儿状态、护理人员水平等一般资料比较，差异无统计学意义（P>0.05），具有可比性。
+　　1.2方法
+　　A组行剖宫产分娩方法，即先行硬膜外麻醉，再行剖宫产术，术后正确使用抗感染药物预防感染。B组行阴道正常分娩，密切观察将要临产产妇的各项生命指征，尤其是存在规律且逐渐增强的子宫收缩的产妇需要格外注意。根据产妇实际情况，选择合适的臀牵引产、臀助产方法。在出现分娩指征后，需要对产妇的体温、血压等生命体征进行密切监测，预防突发情况。同时，对患者的过敏史、禁忌等需要仔细了解，降低死产、产后出血等并发症的风险。对行剖宫产的患者需要积极抗感染治疗，因为其创伤会较阴道分娩严重。产褥感染则是因为病原体侵入患者阴道和宫颈内，随着子宫收缩加强后，寄生在下生殖道的致病菌可上行感染，因此，在生产过程中注意消毒防患，加强卫生管理。鼓励患者母乳喂养，尽早活?樱?这样可以加快身体恢复，同时注意子宫复旧，预防粘连。对待患者，每位沟通人员须以真诚耐心的态度交流，建立与产妇之间较为理想的信任纽带。帮助患者了解分娩知识、产褥期护理及母乳喂养知识，增加其配合性，增强信心。面对不同性格的患者，需要灵活改变沟通技巧、积极应对问题。一些产妇天生性格内向，沟通不畅，外加上适应环境与角色转化的能力较差，需要护理人员更多的耐心与爱心，多主动帮助她们，又不损伤其自尊心。
+　　1.3评判标准
+　　新生儿指标：体重、死亡率，并发症（颅内出血、吸入性肺炎、产伤）。
+　　新生儿Apgar评分：在婴儿出生后，根据皮肤颜色、心搏速率、呼吸、肌张力及运动、反射五项体征进行评分，<4分考虑有重度窒息；<7分的新生儿考虑有轻度窒息；满10分者为正常新生儿[10-13]。
+　　1.4统计学处理
+　　数据用Excel制表，输入原始资料，根据不同类别进行分类汇总分析，采用SPSS 17.0统计学软件对数据进行分析，计数资料采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1两组新生儿体重及死亡率的比较
+　　两组新生儿体重分布比较，差异有统计学意义（P<0.01），两组均未见死亡病例（表1）。
+　　2.2两组并发症情况的比较
+　　A组并发症发生率为3.18%，B组并发症发生率为17.65%，差异有统计学意义（P<0.01）（表2）。
+　　2.3两组新生儿Apgar评分的比较
+　　A组评分为（7.26±1.06）分，而B组评分为（4.57±1.20）分，差异有统计学意义（P<0.05）。
+　　3讨论
+　　臀位在临床上的定义是指分娩时新生儿先露部位为臀，是异常胎位中的一种。臀先露压迫宫颈的力度不均，造成胎膜早破和脐带脱垂等[7-8]。臀位又可分为单臀、完全臀、不完全臀，前两者多能显示子宫口已开全，阴道充分扩张，而最后一种需要在宫缩时用手堵住阴道口，避免胎儿足脱出[9-11]。正常分娩时，因为胎儿臀围较头围小，头部先出，其他部分亦可迅速娩出[12-13]。臀位分娩则易发生难产，胎儿可能因受压脐带时间过长，缺氧、窒息致死[14-15]。由于期间各种突发情况，需要护理人员随时准备好接产用物、药品、器械。实时监测孕妇血压等变化，遇到患者及其家属情绪相当不稳定者，护理人员需要耐性认真地安抚其心情，遇事冷静，不能因为患者的情绪波动而受影响[16]。本文通过对比选择经阴道分娩及剖宫产分娩的结果发现，选择剖宫产分娩的产妇生产的低体重新生儿远比经阴道分娩的概率低。新生儿体重常作为新生儿是否健康的一个较为直观的指标，可提示剖宫产分娩更能给予新生儿良好预后的保障。再对比两组新生儿的并发症，选择剖宫产分娩的产妇生产的新生儿存在颅内出血、吸入性肺炎，且并未发现产伤。而选择经阴道分娩的新生儿中，这三项并发症均有发生，且发生率明显高于前者，当然，两组均未见死亡病例。根据皮肤颜色、心搏速率、呼吸、肌张力及运动、反射五项体征做出的Apgar评分亦验证剖宫产分娩的优势。剖宫产分娩组新生儿为评分明显高于经阴道分娩组新生儿评分，因此，在臀位分娩中，宜适当放宽剖宫产手术的指征，能够明显提高新生儿 Apgar评分，降低母婴产后并发症，同时改善双方预后。
+
+

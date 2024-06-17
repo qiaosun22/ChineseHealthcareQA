@@ -1,0 +1,30 @@
+
+　　[摘要] 目的 分析循证护理在胸外科患者呼吸道管理中的实践效果。 方法 随机选取该院2012年6月―2014年6月收治的80例胸外科患者为研究对象，按照入院前后顺序将其分为两组，各40例，对照组患者给予常规呼吸道管理护理，实验组患者则在呼吸道管理中应用循证护理干预，比较两组干预前后肺功能变化、并发症发生率及护理质量评分。 结果 两组干预后FEV1[（2.90±0.04）VS（1.90±0.05）]L、FEV1/FVC[（0.59±0.02）VS（0.45±0.03）]比较差异有统计学意义（P<0.05）。实验组并发症发生率5.0%，与对照组的32.5%比较差异有统计学意义（P<0.05）。另外，实验组护理质量评分明显高于对照组（P<0.01）。 结论 胸外科患者呼吸道管理中应用循证护理，能明显改善患者肺功能，减少并发症发生，护理质量高，值得临床推广。
+　　[中图分类号] R5 [文献标识码] A [文章编号] 1674-0742（2015）04（c）-0134-03
+　　[Abstract] Objective To analyze the practical effect of evidence-based nursing on respiratory management of patients in Department of Thoracic Surgery. Methods 80 cases admitted in the Department of Thoracic Surgery of our hospital from June 2012 to June 2014 were selected as the subjects and divided into two groups， the control group and the experimental group with 40 cases in each in accordance with the order of admission. The control group were treated by the conventional respiratory nursing， while the experimental group were treated by the evidence-based nursing intervention based on the conventional respiratory nursing. And the pulmonary function， incidence of complications and nursing quality score before and after nursing intervention were compared between the two groups. Results After intervention， compared with the control group， the FEV1 of the experimental group was much better [（2.90±0.04） VS （1.90±0.05）]L， and the FEV1/FVC was much better[（0.59±0.02） VS （0.45±0.03）]， the differences were statistically significant（P<0.05）. The incidence of complications in the experimental group was 5.0%， and that in the control group was 32.5%， the difference was statistically significant（P<0.05）. In addition， the nursing quality score of the experimental group was significantly higher than that of the control group（P<0.01）. Conclusion Evidence-based nursing applied to the respiratory management of patients in Department of Thoracic Surgery， can significantly improve the pulmonary function， reduce the incidence of complications with high nursing quality， which is worth the clinical promotion.
+　　[Key words] Evidence-based nursing； Department of Thoracic Surgery； Respiratory management； Practice effect
+　　呼吸道管理作为胸外科护理一项重要举措，在恢复呼吸肌肌力、改善肺功能、预防或减少肺部并发症上有至关重要的作用[1]。临床实践表明呼吸道管理是保证手术顺利完成的关键，有利于患者早日康复[2]。近年来一种新的护理模式――循证护理在临床上广泛应用且效果明显，该模式即护理人员依据科学证据对患者对症施护，能有效提高护理效果，降低并发症发生率。基于此，本研究对该院胸外科患者呼吸道管理中应用循证护理干预，报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　随机选取该院2012年6月―2014年6月收治的80例胸外科患者为研究对象，按照入院前后顺序将其分为对照组和实验组，各40例，对照组中男25例，女15例，年龄41～83岁，平均（67.2±6.4）岁。手术类型：食管癌切除术20例，全肺或肺叶切除术11例，肺气肿部分肺切除术4例，其他5例。实验组中男24例，女16例，年龄42～84岁，平均（68.3±6.7）岁。手术类型：食管癌切除术21例，全肺或肺叶切除术10例，肺气肿部分肺切除术5例，其他4例。对比两组年龄、手术类型等差异无统计学意义（P>0.05）。有可比性。   　　1.2 方法
+　　对照组患者采取常规呼吸道管理护理措施，实验组患者呼吸道管理中应用循证护理干预。
+　　1.2.1 循证小组成立 成立胸外科循证护理小组，由科室主任、护士长、主治医师等组成，对患者相关资料全面了解，初步确定护理方案。随后根据患者实际情况提出具体护理问题，结合过去临床呼吸道护理常见问题，如体位、咳嗽无效、配合度差等。
+　　1.2.2 寻找证据、制定护理方案 护理问题提出后，利用现有的医学书籍、网络信息等行循证资料查询。将呼吸道管理问题关键词输入计算机搜索，如“有效咳嗽”、“排痰护理”等。随后查阅、分析搜索到的文献资料，总结与护理问题相关的资料，同时考察资料的合理性与实践性。然后将获取的证据合理应用到临床护理中，根据患者具体情况制定针对性的护理方案。
+　　1.2.3 实施循证护理措施 ①术前指导。术前根据患者情况给予个性化健康教育，提高患者对疾病认识，如叮嘱患者戒烟，鼓励患者多喝水，以稀释痰液浓度，便于排痰。若患者出现肺部感染症状，则要先给予抗生素等对症治疗。指导患者自我有效咳嗽、呼吸方法，同时叮嘱患者保持口腔干净，避免感染。②术后护理。保持患者呼吸道顺畅，必要时氧疗，严密观察患者呼吸、心率、血氧饱和度等生命体征，根据患者具体情况适当调整给氧浓度及方式。患者完全清醒后帮助患者选择半坐位，促进肺扩张，提高通气量。若患者手术创伤较大，则需帮助患者有效排痰，避免肺部感染，这个过程中保护伤口。对于老年患者来说，可能存在咳嗽无力现象，则通过纤维支气管镜吸痰。③无菌操作。手术、护理等严格执行无菌操作，做好洗手、消毒工作，避免感染；定期行呼吸道分泌物培养、药敏试验，为临床用药提供依据，避免交叉感染。另外，定期清洁、消毒雾化吸入器等相关物品、设备。
+　　1.3 观察指标
+　　①肺功能变化。包括FEV1（1s用力呼气量）、FVC（用力肺活量）、FEV1/FVC等指标，干预前后通过胸部CT检查完成。②观察和记录两组患者住院期间并发症发生情况。③护理质量评分，通过自行设计的调查表完成，包括健康宣教、护理文书书写、基础护理、呼吸道管理等指标，各指标100分，分数越高提示质量越好。
+　　1.4 统计方法
+　　采用SPSS 16.0软件分析数据，计数资料用率表示，行χ2检验，计量资料均数±标准差（x±s）表示，行t检验，P<0.05时差异有统计学意义。
+　　2 结果
+　　2.1 两组患者干预前后肺功能变化情况
+　　实验组干预后FEV1、FEV1/FVC改善明显优于对照组，差异有统计学意义（P<0.05）。见表1。
+　　2.2 两组并发症发生率
+　　实验组并发症2例（5.0%），肺不张、胸腔积液各1例；对照组并发症13例（32.5%），肺不张5例，胸腔积液8例，两组并发症发生率比较差异有统计学意义（χ2=9.93，P<0.05）。
+　　2.3 两组患者护理质量评分比较
+　　实验组健康宣教、护理文书书写、基础护理及呼吸道管理评分均明显高于对照组，差异有统计学意义（P<0.01）。见表2。
+　　3 讨论
+　　胸外科手术属于较大创伤性手术，手术时间相对长且术后常伴有不同程度的肺功能损害现象，加上气管插管等侵入性操作，增加呼吸道感染、肺部相关并发症发生几率[3]。为此加强胸外科患者围手术期呼吸道管理具有十分重要的意义。
+　　循证护理作为一种新型护理模式，主要包含提出护理问题、找寻问题相关证据、提出解决问题方法、实施方案等步骤，这个过程中可以培养护理人员发现问题、自主解决问题能力，提高护理人员业务水平，进而以提高护理质量[4]。同时循证护理以科学文献资料为依据，结合患者实际情况制定针对性的护理方案，具有合理性、实用性特点，能有效将呼吸道管理护理措施落到实处，以预防或减少肺部并发症发生，缩短患者住院时间，促进患者早日康复[5]。王效惠[6]等人通过对照实验（常规护理 VS 循证护理）肯定了循证护理在改善胸外科患者肺功能、减少肺部并发症发生中的作用。该研究在前人研究上对该院收治的胸外科患者呼吸道管理中行循证护理干预，表1中可知实验组干预后FEV1、FEV1/FVC与对照组干预后比较差异有统计学意义（P<0.05），提示循证护理能有效促进患者肺功能改善，而呼吸道管理的主要目的在于改善患者肺功能，减少相关并发症，与毛朝红等人研究结果基本一致。该研究表2中可知实验组护理质量相关指标评分均明显高于对照组，提示循证护理干预能明显提高胸外科呼吸道管理质量。另外，该研究实验组患者并发症发生率明显比对照组低，且主要为肺不张、胸腔积液，与痰液阻塞有关，而造成痰液阻塞的原因包括患者依从性差、年龄大、吸痰困难等。为此需全面加强呼吸道管理，进一步帮助患者掌握有效咳嗽、排痰的方法，同时通过健康教育、案例分析等方式提高患者依从性[8]。
+　　综上所述，循证护理干预能明显改善胸外科患者肺功能，降低肺功能并发症发生率，提高临床护理质量，值得临床进一步研究。
+
+

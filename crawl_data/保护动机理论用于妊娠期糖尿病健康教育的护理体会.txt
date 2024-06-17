@@ -1,0 +1,27 @@
+
+ 　　[摘要] 目的 探讨保护动机理论用于妊娠糖尿病健康教育的护理价值。 方法 选取该院2014年5月―2015年5月收治的80例妊娠糖尿病患者为研究对象，将患者抽签随机分为观察组与对照组各40例。对照组给予常规护理方法，观察组在对照组的基础上给予保护动机理论方法进行干预，对比两组干预前后自我能力量表（ESCA）、一般自我效能感量表（GSES）评分及血糖水平。结果 两组干预后健康知识水平、自护技能、自我概念、自护责任感评分及自我护理能力总分均高于干预前，且观察组高于对照组（P<0.05）。两组干预后自我效能得分均高于干预前，且观察组高于对照组（P<0.05）。观察组干预后空腹血糖、餐后2 h血糖水平均低于干预前，且观察组低于对照组，差异有统计学意义（P<0.05）。结论 基于保护动机理论的健康教育护理措施能改善妊娠糖尿病患者自我效能水平，提高自我护理能力，有效控制血糖水平，临床应用价值高。
+　　[中图分类号] R587.1 [文献标识码] A [文章编号] 1672-4062（2017）04（b）-0028-02
+　　[Abstract] Objective To discuss the nursing value of protection motivation theory in the health education of gestational diabetes. Methods 80 cases of patients with gestational diabetes in our hospital from May 2014 to May 2015 were randomly divided into two groups with 40 cases in each， the control group adopted the routine nursing method， while the observation group adopted the protection motivation therapy for intervention on the basis of the control group， and the ESCA， GSES score and blood glucose level of the two groups before and after intervention were compared. Results After intervention， the health knowledge level， self-nursing skill， self-conception， self-nursing responsibility sense and self-nursing ability score of the two groups after intervention were higher than those before intervention， and these indexes in the observation group were higher than those in the control group（P<0.05）， after intervention， the self-efficacy scores of the two groups were higher than those before intervention， and these indexes in the observation group were higher than those in the control group（P<0.05）， after intervention， the fasting blood glucose and postprandial 2-hour blood glucose levels in the observation group were lower than those before intervention， and these indexes in the observation group were lower than those in the control group， and the differences were statistically significant（P<0.05）. Conclusion The health education nursing measures based on the protection motivation therapy can improve the self-efficacy of patients with gestational diabetes， improve the self-nursing ability and effectively control the blood glucose level， and the clinical application value is high.
+　　[Key words] Gestational diabetes； Protection motivation therapy； Nursing
+　　妊娠期糖尿病是在妊娠期间发现的一类特殊糖尿病，若患者血糖未得到控制，则出现流产、胎儿畸形、感染的?L险会明显增加[1]。因而对于患者的自我健康护理能力的要求较高。有研究显示[2]，将保护动机理论应用于健康教育可有效地改善患者的对锻炼活动的消极态度。目前，将保护动机理论应用于妊娠期糖尿病患者健康教育的研报道较少。故该文选取该院2014年5月―2015年5月收治的80例妊娠期糖尿病患者为研究对象进行研究，以探讨保护动机理论用于妊娠期糖尿病健康的护理价值，现报道如下。   　　1 资料与方法
+　　1.1 一般资料
+　　选取该院2014年5月―2015年5月80例妊娠糖尿病患者为研究对象，将患者抽签随机分为观察组与对照组各40例。纳入标准：①符合妊娠期糖尿病诊断标准[3]；②单胎妊娠；③患者均签署知情书。排除标准：①严重躯体性疾病；②存在其他并发症或妊娠期合并症；③精神功能障碍。观察组年龄21～39岁，平均（27.79±7.25）岁；孕周24～27周，平均（25.34±1.25）周；BMI（24.77±4.32）kg/m2。?φ兆槟炅?20～37岁，平均（27.64±7.13）岁；孕周25～28周，平均（26.57±1.30）周；BMI（24.81±4.12）kg/m2。两组年龄、孕周、BMI等一般资料比较差异无统计学意义（P>0.05），具有可比性。
+　　1.2 方法
+　　（1）对照组给予常规护理干预，参加医院举办的健康知识讲座，进行常规饮食、运动指导，由护士指导患者进行血糖监测，嘱咐患者定期产检。（2）观察组在对照组的基础上以保护动机理论指导护理，产检时一对一指导，每周1次电话随访，并建立QQ群，具体干预措施如下。①严重性。讲述妊娠期糖尿病发病的高危因素及发病机制，告知患者不良生活方式对疾病造成的影响，让患者更加了解疾病严重程度。②内部回报、外部回报。探讨患者疾病管理过程中可能存在的问题。③提高自我效能。向患者介绍孕期饮食原则及营养需求；嘱咐患者可进行适当运动，并告知患者合适的运动种类、频率、时间及运动禁忌。④提高反应效能。通过电话随访及QQ平台监督患者记录膳食日记、血糖水平监测值，有利于提高患者健康行为能力，进而提高反应效能。两组护理干预时间均为16周。
+　　1.3 观察指标
+　　①比较两组干预前、干预16周后自我护理能力评分。采用ESCA量表[4]评估患者自我护理能力，该量表包括自我护理技能、健康知识水平、自我概念、自护责任感4个维度，分值范围0～172分；分数越低，自我护理能力越差。②比较两组干预前、干预16周后自我效能得分。采用GSES量表[5]评定患者自信心，总分40分；分数越高，表示患者自信心越强。③比较干预前、干预16周后空腹血糖、餐后2 h血糖水平。使用生化分析仪测定患者空腹血糖和餐后2 h血糖水平。
+　　1.4 统计方法
+　　选用SPSS 19.0统计学软件对研究数据进行分析和处理，计量资料采取（x±s）表示，组间对比进行t检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组自我护理能力评分比较
+　　观察、对照组干预后健康知识水平（47.20±6.18）分、（43.16±6.02）分、自护技能（30.12±2.95）分、（27.05±2.83）分、自我概念（20.03±2.98）分、（17.82±2.73）分、自护责任感评分（19.72±2.35）分、（17.62±2.21）分及自我护理能力总分（115.37±15.29）分、（107.41±14.32）分均高于干预前，且观察组高于对照组，差异有统计学意义（P<0.05）。
+　　2.2 两组自我效能得分比较
+　　观察组干预前、后自我效能得分分别为（23.74±1.34）分、（32.16±2.48）分，对照组干预前、后自我效能得分分别为（25.26±1.58）分、（29.11±2.36）分。两组干预后自我效能得分均高于干预前，且观察组高于对照组（P<0.05）。
+　　2.3 两组空腹血糖、餐后2 h血糖水平比较
+　　观察组干预后空腹血糖、餐后2 h血糖水平均低于干预前，且观察组低于对照组（P<0.05）。见表1。
+　　3 讨论
+　　我国妊娠期糖尿病患病率为3%～5%。妊娠期糖尿病主要指孕妇在妊娠期间存在空腹血糖或糖耐量异常。如果患者血糖控制不佳可能会导致感染、视力下降等糖尿病并发症，还会增加流产、剖宫产、早产风险。此类患者在进行规范治疗的同时还需实施健康教育，以提高患者自我护理能力，达到有效控制血糖水平的目的。近年来，将保护动机理论用于提高患者的自我护理能力方面的报道越来越多。
+　　保护动机理论可提升患者自护水平，有效控制血糖水平。该研究显示，基于保护动机理论制定的健康教育方案应用于妊娠糖尿病健康教育可改善患者自我效能水平及自我护理能力，与上述结论相符。保护动机理由健康信念模式发展而来，可帮助患者掌握正确的运动、饮食及血糖监测方法，促使患者改正不良行为习惯，进而全面提高自我护理知识、责任感、信心、技能，自我效能与自我护理能力密切相关，高水平自我效能在保证妊娠糖尿病健康中占有重要意义。基于保护动机理论的健康教育可促使患者积极参与自身疾病管理，进而可提高自我效能水平。观察组患者妊娠糖尿病患者自我护理能力、自我效能水平优于对照组，可更好的控制血糖水平。
+　　综上所述，保护动机理论用于妊娠糖尿病健康教育可提高患者自我效能水平及自我护理能力，改善控制血糖水平，值得在临床推广使用。
+
+

@@ -1,0 +1,23 @@
+
+ 　　【摘要】 目的 探讨护理干预对于传染病院血浆置换患者输血焦虑的影响。方法 90例接受血浆置换治疗的重型肝炎患者， 随机分为干预组和对照组， 每组45例。干预组采用多项人文关怀的护理干预措施， 对照组应用常规专科护理。两组干预前后均采用焦虑自评量表（SAS）进行评分， 并比较两组患者对血浆置换的接受程度及满意度。结果 干预后干预组SAS评分（40.0±8.2）分优于对照组（47.2±9.6）分， 差异具有统计学意义（P<0.05）。干预后干预组对血浆置换的接受程度及满意度均优于对照组， 差异具有统计学意义（P<0.05）。结论 护理干预是减轻传染性疾病患者输血焦虑的有效方法， 是促进患者康复的重要措施之一。
+　　DOI：10.14163/j.cnki.11-5547/r.2016.17.151
+　　Nursing intervention of blood transfusion anxiety in plasma exchange patients of infectious disease hospital CONG Wen-qing， WANG Ming-min. Qingdao City Sixth People’s Hospital， Qingdao 266000， China
+　　【Abstract】 Objective To investigate influence by nursing intervention on blood transfusion anxiety in plasma exchange patients of infectious disease hospital. Methods A total of 90 severe hepatitis patients receiving plasma exchange were randomly divided into intervention group and control group， with 45 cases in each group. The intervention group received nursing intervention by multiple humanistic care measures， and the control group received conventional and specific nursing. Self-rating anxiety scale （SAS） were taken in both groups before and after treatment， and comparison was made on plasma exchange acceptance level and satisfaction degree between the two groups. Results The intervention group had better SAS score as （40.0±8.2） points after intervention than （47.2±9.6） points of the control group， and their difference had statistical significance （P<0.05）. The intervention group had better plasma exchange acceptance level and satisfaction degree after intervention than the control group， and their difference had statistical significance （P<0.05）. Conclusion As one of the important measures for accelerating rehabilitation， nursing intervention is an effective method to reduce blood transfusion anxiety in infectious disease patients.
+　　【Key words】 Plasma exchange； Blood transfusion； Anxiety； Nursing intervention
+　　血浆置换疗法是在短时间内除去机体血浆中的致病因子， 如自身抗体、免疫复合物、补体产物等， 并调节机体免疫系统的功能。作用机制主要是清除作用， 通过血浆置换迅速有效地将血浆中的内毒素排出体外， 减少内毒素对生命重要脏器的进一步损害， 在去除含有内毒素血浆的同时， 补充正常血浆成分， 从而达到治疗的目的。传染病院收治的患者因自身所患疾病具有一定的传染性， 给家人、社会带来诸多不便而产生自责、自卑等不良情绪。接受血浆置换治疗花费巨大， 而且置换过程中需要使用大量的异体血浆等， 会因此产生严重焦虑等负性情绪， 心理上需承受巨大的压力。本文探讨护理干预对于传染病院血浆置换患者输血焦虑的影响， 现报告如下。
+　　1 资料与方法
+　　1. 1 一般资料 选取2013年1月～2015年6月90例本院确诊的需接受血浆置换治疗的重型肝炎患者。治疗频次第1～2周2～3次， 以后1次/周直至病情稳定。每次血浆置换量为2000～3000 ml， 置换速度为60～90 ml/min， 分离血浆速度为25～30 ml/min。90例患者随机分为干预组和对照组， 每组45例。干预组中男32例， 女13例， 平均年龄51岁；对照组中男30例， 女15例， 平均年龄52岁。两组一般资料比较差异无统计学意义（P>0.05）， 具有可比性。   　　1. 2 方法 两组在干预前后， 由专业护士指导填写SAS评定患者的情绪状态， 由统计者将原始分换算成标准分， 以我国常规的上限为界， SAS标准分>50分， 表明有焦虑症状。对照组接受常规治疗、护理， 干预组由有经验的护理人员分别在血浆置换前、置换中和置换后采用医学心理支持方法（PPST）， 即采用认知方法， 示范脱敏、心理暗示法， 成功病例讲解等方法， 解除患者的不良情绪[1]。使患者身心处于最佳状态配合治疗、护理。
+　　1. 3 护理干预 根据相关实践研究结果表明， 对重型肝炎患者采取血浆置换治疗的方法， 可以取得满意的治疗效果[2]。患者在选择血浆置换前均经过保肝、降酶、退黄的内科综合治疗， 病情急重， 并发症多。对血浆置换治疗原理和作用不了解， 被治疗过程中大量使用新鲜血浆是否会发生不良反应， 是否会出现输血差错， 是否会传染其他输血疾病等等问题困扰， 往往产生巨大的心理负担， 易产生焦虑等负性情绪。专业的护理人员通过对焦虑量表的统计、分析， 为患者实行一对一分阶段、有针对性的心理疏导。由于认知是情感、思维和行为反应的中介， 引起人们情绪、思维和行为问题的原因不是事件本身， 而是人们对事件的认知[3]。因此提供适当的信息不仅可以消除患者的疑虑， 还可以避免不良情绪的产生。
+　　1. 3. 1 血浆置换前的护理干预 护理人员利用图片法， 直观详细的向患者解释血浆置换的原理和作用， 使患者做到心中有数， 积极配合。针对患者对输血浆的种种顾虑， 进行输血相关知识的宣教， 对可能出现的输血不良反应及应对方法， 做好科学合理的解释。对患者告知医疗环节上的差错， 绝大多数来自不良的系统设计、制作流程等因素。而我院有严格制定的取血、用血标准操作流程， 从血库人员到取血护士， 用血护士都以“读校”的方式进行双人核对， 床边悬挂血型牌等多环节保障患者输血安全。护理人员热情友好， 诚恳礼貌的讲解， 拉近了护患之间的距离， 带给患者心理上安的全感和的信任感， 为下一步的工作打下良好的基础。
+　　1. 3. 2 血浆置换中的护理干预 患者进入血液净化中心后， 离开了亲人， 处于一个陌生的环境， 莫名会产生恐惧、不安， 对医务人员的每个动作、每句言语都会非常敏感。护理人员亲切的关怀， 娴熟的操作技术， 严格的核对流程， 严谨的工作作风对患者都是支持和力量。由于血浆、血浆分离器、管路及封装物、生产过程中的残留物等容易引起机体过敏反应。必要时可给予地塞米松5 mg预防用药。置换全程中护士应严密观察仪器的运作状态， 各项参数值， 患者有无不良反应及机体耐受情况并做好详细记录。重视患者的自身感受， 根据病情变化随时调整治疗速度， 及时处理并发症。置换过程中护理人员多给予与患者鼓励， 多沟通交流， 可以有效缓解患者紧张焦虑情绪， 使其全程配合治疗， 保障血浆置换安全、顺利的完成。
+　　1. 3. 3 血浆置换后的护理干预 因为血浆置换治疗持续时间较长， 患者会感觉疲乏无力。术后营造温馨、舒适的病房环境， 给予饮食及活动指导， 让患者得到充分的休息。密切观察生命体征， 穿刺部位情况。由于血浆置换降低了患者抵抗病原微生物的能力， 使患者极易发生感染， 须告知患者如何预防感染。并及时向患者交待下次治疗的时间及注意事项。及时将肝功检测指标做分析、对比， 告知患者治疗效果， 使患者充分感受到来自护理人员的关注。
+　　1. 4 观察指标及评定标准 观察并对比两组干预前后的SAS测评结果、对血浆置换的接受程度及满意度。采用本院自制测评量表对患者接受程度及满意度进行评定， 接受程度分为接受、较接受、不接受， 满意度分为满意、较满意、不满意。
+　　1. 5 统计学方法 采用SPSS18.0统计学软件处理数据。计量资料以均数±标准差（ x-±s）表示， 采用t检验；计数资料以率（%）表示， 采用χ2检验；等级资料比较采用Ridit检验。P<0.05表示差异具有统计学意义。
+　　2 结果
+　　2. 1 两组干预前后SAS评分比较 干预前两组SAS评分比较差异无统计学意义（P>0.05）， 干预后干预组SAS评分优于对照组（P<0.05）。见表1。
+　　2. 2 两组对血浆置换的接受程度比较 干预后干预组对血浆置换的接受程度优于对照组（P<0.05）。见表2。
+　　2. 3 两组对血浆置换治疗的满意度比较 干预后干预组对血浆置换的满意度优于对照组（P<0.05）。见表3。
+　　3 讨论
+　　随着我国医疗水平的不断提高， 人工肝血浆置换疗法在治疗重型肝炎方面取得了突破性进展， 已被各级医院广泛应用。血浆置换术本身对患者而言属于较严重的心理应激源[4]。由于对治疗的认知不足， 加之传染病院的重型肝炎患者存在着对自身疾病给家庭、社会带来拖累的自责、自卑， 以及对于大量使用血浆的输血安全等问题存在顾虑， 背负着巨大心理压力。已严重影响到疾病的康复与转归。本研究通过对患者焦虑产生的原因进行分析， 并采取相对应的多项护理干预措施， 血浆置换前的护理干预、置换治疗过程中、置换后的后续护理， 各个阶段护理人员以体贴的语言， 和蔼的态度， 专业化的指导， 为患者创造出安全、可信任的环境， 使其能安心的接受治疗， 减轻心理负担。本研究结果表明， 优质全程、个性化、有效的护理干预措施在改善传染病医院重型肝炎血浆置换患者输血焦虑， 提高治疗接受度及满意度方面起着举足轻重的作用， 对促进患者的康复与专归起到了积极有效的作用。
+
+

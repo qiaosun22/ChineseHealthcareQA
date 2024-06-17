@@ -1,0 +1,32 @@
+
+　　Abstract： Objective To explore the influence of negative emotion on the effect of operation during perioperative period and personalized psychological care strategy in patients with benign prostate hyperplasia （BPH） from different educational background. Methods Self-rating anxiety scale （SAS） and Self-rating depression scale （SDS） were applied to evaluate the negative emotional status of 240 BPH patients with different educational level before （24h， 10min） and after （3d） transurethral resection of the prostate （TRUP） and its effect on the operational outcome. Results Most BPH patients showed tremendous anxiety and depression before operation， with higher educated patients displaying greater anxiety and depression versus less educated in different time point； BPH patients with higher educational level presented poorer operational outcome as compared with lower educational level， including longer postoperational pain duration， bladder irrigation time， catheterization time， and average length of stay. However， no different rate of complication was found among patients with diverse educational background. Intervention of psychological nursing played less important role before TRUP but dramatically attenuated postoperatinal anxiety and depression， improving the outcome of operation， reducing the rate of complication， especially in patients with higher education level. Conclusion Apparent negative emotion exists in BPH patients with different educational background during perioperation period and affects the operational outcome to varying degree. Appropriate psychological intervention is needed and helpful to attenuate the negative emotion.
+　　Keywords： benign prostate hyperplasia； negative emotion； psychological nursing； perioperation
+　　良性前列腺增生（benign prostatic hyperplasia， BPH）是导致老年男性排尿障碍最为常见的良性泌尿系疾病，发病年龄一般在50岁以后，各种民族、职业、教育背景及家庭经济水平的男性均可累及[1-3]。在治疗上，BHP首先可通过药物调整，但在药物控制无望时，手术是最终的解决方案。目前最常用的手术方法是经尿道前列腺电切除术（transurethral resection prostate，TURP）。传统观念认为，受教育时间较长的高级知识分子卫生意识强、理解能力好，容易与医务人员配合，故治疗效果好[4]。但在近来的泌尿外科医疗实践中，我们注意到实际情况似乎没那么乐观，不少文化层次高的BPH患者，往往由于过度的焦虑、抑郁以及对手术的恐惧，TURP的效果较差。本文旨在比较高、低文化层次BPH患者TURP手术前后的焦虑、抑郁状况，探讨其对手术效果及其并发症的影响，以期了解不同文化层次BPH患者的心理应激情况，更好的实施心理疏导，改善手术效果。   　　1 材料和方法
+　　1.1 一般资料
+　　240例患者为2012年1月-2013年6月收住本院泌尿外科，择期行经尿道前列腺电切除术（TRUP）的BPH病人，其中120例的教育程度为中专及以上，年龄56-85岁，平均71.4±7.2岁，随机又分为心理护理干预组和对照组，各亚组分别为60例，后因对照组有4例的随访资料不全，予以剔除，故对照组实为56例；120例的教育程度为初中及以下，年龄53-86岁，平均70.1±6.8岁，也随机分为心理护理干预组和对照组，各亚组分别为60例。4个亚组的年龄无统计学差异（P>0.05）。
+　　1.2 方法
+　　对照组采用传统常规护理方法，包括密切观察生命体征变化，生理盐水持续膀胱冲洗，可根据引流液的颜色调节冲洗速度，保持导尿管引流通畅，注意患者神志情况，防止膀胱痉挛以及继发性膀胱出血等；干预组除常规进行传统护理外，还采用围手术期心理护理干预，主要包括：（1）支持性心理护理：耐心倾听患者的诉说，详细回答问题，以关心、体贴、鼓励为主，并提出积极、健康的建议，消除患者的顾虑，取得患者的信任，然后采用针对性的护理措施进行心理疏导，减少患者的抑郁、焦虑心理，同时鼓励患者进行负性情感的充分表达宣泄，增强患者主动治疗的信心。（2）认知心理干预：尽可能通俗地向患者讲解BPH 的病因、发病机制、临床表现和治疗方法等知识，重点介绍TURP 手术的部位、体位、手术步骤及术后注意事项，并对患者提出的疑问进行耐心细致地解释，提高患者治疗的依从性。最后观察两组患者干预治疗前和术后3天抑郁、焦虑症状的变化，并进行手术效果及术后并发症发生率的比较。
+　　1.3 观察指标
+　　采用焦虑自评量表（SAS）和抑郁自评量表（SDS）[5]对患者进行术前24h、术前10min及术后3d的焦虑和抑郁评分，并观察各组患者的手术效果及术后并发症，包括膀胱痉挛、术后出血、下尿路感染、急性附睾炎和尿失禁等。
+　　1.4 统计学处理
+　　计量资料结果用均数 ± 标准差（X±s）表示，采用t检验，计数资料（率）采用卡方检验。统计软件为SPSS 13.0。
+　　2 结果
+　　2.1 围手术期焦虑及抑郁情况以及心理护理的干预作用
+　　不管是何种程度的教育， BPH患者术前大多存在明显的焦虑及抑郁情绪，尤以术前10min表现得最为强烈，而且文化程度高的患者在一些时间点的紧张和抑郁表现明显高于低文化程度患者（表1），这种紧张还类似地表现在血压及心率的改变上（表2）。心理护理干预在手术前似乎起不到明显的疏解作用，术后3天焦虑和抑郁才有明显效果，且心理护理干预组的缓解更为明显；然而，高文化层次患者的抑郁尽管较术前缓和，但效果远低于初级教育者（表1）。
+　　表1 不同教育程度心理干预前后焦虑及抑郁评分比较（X±s，分）
+　　注：*，与同等教育程度术前24h或10min比较，P<0.05；▲，与同等教育程度对照组比较，P<0.05；◆，与初级教育相同亚组比较，P<0.05。
+　　表2 术前24 h及术前10分钟血压及心率变化（X±s）
+　　注：*，与同等教育程度的对照组比较，P<0.05；▲，与初级教育相同亚组比较，P<0.05。
+　　2.2 心理护理干预对手术效果的影响
+　　心理护理干预对不同文化程度的BPH患者均有一定的改善手术效果的作用，但总体上，较高教育程度BPH患者（包括干预和非干预组）的前列腺电切除术的效果差于初级教育患者，即术后疼痛时间、膀胱冲洗时间、导尿管使用时间及平均住院天数明显长于初级教育组（表3）。
+　　表3 心理干预对手术效果的影响（X±s，天）
+　　注：*，与同等教育程度的对照组比较，P<0.05；▲，与初级教育相同亚组比较，P<0.05。
+　　2.3 心理护理干预对BPH术后并发症的影响
+　　各亚组的BPH患者均有不同频率的术后并发症，尤以膀胱痉挛及小尿路感染多见，不同文化层次之间并发症的发生率差异不大，仅在某些项目上有所不同；心理护理干预明显减少高教育程度BPH患者的各种术后并发症，但对低教育程度患者的影响稍少，仅能减少下尿路感染的发生（表4）。
+　　表4 术后并发症发生率（n， %）
+　　注：*，与同等教育程度对照组比较，P<0.05；▲，与初级教育相同亚组间比较，P<0.05。
+　　3 讨论
+　　本文最主要的发现是，与低文化层次的人群相比，文化层次较高的BPH患者在实行电切除术前后均有更为明显的紧张、焦虑、抑郁等负性情绪，进而影响其手术效果，而且心理护理干预在此时的作用颇为有限。这些表现一直到术后第3天才有所好转。所观察的指标基本能相互印证和支持，并与其他学者的观察结果基本一致[6，7]。
+　　BPH患者是一个较为特殊的群体，长期的病痛折磨、羞于启齿的隐私多少会使患者埋下抑郁的病根，加上对手术的恐惧及疗效的不确切期盼等，更可能使患者产生焦虑和紧张等急性心理应激反应。本次的观察对象既往均无手术史，故出现SAS、SDS评分及血压升高、心率加快等应激反应均不难理解，其主要机制为，在以上心理应激原的作用下，蓝斑-交感-肾上腺髓质轴的高度兴奋，引起外周强烈的心血管效应及中枢情绪反应所致[8]。令人不解的是，文化知识较好的患者在此问题上的过激表现。因为在传统观念上，接受教育的时间越长，其学习能力及理解能力越强，对某个病患的了解更多，心态应更为坦然[2，4]。本研究有所相悖的观察结果值得深层次地探因。首先，我们所选取的病例均没有学医、从医的历史，故医学知识甚为贫乏和片面，虽然文化层次高的患者具有较高的学历及成功的人生阅历，其中不乏或曾经是高级工程师、教授及资深公务员，具有较强的信息收集及学习能力，稍有不适即可从网络或媒体上查到相关的资讯，但因他们对医学缺少系统性的学习，因此对某个病种的了解难免是片面的，这可能是造成他们一知半解、忧心忡忡的主要根源。其次，患者对麻醉、手术过程、术后疼痛的天然担忧及对手术效果的期望甚至担心死亡等也会导致其产生恐惧、紧张、焦虑、绝望和不安等负面情绪[9，10]。另外，BPH患者过往不俗的人生经历，自我价值较高，与目前退休、半退休状态形成的巨大心理落差可能会加重这些焦虑和忧郁。相反，文化层次低的患者，特别是文盲、半文盲的农民朋友，自我价值较低，思维可能简单得多，加上宿命论观念，就相对显得淡然，不会产生太大的情绪波动。实际上，于普林等[11]早就注意到BPH在城乡、文化层次间的差异。因此，不同文化层次间不一样的生命观和价值观可能是本研究两大群体间SAS、SDS、手术效果及并发症存在明显差异的深层因素。   　　虽然本次调查的对象主要是BPH患者，病例数也不是很多，但结果还是有一定的代表性，其背后所蕴含的意义值得同行商榷，或换言之，BPH可能并非孤例，患者不同的文化背景可能也会对其他病种产生类似的影响。因此，高级知识分子患者是同样需要关注的群体，他们的医学知识比其他教育层次的患者好不了多少，不能过高地估计他们对病痛的理解和驾驭能力。如何更好地了解高级知识分子患者，尤其是诸如BPH等相对隐私的患者更高的心理诉求，使其心理压力得到正确的疏导，是医护工作者要注意的问题和挑战。护理工作者只有不断提高自己的专业和人文素养，真正走人BPH患者的内心，个性化地了解每个患者的背景、问题和需求，真诚地为患者做好解惑、疏导工作，心理护理干预才能对BPH围手术期起到预期的作用。
+
+

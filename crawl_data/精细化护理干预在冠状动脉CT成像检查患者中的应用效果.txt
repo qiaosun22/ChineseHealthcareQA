@@ -1,0 +1,40 @@
+
+ 　　[摘要] 目的 探?分析精细化护理干预在冠状动脉CT成像检查患者中的应用效果。 方法 选择2014年3月～2016年3月四川大学华西医院放射科采用德国的Difinition FLASH，sinmens双源CT行冠状动脉CT成像患者158例，采用随机数字表法将其分为干预组80例和对照组78例，对照组给予常规检查流程，干预组给予精细化护理干预，比较两组图像质量、焦虑自评量表（SAS）评分、心率控制时间及呼吸配合训练时间、心率波动幅度>10 bpm发生率。 结果 干预组患者扫描图像质量明显优于对照组，差异有统计学意义（P < 0.05）；两组患者干预前SAS评分比较，差异无统计学意义（P > 0.05）。干预后干预组患者SAS评分较干预前显著降低（P < 0.05），而对照组干预前后SAS评分比较，差异无统计学意义（P > 0.05）。干预后干预组患者SAS评分显著低于对照组（P < 0.05）。干预组患者心率控制时间以及呼吸配合训练时间均明显短于对照组（P < 0.05），心率波动幅度>10 bpm的发生率显著低于对照组（P < 0.05）。 结论 在冠状动脉CT成像患者中运用精细化护理干预，能够有助于患者心率的平稳，减轻患者的心理焦虑情绪，从而提高成像质量，有助于临床诊断，值得推广运用。
+　　[中图分类号] R47 [文献标识码] A [文章编号] 1673-7210（2017）06（a）-0174-04
+　　Application effect of fine nursing intervention in patients with coronary artery CT imaging
+　　CHEN Yi XIE Juan
+　　Department of Radiology， West China Hospital， Sichuan University， Sichuan Province， Chengdu 610041， China
+　　[Abstract] Objective To investigate the effect of fine nursing intervention in patients with coronary artery CT imaging examination. Methods From March 2014 to March 2016， 158 patients who recieved coronary CT imaging by Difinition FLASH，sinmens CT angiographyin department of Radiology， West China Hospital， Sichuan University were selected， they were randomly divided into the intervention group （80 cases） and control group （78 cases） according to random number table. The control group was given to conventional nursing scheme， while the intervention group was given to intensive nursing based on the control group. The image quality， SAS score， heart rate control breathing time and cooperating with the incidence of training time， fluctuation of heart rate >10 bpm were compared. Results The quality of the images in the intervention group was significantly better than that of the control group， with statistically significant difference （P < 0.05）. Before intervention， the SAS scores in two groups were not significant difference （P > 0.05）； after intervention， the SAS score in the intervention group was significantly lower than that before intervention （P < 0.05）， while SAS score in the control group before and after intervention had no significant difference （P > 0.05）； after intervention， the SAS score in intervention group was significantly lower than that in the control group （P < 0.05）. The heart rate control time and breathing training time of the intervention group were significantly shorter than those of the control group （P < 0.05）， the incidence of heart rate fluctuation in >10 bpm of the intervention group was significantly lower than that of the control group （P < 0.05）. Conclusion Using intensive nursing intervention in patients with CT imaging of the coronary arteries， can reduce the patients psychological anxiety in patients with heart rate and stable， improve the quality of imaging， which is helpful to clinical diagnosis. It is worthy of clinical application   　　[Key words] Fine nursing； Coronary CT imaging； Anxiety； Heart rate； Image quality
+　　随着目前影像技术的不断发展和进步，多层螺旋CT在临床工作中广泛运用，其中双源CT诊断冠状动脉病变的特异性、敏感性可达到90%以上，目前已经成为冠状动脉病变无创性检查的首选方法[1-3]。在冠状动脉CT成像中，其图像伪影的产生主要包括心率变化、呼吸运动、造影剂浓度等因素，因此采取有效的干预方法控制患者的呼吸运动，降低心率对于检查尤为重要，可有效减少伪影的产生并提高诊断的准确率[4-5]。本研究探讨分析精细化护理干预在冠状动脉CT成像检查患者中的应用效果，现将结果报道如下：
+　　1 资料?c方法
+　　1.1 一般资料
+　　选择2014年3月～2016年3月在四川大学华西医院（以下简称“我院”）行双能量冠状动脉CT成像患者158例作为研究对象，本次研究经得我院医学伦理委员会批准同意，所有患者均知情同意，签署知情同意书。其中，男84例、女74例，年龄为36～78岁，平均（57.39±10.25）岁，平均体重（57.48±7.22）kg，平均心率（73.16±11.47）次/min。入组158例患者均存在胸闷、胸痛等临床症状。采用随机数字表法将158例患者分为干预组80例和对照组78例。两组患者一般资料比较，差异无统计学意义（P > 0.05），具有可比性。
+　　1.2 纳入标准与排除标准
+　　纳入标准：患者出现不同程度的心前区疼痛不适、心悸、胸闷，疑为冠心病进行筛选患者、行冠状动脉支架或搭桥术后随访患者。
+　　排除标准：①发热、心律不齐、急性心肌梗死、安装起搏器、耳聋患者；②检查前饮用咖啡、酒精患者；③合并精神疾病或理解能力极差患者；④冠脉血管严重钙化患者；⑤合并肾功能不全患者。
+　　1.3 检查方法
+　　采用德国Difinition FLASH，sinmens双源CT机，采用美国MEDRAD公司生产的双筒高压注射器。在患者进行CT扫描中运用高压注射器推注70～100 mL非离子型对比剂，注射速率为5 mL/s，对比剂注射结束后以同一速度注射20 mL生理盐水。患者平卧进行正位以及侧位定位像扫描，以气管隆突下1 cm层面作为监视层面，胸主动脉为感兴趣区（ROI），触发阈值设定为100 HU，延迟时间设定为5 s，扫描范围为气管隆突下至膈下2 cm。
+　　1.4 护理方法
+　　对照组患者按照常规检查流程完成检查，由放射科工作人员帮助患者完成检查前准备工作以及对患者的解释和告知工作；配合差的患者或者心律不齐的患者，取消本次检查。
+　　干预组患者给予精细化护理干预方案，护理干预由高年资护士进行，主要内容包括：①患者检查前，护理人员对患者的相关病史、心电图检查结果、心脏彩色超声检查结果以及实验室检查结果等进行详细了解，尤其需要注意患者的心率和呼吸，明确无检查相关禁忌证。对患者进行全面评估，评估检查过程中可能存在的风险，包括在检查过程中可能出现的心律失常、心力衰竭等；以及药物可能引起的风险，如对比剂过敏而引发的过敏性休克等；患者自身心理因素风险，如担心检查不良反应、检查费用高等[4-6]。②心理护理：大多数患者在进行冠状动脉CT成像时对检查过程并不了解，往往容易产生恐惧心理，护理人员需认真评估患者的心理状况，并详细告知患者检查的过程，让患者充分了解该检查为安全、无创检查手段，帮助患者消除其紧张、焦虑、恐惧等不良心理情绪，并告知患者心率加快、情绪波动对检查的不良影响，告知患者在检查中保持心情的平静。③心率控制：对于基础心率在70～80次/min的患者，给予25 mg倍他乐克口服，而对于基础心率超过80次/min的患者，倍他乐克用量按照每公斤体重1 mg口服，但是对于血压正常或血压偏低的患者，则适当减少倍他乐克的用量，服药30 min后检测患者心率及血压，若患者服药60 min后基础心率仍未降低至70次/min以内，则加服1片阿替洛尔[7]。④呼吸训练：在等待区内，由辅助技师指导患者进行呼吸训练，嘱咐患者深吸气-屏住呼吸-可以呼吸，吸气量为最大吸气量的80%，不要吸气太满，指导患者进行多次练习，直到患者能够完全掌握，并确保患者屏气时胸腹部能够保持在静止状态，从而避免图像产生运动伪影[8]。⑤告知患者对比剂注射瞬间可能出现灼热感或尿意，这属于正常的生理反应，无需太过紧张，指导患者如出现不适做挥手等示意动作，从而帮助患者保持心率的平稳，并密切观察患者是否出现不良反应。在扫描过程当中，护理人员通过观察窗观察患者是否出现不良反应及异常现象，若有异常情况则立即停止注射并给予对症处理。⑥检查完成后，询问患者是否有不适感，并叮嘱患者在候诊室观察30 min，无不良反应出现则将静脉留置管拔出，嘱咐患者检查完成后24 h内大量饮水，以促进对比剂的排泄，减少肾脏对对比剂的吸收，患者若出现不适及时处理。
+　　1.5 图像质量分级评价
+　　采用文献[9]标准，将重建图像质量分为以下5个等级。1级：主干不能区别，无法用于临床诊断；2级：图像上有严重伪影，某一主干全长模糊，诊断受限；3级：图像有中等伪影，某一主干有1/2异常模糊，但是仍可进行诊断；4级：图像有轻微伪影，仅主干的某一段出现轻微模糊，并不影响临床诊断；5级：图像无伪影，质量佳。其中1～2级图像不能够满足诊断要求，而3～5级图像能够满足临床诊断的要求。
+　　1.6 观察指标
+　　①比较两组患者扫描图像质量；②比较两组患者干预前后焦虑自评量表（SAS）评分[10]，评分越高表示患者的焦虑程度越严重；③比较两组患者心率控制时间，即使用药物后心率降至70 bpm以下所消耗的时间，以及呼吸配合训练时间；④比较两组患者检查过程中心率波动幅度>10 bpm的发生率。   　　1.7 统计学方法
+　　采用SPSS 22.0统计学软件进行数据分析，计量资料数据用均数±标准差（x±s）表示，两组间比较采用t检验；计数资料用率表示，组间比较采用χ2检验；等级资料比较采用Mann-Whitney U秩和检验，以P < 0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者图像质量比较
+　　干预组患者扫描图像质量明显优于对照组，差异有统计学意义（P < 0.05）。
+　　2.2 两组患者干预前后SAS评分比较
+　　两组患者干预前SAS评分比较，差异无统计学意义（P > 0.05）；干预后，干预组患者SAS评分显著低于对照组（P < 0.05）。干预后，干预组患者SAS评分较干预前显著降低（P < 0.05）；而对照组干预前后SAS评分比较，差异无统计学意义（P > 0.05）。
+　　注：SAS：焦虑自评量表
+　　2.3 两组患者心率控制时间及呼吸配合训练时间比较
+　　干预组患者心率控制时间以及呼吸配合训练时间均明显短于对照组（P < 0.05）。
+　　2.4 两组患者心率波动幅度>10 bpm发生率比较
+　　干预组患者检查过程中心率波动幅度>10 bpm发生率为13.75%（11/80），对照组患者发生率为29.49%（23/78），对照组患者发生率显著高于干预组（P < 0.05）。
+　　3 讨论
+　　通过冠状动脉CT造影，能够较好地显示出患者冠状动脉解剖畸形及其阻塞性病变的位置、范围和病变程度，冠状动脉CT造影是检查心脏血管灌注情况以及介入治疗后复查随访的一种重要诊断方式，能够为临床诊断提供证据，目前已经成为了冠心病诊断的首选方法[11-14]。精细化管理是对每个人、每件事均实行精细的管理方案，其主要内容包括持续质量的改进以及不断提高，将此管理理念运用于护理服务工作中即为精细化护理，要求护理人员将精细化管理的意识融入到自己的工作当中，做好护理服务工作的每一项环节，从而不断提高自身的护理服务质量，为患者提供更加优质的护理服务[15-17]。
+　　本研究将精细化护理应用于冠状动脉CT成像患者当中，结果显示，干预组患者其图像质量显著优于对照组，影响冠状动脉CT成像质量的因素包括多种，其中患者心率对于成像质量有着非常重要的影响，对于目前运用的64层螺旋CT，建议患者的检查心率在70次/min以内[18]，精细化护理过程中，心理护理本身就可以缓解患者紧张的心情，让患者安静地接受，同时心率的其他控制方法配合使用，明显能够保证心率处于一个极佳状态；而其中呼吸运动伪影也是影响图像质量的重要因素，而采取精细化护理干预后，从患者心理方面以及药物应用方面共同入手，以帮助患者稳定其心率，从而更好地完成检查；此外，在检查前对患者进行屏气呼吸训练，有助于检查中由于呼吸运动伪影而影响图像质量[19-21]。干预组患者干预后SAS评分显著降低，且对照组患者检查过程中心率波动幅度>10 bpm的发生率显著高于干预组（P < 0.05），提示通过精细化护理干预能够有效改善患者的心理焦虑情绪，并有助于心率的控制。
+　　综上所述，在冠状动脉CT成像患者中运用精细化护理干预，能够有助于患者心率的平稳、减轻患者的心理焦虑情绪，从而提高成像质量，有助于临床诊断，值得推广运用。
+
+

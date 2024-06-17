@@ -1,0 +1,24 @@
+
+ 　　[摘要] 目的 对临床护理路径在脑梗死介入溶栓患者中的应用效果予以探讨。方法 随机选取该院2014年2月―2016年8月间收治的脑梗死介入溶栓治疗的患者18例，将其随机均分为两组，分别作为对照组与观察组，为对照组患者实施常规护理干预，观察组患者在对照组的基础上应用临床护理路径开展护理干预，对比分析两组患者的护理效果。结果 观察组患者的转诊时间及住院时间明显低于对照组，差异有统计学意义（P<0.05），观察组的转诊时间与住院时间分别为：（38.5±5.2）min、（14.5±3.0）d；对照组的转诊时间与住院时间分别为（68.7±4.6）min、（21.7±3.5）d；开展护理之后，观察组患者的SDS评分与SAS评分明显低于对照组，差异有统计学意义（P<0.05），开展护理之后，观察组的SDS评分、SAS评分分别为：（24.3±4.9）分、（23.6±6.3）分；对照组的SDS评分、SAS评分分别为（45.5±6.2）分、（44.5±7.1）分。结论 在为脑梗死介入溶栓患者开展护理工作的过程中，应用临床护理路径的护理模式开展护理工作，能够改善其情绪状态，值得在临床应用中推广。
+　　[中图分类号] R47 [文献标识码] A [文章编号] 1674-0742（2016）12（c）-0145-03
+　　[Abstract] Objective The clinical nursing path in application of thrombolysis in patients with cerebral infarction to be explored. Methods 18 cases of patients were randomly selected in our hospital from February 2014 to August 2016 were cerebral infarction interventional thrombolytic therapy， which were randomly divided into two groups， respectively as the control group and observation group， control the implementation of routine nursing intervention groups of patients， patients in the observation group in the control group on the basis of the application of clinical nursing pathway in nursing intervention， compared the nursing effect of two groups. Results The observation group patients referral time and hospitalization time was significantly lower than the control group， the difference was statistically significant（P<0.05）， the observation group referral time and hospitalization time were： （38.5±5.2）min、（14.5±3.0）d； referral time and hospitalization time of the control group respectively （68.7±4.6）min、（21.7±3.5）d； nursing after groups of patients with SDS score and SAS score were significantly lower than the control group， the difference was statistically significant， after nursing， the observation group SDS score and SAS score were：（24.3±4.9）points、（23.6±6.3）points； the control group of the SDS score， SAS score were： （45.5±6.2）points，（44.5±7.1）points. Conclusion In the process of carrying out nursing work for interventional therapy in patients with cerebral infarction， nursing mode of application of clinical nursing path in the nursing work， can improve the emotional state， worthy of promotion in clinical application.
+　　[Key words] Cerebral infarction； Interventional thrombolysis； Clinical nursing pathway
+　　?R床上在为脑梗死患者开展治疗的过程中，最为常用的一种治疗方法就是介入溶栓治疗，为脑梗死患者开展早期的溶栓治疗，有利于其梗死区血流灌注的恢复，这也是目前恢复患者脑细胞生机的重要手段，但是要想保证患者的介入溶栓治疗效果，就需要在开展治疗的同时，结合患者的实际情况，制定出科学合理的护理计划，为患者实施有效的护理干预，这对于其临床治疗效果的提升具有非常重要的作用[1-2]。该文就主要针对该院2014年2月―2016年8月间收治的18例脑梗死介入溶栓治疗患者的临床资料予以回顾分析，现报道如下。   　　1 资料与方法
+　　1.1 一般资料
+　　该次研究中随机选取该院收治的脑梗死介入溶栓治疗的患者18例，将其随机均分为两组，分别作为对照组与观察组，其中对照组包含有女性4例，男性5例，年龄处于63～74岁之间；观察组中包含有女性5例，男性4例，年龄处于64～74岁之间，对比分析两组患者的一般资料，二者之间的差异无统计学意义（P>0.05），具有可比性。
+　　1.2 方法
+　　在为患者开展护理工作的过程中，为对照组患者实施常规护理，患者入院之后，护理人员依据常规护理流程为患者开展护理工作，在患者转入到诊治病房当中之后，严格遵循医嘱协助医生为患者开展相关的检查，判断患者当前存在的各项指征是否可以开展溶栓治疗，并要做好患者的生命体征监测工作，一旦发现异常，立即通知主治医师进行相应的处理[3-4]。观察组患者在开展护理工作的过程中，除了上述对照组的常规护理方法之外，引入临床护理路径的护理模式，具体措施为：①在全面了解患者实际情况的基础上，结合患者的实际情况，建立起护理路径表，在充分尊重基本的治疗原则的基础上，依据患者的急诊治疗时间，在患者整个治疗期间，可以依据其实际情况，对护理计划实施动态的调整。在护理路径表当中应包含基础护理、治疗护理、心理护理、早期康复护理等方面的内容，具体的护理路径表的排列，可以将时间作为主要的排列依据[5]；②做好患者的入院前护理工作，护理人员在接到患者的急救电话之后，要对患者的具体地址、临床症状等进行问询，在对患者的疾病有一个初步的判断之后，准备好相应的物品到抢救现场，对患者的梗死情况做一个更加准确的判断之后，为患者开展介入溶栓治疗，成功之后，可以将患者送入到重症监护病房当中；③做好患者的急诊护理工作，对患者的病情有一个大致的评估之后，安排并协助患者开展各项常规检查，从而判断患者是否存在介入溶栓禁忌症，之后送入到介入室当中开展相应的治疗，整个治疗期间，要对患者心率变化情况予以严密监测，对于患者所出现的休克、心律失常等并发症，应立即协助医生进行相应的处理，并要及时为患者建立起静脉通路，若患者出现血压升高现象，应采取有效的措施实施降压处理。若发现患者出现溶栓治疗指征，应立即准备尿激酶，并要为患者选择适宜的静脉，做到现配现用。在整个溶栓治疗期间，每隔15 min要观察患者的肢体及瞳孔情况，并要严密观察患者是否存在出血倾向，直到其病情稳定之后，才可以转回到普通病房当中开展后续的治疗[6-8]；④做好患者的溶栓后护理工作，在手术结束的当天，若通过评估发现患者病情稳定，可以将其转回到普通病房当中，做好与普通病房护理人员的交接班工作，一定要严格遵循医嘱用药，并要能够保证患者呼吸的通畅性，并要做好患者及其家属的心理与护理与健康教育工作；手术结束厚度第2天，则需要强化患者卫生护理、饮食护理等基础护理，以便于有效降低并?l症的发生率，手术之后的3～5 d，在医生允许的情况下，可以指导患者开展肢体障碍康复锻炼、语言障碍康复锻炼，手术之后的1～2周时间内，就需要对患者的整体情况进行评估，条件允许的情况下，拔出导管，并要叮嘱患者坚持开展康复训练，以便于有效的预防肺部感染、下肢深静脉血栓等严重的并发症[9]。
+　　1.3 观察指标
+　　对比分析两组患者的住院时间、转诊时间、死亡率、情绪状态变化等指标。其中在评价其情绪状态变化时，主要应用的是SDS（抑郁自评量表）与SAS（焦虑自评量表）实施评价，分值越高，表示患者的焦虑与抑郁症状越严重，其情绪状态就越差[10]。
+　　1.4 统计方法
+　　该次研究中相关数据应用SPSS 17.0统计学软件进行处理，计量资料用（x±s）表示，进行t检验，P<0.05差异有统计学意义。
+　　2 结果
+　　观察组患者的转诊时间及住院时间明显低于对照组，差异有统计学意义（P<0.05）。见表1。
+　　开展护理之后，观察组患者的SDS评分与SAS评分明显低于对照组，差异有统计学意义（P<0.05），见表2。
+　　所选18例患者中，15例痊愈出院，另外3例自行出院，没有在院死亡病例。
+　　3 讨论
+　　介入溶栓作为脑梗死患者治疗过程中常用的治疗方法，要想通过此种治疗方法取得良好的临床治疗效果，除了要结合患者的实际情况，为其选择合适的治疗时机之外，还需要为患者实施有效的护理干预，做好其护理配合工作[11]。作为一种新型的护理模式，与传统的常规护理模式相比，在临床护理路径的护理模式当中，以患者为中心，护理目标、护理流程、护理计划等的制定都将患者的实际情况作为主要的参考依据，并且整个介入溶栓治疗过程中应用临床护理路径，为患者开展全面的临床护理，有利于在短时间内为患者开展全面、准确的治疗，对于患者的各方面功能的恢复具有积极的作用[12]。
+　　该次研究中，研究结果表明，观察组患者的转诊时间及住院时间明显低于对照组，差异有统计学意义（P<0.05）；开展护理之后，观察组患者的SDS评分与SAS评分明显低于对照组，差异有统计学意义（P<0.05）。所选18例患者中，15例痊愈出院，另外3例自行出院，没有在院死亡病例。王凌云[12]在相关研究中得出将临床护理路径应用于脑梗死介入溶栓治疗患者中，能够有效的缩短住院时间，提高疗效，这与该文的研究结论相一致。
+　　综上所述，在为脑梗死介入溶栓患者开展护理工作的过程中，应用临床护理路径的护理模式开展护理工作，能够有效的的降低患者的死亡率，改善其情绪状态，值得在临床应用中推广。
+
+

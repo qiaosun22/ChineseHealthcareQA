@@ -1,0 +1,30 @@
+
+　　[摘要] 目的 探讨个案管理对脑卒中后抑郁（PSD）患者生活质量的影响。 方法 于2012年6月～2013年6月，选取广东省佛山市第一人民医院特需医疗中心住院符合入选条件的53例脑卒中后抑郁患者，按时间顺序将53例脑卒中后抑郁患者分为对照组25例和实验组28例。对照组接受常规护理，实验组接受个案管理，两组均接受出院后6个月随访。分别收集两组患者入院时、出院时及出院后3、6个月的脑卒中影响量表（SIS）、汉密尔顿抑郁量表（HAMD），比较两组护理效果。 结果 两组入院时、出院时的SIS、HAMD比较，差异无统计学意义（P > 0.05），出院后3个月和6个月的SIS、HAMD实验组均优于对照组，差异均有统计学意义（P < 0.01或P < 0.05）。结论 个案管理模式护理能够改善脑卒中后抑郁患者的生活质量。
+　　[中图分类号] R473.74[文献标识码] B[文章编号] 1673-7210（2014）06（b）-0113-04
+　　
+　　Effect of case management on quality of life of post-stroke depression patients
+　　ZHU Min ZHAO Qiaohong LI Xiuxiong LIN Sihuan WU Dingfang
+　　Special Medical Center, the First People′s Hospital of Foshan City, Guangdong Province, Foshan 528000, China
+　　[Abstract] Objective To discuss the effects of case management on quality of life in patients with post-stroke depression. Methods A total of 53 PSD patients were recruited in Special Medical Center of the First People′s Hospital of Foshan City in Guangdong Province during June 2012 to June 2013, and divided into control group (25 patients) and study group (28 patients) according to time. The control group received routine care while the study group received case management, and both received 6 - month follow-up visit. Then the status of quality of life (SIS) and depression (HAMD) of all patients when admission, discharge, 3 month and 6 month after discharge respectively were collected, and the nursing effect in two groups were compared. Results When admission and discharge, the SIS and HAMD of the two group had no significant difference (P > 0.05), but 3 months and 6 months after discharge, the comparative results of study group were all superior to the control group with significant differences (P < 0.01 or P < 0.05). Conclusion Case management can improve the quality of life in patients with post-stroke depression.
+　　[Key words] Case management; PSD; Quality of life
+　　脑卒中后抑郁（post-stroke depression，PSD）发病率为25%~79%[1]，常于患者卒中后数天、数周或晚至数月出现，若治疗不及时将严重影响疾病转归，降低患者生活质量，甚至导致死亡[2-3]。个案管理模式护理要求个案护士参与患者诊断、入院、治疗、出院、返回社区的全过程，通过沟通、协调、教育及提供资源，使患者得到延续性及整体性的护理服务[4]。为了更好地了解个案管理护理在PSD患者中的应用效果，对2012年6月～2013年6月在广东省佛山市第一人民医院特需医疗中心（以下简称“我中心”）住院的28例PSD患者实施个案管理模式护理，评估其对生活质量的影响，现报道如下：
+　　
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2012年6月～2013年6月在我中心首次发病住院的104例脑卒中后患者，符合入组标准53例。纳入标准：知情同意；符合第4届全国脑血管病会议诊断标准，均由头颅CT或MRI检查确诊；汉密尔顿抑郁量表（HAMD）17项评分≥8分，症状持续2周以上。排除标准：①脑出血；②有精神病史、家族史、癫痫病史；③意识障碍、认知障害、失语、失认。按住院先后次序分为对照组25例及实验组28例。对照组男14例，女11例，年龄51~77岁，平均（57.31±5.43）岁；其中小学及以下14例，占56.00%；初中和高中6例，占24.00%；大学及以上5例，占20.00%。实验组男15例，女13例，年龄52~75岁，平均（59.44±5.64）岁；其中小学及以下16例，占57.14%；初中和高中6例，大学及以上6例，各占21.43%。两组患者年龄、性别、文化程度等一般资料比较，差异无统计学意义（P > 0.05），具有可比性。
+　　1.2 方法
+　　两组均按医嘱用选择性5-羟色胺再摄取抑制剂氟西汀（PATHEON France，法国礼来苏州制药有限公司分装生产，国药准字J20130010）20 mg口服，1次/d。根据研究的需要，采用不同模式的护理干预。每例患者院内干预4周，出院后随访6个月，均建立个人健康档案，内容包括一般情况，既往史、体格检查、干预措施、效果等，采用信息化对档案进行动态跟踪管理。
+　　1.2.1 对照组
+　　住院期间由责任护士按脑卒中护理常规进行疾病相关知识、治疗、用药、康复训练及心理护理等干预，出院时由医疗小组制订出院计划，指导患者遵照出院指导自行锻炼、服药，出院后3、6个月最后1个星期回院随访，由研究小组成员进行生活质量、抑郁程度测评。
+　　1.2.2 实验组
+　　成立PSD个案管理护理小组，根据患者的总体情况，以防治原发疾病、康复训练、心理护理干预为重点，制定护理计划，进行个体化的个案管理护理。
+   　　3.1.5 制度支持
+　　在传统护理模式中，护理的工作职责不包括出院后的随访。在本研究中，管理者将患者院外随访纳入正常的护理工作程序中，并制订了相应的护理规范、护理岗位与护理职责。
+　　3.2 个案管理护理的实施效果
+　　3.2.1 有效提高了PSD患者的康复效果，改善其生活质量
+　　PSD患者情绪低落，日常生活过分依赖，丧失主动康复的动力，配合训练的主动性差。本研究结果表明，PSD患者SIS总体生活质量得分及力气、情绪、日常活动能力、行动能力、手功能、社会参与得分可随着康复时间的延长逐渐提高，但不同的干预可致增长趋势明显不同。接受个案管理护理患者的SIS六个领域及总得分均显著高于常规护理患者，说明个案管理护理的PSD患者更易从个案护士处得到可靠的专业信息及针对性的指导，与医生及康复治疗师的沟通更顺畅，康复效果更明显，更利于改善生活质量。
+　　3.2.2 明显改善PSD患者的抑郁状态
+　　PSD患者常因突然出现的肢体功能障碍，生活不能自理，担心成为负担及社会、家庭地位、角色的转变，产生焦虑、急躁、失望和悲观情绪，甚至厌世。个案管理护理不但在院期间提供专科护理、健康教育、信息支持与心理支持，直接解决患者的不适，且为患者提供出院后的连续指导帮助，促进其自我调适。本研究中研究组患者与个案管理护士建立了密切的护患关系，遇到疑问可以随时咨询，这种交流加强了患者对护士的信任。个案管理护士通过建立和谐关系、关心和理解患者、创造良好的康复环境、加强与家属的沟通等关怀照护行为，有效地减轻了患者的抑郁情绪。
+　　综上所述，个案管理模式护理扩展了PSD的护理服务，为患者提供了从医院到社区的个性化、整体性及延续性的护理，满足了患者的健康需求，减轻了患者的抑郁症状，增强了患者的康复效果，有效地提高了患者的生活质量。
+
+

@@ -1,0 +1,25 @@
+
+ 　　[摘要]目的 探讨集束化护理干预在ICU老年患者呼吸机相关性肺炎（VAP）中的应用效果。方法 选择2015年8月～2016年11月我院ICU收治的老年患者79例，并按照随机数字表法分为对照组（n=39）和观察组（n=40）。对照组行常规护理，观察组在此基础上采用集束化护理。比较两组患者机械通气时间、ICU入住时间、总住院时间、VAP发生率和病死率。结果 观察组患者机械通气时间[（15.5±4.6）d]、ICU入住时间[（17.4±6.3）d]和总住院时间[（23.3±7.1）d]均短于对照组[（20.1±5.8）、（22.6±6.4）、（34.6±6.9）d]，观察组VAP发生率（27.5%）、病死率（15.0%）低于对照组（53.8%、48.7%），以上差异有统计学意义（P<0.05）。结论 在ICU老年患者VAP疾病治疗中，集束化护理干预可以有效地缩短患者的机械通气时间、住院时间，降低VAP发生率和病死率，促进病情康复。
+　　[中图分类号] R472.9 [文献标识码] A [文章编号] 1674-4721（2017）04（c）-0182-03
+　　[Abstract]Objective To investigate the application effect of cluster nursing intervention on ventilator associated pneumonia（VAP） in ICUelderly patients.Methods 79 cases of ICU elderly patients in our hospital from August 2015 to November 2016 were selected and divided into control group （n=39） and observation group （n=40） according to the random number table method.Patients in the control group were given routine nursing care，while patients in the observation group were given the cluster nursing on the basis of control grou.The mechanical ventilation time，ICU stay，total hospital stay，the incidence of ventilator-associated pneumnia and mortality of two groups were compared.Results The mechanical ventilation time，ICU stay，total hospital stay in the observation group [（15.5±4.6），（17.4±6.3），（23.3±7.1）d] were shorter than that in the control group [（20.1±5.8），（22.6±6.4），（34.6±6.9）d]. The incidence of ventilator-associated pneumnia and mortality of the observation group （27.5%，15.0%） were shorter than that in the control group （53.8%，48.7%）.All the the differences were statistically significant （P<0.05）.Conclusion In the treatment of elderly ICU patients with VAP disease，the cluster nursing intervention can effectively shorten the mechanical ventilation time，hospitalization time，reduce the incidence of VAP and mortality，and promote the recovery of the patients.
+　　[Key words]Ventilator-associated pneumnia；ICU；Elderly；Cluster nursing
+　　呼吸?C相关性肺炎（Ventilator-associated pneumnia，VAP）是临床上需建立人工气道并行机械通气治疗时出现的严重并发症，其发生原因主要是残留在导管气囊上的各种内分泌物及其大量滋生的细菌进入患者下呼吸道，继而引发肺部组织炎症，其发生率为16%～40%，导致撤机困难，延长住院时间，增加经济负担，甚至发生机械通气失败，患者病死率较高[1-6]。我院ICU病房常年接收各种疾病引发的重症疾病，VAP发生病例常见，为此我院加强护理技能探索，拟实施集束化护理干预方式改善VAP的发生、发展情况，现报道如下。
+　　1资料与方法
+　　1.1一般资料
+　　选择2015年8月～2016年11月我院ICU收治的老年患者79例，纳入标准：①年龄>60岁；②接受人工气道和（或）机械通气>48 h；③家属知情并签署知情同意书。排除标准：①已出现肺部感染者；②病情危重，预计48 h死亡者；③临床资料不完整者。按照随机数字表法分为对照组（n=39）和观察组（n=40），本次研究经我院医学伦理委员会批准。对照组男性23例，女性16例；年龄在62～94岁，平均（72.6±5.3）岁；原发病：外科疾病术后8例，神经系统疾病3例，呼吸系统疾病16例，心血管系统疾病12例。观察组男性24例，女性16例；年龄在64～92岁，平均（72.1±5.0）岁；原发病：外科疾病术后7例，神经系统疾病3例，呼吸系统疾病17例，心血管系统疾病13例。两组患者的一般资料比较，差异无统计学意义（P>0.05），具有可比性。   　　1.2方法
+　　对照组行常规护理，具体如下。①实施无菌操作。护理人员在接触患者前，务必每次使用快速手消毒剂或者执行严格的洗手程序；②每隔30 min吸痰1次或者根据情况按需吸痰；③根据气囊压力的定时监测情况，确保压力在25.1～30.1 cmH2O；④根据患者情况，选取合适口腔护理液对患者实施定期性的口腔护理；⑤定期为患者拍背，注意力度适当；⑥协助患者定期翻身，注意做好翻身前的沟通；⑦实施严格的呼吸机管道管理，每隔1周应该更换新的呼吸机管道，并及时地更换呼吸机管路内积聚的过多冷凝水。
+　　观察组在对照组基础上，采用集束化护理干预。①抬高床头。将患者的床头抬高30°～45°以避免进行机械通气时出现误吸、细菌移植等情况；②呼吸道湿化。护理人员每天应该定期观察湿化器内水量深度情况，并适时添加灭菌注射用水，更换温湿交换装置，1次/周；③预防深静脉血栓的形成。实施被动肢体活动，2次/d；注意患者肢体保暖，避免由于冷刺激引发的静脉痉挛和血流淤积；定期更换患者体位；④预防消化性溃疡的发生。实施长时间机械通气治疗时，应插入鼻胃管，以引流过多的胃酸；选取合适的质子泵抑制剂、质子消化道黏膜保护剂等药物，以保护患者的胃肠道；实施肠内营养。
+　　1.3观察指标
+　　①机械通气时间；②ICU入住时间；③总住院时间；④VAP发生率：VAP的发生应符合以下其中1个条件[7]，a.外周血白细胞计数显著升高；b.体温>37.5℃，并存在脓性呼吸道分泌物；c.下呼吸道分泌物中可以分离出新病原体；d.肺实变体征和（或）湿性音；⑤病死率。
+　　1.6统计学方法
+　　采用SPSS 20.0统计学软件进行数据分析，计量资料数据用均数±标准差（x±s）表示，两组间比较采用t检验；计数资料用率表示，组间比较采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1两组患者机械通气时间、ICU入住时间和总住院时间的比较
+　　观察组患者机械通气时长、ICU入住时间和总住院时间均短于对照组，差异有统计学意义（P<0.05）（表1）。
+　　2.2两组患者VAP发生率和病死率的比较
+　　观察组VAP发生率、病死率低于对照组，差异有统计学意义（P<0.05）（表2）。
+　　3讨论
+　　VAP易感人群是老年人，主要是因为该群体患者年龄增长的同时，其组织器官出现老化，脏器功能发生减退，尤其是胸腺退化萎缩，减少胸腺素，B和T淋巴细胞功能受损，免疫功能降低。当老年人呼吸器官老化、纤毛运动力减弱、肺泡和支气管组织弹力下降时，就不容易排除呼吸道分泌物，造成淤积，继而使细菌滋生和感染，此外机械通气治疗时的侵袭性操作使老年患者更容易出现VAP[8-11]。ICU病房收治的重症患者，尤以老年人居多，加强护理干预有助于挽回患者性命，提高生存质量。集束化护理是美国健康研究所提出的一个健康理念，它融合当前正确的循证思想，护理操作环节均经过辨证，是提高更优执行力、依从性的一项护理医疗服务[12-16]。传统护理在预防老年患者VAP时主要集中在讨论及评价单一的预防措施，但是VAP发病过程相对复杂，且老年人为高危人群，单一预防措施在老年人群体中的应用效果不佳，而集束化护理集合了一系列的护理干预正确的、具有循证基础的措施，每个因素均经临床证实可以改善患者结局，这些措施共同实施要比单一执行的效果更佳，更能提高患者结局。集束化护理更强调严格的、持续性的护理策略，摒弃间断的或者只能选择其中某些措施来执行的错误理念，所以可以大大提高护理质量，降低VAP的发生率、病死率。此外，集束化护理是一种作为主动预防措施引入ICU，它不同于传统的被动干预措施，在预防VAP发生时具有显著效果。本文观察组加强集束化护理干预，其中抬高床头30°～45°能预防误吸、胃内容物反流，且能下移膈肌，有助于改善呼吸、通气功能；每日唤醒可以显著地缩短机械通气时长和ICU住院时间，降低VAP发生率；老年人在治疗期间，由于使用抗生素、禁食等会使患者出现肠道屏障功能障碍以及细菌移位，并发应激性溃疡，因而集束化护理措施集中?A防消化性溃疡的发生能够降低VAP的发生率；机械通气治疗时，患者由于多次静脉采血、长时间卧床等容易发生深静脉血栓，集束化护理中通过下肢深静脉血栓形成的预防措施和其他呼吸机集束措施的合并应用，有助于降低VAP的发生率。本研究结果显示，观察组老年患者的机械通气时长、ICU入住时间、住院总时间、VAP发生率和病死率方面均优于对照组（P<0.05），提示集束化护理干预的效果确切。
+　　综上所述，在ICU老年患者VAP疾病治疗中，集束化护理干预可以有效地缩短患者的机械通气时间、住院时间，降低VAP发生率和病死率，促进病情康复。
+
+

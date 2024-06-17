@@ -1,0 +1,40 @@
+
+ 　　[摘要] 目的 探?实施全程管理护理模式在住院患者外出检查中的应用效果。 方法 回顾性分析浙江省新华医院实施全程管理护理模式前（实施前）及实施全程管理护理模式后（实施后）外出检查患者临床资料，比较外出检查意外事件发生率、护送工具与病情符合率以及患者外出检查满意度。 结果 实施前患者外出检查意外事件发生率为3.41%，实施后患者外出检查意外事件发生率为0.95%，实施后患者外出检查意外事件发生率低于实施前（P<0.05）。实施全程管理护理模式前患者外出检查护送工具与病情符合率为93.02%，实施后为99.84%，全程管理护理模式实施后护送工具与病情符合率高于实施前（P<0.05）。实施全程管理护理模式前患者外出检查满意度评分为（96.25±4.39）分，实施全程管理护理模式后患者外出检查满意度评分为（98.78±5.15）分，实施全程管理护理模式后患者外出检查满意度高于实施前（P<0.05）。 结论 实施全程管理护理模式能够降低外出检查意外事件发生风险，改善护理质量，提高患者满意度。
+　　[中图分类号] R47 [文献标识码] B [文章编号] 1673-9701（2017）09-0161-05
+　　Study on the application of the nursing model of comprehensive management in hospitalized patients going out for examinations
+　　WANG Caijiao1 WU Xujia2 WANG Saisai3
+　　1.Department of Neurology， Xinhua Hospital of Zhejiang Province， Hangzhou 310005， China； 2.Department of Respiratory Medicine， Taizhou Central Hospital in Zhejiang Province， Taizhou 318000， China； 3.Department of Radiotherapy， Taizhou Central Hospital in Zhejiang Province， Taizhou 318000， China
+　　[Abstract] Objective To explore the application effect of the nursing model of comprehensive management in the hospitalized patients going out for examinations. Methods Clinical data of patients going out for examinations in Xinhua Hospital of Zhejiang Province before the implementation of the nursing model of comprehensive management（before implementation） and after the nursing model of comprehensive management（after implementation） were retrospectively analyzed. The incidence rate of accidents， compliance rate between escort transportation and disease conditions， and patient satisfaction were compared. Results The incidence rate of accidents in the patients going out for examinations was 3.41% before the implementation； after the implementation， the incidence rate of accidents was 0.95%， the incidence rate of accidents in the patients after the implementation was lower than that before the implementation（P<0.05）. The compliance rate between escort transportation and disease conditions in the patients going out for examinations was 93.02% before the implementation， and 99.84% after the implementation. The compliance rate between escort transportation and disease conditions after the implementation was higher than that before the implementation（P<0.05）. The satisfaction score in the patients going out for examinations was（96.25±4.39） before the implementation， and（98.78±5.15） after the implementation. The satisfaction in the patients going out for examinations after the implementation was higher than that before the implementation（P<0.05）. Conclusion The implementation of the nursing model of comprehensive management can reduce the risk of accidents during the examinations outside the hospital， enhance the quality of nursing and improve patients' satisfaction.   　　[Key words] Comprehensive management； Nursing； Going out for examinations； Accidents
+　　全程管理是全面质量管理的基本理念之一，是一个合作过程，强调团队合作的大过程进行全程质量控制[1-3]。患者住院期间需到相关的科室做检查或治疗，由于疾病本身的原因，各种外出检查、治疗过程具有一定的风险，也存在诸多的安全隐患[4-6]。2013年我院患者外出检查过程中，出现心脏骤停、晕厥、跌倒、检查未及时完成、走错病房等不良事件共43件。为确保患者住院期间外出检查的安全，有必要对住院患者外出检查全程管理，制定切实可行的管理制度。我院自2014年1月起实行住院患者外出检查全程管理，取得满意效果。现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　我院共有21个普通病区，包括11个内科病区、10个外科病区为抽样单元，护理部随机抽查2013年度全程管理护理模式实施前（实施前组）及2014年度全程管理护理模式实施后（实施后组）5名/月/病区外出检查患者的临床护理资料，分为实施前组和实施后组，每组1260份临床护理资料。两组接受调查护理资料来源患者的年龄、性别、文化程度、疾病的严重性、疾病的种类、住院时间等一般资料经统计学检验，差异无统计学意义（P>0.05），具有可比性。
+　　1.2 护送人员一般资料
+　　我院共有12名护送人员，其中工龄3年以上4名，2年以上6名，1年2名。全程管理实施前后我院护送检查人员数量、年龄、性别、工龄、文化程度、护送检查的项目及数量经统计学检验，差异无统计学意义（P>0.05）。
+　　1.3 全程管理护理模式实施方法
+　　1.3.1 确定住院患者外出检查服务项目的重要性 （1）调查表设计 护理部召集服务中心、护送队及各临床科室护士长，对住院患者外出检查的流程、制度、护送人员的排班模式进行讨论，设计住院患者外出检查服务项目重要性调查表。调查表由封闭性选择题和开放型问答题构成，包括四部分内容：被调查者的一般情况（6项）、护送人员的服务质量（10项）、责任护士服务质量（3项）、临检科室服务质量（3项）开放型题（您认为住院患者检查服务项目较重要的还有……）。（2）问卷调查 研究者以不记名方式对住院患者外出检查逐一发放问卷，使用统一的指导语，解释调查的目的及填写方法，填写结束后研究者当面核查项目的完整性后收回，共发放200张问卷，收回198张，无效问卷1张，有效回收率98.5%。（3）确定整改的项目 根据调查的结果，运用关联矩阵和失效模式分析确定其影响住院患者外出检查过程中存在的主要问题：申请单过多排列无序、未用夹固定，病情与护送工具不符，护送不到位，患者走错、走失，护送人员服务理念差。
+　　1.3.2 整改重要?目 （1）合理摆放申请单 利用快赢方法整改申请单过多排列无序、未用夹固定，每位护送人员有专用的办公桌，所有的检查项目分科、分类放置并按检查的日期有序排列[7-10]。（2）改进排班制度 改变护送人员的排班模式，护送人员每天轮科制改为每月轮科制，便于熟悉病情，准确使用护送工具，同时护送过程中便于找到共同的话题，促使沟通愉快、有效；减少未检查项目的交接班，便于预约项目检查的及时完成（护送人员是计件工资，轮科护送检查以免影响护送人员的经济收入）。（3）制定评估细则 各临床科室制定护送工具评价细则。针对病情与护送工具不符的整改，护理部制定病情与护送工具的指导规范，各科依据指导规范并结合本科室疾病的特点制定可量化的护送工具评价细则。如耳鼻喉科病区制定的评估细则（表1）。（4）修改外出检查流程 促使有效落实病情与护送工具的符合性，整改落实护送不到位使患者走错、走失现象（图1、2）。
+　　1.3.3 制作温馨提醒牌 护理部根据检查项目的要求，制定温馨提醒牌：正面检查项目名称，正面右下角检查顺序，反面检查注意事项。
+　　1.3.4 提升护送人员的服务理念 （1）规范新员工的培训制度 1 d的岗前培训和15 d的实践培训，培训期满后由各科室的患者、护士长、责任护士对护送人员进行全方位的满意度考核，≥90分到人事处报到录用。（2）案例分享制度 每周一下午17：00病房护士长进行工作总结，实行案例讨论分享制度，提高服务水平，增强服务意识。（3）设立护送明星奖励制度 临床科室的患者、护士长、责任护士每月对护送人员进行全方位的满意度考核，得分最高者为护送明星，得星最多者年终考核直接为优秀，成为感动人物候选人。受到患者口头或书面表扬的50元/次。
+　　1.4 规范制度执行后效果评价方法
+　　由护理部统一培训调查人员专门负责，于辅助检查科室调查患者使用工具与病情的符合率、追踪检查询问患者评价检查过程的满意度，5名/病区/月，检查的结果为护理质量内容之一。
+　　1.5 观察指标
+　　比较全程管理护理实施前后护理意外事件发生率、护送工具与病情符合率、患者外出检查满意度。
+　　1.6统计学方法
+　　采用SPSS13.0软件进行统计分析，计量资料以（x±s）表示，采用t检验，计数资料采用χ2检验，P<0.05表示差异有统计学意义。
+　　2 结果
+　　2.1 实施全程管理护理模式对患者外出检查意外事件及护送工具选择的影响
+　　2013年1～12月，我院所有住院患者外出检查意外事件为43件，发生率为3.41%；2014年1～12月，我院所有住院患者外出检查意外事件为12件，发生率为0.95%，实施后患者外出检查意外事件发生率低于实施前。实施全程管理护理模式前患者外出检查护送工具与病情符合率为93.02%，实施后为99.84%，全程管理护理模式实施后护送工具与病情符合率高于实施前（P<0.05）（表2）。   　　2.2实施全程管理护理模式对患者外出检查满意度的影响
+　　实施全程管理护理模式前，患者外出检查满意度评分为（96.25±4.39）分，实施全程管理护理模式后，患者外出检查满意度评分为（98.78±5.15）分，实施全程管理护理模式后患者外出检查满意度评分高于实施前（P<0.05）。
+　　3讨论
+　　3.1住院患者外出检查全程管理的重要性
+　　住院患者外出检查作为2012年我院十大不满意事件之一，是2013年医院持续整改的重点项目，认为有必要建立规范的住院患者外出检查管理制度。赵立新[11]认为心血管患者外出检查易发生危险，孙向红[9]及杨秀兰等[10]认为住院患者外出检查出现低血糖、跌倒时有发生，因此有必要建立规范的患者外出检查全程管理制度，从而提升医院的品质。从结果中可知全程管理前后患者外出检查的意外事件发生减少31件，外出检查的满意度评分明显提高。
+　　3.2 责任护士与护送人员的团队合作提高全程管理质量
+　　罗永梅[12]及张为芳等[13]认为责任护士更加动态了解病情，及时与护送人员做好沟通，共同有效地保证了患者送检工作的顺利进行，各自提高了工作的效率和质量，如前诉细化外出检查流程，责任护士通过可操作性的评估细则，评估住院患者外出检查的护送工具、适宜检查的时机，评估结果及时与护送人员沟通，从而保证住院患者外出检查的质量。从结果中得知全程管理前后患者外出检查的意外事件减少，满意度提高。
+　　3.3 制度的可操作性是提高全程管理质量的重要手段之一
+　　任何方法制度的改革都应该以可操作性为原则，这种细化的护送流程极具操作性，流程的可操作性同时也保证了其管理制度的不断完善[14-16]。孙萌等[17]认为陪检工作中还存在诸多缺陷，完善和细化工作流程，是需要在实践中不断总结、完善和改进的重点。我院从细化外出检查流程着手，并制订可操作性的各专科外出检查评估细则，完善护送人员的培训制度、管理制度，在实践中不断完善，使有效的人力资源得到充分利用，保证住院患者外出检查工作安全而顺利完成，使患者满意[18-20]。
+　　3.4 质量监控是制度落实的重要保证
+　　制度的制定源于临床实践又要高于实践，制度落实必须通过持续监控，才能确保其落实。我院护理部每月监控护送工具与病情符合率及患者外出检查满意度。不断规范责任护士、护送人员的行为，使之形成良好的工作习惯[21-23]，使住院患者外出检查工作安全而顺利完成，从表3中得知外出检查工作满意度评分持续保持在90分以上。
+　　住院患者外出检查是一个多科合作过程，为提高住院患者满意度，降低外出检查意外事件的发生[24，25]，我院对住院患者外出检查应用全程管理理念已取得显著效果，值得各医院借鉴学习，本方法只在本院实施，各医院在借鉴时根据本院特点作适当修改。
+
+

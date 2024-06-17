@@ -1,0 +1,31 @@
+
+ 　　[摘要] 目的 ?Ω鎏寤?护理在肿瘤PICC置管患者中的应用价值进行分析。方法 方便选取2015年2月―2017年2月福建省漳州市中国人民解放军第一七五医院普通外科肿瘤PICC置管患者48例随机分两组。A组采用常规化护理方案，B组采用个体化护理方案。比较两组患者PICC置管护理满意度；肿瘤知识知晓评分、PICC置管知识掌握情况、PICC置管依从性；护理前和护理后患者情绪状态的差异；穿刺点感染、导管堵塞和静脉炎等并发症的发生率。结果 B组患者PICC置管护理满意度95.83%高于A组75%（P<0.05）；B组肿瘤知识知晓评分、PICC置管知识掌握情况、PICC置管依从性（94.18±2.13）分、（95.36±4.13）分、（92.56±8.13）分高于A组（81.71±1.02）分、（82.01±1.21）分和（80.31±7.82）分（P<0.05）；护理前两组情绪状态比较差异无统计学意义（P>0.05）；护理后B组情绪状态改善幅度更大（P<0.05）。B组患者穿刺点感染、导管堵塞和静脉炎等并发症发生率8.33%低于A组50.00%（P<0.05）。结论 个体化护理在肿瘤PICC置管患者中的应用价值高，可有效改善患者不良情绪，提高其对疾病和PICC置管的认知，提高PICC置管依从性，减少PICC置管并发症发生，患者满意，值得借鉴。
+　　[中图分类号] R47 [文献标识码] A [文章编号] 1674-0742（2017）05（b）-0150-03
+　　[Abstract] Objective To analyze the application value of individual nursing in patients with tumor PICC catheterization. Methods 48 cases of patients with tumor PICC catheterization admitted and treated in our hospital from February 2015 to February 2017 were convenient selected and randomly divided into two groups， the group A adopted the routine nursing plan， while the group B adopted the individual nursing plan， and the satisfactory degree of PICC catheterization， awareness score of tumor knowledge， mastery situation of PICC catheterization knowledge， compliance of PICC catheterization， difference in the emotion state before and after nursing， puncture point infection， catheter obstruction and incidence rate of phlebitis were compared between the two groups. Results The satisfactory degree of PICC catheterization in the group B was higher than that in the group A（95.83% vs 75%）（P<0.05）， and the tumor knowledge awareness score， mastery of PICC catheterization knowledge and compliance of PICC catheterization in the group B were higher than those in the group A[（94.18±2.13）points（95.36±4.13）points，（92.56±8.13）points vs （81.71±1.02）points，（82.01±1.21）points，（80.31±7.82）points]（P<0.05）， before nursing， there was no obvious difference in the emotion state between the two groups（P>0.05）， after nursing， the improvement range of emotion state in the group B was bigger（P<0.05）， and the incidence rate of puncture point infection， catheter infection and phlebitis in the group B was lower than that in the group A（8.33% vs 50.00%）（P<0.05）. Conclusion The application value of individual nursing in patients with tumor PICC catheterization can effectively improve the bad emotion， improve the cognition of disease and PICC catheterization， improve the compliance of PICC catheterization and reduce the occurrence of PICC catheterization complications and the patients are satisfied， which is worth reference.   　　[Key words] Individual nursing； Patients with tumor PICC catheterization； Application value
+　　肿瘤是临床常见疾病，可威胁患者生命安全，早期多行手术治疗，而术后进行辅助化疗是多数肿瘤患者有效治疗方法，但传统经外周静脉穿刺输入化疗药物很容易发生静脉炎，出现渗漏性损伤。经外周静脉穿刺置入中心静脉导管（PICC）则可克服传统置管的缺陷，可避免化疗药物长期刺激以及长时间输注引发的局部组织刺激，减轻血管损伤，是便捷、安全的化疗药物静脉通路，确保化疗顺利进行[1-2]。但肿瘤患者PICC置管过程若护理不当可出现导管堵塞等并发症，影响患者依从性和治疗效果，需做好护理工作[1-3]。该研究将2015年2月―2017年2月肿瘤PICC置管患者48例随机分两组，分析了个体化护理在肿瘤PICC置管患者中的应用价值，?F报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　方便选取该院收治的肿瘤PICC置管患者48例，随机分两组。B组患者男12例，女12例；33-75岁，年龄平均值（46.57±5.12）岁。A组患者男13例，女11例；33～75岁，年龄平均值（46.24±5.58）岁。两组一般资料差异无统计学意义（P>0.05）。
+　　1.2 方法
+　　A组采用常规化护理方案，B组采用个体化护理方案。①心理护理。在置管前对患者心理状态进行评估，并采取听音乐、鼓励患者倾诉内心想法、和患者聊天等方式减轻其紧张感，使其在处于较为放松的状态下进行置管，以提高置管成功率。②严格执行操作规程。对置管流程进行规范，送管需缓慢和匀速，严格执行无菌操作。加强对穿刺点的监测和周围皮肤监测，在置管后1 d内及时更换敷料，若出现穿刺点异常现象需及时汇报并给予对症处理。③冲管和封管护理。结束输液后用生理盐水冲洗导管并用肝素钠封管，预防导管阻塞的发生。④导管感染的预防。加强对患者临床症状的观察和体温等的监测，若出现发热或寒战需立刻停止输液，并进行封管，及时告知医生处理，并进行血培养和送检。对侧肢体建立静脉通路，给予抗生素控制感染。在获得培养菌株和药敏试验后给予敏感抗生素。⑤出院指导。在出院前指导患者和家属加强对穿刺部位的观察，并定期复查[4-5]。
+　　1.3 观察指标
+　　比较两组患者PICC置管护理满意度；肿瘤知识知晓评分、PICC置管知识掌握情况、PICC置管依从性；护理前和护理后患者情绪状态的差异；并发症。PICC置管护理满意度分为非常满意、比较满意、不满意。肿瘤知识知晓评分、PICC置管知识掌握情况、PICC置管依从性满分均是100分，分数越高越好[6]。情绪状态用焦虑自评量表和抑郁自评量表评价。
+　　1.4 统计方法
+　　SPSS 20.0软件统计，计数资料采用[n（%）]表示，进行χ2检验。计量资料用（x±s）表示，进行t检验。P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者PICC置管护理满意度相比较
+　　B组患者PICC置管护理满意度高于A组（P<0.05）。见表1。
+　　2.2 护理前和护理后情绪状态相比较
+　　护理前两组情绪状态比较差异无统计学意义（P>0.05）；护理后B组情绪状态改善幅度更大（P<0.05）。见表2。
+　　2.3 两组患者肿瘤知识知晓评分、PICC置管知识掌握情况、PICC置管依从性相比较
+　　B组肿瘤知识知晓评分、PICC置管知识掌握情况、PICC置管依从性高于A组（P<0.05），见表3。
+　　2.4 两组患者穿刺点感染、导管堵塞和静脉炎等并发症发生率相比较
+　　B组患者穿刺点感染、导管堵塞和静脉炎等并发症发生率低于A组（P<0.05）。见表3。
+　　3 讨论
+　　PICC置管是肿瘤患者术后放疗药物输注有效、安全途径，但长期PICC置管过程若不采取科学合理护理措施，仍可带来一定的并发症和伤害，其中常见的并发症有机械性以及化学性静脉炎、穿刺点感染、穿刺点渗血、导管堵塞等，需采取有效的措施对上述并发症的出现进行预防，以提高患者置管依从性和耐受性，减轻其心理负担，提高化疗效果[7-8]。
+　　个体化护理方案在肿瘤PICC置管患者中的应用可根据患者情况进行个体化护理，具有针对性和整体性，可避免传统护理的缺陷，更好为患者提供贴心的护理服务，并加强对并发症的针对性预防和护理，可有效改善患者心理状态，增加其置管知识和疾病知识掌握度，使其更好配合医护工作，减少并发症的发生[9-10]。
+　　该研究中，A组采用常规化护理方案，B组采用个体化护理方案。结果显示，B组患者PICC置管护理满意度高于A组，说明个体化护理可通过个体性、针对性护理方案获得患者认可和青睐，改善护患关系，提升患者满意度。
+　　B组肿瘤知识知晓评分、PICC置管知识掌握情况、PICC置管依从性高于A组，说明个体化护理针对患者健康知识情况和个体文化水平等进行健康宣教并获得了良好成效，成功提升了患者疾病认知和治疗依从性。
+　　护理前两组情绪状态比较差异无统计学意义（P>0.05）；护理后B组情绪状态改善幅度更大，说明个体化护理对患者不良情绪有良好的疏导作用。B组患者穿刺点感染、导管堵塞和静脉炎等并发症发生率低于A组，说明个体化护理可通过细化操作，关注和预防并发症的发生减少不良事件出现，减轻患者痛苦。饶学燕等人[9]的研究显示，个体化护理干预在肿瘤PICC置管患者中的应用效果确切，显著降低了非计划拔管事件的发生。柳冬梅[10]的研究显示，个体化护理在肿瘤PICC置管患者中的应用发生异位（0例）、堵管（1例）、药液渗漏（2例）、黏膜损伤（4例）、静脉炎（3例）、静脉血栓（1例）等相关并发症的数量均明显小于常规护理患者（P?0.05）。插管成功率57（95.0%）明显高于常规护理患者（P?0.05），说明对行PICC置管术的肿瘤患者采用个体化护理方法有助于减少并发症的发生，增加插管成功率，减轻患者痛苦，和我们研究结果相似。   　　综上所述，个体化护理在肿瘤PICC置管患者中的应用价值高，可有效改善患者不良情绪，提高其对疾病和PICC置管的认知，提高PICC置管依从性，减少PICC置管并发症发生，患者满意，值得借鉴。
+
+

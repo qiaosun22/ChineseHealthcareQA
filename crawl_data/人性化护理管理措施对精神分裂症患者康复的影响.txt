@@ -1,0 +1,33 @@
+
+　　[摘要] 目的 探讨人性化护理管理措施对精神分裂症患者康复的影响。 方法 选择2012年2月～2013年6月在重庆三峡中心医院平湖分院治疗的精神分裂症患者120例，随机分为观察组和对照组，每组各60例。观察组给予人性化护理管理措施，对照组给予常规护理措施管理。分别于入院时、入院后2、8周采用简明精神疾病评价量表（BPRS）、社会能力缺陷调查量表（SDSS）和症状自评量表（SCL-90）进行效果评定并比较。 结果 ①两组患者在入院时及入院后2周时BPRS量表总分及各分项评分比较，差异均无统计学意义（均P > 0.05）；入院后8周时，观察组焦虑抑郁、缺乏活力、思维障碍、敌对猜疑、总分均低于对照组，差异有高度统计学意义（t = 6.88、6.97、8.27、7.39，均P < 0.01）。②两组入院时、入院后2周SDSS量表评分差异无统计学意义（P > 0.05）；观察组入院后后8周SDSS量表评分低于对照组，差异有统计学意义（P < 0.05）。③入院后8周观察组SCL-90量表中躯体化、强迫、人际关系、抑郁、焦虑及偏执因子评分均低于对照组，差异均有统计学意义（P < 0.05）；余项目评分差异无统计学意义（P > 0.05）。 结论 人性化护理管理可改善精神分裂症患者病情，值得在临床推广应用。
+　　[中图分类号] R473.74 [文献标识码] C [文章编号] 1673-7210（2014）08（a）-0132-04
+　　Research of the influence of humanized nursing management measures in rehabilitation of patients with schizophrenia
+　　FU Xuemei1 ZHU Ying1▲ XU Yunhua2 SHENG Jiuling3
+　　1.Department of Medical Business Office， Pinghu Branch Hospital of Chongqing Three Gorges Central Hospital， Chongqing 404000， China； 2.Department of Prevention and Health Section， Pinghu Branch Hospital of Chongqing Three Gorges Central Hospital， Chongqing 404000， China； 3.Department of Psychosomatic Rehabilitation， Pinghu Branch Hospital of Chongqing Three Gorges Central Hospital， Chongqing 404000， China
+　　[Abstract] Objective To investigate the influence of humanized nursing management measures in rehabilitation of patients with schizophrenia. Methods 120 cases of schizophrenia from February 2012 to June 2013 in Pinghu Branch Hospital of Chongqing Three Gorges Central Hospital were selected and divided into observation group and control group randomly with 60 cases in each group. The observation group was treated with humanized nursing management measures， the control group was treated with conventional nursing measures. The curative effect between the two groups when hospital admission， 2， 8 weeks after hospital were assessed and compared by BPRS， SDSS， SCL-90 scales. Results ①The differences of BPRS total scores and each component scores between the two groups when hospital admission and 2 weeks after hospital were not statistically significant （P > 0.05）. The scores of anxiety-depression， lack of vitality， disturbance of thought， hostile suspicion， total points in observation group 8 weeks after hospital were all lower than those in control group， the differences were statistically significant （t = 6.88， 6.97， 8.27， 7.39， P < 0.01）. ②The differences of SDSS scale scores between the two groups when hospital admission and 2 weeks after hospital were not statistically significant （P > 0.05）. The SDSS scale scores in observation group 8 weeks after hospital were all lower than those in control group， the differences were statistically significant （P < 0.05）. ③The SCL-90 scores of somatization， compulsivity， interpersonal relationship， depression， anxiety， paranoid factor in observation group 8 weeks after hospital were all lower than those in control group， the differences were statistically significant （P < 0.05）. Conclusion Humanized nursing management measures can improve the illness state of schizophrenia， it is worthy of clinical application.   　　[Key words] Schizophrenia； Humanized nursing management measures； Influence
+　　人性化护理已经越来越多地应用于临床实践之中，成为区别于常规护理措施的重要区别之一，并为广大医护人员及患者所了解[1]。人性化护理措施的精髓是在临床护理中充分体现“以人为本”的理念，整体把握患者的躯体、心理、文化等多个方面的需求，而不是仅满足患者疾病的治疗及护理等基础要求，避免传统上的“只见器官，不见个人”的缺点。精神科疾病的护理更是需要人性化的理念及措施[2]，为此，本研究在精神分裂症患者中给予人性化护理管理相关措施，取得了较为理想的效果，现将结果报道如下：
+　　1 资料与方法
+　　1.1 一般资料
+　　选择2012年年2月～2013年6月在重庆三峡中心医院平湖分院治疗的精神分裂症患者120例，均为男性。入选标准为：①患者诊断均符合中国精神障碍分类与诊断标准第3版（CCMD-3）中关于精神分裂症的确诊要求；②除外其他精神类疾病及肝肾功能不全等严重的器质性病变；③精神分裂症病情有效控制，除外阳性的精神症状，均行系统的抗精神病治疗，目前为康复期，以阴性表现为主，阴性症状评价表（SANS）得分>48分。所有患者随机分为观察组和对照组，每组各60例。观察组患者年龄24～51岁，平均（28.12±7.51）岁；病程为6个月～22年，平均（2.45±1.21）年；住院时间71～175 d，平均（88.52±25.67）d；受教育程度：初中及以下26例，高中及中专22例，大学及以上12例；职业分布情况：务农20例，工厂工人16例，干部及事业单位10例，在读学生14例；药物使用剂量[折算为氯丙嗪等效效价（256.37±10.16）mg]。对照组患者年龄20～55岁，平均（29.60±7.58）岁；病程为4个月～21年，平均（2.20±1.01）年；住院时间67～160 d，平均（89.78±27.55）d；受教育程度：初中及以下30例，高中及中专24例，大学及以上6例；职业分布：务农22例，工厂工人18例，干部及事业单位12例，在读学生8例；药物使用剂量[折算为氯丙嗪等效效价（256.35±10.64）mg]。两组患者性别比例、年龄、教育程度、病程、药物用量等一般资料比较，差异无统计学意义（均P > 0.05），具有可比性。
+　　1.2 方法
+　　1.2.1 对照组 对照组患者给予精神科常规的护理措施管理，密切注意患者病情变化，给予生活护理等。
+　　1.2.2 观察组 观察组患者给予人性化护理管理措施。具体包括：①整理病房环境，营造温馨、舒适的居住氛围，可在病房的角落上布置鲜花或植物；勤于打扫，保持地面、门窗玻璃、床椅等的干净及卫生。②要求护理人员着装整洁、态度友善、热情，举止稳重、大方，进行护理操作时要轻柔；主动对患者将患者当做亲人般关心，交流时要求文明用于，充分尊重患者的人格及尊严等。③健康宣教。由主管护士利用病房宣传栏或发放精神类疾病宣传品向患者及家属宣讲精神卫生疾病相关知识、心理问题咨询等方面的专业精神、心理医学知识。④人性化心理辅导与护理。患者住院期间，每周按时举行医护-患者交流会，解答患者及家属在日常治疗中遇到的相关问题。⑤在日常生活中主动关心患者。除在日常起居上的给予细心照料，尤其对有胃肠不适、纳差甚至恶心呕吐的患者，酌情给予额外的照顾及护理措施，如根据不同患者的口味调整饮食、水果等搭配，向家属了解患者日常喜爱的食物种类，并积极提供等。⑥情感帮助。定期家属探访，由医护人员向家属介绍患者现阶段病情的变化，除此之外，详细交代接触患者时注意的方面，指导家属探访的技巧，帮助患者尽快康复，如与患者交流时言辞需柔和，多使用理解和鼓励的语言等。⑦文化娱乐的护理。由主管护士向患者介绍日常娱乐相关规定及在院期间娱乐生活相关要求，使患者保持愉悦的心情，保持积极向上的心态。甚至可以定期或不定期举办由医务人员和部分患者组织的文艺表演会等[3-4]。
+　　1.3 评价标准
+　　由2名职称、资历相当的精神科医师分别独立进行评价，评价者不参与本研究中的人性化护理管理。患者的临床症状、表现等采用简明精神疾病评价量表（BPRS）[5]、社会能力缺陷调查量表（SDSS）[6]和症状自评量表（SCL-90）[7]进行评价，评价的时机选择在患者入院时、入院后2、8周时。
+　　1.4 统计学方法
+　　采用统计软件SPSS 17.0对数据进行分析，计量资料以均数±标准差（x±s）表示，重复测量的计量资料比较采用方差分析，两两比较采用LSD-t检验。计数资料以率表示，采用χ2检验。以P < 0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组BPRS量表评分比较
+　　两组患者在入院时及入院后2周时BPRS量表总分及各分项评分比较，差异均无统计学意义（均P > 0.05）；入院后8周时，观察组焦虑抑郁、缺乏活力、思维障碍、敌对猜疑、总分等均低于对照组，差异有高度统计学意义（t = 6.88、6.97、8.27、7.39，均P < 0.01）。见表1。
+　　2.2 两组各时间点SDSS量表比较
+　　观察组入院时、入院后2周时SDSS量表评分差异无统计学意义（P > 0.05）；观察组入院后8周时SDSS量表评分低于对照组，差异有统计学意义（P < 0.05）。见表2。
+　　表2 两组各时间点SDSS量表比较（分，x±s）
+　　注：与对照组比较，*P < 0.05
+　　2.3 两组SCL-90量表评分比较
+　　入院后8周，两组SCL-90量表中敌对、恐怖、精神病性及其他等项目评分差异无统计学意义（P > 0.05）；其余各项评分差异均有统计学意义（P < 0.05）。见表3。   　　3 讨论
+　　随着社会发展及患者对医疗水平要求的不断提高，传统上的护理观念及方法逐步被“生物-社会-心理医学”模式所替代。相应地，护理理论模式也取得了相应的进展，临床上的护理模式已由基本的执行医师医嘱转换为根据患者需求，采用综合性护理措施满足患者全方位的医疗需求。人性化护理管理措施秉承“以人为本”的护理理念，以患者的身心综合健康为核心，以恢复及增强精神疾病患者的躯体健康、社会能力为基本出发点的护理理念及方法[8-10]。
+　　人性化护理管理措施的应用，帮助患者培养良好的认知行为及生活方式，极大地改善患者日常生活，改变精神分裂症患者固有的不良认知，有助于患者的心身康复，提高其对周围不良刺激因素的抵抗能力。人性化护理管理要求以尊重患者为基础，以人的综合健康为核心，尤其注重患者的心理需要和人格尊严，关注患者内在的生活质量[11-13]。人性化护理管理措施通过提供规范化的护理服务，与患者建立了良好的医患、护患关系，成为保证患者治愈、康复的重要因素[14-17]。人性化护理管理的运用提高了患者的心理素质、综合素质；情感支撑则是在了传统家庭和医疗环境的帮助下，明显降低了患者的孤独、恐惧感；文艺措施的采用帮助患者建立、培养乐观的生活态度。以上人性化护理管理的措施改善了患者的焦虑和抑郁等负面情绪[18-21]。
+　　本研究中，给予人性化护理管理措施8周后，观察组BPRS量表各项得分均低于对照组（P < 0.01），说明观察组患者临床症状改善程度较好，尤其对患者的情绪、焦虑、抑郁、对抗等行为有明显效果。采用SDSS量表及SCL-90量表评价患者社会能力缺陷程度及精神性症状改善情况，结果显示，给予人性化护理管理措施8周后，观察组患者SDSS量表评分及SCL-90量表评分中的躯体化、强迫、人际关系、抑郁、焦虑及偏执因子评分明显低于对照组（P < 0.05），显示人性化护理管理措施对精神疾病患者社会活动能力及心理健康水平有着积极的改善作用。
+　　综上所述，人性化护理管理措施可以改善精神分裂症患者病情，帮助其建立或恢复社会功能，改善身心健康条件，值得在临床推广应用。
+
+

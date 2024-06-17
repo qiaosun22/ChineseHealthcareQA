@@ -1,0 +1,20 @@
+
+　　【摘要】 目的 探讨院前急救护理配合对急性ST段抬高型心肌梗死（STEMI）患者门-球囊扩张时间及血清肌酸激酶同工酶MB（CK-MB）峰值的影响。方法 本院院前急救护理流程改善后接诊的45例急性STEMI患者， 作为改善组， 改善护理流程之前43例急性STEMI患者， 作为未改善组， 比较两组患者门-球囊扩张时间及血清CK-MB水平峰值的差异。结果 与未改善组比较， 改善组患者门-球囊扩张时间及血清CK-MB水平明显降低， 差异有统计学意义（P<0.05）。结论 院前急救护理积极配合可缩短急性STEMI门-球囊扩张时间及降低患者血清CK-MB峰值水平。
+　　DOI：10.14163/j.cnki.11-5547/r.2015.18.134
+　　Influence of pre-hospital care nursing cooperation on door-to-balloon time and creatine kinase isoenzyme MB peak value in acute ST-segment elevation myocardial infarction TAN Xiu-xin， GAO Shao-qin， GUAN Yan-hong. Department of Emergency， Guangzhou City Panyu District Hexian Memorial Hospital， Guangzhou 511400， China
+　　【Abstract】 Objective To investigate the influence of pre-hospital care nursing cooperation on door-to-balloon time and serum creatine kinase isoenzyme MB （CK-MB） peak value in acute ST-segment elevation myocardial infarction （STEMI） patients. Methods There were 45 patients with acute STEMI in our hospital after nursing improvement， and they were in improvement group. Another 43 patients in our hospital before nursing process improvement were in non-improvement group. Differences of door-to-balloon time and serum CK-MB peak value were compared between the two groups. Results Compared with the non-improvement group， the improvement group had much lower door-to-balloon time and serum CK-MB peak value. Their difference had statistical significance （P<0.05）. Conclusion Pre-hospital care nursing cooperation can shorten door-to-balloon time and reduce serum CK-MB peak value in acute STEMI.
+　　【Key words】 Pre-hospital care； Nursing cooperation； Myocardial infarction； Door-to-balloon time； Creatine kinase isoenzyme
+　　急性心肌梗死（AMI） 是急性冠状动脉综合征的严重类型[1]， 在急性心肌梗死的救治中， 冠状动脉开通时间对患者预后有重要影响。本院2013年9月优化了AMI患者院前急救护理流程， 至2014年10月本院急诊出车接回45例急性ST段抬高型心肌梗死（ST-segment elevation myocardial infarction， STEMI）患者， 本研究通过总结45例患者临床资料， 并与2012年6月～2013年8月本院急诊出车接回43例急性STEMI患者资料对照， 探讨院前急救护理配合对急性STEMI患者门-球囊扩张时间及血清肌酸激酶同工酶MB（CK-MB）峰值的影响。现报告如下。
+　　1 资料与方法
+　　1. 1 一般资料 护理流程改善组（改善组）45例， 男35例， 女10例， 年龄（59.72±9.31）岁；护理流程未改善组（未改善组）43例， 男31例， 女12例， 年龄（57.93±10.25）岁。两组患者年龄、性别、梗死部位、罪犯血管及冠状动脉病变血管数等一般资料比较差异无统计学意义（P>0.05）， 具有可比性。见表1。
+　　1. 2 护理配合方法 2013年9月前， 即急诊科AMI院前急救护理流程改善前， 出诊护士护理工作主要是做好建立静脉通路、吸氧、监护工作， 执行医生医嘱， 使用止痛药、镇静药等；2013年9月后， 经改善院前急救护理流程， 出诊护士还要完善以下工作：①给予患者介入术前用药， 如抗血小板药阿司匹林、氯吡格雷、他汀类药物， 必要时加用β受体阻滞剂及其他药物， 尽快抑制患者血小板功能， 降低患者风险， 做好术前药物准备；②做好双下肢及前臂备皮， 左上肢留置针， 节省介入术前准备时间；③心理护理： AMI患者的心理反应和应对过程与疾病的预后及远期生活质量密切相关[2]。AMI患者有剧烈而持久的疼痛， 患者极度恐惧， 为避免情绪激动增加心肌耗氧量致心肌缺血、缺氧加重病情， 护士配合医生治疗疾病的同时给予心理疏导， 帮助患者树立战胜疾病的信心， 积极配合治疗；④通过救护车车载通信系统随时与急诊前台沟通， 通过急诊前台与心内科及导管室协调， 做好应急准备。   　　1. 3 观察指标 记录每一例患者门-球囊扩张时间；血清CK-MB峰值的测定：除了入院即时采血检查CK-MB外， 在入院第1天每3小时测1次， 第2天每6小时测1次， 第3天每12小时测1次， 血清CK-MB水平采用生化自动分析仪（HIIACHI， 717OA， Automatic Analyzer）检测， 检测试剂由浙江东欧公司提供。
+　　1. 4 统计学方法 采用SPSS13.0统计学软件对数据进行统计分析。计量资料以均数±标准差（ x-±s）表示， 采用t检验；计数资料用率（%）表示， 采用χ2检验。P<0.05表示差异具有统计学意义。
+　　2 结果
+　　与未改善组比较， 改善组患者门-球囊扩张时间及血清CK-MB水平明显降低， 差异有统计学意义（P<0.05）。见表2。
+　　3 讨论
+　　3. 1 院前急救时护理流程的改善有助于ST段抬高型急性心肌梗死患者门-球囊扩张时间的缩短。冠状动脉再灌注时间是影响急性STEMI患者预后的最主要因素[3]， 介入治疗时， 患者进医院门-球囊扩张时间是反映冠脉再灌注时间的重要指标。目前， 研究显示， 院前急救流程， 特别是护理流程是影响冠脉再灌注时间的一个重要因素[4]。本研究显示， 通过在院前急救时， 出诊护士积极配合， 在出诊车上就配合医生提前做好术前准备， 节约院内术前准备时间， 与常规的院前护理配合比较， 可明显缩短患者门-球囊扩张时间， 差异有统计学意义（P<0.05）。
+　　3. 2 院前急救时护理流程的改善有助于ST段抬高型急性心肌梗死患者血清CK-MB水平的降低。血清CK-MB水平是反映心肌损伤的一个较敏感指标， 研究显示， 血清CK-MB峰值水平能反映急性心肌梗死患者心肌梗死范围的大小、心功能及预后[5-7]。本研究显示， 与常规的院前护理配合比较， 改善院前急救护理流程后， 出诊护士积极配合， 可明显降低急性STEMI患者血清CK-MB水平， 差异有统计学意义（P<0.05）。其机制可能是， 改善院前急救护理流程后， 通过积极的术前准备， 缩短院内术前准备时间， 缩短患者门-球囊扩张时间， 加快冠状动脉的再灌注， 降低心肌损伤；同时通过出诊护士的心理疏导， 减轻患者负性情绪， 降低心肌耗氧， 降低心肌损伤。提示通过改善院前急救护理流程， 出诊护士积极配合， 可明显降低急性STEMI患者心肌损伤水平。
+　　3. 3 院前急救时护理流程的改善可能有助于ST段抬高型急性心肌梗死患者预后的改善。研究显示， 美国通过改善流程， 为STEMI患者提供了快速救治通道， 大大缩短了再灌注时间， 使美国绝大多数医院直接经皮冠状动脉介入治疗的平均进门-球囊扩张时间明显缩短， STEMI患者的预后得到了显著改善[8]。研究显示， 血清CK-MB峰值水平能反映急性心肌梗死患者心肌梗死范围的大小、心功能及预后[5-7]。提示院前急救时护理流程的改善， 出诊护士积极配合， 可能改善急性STEMI患者预后。
+　　综上所述， 院前急救护理积极配合可缩短急性STEMI患者门-球囊扩张时间及降低患者血清CK-MB峰值水平。
+
+

@@ -1,0 +1,32 @@
+
+ 　　[摘要]目的 观察协同护理对卒中后非痴呆认知障碍（CIND）患者认知损害的效果。方法 选取2015年6月～2017年1月在我院接受治疗的70例CIND患者作为研究对象，将其作为实验组，另选取70例卒中后未出现认知功能障碍的正常患者作为对照组，实验组患者实施协同护理，对照组患者实施常规护理。对70例CIND患者的临床认知特点进行分析，并比较实验组患者在实施协同护理措施前后的日常活动及认知能力。结果 实验组患者的命名、视空间与执行能力、语言等7项认知得分及MoCA总得分均明显低于对照组，差异有统计学意义（P<0.05）。实验组患者在接受康复护理后的认知功能（MMSE）评分、日常活动能力（Barthel）指数均有明显改善，差异有统计学意义（P<0.05）。结论 CIND患者的认知损害是多项认知域联合损害的结果，而根据不同患者的患病特点进行相应的康复护理能够有效提高患者的日常活动与认知能力。
+　　[中图分类号] R473 [文献标识码] A [文章编号] 1674-4721（2017）11（a）-0176-03
+　　Clinical characteristics of cognitive impairment in patients with cognitive impairment after stroke and the effect of cooperative nursing
+　　WU Xiao-hong TAO Jin-lan XIE Li-jing
+　　Fuzhou Maternal and Child Health Hospitalof Fuzhou City in Jiangxi Province，Fuzhou 344000，China
+　　[Abstract]Objective To observe the effect of collaborative nursing on cognitive impairment in patients with non-dementia cognitive impairment （CIND） after stroke.Methods Sixty patients with CIND who were treated in our hospital from June 2015 to January 2017 were selected as the experimental group，and 70 patients with normal cognitive impairment after stroke were selected for the control group，the experimental group of patients with collaborative care，the control group of patients with routine care.70 cases of CIND patients with clinical cognitive characteristics were analyzed and compared with the experimental group of patients in the implementation of collaborative care measures before and after the daily activities and cognitive ability.Results The cognitive score，visual space and execution，language and other cognitive scores of Montreal Cognitive Assessment （MoCA） were significantly lower in the experimental group than those in the control group （P<0.05）.The scores of cognitive function （MMSE） and routine exercise ability （Barthel） were significantly improved in the experimental group （P<0.05），and the difference was statistically significant （P<0.05）.Conclusion The cognitive impairment of CIND patients is the result of multiple cognitive domain combined damage，and according to the characteristics of different patients with the corresponding rehabilitation care can effectively improve the patient's daily activities and cognitive ability.
+　　[Key words]Stroke；Non-dementia cognitive impairment；Cognitive impairment；Clinical features；Nursing measures
+　　非?V呆认知障碍（CIND）是一种虽有一定程度认知损害，但同时并不符合痴呆的临床诊断标准的认知功能缺陷[1]。CIND的概念是加拿大健康与老年研究协会（CSHA）首次提出并应用[2]，现代研究显示，卒中后CIND不仅能严重影响患者生活能力及生活质量，而且可大大增加患者发展为痴呆的风险[3]。协同护理是临床上较为新颖的一种护理模式，其可在责任制护理的基础之上，提高患者自我护理的能力，鼓励患者参与健康护理。有研究显示，卒中后CIND患者实施协同护理能有效对其日常活动与认知能力[4]。为探究协同护理对卒中后CIND患者认知损害的具体效果，为今后临床工作提供参考，笔者对我院70例CIND患者进行相关检测及护理干预，与70例卒中后未出现认知障碍的患者进行对比，并对比卒中后CIND患者在实施不同护理措施前后的日常活动及认知能力，现报道如下。   　　1资料与方法
+　　1.1 一般资料
+　　选择2015年6月～2017年1月在我院接受治疗的70例CIND患者，均符合CIND的临床诊断标准且经过脑部CT或MRI检查确诊，将其作为实验组，另选取我院同期收治的70例卒中后认知功能正常患者为对照组。其中对照组患者中，男37例，女33例；年龄45～73岁，平均（61.62±5.83）岁；受教育时间5～16年，平均（10.81±2.11）年；缺血性脑卒中57例，出血性脑卒中13例。实验组患者中，男36例，女34例；年龄47～74岁，平均（62.03±5.91）岁；受教育时间6～16年，平均（11.02±2.23）年；缺血性脑卒中56例，出血性脑卒中14例。两组患者的一般资料比较，差异无统计学意义（P>0.05），具有可比性。
+　　CIND病例纳入标准：经MMSE量表检测，患者得分为24～27；卒中前不存在认知功能缺陷，无精神疾病病史；未患有颅脑器质性病变、意识障碍、视听功能严重受损等意识性、神经性疾病。
+　　1.2 护理方法
+　　对照组：本组患者实施常规护理，主要内容为病房环境管理、相关症状护理、常规生活护理、用药监督及指导等。
+　　实验组：本组患者实施协同护理，主要内容包括以下几个方面：①护患协同护理：患者入院后对患者及其家属讲解CIND的相关知识，包括CIND的临床症状、治疗方法、致病原因、危害等，使患者及家?俣愿眉膊∮薪先?面、清晰的认识[5]。积极与患者及家属进行交流，针对其表现出的心理特征而对其进行心理疏导，以消除其紧张、忧郁、恐惧等负面心理，告知患者CIND在临床上并发的常见性及合理处理的可康复性[6]，从而达到树立患者治疗信心的目的。与患者进行沟通时要树立良好的个人形象，注意个人举止，语言要尽可能亲切，给予患者热情的帮助和亲切的问候。②医患协同护理：很多患者及家属对医生的治疗依从性远远超过护理人员，对医生的信任程度也大于护理人员。因此，在护理人员进行相关健康教育及宣传工作时，医生应尽量协同，并用通俗易懂的语言将CIND的相关知识传授给患者及家属，积极回答其心中的疑虑、困惑，提高患者的治疗依从性及疾病认知度。③家属、患者协同护理：护理人员在对患者进行健康宣教、日常护理的同时要告知家属正确的协助方法，并进行相关指导。同时叮嘱家属对患者进行鼓励，以助于患者建立战胜疾病的信心。④运动与饮食协同护理：指导患者进行相关肢体活动，在护理早期对其进行床上被动康复训练，康复训练按照活动幅度从小到大、关节活动从小到大的顺序而进行，操作时应尽可能温柔。在患者病情有所好转后对其进行走、跑、跳等综合性运动功能训练，适当对患者在此过程中取得的进步进行鼓励。根据不同患者的喜好为其制定合理的饮食计划，饮食计划以低脂、低盐、低胆固醇，高蛋白、高纤维、高维生素为原则[7]。嘱咐患者进食时要注意进食速度，以防止患者进食过快而造成食物呛咳和窒息等危险情况的发生，若患者存在咀嚼及吞咽功能障碍，应给予其摄入流质或半流质食物。
+　　1.3 观察指标
+　　比较两组MoCA量表各亚项及总分；记录并比较实验组患者在接受相关护理干预后的MMSE评分、Barthel指数。
+　　1.4 相关评定标准
+　　MoCA量表评分：分别从语言能力、视空间与执行能力、抽象思维、命名、定向力、延迟记忆、计算及注意力等方面进行评估，满分30分，总得分≥26分为正常，得分与功能强弱成正比。护理干预后的MMSE评分：总分30分，得分28～30分为正常，24～27分为轻度认知障碍，0～23分为痴呆。Bethel指数：总分为100分，患者总得分越高，表示其日常活动能力越强。
+　　1.5统计学方法
+　　采用统计学软件SPSS 20.0分析数据，计量资料以均数±标准差（x±s）表示，采用t检验，计数资料以率表示，采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1两组患者护理干预后MoCA得分情况的比较
+　　护理后，实验组患者的命名、视空间与执行能力、语言等7项认知能力得分及MoCA总得分均明显低于对照组，差异有统计学意义（P<0.05）（表1）。
+　　2.2实验组患者护理前后MMSE评分及Barthel 指数的比较
+　　经护理干预，实验组患者在接受康复护理后的认知功能（MMSE）评分、日常活动能力（Barthel）指数较护理前均有明显提高，差异有统计学意义（P<0.05）（表2）。
+　　3讨论
+　　作为一种急性脑血管疾病，脑卒中的发病率正伴随着现代人们生活节奏的加快及生活压力的增大而逐年递增。有研究显示，脑卒中已成为我国排名第一位的致死原因，同时也是导致成年人残疾的首要原因[8]。随着急救设施的不断完善，目前临床治疗脑卒中的成功率已大大提高，但由于治疗过程中易对患者脑部神经造成压迫或损伤，很多存活患者一般会出现不同程度的功能性障碍[9]。
+　　CIND是一种常见的脑卒中合并症，虽不会对患者的生命安全形成威胁，但易对患者的生活质量造成较大的影响。有资料显示，若不及时采取干预措施，约35%的CIND患者病情会进展至痴呆[10]，因此，在对CIND患者进行临床治疗及护理前实施系统性神经心理学分析意义重大，而针对分析结果采取合理干预措施将直接影响其认知水平及生活质量。CIND的主要致病机理是患者脑血管梗死病灶对控制认知功能的大脑皮层或与之相关的部位造成损害或影响其发挥正常功能。有研究表明，对患者进行语言、命名、计算力、执行力等相关认知能力训练可以显著提高患者的认知水平、阻滞病情进展[11]，但具体操作时需尽量做到及时与合理。
+　　协同护理模式中，着重于以家属、患者为中心，要求治疗、护理人员与患者及家属相互配合，在不增加职业护理人员条件下，尽可能发挥患者及家属的自我护理能力。该模式可对患者及家属的护理参与性起到较大的提高作用，通过适当的宣传教育、培训工作，积极调动患者的主动护理意识，使患者由早期的被动护理转变至主动护理[12]，对于建立及维护良好的护患关系有着积极的意义。本研究的结果显示，实验组的命名、视空间与执行能力、语言等7个亚项认知得分及MoCA总得分均明显低于对照组，差异有统计学意义（P<0.05），与参考文献[13]中的结果基本一致，表明卒中后CIND患者的各方面认知功能均受到较大影响，其认知障碍是多个认知域同时发生损伤的结果，这与的结论较类似。另一方面，实验组在实施协同护理后，其MMSE评分、Barthel指数较护理前均有十分明显的提高，差异有统计学意义（P<0.05），这与江燕丽等[14]的研究结果基本一致，显示出协同护理在卒中后CIND中的积极意义。但在研究中我们发现，早期卒中后CIND患者的MoCA各亚项得分及总得分均高于中后期MoCA患者，同时在接受协同护理后MMSE评分及Barthel指数的提高幅度方面，早期卒中后CIND患者也高于中后期患者。究其原因是认知损害程度可随未经正确处理时间的推移而加深，这也提示我们应对该群体进行早期识别鉴定、早期合理干预[15]，但本次研究受限于研究时间、研究对象数量，得出的该结论可能具有一定的局限性，具体结果及结论有待于扩增病例数目及延长研究时间而行相关针对性研究而得出。   　　综上所述，卒中后非痴呆认知障碍是命名、视空间与执行能力、语言等多个认知域出现联合损害的结果，而根据不同患者的患病特点尽早进行相应的协同护理可以显著提高患者的日常活动与认知能力。
+
+

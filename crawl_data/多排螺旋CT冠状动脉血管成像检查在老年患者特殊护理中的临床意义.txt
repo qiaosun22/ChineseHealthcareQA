@@ -1,0 +1,22 @@
+
+　　【摘要】 目的：探讨多排螺旋CT冠状动脉血管成像检查对于老年患者特殊护理的临床意义。方法：选取2014年1月-2015年3月来本院做体检的1282例老年患者，按照随机数字表法将其分为对照组和观察组，每组641例。对照组采用常规护理，观察组采用特殊护理，观察两组老年患者多排螺旋CT冠状动脉血管成像检查的结果，分析其临床意义。结果：经护理后，观察组多排螺旋CT冠状动脉血管成像检查前后老年患者心率变化显著率、屏气情况不佳率、图像质量情况较差率分别为10.1%、6.7%和8.4%，均明显低于对照组的45.4%、31.7%和30.7%，差异均有统计学意义（P<0.05）。结论：对老年患者采用特殊护理后，可以减少老年患者的检查前后心率变化显著、屏气不佳以及图像质量较差现象，确保多排螺旋CT冠状动脉血管成像检查临床诊断效果的发挥，值得临床推广。
+　　Clinical Significance of Multi-slice Spiral CT Coronary Angiography in Special Care for Elderly Patients/CHEN Xiao-ling，XIE Juan，FU Hua-jing.//Medical Innovation of China，2015，12（26）：111-112
+　　【Abstract】 Objective：To investigate the clinical significance of multi-slice spiral CT coronary angiography in special care for elderly patients.Method：1282 elderly patients came to our hospital for medical examination from January 2014 to March 2015 were selected and randomly divided into the control group and the observation group，641 cases in each group.The control group was given usual care，the observation group was given special care.The results of multi slice spiral CT coronary angiography in the elderly patients between the two groups were observed and its clinical significance were analyzed.Result：After nursing，the rates of heart rate variation，poor breath and poor image quality ratio in the elderly patients of observation group before and after the examination were 10.1%，6.7% and 8.4%，which were significantly lower than 45.4%，31.7% and 30.7% of the control group，the differences were statistically significant（P<0.05）.Conclusion：After elderly patients with special care，can significantly reduce the phenomenon of heart rate variation，poor breath and poor image quality of elderly patients before and after examination，ensure the clinical diagnosis of multi slice spiral CT coronary angiography，is worthy of clinical promotion.
+　　【Key words】 Multi-slice spiral CT； Coronary angiography； Elderly patients； Care
+　　First-author’s address：The People’s Hospital of Shenzhen City，Shenzhen 518101，China
+　　doi：10.3969/j.issn.1674-4985.2015.26.033
+　　现阶段，随着科学技术的进步发展，多排螺旋CT冠状动脉血管成像检查技术也逐渐发展成熟，并得到医院临床医生的广泛认可[1]。老年患者进行多排螺旋CT冠状动脉血管成像检查之后，影响其检查结果的主要因素是老年患者的心率以及呼吸的平稳程度[2]。本文选取本院做体检的老年患者1282例作为研究对象进行分析，具体结果报告如下。
+　　1 资料与方法
+　　1.1 一般资料 选取2014年1月-2015年3月来本院做体检的老年患者1282例，按照随机数字表法将其分为观察组和对照组，每组641例。观察组641例患者中，男310例，女331例；年龄62～86岁，平均（72.1±8.3）岁。对照组641例患者中，男295例，女346例；年龄61～87岁，平均（71.2±8.2）岁。两组患者的性别及年龄等一般资料比较差异均无统计学意义（P>0.05），具有可比性。   　　1.2 护理方法 对照组采用常规护理，详细询问老年患者的病史，对老年患者实行严禁饮食6 h，做好规范化心电监护工作。观察组采用特殊护理，具体方法如下。
+　　1.2.1 心理护理 将接受检查的老年患者安置于温馨舒适的病房中，为患者播放多排螺旋CT冠状动脉血管成像检查的专业化全程录像，对情绪紧张的老年患者进行一一疏导。
+　　1.2.2 心率护理 心率超过65次/min的老年患者，在接受检查前30 min给予倍他乐克50～150 mg，从而降低心率。对所有接受检查的患者，在检查前10 min给予安定5 mg。
+　　1.2.3 呼吸护理 对所有接受检查的老年患者进行呼吸训练护理，确保所有患者可以屏气15 s，并且胸腹壁要保持静止。
+　　1.3 观察指标 （1）观察两组老年患者检查前后的实际心率波动幅度[3]。（2）观察两组老年患者的呼吸波谱[4]。（3）观察检查后图像质量，质量良好为血管显影清晰或者仅出现少许伪影，质量较差为血管实际伪影严重[5]。
+　　1.4 统计学处理 采用SPSS 18.0软件对所得数据进行统计分析，计量资料用（x±s）表示，比较采用t检验，计数资料以率（%）表示，比较采用 字2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　观察组多排螺旋CT冠状动脉血管成像检查前后老年患者心率变化显著率、屏气情况不佳率、图像质量情况较差率分别为10.1%、6.7%和8.4%，均明显低于对照组的45.4%、31.7%和30.7%，差异均有统计学意义（P<0.05），见表1。
+　　3 讨论
+　　多排螺旋CT冠状动脉血管成像技术在临床应用中发挥着巨大作用，但是影响其成像的影响也存在多样化[6]。机器本身缺陷是其客观因素[7]。此外，检查患者心率变化以及呼吸情况也影响着检查结果[8]。因此，要利用药物控制等方法，减轻患者压力[9]。进行必要的呼吸训练，尽量平稳患者呼吸[10]。采用科学的护理措施，提高检查图像满意率，最终保证多排螺旋CT冠状动脉血管成像的检查效果[11-12]。
+　　本研究中，经特殊护理之后，观察组老年患者检查前后的心率变化、屏气情况以及图像质量明显优于对照组，比较差异均有统计学意义（P<0.05）。说明采用特殊护理之后，可以有效降低老年患者检查前后心率变化显著现象，减少屏气不佳现象，提高图像质量水平，确保多排螺旋CT冠状动脉血管成像检查临床诊断效果发挥，值得临床推广。
+
+

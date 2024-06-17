@@ -1,0 +1,31 @@
+
+ 　　[摘要] 目的 探究儿童糖尿病患儿胰岛素治疗的临床护理。方法 将该院2016年1月―2017年3月收入的儿童糖尿病患儿88例根据方法不同分常规组、全面组各44例。所有患儿实施胰岛素治疗，常规组采取常规护理干预；全面组则实施全面护理干预。比较两组干预效果。 结果 全面组患儿糖尿病治疗效果比常规组高，家长糖尿病知识认知、胰岛素用法认知、患儿治疗依从性比常规组好，不良反应发生率比常规组低，FBG、2 hPBG、HbA1c水平低于常规组，差异有统计学意义（P<0.05）。结论 ?和?糖尿病患儿胰岛素治疗过程给予全面护理，可提升患儿治疗依从性，减少不良反应发生，值得推广。
+　　[中图分类号] R473 [文献标识码] A [文章编号] 1672-4062（2017）08（a）-0103-02
+　　Study on Clinical Nursing of Insulin in Treatment of Children with Diabetes
+　　ZHANG Zhen
+　　Department of Pediatrics， Hospital Affiliated to Nantong University， Nantong， Jiangsu Province， 226001 China
+　　[Abstract] Objective To study the c linical nursing of insulin in treatment of children with diabetes. Methods 88 cases of diabetes children admitted and treated in our hospital from January 2016 to March 2017 were selected and randomly divided into two groups with 44 cases in each， all patients were treated with insulin， and the routine group adopted the routine nursing intervention， while the comprehensive group adopted the comprehensive nursing intervention， and the intervention effect was compared between the two groups. Results The treatment effect in the comprehensive group was higher than that in the routine group， and the diabetes knowledge cognition， insulin instructions cognition and treatment compliance in the comprehensive group were better than those in the routine group， and the incidence rate of adverse reactions was lower than that in the routine group， and the FBG， 2 hPBG， HbA1c levels were lower than those in the routine group，The difference was stastically significant（P<0.05）. Conclusion The comprehensive nursing of diabetes children in the insulin treatment course can improve the treatment compliance and reduce the occurrence of adverse reactions， and it is worth promotion.
+　　[Key words] Children with diabetes； Insulin treatment； Clinical nursing
+　　儿童糖尿病多为I型糖尿病，多发于肥胖儿童。小儿糖尿病属于内分泌代谢疾病，其发病和胰岛素分泌不足相关，临床可出现脂肪、碳水化合物、蛋白质3大营养物质代谢紊乱，出现尿糖、空腹血糖升高和餐后血糖升高。小儿糖尿病患儿以消瘦和三多（多饮、多尿、多餐）为主要表现。根据发病的年龄和阶段，小儿糖尿病多在学?h期和青春发育期出现，且男性和女性发病率之间无显著差异。根据糖尿病发生病因，可分为原发性糖尿病和继发性糖尿病，多数患儿为原发性糖尿病，但目前小儿继发性糖尿病发病率也有逐年升高趋势。该研究将该院2016年1月―2017年3月收入的儿童糖尿病患儿88例根据方法不同分常规组、全面组各44例，探讨了儿童糖尿病患儿胰岛素治疗的临床护理，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　将该院收入的儿童糖尿病患儿88例根据方法不同分常规组、全面组各44例。常规组男性、女性各有28例、16例，年龄1～12岁，平均（7.73±1.01）岁。全面组男性、女性各有27例、17例，年龄1～12岁，平均（7.68±1.26）岁。两组患儿资料差异无统计学意义（P>0.05），有可比性。
+　　1.2 方法
+　　所有患儿实施胰岛素治疗，常规组采取常规护理干预；全面组则实施全面护理干预。①胰岛素使用护理。每天三餐前和睡前监测血糖，胰岛素置于2～8℃冰箱保存，遵医用药，抽吸时摇匀，药量和药物准确核对。短效和中效胰岛素合用需先进行短效胰岛素抽吸，后再进行低精蛋白胰岛素注射液抽吸。轮换、分散选择注射部位，针孔之间纵横间隔2 cm，预防硬结和皮下脂肪萎缩发生。注射胰岛素后半小时进餐[1-2]。②胰岛素泵护理。置泵前嘱咐患儿选择坐位或平卧位，以腹部为首选穿刺部位，消毒皮肤后垂直进针，快速刺入，设置餐前大剂量和胰岛素基础释放量。③若出现管道阻塞报警，需观察有无气泡堵塞或装置扭曲，在排除堵塞气泡之后重新连接。避免将胰岛素泵置入温度低于0℃或45℃以上环境，预防胰岛素失效。③日常护理。固定饮食量、营养成分，定时定量进餐，避免辛辣刺激食物。餐后0.5～1 h活动，时间30 min左右[3-4]。   　　1.3 观察指标
+　　比较两组患儿糖尿病治疗效果；家长糖尿病知识认知、胰岛素用法认知、患儿治疗依从性（每1项满分均为100分，分数越高则认知度和治疗依从性越高）；不良反应发生率；治疗前后FBG、2 hPBG、HbA1c水平。
+　　1.4 统计方法
+　　采用SPSS 20.0统计学软件统计分析数据，两组计量资料用（x±s）表示，予t检验，两组计数资料用百分率（%）表示，予χ2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 糖尿病治疗效果比较
+　　全面组患儿糖尿病治疗效果100.00%（显效36例+8例有效）比常规组77.27%（显效23例+11例有效）高（P<0.05）。
+　　2.2 家长糖尿病知识认知、胰岛素用法认知、患儿治疗依从性比较
+　　全面组家长糖尿病知识认知、胰岛素用法认知、患儿治疗依从性（93.45±5.31）分、（94.53±7.13）分、（92.57±8.13）分比常规组（81.04±5.25）分、（85.26±6.21）分、（80.14±7.82）分好，差异有统计学意义（P<0.05）。
+　　2.3 不良反应发生率比较
+　　全面组不良反应发生率2.27%（1例酮症酸中毒）比常规组18.18%（2例酮症酸中毒、4例恶心呕吐、2例低血糖）低，差异有统计学意义（P<0.05）。
+　　2.4 干预前后FBG、2 hPBG、HbA1c水平
+　　干?A前FBG、2 hPBG、HbA1c水平相似，差异无统计学意义（P>0.05）。干预后全面组FBG、2 hPBG、HbA1c水平优于常规组，差异有统计学意义（P<0.05）。见表1。
+　　3 讨论
+　　儿童糖尿病患儿多采用胰岛素治疗，在治疗期间需做好相关护理工作，以预防并发症的发生[5-6]。全面护理的实施可加强用药和胰岛素泵的护理、日常护理，提高家长对儿童糖尿病的认知和对胰岛素治疗知识认知，积极配合医护人员加强对患儿胰岛素治疗过程的监测，预防并发症的发生，以更好控制血糖在平稳水平，减少并发症的发生[7-8]。该研究结果显示，全面组患儿糖尿病治疗效果比常规组高，家长糖尿病知识认知、胰岛素用法认知、患儿治疗依从性比常规组好，不良反应发生率比常规组低，FBG、2 hPBG、HbA1c水平低于常规组（P<0.05）。
+　　综上所述，儿童糖尿病患儿胰岛素治疗过程给予全面护理，可提高家长对糖尿病知识认知、胰岛素用法认知，并提升患儿治疗依从性，减少胰岛素治疗过程不良反应发生，控制血糖，改善患儿预后，值得推广。
+
+

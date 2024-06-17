@@ -1,0 +1,24 @@
+
+　　[摘要] 目的 探讨心理护理干预对胃癌患者疼痛、情绪及睡眠的影响。 方法 选取本院2012年2月～2014年2月收治的50例胃癌患者作为观察组，所有患者均接受胃癌根治术的相关治疗，并于术后开展有效的心理干预，选取同期50例根治术治疗的胃癌患者作为对照组，仅给予临床常规护理。 结果 两组患者护理前焦虑抑郁心理、疼痛评分以及睡眠时间比较差异均无统计学意义（P>0.05），护理后观察组患者的抑郁情绪评分、焦虑情绪评分、疼痛评分、睡眠时间均显著好于对照组，差异有统计学意义（P<0.05）。 结论 胃癌患者术后疼痛、不良情绪及睡眠障碍情况多由于对疾病的恐惧所引起，手术后给予不同方向的心理护理干预，可显著降低各种不良事件的发生率，促进术后恢复，提高手术实际效果。
+　　[中图分类号] R473.73 [文献标识码] B [文章编号] 1674-4721（2014）08（a）-0130-03
+　　Influence of psychological nursing intervention on pain，negative emotion and sleep for patients with gastric cancer
+　　GE Zhen-ping
+　　Department of Surgery，People′s Hospital of Yangzhong City in Jiangsu Province，Yangzhong 212200，China
+　　[Abstract] Objective To investigate the influence of psychological nursing intervention on the pain，negative emotion and sleep for the patients with gastric cancer after the operation. Methods 50 cases of gastric cancer patients in our hospital from February 2012 to February 2014 were selected as the observation group，and all of these patients were given relative treatment of radical gastrectomy，and given effective psychological intervention after the operation.Another 50 cases of patients with gastric cancer given the radical gastrectomy treatment at the same time were selected as the control group，and these patients were only given the conventional nursing measures. Results There were no statistical differences between the psychological anxiety and depression，pain score，and sleep time of the two patients before the nursing （P>0.05），and after the nursing，the depression score，anxiety score，pain score，sleep time in the observation group were significantly better than those of the control group，with statistical significance （P<0.05）. Conclusion The postoperative pain，negative emotion，and sleep disorder are most caused by the fear of the disease，the different psychological nursing intervention after the operation can effectively reduce the occurrence of negative issues，promote the postoperative recovery，and improve operative actual effects.
+　　[Key words] Gastric cancer；Psychological nursing；Pain；Negative emotion；Sleep
+　　胃癌是消化内科常见的肿瘤之一，其发病率与死亡率一直居高不下，对患者的生命安全造成严重威胁。胃癌根治术是治疗该病的首选方法，能够有效切除病灶，具有较好的短、中、远期疗效[1-2]。但手术结束后患者经常出现严重疼痛与不良心理情绪，可降低睡眠及生活质量。本研究主要针对50例手术患者进行相关的心理护理干预，探讨心理护理干预对胃癌患者疼痛、情绪及睡眠的影响。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取本院2012年2月～2014年2月进行根治术的100例胃癌患者为研究对象，均经病理检查确诊，将所有患者随机分为对照组与观察组，每组各50例。对照组男性29例，女性21例，年龄38～73岁，平均（51.3±4.9）岁；观察组男性28例，女性22例，年龄40～75岁，平均（52.7±4.8）岁。所有患者既往均无失眠史，且自愿参加研究并签署同意书。两组患者的基本资料差异无统计学意义（P>0.05），具有可比性。   　　1.2 方法
+　　对照组与观察组患者同时采取胃癌根治术进行治疗，手术完成后，对照组给予常规护理，观察组患者则在常规护理的基础上，由护理人员、专业心理医生及其家属于术后1个月左右共同开展为期7 d的具有针对性的心理干预护理措施。①医学科普：向患者及其家属详细讲述发病的机制、发展及治疗方案，使患者清楚地了解病情和自身情况，消除患者的疑虑及担忧心理；②睡眠疗法：科普“做梦”原理及相关知识，指导患者科学合理的面对该问题，减少安眠药服用剂量，逐步改变患者对安眠药物的依赖程度，必要情况下，改用安慰剂辅助患者睡眠，与此同时，尽一切可能为患者营造舒适、安静的休息环境，改善患者的睡眠质量；③心理干预：准确评估患者的认知能力，并在此基础上采取相应的干预措施，首先找出致使患者产生负面情绪的主要因素，其次以辩论、对比、转换等干预方式，充分调动患者主观意识，转变由消极情绪产生的错误行为方式，积极配合护理治疗；④音乐引导：选择舒缓、轻快、明朗的音乐，利用音乐艺术魅力刺激患者意识转变，缓解焦躁情绪，并使患者放松身心；⑤暗示疗法：患者家属和医护人员形成诚信互动关系，及时交流患者病情，护理人员对患者以鼓励为主，同时指导患者家属留意日常行为及言语，避免刺激患者，并通过言行举止透露积极信息，加强心理暗示，增加患者信心并调动患者接受治疗和护理的积极性。
+　　1.3 观察指标
+　　护理前后分别采用抑郁自评量表（SDS）以及焦虑自评量表（SAS）对患者的不良心理问题进行评定，SDS量表与SAS量表均采取4级评分方式，每份量表共20项问题描述，1分表示基本没有，2分表示偶尔存在，3分表示多数时间存在，4分表示全部时间均存在；总分为80分，分数越高表示患者的不良心理越严重。采用疼痛视觉模拟评分法进行疼痛评分，总分为10分，分数越高表示患者的疼痛情况越严重。同时记录患者护理前后的睡眠时间，综合具体结果进行比较与分析。
+　　1.4 统计学处理
+　　3 讨论
+　　3.1 胃癌患者手术后产生不良影响的相关研究
+　　胃癌作为严重等级较高的消化道恶性肿瘤，患者一经确诊经常会出现不同程度的心理压力，造成情绪低落、丧失信心，严重影响临床治疗与恢复的效果[3]。外科手术是当前治疗胃癌的首选方案，但手术相应的创伤较大、恢复时间较长、术后并发症较多，对患者的身心均产生影响[4]。孙岩等[5]的研究表明，胃癌患者术后经常伴随严重的疼痛与不良心理问题，致使手术的效果降低。不良心理问题多为患者确诊后对疾病产生的严重恐惧，针对日后进行的相关治疗缺乏必要的信心，在长期疾病影响下使焦虑、抑郁情况越来越严重。而疼痛作为一种主观体验，其产生的原因多种多样：①由疾病对患者的神经功能产生阻碍所致；②由患者的负性情绪影响逐渐加重。所以，在手术后应及时给予适当的护理干预措施，进行有效的纠正[6]。
+　　3.2 开展心理护理干预措施的纠正效果分析
+　　林涛等[7]提出，有效的心理因素能直接影响疾病的发生、发展与转归。张玉萍[8]对胃切除术患者进行了心理护理干预，结果显示，患者的焦虑情绪与术后不良事件均得到显著改善，最终缩短了住院时间，提高了护理满意程度。本研究结果显示，护理开展前两组患者的自觉疼痛、不良心理以及睡眠质量情况比较差异无统计学意义，护理后观察组患者的抑郁情绪评分、焦虑情绪评分、疼痛评分以及睡眠时间均显著优于对照组，差异有统计学意义（P<0.05），与叶爱香等[9]的研究结果基本一致，提示有效的护理干预措施可纠正患者的不良心理情绪，进而降低疼痛感受，提高术后睡眠质量，为术后恢复提供有效保障[10-12]。
+　　综上所述，胃癌患者术后疼痛、不良情绪及睡眠障碍情况多由对疾病的恐惧所产生，手术后给予不同方向的心理护理干预可显著降低各种不良事件的发生率，促进术后恢复，提高手术实际效果，具有良好的临床应用价值。
+
+

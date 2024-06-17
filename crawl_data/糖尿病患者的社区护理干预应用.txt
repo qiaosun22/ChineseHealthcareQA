@@ -1,0 +1,24 @@
+
+　　摘 要 目的：采用护理干预，增加社区糖尿病患者的保健知识，提高生存质量。方法：选择糖尿病患者260例，了解患者的家族史、饮食习惯及不适症状，有针对性地进行健康行为干预，改变行为危险因素。结果：与干预前比较，护理干预后患者的代谢指标（体重指数、空腹血糖、餐后2 h血糖）有明显改善（P<0.01），生活方式（饮食控制、坚持运动、戒烟限酒、监测血糖、按时服药）也发生了改变（P<0.01）。结论：开展社区护理干预有助于增强患者的防治糖尿病意识及能力，达到最佳的血糖控制效果。
+　　中图分类号：R587.1 文献标识码：A 文章编号：1006-1533（2014）18-0030-02
+　　Application of the community nursing intervention on the patients with diabetes
+　　DONG Yunqing， PAN Hua， FAN Xiaojian
+　　（Gaojing Community Health Service Center of Baoshan District， Shanghai 200435， China）
+　　ABSTRACT Objective： To adopt the nursing intervention for adding the health care knowledge of the community diabetic patients to enhance their quality of survival. Methods： Two hundred and sixty cases with diabetes were included. Their family history， diet habit and discomfort symptoms were investigated. The targeted health behavior intervention was conducted to change the behavior risk factors. Results： Compared with those before intervention， the metabolic index （BMI， fasting blood glucose， postprandial 2 h glucose） of the patients were changed singificantly after intervention （P<0.01）. Their life style （diet control， regular exercises， quitting smokimg and limiting drinking， monitoring of blood glucose， taking medication on time） and others also had the changes （P<0.01）. Conclusion： The community nursing intervention is helpful to enhance the consciousness and ability of the patients with the best effect of the blood glucose control.
+　　KEY WORDS diabetes； nursing intervention； community
+　　糖尿病是内分泌代谢疾病，其并发症是导致患者残疾和死亡的主要原因。随着社会人口老龄化和居民生活方式的改变，我国糖尿病发病率正逐年递增且有低龄化趋势，目前已达9.7%，成为世界第一糖尿病大国[1]。积极开展糖尿病患者的社区干预，降低糖尿病病情发展及预防糖尿病的发生非常必要。本研究中对糖尿病患者采用社区护理干预，效果满意，报道如下。
+　　资料与方法
+　　临床资料
+　　收集2013年1月至12月社区糖尿病患者260例为研究对象，其中男122例，女138例，年龄60～79岁，平均（68.3+4.9）岁，所有患者均符合糖尿病诊断标准，排除神经疾病、老年痴呆、认知障碍、严重肝肾功能障碍及严重并发症。
+　　建立个人健康档案：①一般资料：患者姓名、性别、年龄、家庭住址、联系电话、文化程度、病史、家族史。②饮食习惯：每天主食摄入量，主食种类，蔬菜、水果摄入情况，饮食是否偏油、偏咸，是否喜食油炸、油煎食物。③烟酒史：每天吸烟量（支），开始吸烟年龄，戒烟年限；饮酒种类，饮酒年限，是否经常喝酒，每天饮酒量（m1）。④运动锻炼：是否经常锻炼，锻炼方式、运动强度、持续时间。⑤并发症评估：评估患者有无心、脑、肾、视网膜并发症。⑥皮肤血管神经情况评估：触摸足背动脉，评估患者皮肤温度，粗略评估有无感觉神经及周围血管受损。
+　　干预方法
+　　了解患者家族史、饮食习惯及不适症状，根据糖尿病行为危险因素中的无法改变因素（年龄、遗传）和可以改变因素（高热量饮食、吸烟、酗酒、肥胖、体重、不按时服药等）提出问题，查询求证相关资料，制订预防措施，有针对性地进行健康行为干预：①与糖尿病患者签订家庭医生式服务协议，评估其对糖尿病知识的认识程度、自我管理水平，制订个体化饮食、运动方案，进行一对一指导。②每月随访1次，每3个月面对面随访1次。随访时由社区护士测量患者身高、体重、腰围、血压并计算体重指数，6个月后和12个月后复查空腹血糖（FBG）、餐后2 h血糖（2hPG）。③根据《国家基本公共卫生服务规范（2011年版）》[2]中关于糖尿病患者健康管理要求，建立糖尿病随访表，记录内容包括糖尿病患者症状、体征、用药情况、饮食、运动、血压、体重指数及FBG、2hPG、服药情况等。④健康指导：介绍糖尿病饮食治疗目的、意义、热量计算、食物交换份的概念及应用等；根据患者年龄、有无运动禁忌证及运动习惯选择合适运动项目，需循序渐进，持之以恒，无运动习惯者指导其选择快走加慢跑，运动频率为每周3～5次，时间在60～120 min；对有吸烟、饮酒习惯者劝其戒烟限酒；讲解糖尿病治疗药品的种类、使用方法、贮存及常见的不良反应。   　　观察指标
+　　测定干预前后FBG、2 hPG，随访患者体重指数、体育锻炼、饮食控制、服药依从性、血糖监测等情况。
+　　1.4统计学方法
+　　应用SPSS 16.0统计软件进行数据分析，计数资料采用χ2检验。P<0.05为差异有统计学意义。
+　　结果
+　　患者干预前后各项代谢指标变化见表1；干预前后生活方式及遵医行为变化见表2。
+　　讨论
+　　临床上肥胖是糖尿病的常见危险因素，肥胖所导致的一系列代谢异常包括胰岛素抵抗、高胰岛素血症、脂质代谢异常及血流动力学改变，还能促发和加速蛋白尿及肾小球硬化的发生[3]。饮食因素一直被认为与糖尿病发生有关，饮食控制是糖尿病患者最基本的血糖控制措施之一，合理地控制饮食，有利于血糖水平的控制[4]。吸烟和饮酒是影响健康的危险因素之一。邱伟等[5]对1 310例中老年人进行调查，发现过量吸烟和饮酒，增加了2型糖尿病的发病风险。因此，在糖尿病的控制措施中，积极戒烟、少量饮酒或不饮酒是重要的控制措施之一。本研究通过了解患者的家族史、饮食习惯及不适症状，制订预防措施，有针对性地对患者进行健康教育、健康行为干预，使患者能自觉改变行为危险因素，通过护理干预使有限的医疗资源发挥最大效用，使社区居民及糖尿病患者更多地了解和掌握糖尿病的知晓率、治疗率和控制率。护理干预在糖尿病的防治工作中发挥了积极的作用。
+
+

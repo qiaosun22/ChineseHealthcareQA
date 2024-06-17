@@ -1,0 +1,29 @@
+
+ 　　[摘要]目的 探?思维导图在脑卒中急性期并发症护理中的应用。方法 选择2014年3月～2016年3月于我院神经科工作的48名护理人员为研究对象，将其随机分为两组，各24名。对照组护理人员未经思维导图培训，试验组护理人员经思维导图培训。两组各分管60例同期我院收治的脑卒中急性期患者，两组护理人员给予患者进行专科护理和健康教育。比较两组患者并发症发生率及两组护理人员脑卒中并发症认知水平与护理能力。结果 试验组患者并发症发生率（25.00%）明显低于对照组（10.00%），差异有统计学意义（P<0.05）。培训前，两组护理人员并发症认知水平与护理能力比较，差异均无统计学意义（P>0.05）；培训后试验组两指标评分[（91.35±6.13）、（92.43±6.85）分]均高于对照组[（64.68±5.18）、（66.52±5.42）分]，差异有统计学意义（P<0.05）。结论 思维导图在脑卒中急性期并发症护理中应用价值显著，可明显提高护理人员对并发症的认知水平与护理能力，降低并发症发生率。
+　　[中图分类号] R472 [文献标识码] A [文章编号] 1674-4721（2017）05（b）-0164-03
+　　Application of mind mapping in the nursing of complication in patients with cerebral apoplexy in acute phase
+　　YAN Guo-hui
+　　Department of Neurology，the People′s Hospital of Zhongshan in Guangdong Province，Zhongshan 528400，China
+　　[Abstract]Objective To application of mind mapping in the nursing of complication in patients with cerebral apoplexy in acute phase.Methods 48 nurses worked in the department of neurology in our hospital from March 2013 to March 2016 were selected and randomly divided into two groups，with 24 cases in each group.The nurses in the control group were trained without mind mapping，while the nurses in the experiment group were trained with mind mapping，nurses in two group gave patients specialist nursing and health education.120 patients with cerebral apoplexy in acute phase admitted into our hospital at the same were selected and were given specialist nursing and health education by nurses in two groups，60 cases in each group.The incidence of complications of patients，the cognitive level and nursing ability of complications were compared between two group.Results The incidence of complications of patients in the experiment group（25.00%）was lower than that in the control group（10.00%），and the difference was statistically significant （P<0.05）.Before training，there were no significantly different among the scores of cognitive level and nursing ability of complications in two groups（P>0.05）；after training，the scores of two indexes in the experiment group [（91.35±6.13），（92.43±6.85）points] were higher than those in the control group[（64.68±5.18），（66.52±5.42）points]，and the differences were statistically significant（P<0.05）.Conclusion Mind mapping in nursing of cerebral apoplexy in acute phase with complications has significant application value，it can obviously improve the cognitive level and nursing ability of nurses to cerebral apoplexy with complications， and decrease the incidence of complications.   　　[Key words]Cerebral apoplexy；Mind mapping；Complications；Acute phase
+　　脑卒中是我国高发疾病之一，发病后可损伤患者植物神经中枢，破坏神经-体液调节功能，引发多种并发症，此外，由于脑卒中患者多为老年群体，大多合并糖尿病、高血压、冠心病等慢性疾病，导致脏器功能障碍、皮肤异常等问题出现的频率明显增加[1]。若治疗不及时或护理不当，可对患者生命健康构成严重威胁。因此，加强临床护理干预，减少脑卒中并发症的发生，缓解患者痛苦显得尤为重要[2]。但由于我院神经科低年资护士较多，缺乏临床经验，而高年资护士思维相对局限，加之年资不同的护士护理水平存在明显差异。故临床急需能够显著提升护理人员专科护理水平的方法，以改善脑卒中急性期并发症护理水平。思维导图又称心智导图，是一种图形思维工具，可有效表达发散性思维，运用图文并重的技巧增强对护理人员的健康教育，??补传统教育枯燥乏味的缺点[3]。本研究于脑卒中急性期并发症护理中运用思维导图，为提升护理人员护理质量提供新的方式。现报道如下。
+　　1资料与方法
+　　1.1一般资料
+　　选择2014年3月～2016年3月于我院神经科工作的48名护理人员为研究对象，将所有护理人员随机分为两组，各24名。其中对照组护理人员护龄2～13年，平均（5.06±0.42）年；学历：大专13名，本科11名；职称：护士13名，护师9名，主管护师2名。试验组护理人员护龄3～14年，平均护龄（5.11±0.50）年；学历：大专12名，本科12名；职称：护士12名，护师9名，主管护师3名。两组各分管60例同期我院收治的脑卒中急性期患者。试验组患者男35例，女25例；年龄58～80岁，平均（68.63±5.41）岁；病程20～80 d，平均（56.17±3.55）d。对照组患者男33例，女27例；年龄57～80岁，平均年龄（67.59±5.38）岁；病程20～78 d，平均病程（55.23±4.03）d。两组护理人员、患者一般资料比较，差异无统计学意义（P>0.05），具有可对比性。
+　　1.2纳入标准
+　　所有患者经我院头颅CT或MRI检查，符合《中国急性缺血性脑卒中诊治指南2014》诊断标准[4]，格拉斯哥评分<11分。排除患有精神疾病或无法配合随访者。所有患者均知晓本研究，已签署知情同意书，经我院医学伦理委员会批准。
+　　1.3方法
+　　两组均给予为期2周的护理干预。其中对照组护理人员未经思维导图培训，直接对所分管患者展开常规护理干预，如病情观察、健康宣教、功能康复锻炼、膳食指导，基础护理、排泄护理、按治疗方案执行药疗等。试验组护理人员接受思维导图培训，具体如下。①制作思维导图。内容包含并发症的观察护理，健康教育路径中有关入院宣教、健康知识、疾病认知、用药指导、饮食与运动护理、康复训练指导、生命体征监测等内容，将其打印成册，加以塑封便于长期使用，绘制导图，整个导图表现形式均以线条、图像、颜色、关键词显示；主题连线连接中央图像，与中央图像靠近的线条加粗，字号加大；采用不同颜色表示不同主题，同种颜色表示属于同一主题的符号、关键词及线条[5]。图中关键词为脑卒中急性期并发症，随后发散出肺部感染、泌尿系感染、消化道出血、压疮等常见的并发症，继续发散分支，包括早期监测、及时处理、分析原因、预防措施，各分支均隶属于上级分支，且保持相对独立。②应用思维导图：由课题组指定人员根据思维导图内容对两组护理人员展开培训，如组织培训活动，由主到次，由简到繁，对护理人员的临床护理工作进行指导，如进一步讲解脑卒中及并发症相关知识，护理过程中注意事项；实际工作中可能遇到的问题，给出相应的解决方案或指导意见[6]。开展小组学习活动，通过成立各小组，促进组员之间相互学习，彼此分享护理过程、经验及技巧。
+　　1.4观察指标
+　　比较两组患者并发症发生率、护理人员脑卒中并发症认知掌握情况及护理能力。①并发症发生率：对比两组肺部感染、泌尿系感染、压疮、消化道出血等并发症发生率。②护理人员疾病认知：采用脑卒中相关知识认知表评估护理人员对脑卒中并发症的认知水平，包括各种并发症发病原因、特点、护理观察、护理评估、护理措施、预防措施、预后特点等内容，应用百分制，分值越高，其脑卒中并发症的认知水平越高。③护理能力：自制护理能力评估表对护理人员护理操作技能、知识水平、服务态度、发现与解决问题能力进行评估，总分100分，分值与护理能力呈正相关。
+　　1.5统计学方法
+　　采用SPSS 21.0统计学软件进行数据分析，计量资料数据用均数±标准差（x±s）表示，两组间比较采用t检验；计数资料用率表示，组间比较采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1两组患者并发症发生率的比较
+　　试验组患者并发症发生率明显低于对照组，差异有统计学意义（P<0.05）。
+　　2.2两组护理人员并发症认知水平与护理能力的比较
+　　培训前，两组护理人员并发症认知水平与护理能力比较，差异均无统计学意义（P>0.05）；培训后试验组两指标评分均高于对照组，差异有统计学意义（P<0.05）。
+　　3讨论
+　　绝大多数脑卒中患者伴有一定程度的神经功能损伤，加之老年患者生理机能衰退，尤其是偏瘫患者往往需要长时间卧床，进而导致肺炎、泌尿系统感染等并发症发生概率明显增加，对恢复健康十分不利，甚至造成严重后果。因此，积极采取预防脑卒中并发症的有效措施，加强护理干预，提高患者治疗依从性具有重要意义。临床研究显示，护理干预防治脑卒中并发症过程中扮演着重要角色，在促进患者康复、改善其生活质量等方面亦起到显著的作用[7]。但受科室护理人员护理能力参差不齐、老年患者记忆力减退等因素的限制，临床护理质量仍不够理想[8-9]。由此，如何提高护理人员护理能力，改善临床护理质量成为当务之急。   　　思维导图是一种形象化的教学方式，通过符号、线条、图像、词汇构成节点式与发散式结构，运用层次分明的图像反映繁琐的文字信息，便于学习者更为有效的掌握、储存、运用信息，从而提高工作与学习效率[10]。因此，本研究将思维导图应用于护理人员专科护理能力的培训中，以期能够提高护理人员护理水平，改善护理质量，最?K达到降低脑卒中并发症发生率的目的。本研究结果显示，试验组患者并发症发生率明显低于对照组，试验组护理人员脑卒中并发症认知评分与护理能力评分均明显高于对照组，表明试验组护理人员经思维导图培训后其对脑卒中并发症的认知明显提升，专科护理能力亦得到显著提高，进而使临床护理质量明显改善，有效减少并发症的发生。分析思维导图的优势如下：思维导图采用图文并茂的形式，为护理人员展示了直接、形象的教学内容，运用层级图显示各级主题关系，并通过自体与色彩的运用，将信息由枯燥转为可视化，避免传统培训中填塞式的教学方法，提高护理人员的学习效率[11-13]。思维导图培训能够帮助护理人员快速掌握培训的难点、重点，增强对所学内容的记忆程度。思维导图的鲜明的色彩、生动的图画可提升护理人员对培训的兴趣与积极性，加深对并发症的理解[14]，而传统护理教育仅注重根据疾病纵向发展特点而讲解护理措施，缺乏横向性。另外，思维导图培训改变了培训者为主体的传统教学模式，避免学习者处于被动状态，缺乏独立思考的能力，在培训过程中，老师起到辅助、引导的作用，充分调动护理人员的主观能动性，主动发现、分析、解决问题，增进彼此之间的交流与学习，提高对脑卒中并发症的认知，掌握预防措施，减少并发症的发生，从而有助于缩短患者住院时间，减轻其家庭经济负担，节约公共卫生资源[15]。
+　　综上所述，思维导图运用于护理人员的培训中可显著提高其对脑卒中急性期并发症的认知，增强护理能力，从而明显改善专科护理质量，有效预防并发症的发生，提升患者生活质量。
+
+

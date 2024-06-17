@@ -1,0 +1,18 @@
+
+ 　　【摘要】 目的 研究分析无缝隙护理模式在急诊科护理中的应用效果。方法 88例急诊科患者， 随机分为分析组及参照组， 各44例。分析组患者使用无缝隙护理模式， 参照组则使用常规护理模式， 比较两组患者干预后焦虑自评量表（SAS）评分及抑郁自评量表（SDS）评分情况。结果 两组干预后SAS及SDS评分均优于干预前， 且干预后分析组SAS及SDS评分为（30.21±3.54）、（31.05±2.14）分优于参照组的（42.44±2.34）、（38.21±2.30）分， 差异具有统计学意义（P<0.05）。结论 对急诊科患者实用无缝隙护理， 可提升患者的生存质量， 促使患者心理状态实现进一步改善。
+　　DOI：10.14163/j.cnki.11-5547/r.2016.21.162
+　　【Abstract】 Objective To research application effect by non-break nursing mode in emergency department nursing. Methods A total of 88 patients in emergency department were randomly divided into analysis group and control group， with 44 cases in each group. The analysis group received non-break nursing mode， and the control group received conventional nursing mode. Comparison was made on self-rating anxiety scale （SAS） and self-rating depression scale （SDS） scores after intervention between the two groups. Results Both groups had better SAS and SDS scores after intervention than those before intervention， while the analysis group had better SAS and SDS scores as （30.21±3.54） and （31.05±2.14） points than （42.44±2.34） and （38.21±2.30） points of the control group after intervention. Their differences all had statistical significance （P<0.05）. Conclusion Implement of non-break nursing mode in emergency department patients can improve quality of life and accelerate further improvement of their mental state.
+　　【Key words】 Non-break nursing mode； Emergency department； Nursing application
+　　本次研究针对患者的心理状态以及其生存质量的相关因素进行有效的研究分析， 并制定了针对性强的无缝隙护理模式， 促使患者的生存质量实现进一步提升， 取得了很满意的研究结果， 现报告如下。
+　　1 资料与方法
+　　1. 1 一般资料 选取本院2013年10月～2015年3月收治的88例急诊科患者作为研究对象， 其中男64例， 女24例， 年龄最小22岁、最大30岁， 平均年龄（25.14±2.33）岁。将患者随机分为分析组及参照组， 各44例。
+　　1. 2 护理方法 参照组进行常规护理模式， 在患者需要人员护理的时候就安排人员对其进行护理；分析组进行无缝隙护理模式， 具体如下：①开展无缝隙护理排班；②按照实际情况成立小组；③无缝隙的护理过程；④开展积极的心理辅导。急诊患者到院治疗， 首先评估患者实际病情， 对患者的生命体征进行密切观察， 检查患者的各项指标， 告知无缝隙护理模式小组成员实际情况并且准备开展相应的护理干预工作， 患者病情稳定下来， 派遣专门的护理工作人员陪同患者， 对于患者术后的临床症状进行留心观察。在完成手术之后需要对患者进行悉心照料， 不断转移患者的注意力， 减轻患者的紧张感以及不安感， 降低患者疼痛感， 促使患者以及患者家属都可以充分感受到医院带来的关怀， 缓和医患关系。
+　　1. 3 观察指标 ①SDS评分[1]：该量表共计20题， 按照1 ～ 4级的评分标准进行评分， 之后对评分进行总计， 严格按照满分等于80分完成抑郁指数的换算。评分指数>0. 5为抑郁。②SAS评分[2]：同SDS计算方法。
+　　1. 4 统计学方法 采用SPSS16.0统计学软件对数据进行统计分析。计量资料以均数 ± 标准差（ x-±s）表示， 采用t检验；计数资料以率（%）表示， 采用χ2检验。P<0.05表示差异具有统计学意义。
+　　2 结果
+　　两组干预后SAS及SDS评分均优于干预前， 且干预后分析组SAS及SDS评分分别为（30.21±3.54）、（31.05±2.14）分， 优于参照组的（42.44±2.34）、（38.21±2.30）分， 差异具有统计学意义（P<0.05）。见表1。
+　　3 讨论
+　　无缝隙护理模式指严格按照患者的实际病情， 有针对性的调整急诊科护理人员的班表安排， 完成弹性工作模式的构建。在患者逐渐减少时， 给予护理人员适当的休息， 同时还要对患者的实际病情进行连续的监测[3]。有针对性的组建无缝隙护理模式小组， 传授患者相关的专业知识， 促使患者临场的应变能力进一步强化， 同时促使护理水平进一步提升， 缓和医患关系。
+　　综上所述， 通过无缝式护理模式的有效使用， 可以促使医患关系进一步缓和， 对急诊科患者使用无缝隙护理， 可提升患者的生存质量， 促使患者心理状态实现进一步改善。随着临床使用， 无缝式护理模式取得了非常显著的效果， 具有非常显著的现实意义。
+
+

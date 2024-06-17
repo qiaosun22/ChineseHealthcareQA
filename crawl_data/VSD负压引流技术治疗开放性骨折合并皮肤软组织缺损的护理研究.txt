@@ -1,0 +1,31 @@
+
+　　Nursing Research of VSD Negative Pressure Drainage Technology in the Treatment of Open Fractures with Skin and Soft Tissue Defects/WANG Gui-qin，LIANG Jia-zhi，TIAN Xiao-na.//Medical Innovation of China，2015，12（26）：100-102
+　　【Abstract】 Objective：To investigate the application effect of high quality nursing methods in VSD negative pressure drainage technology，improve the nursing ability of nurses in VSD.Method：25 patients with open fractures with skin and soft tissue defects admitted to our hospital from January 2013 to November 2014 were treated with VSD negative pressure drainage，combined with high quality nursing service，used the method of nursing program，nurse in charge of the responsibility，the assessment-plan-implementation-evaluation-optimization of nursing path was implemented，the use of preoperative "targeted nursing"，after the "eight key links of nursing" concrete method.Statistical methods were used for the cases of last 2 years，checked the problems before operation and postoperative，the implementation of the results of nursing care，the patient satisfaction rate，the average length of hospital stay were counted，the science and effectiveness of nursing method was verified.Result：25 cases of VSD preoperative issue were involved five aspects，postoperative problems were involved eight aspects，the settlement rate was 100% after nursing care.Data showed that the tangible assets：the satisfaction of patients was 99.98%；shorten the hospital stay of patients with an average of 9.97 days，the results were optimized compared with the group before the statistical data.Intangible assets：the nurses’ awareness of responsibility and care skills and methods were improved.Conclusion：VSD combined with operation nursing methods of high quality nursing service，using the nursing procedure，take the key link of preoperative nursing and postoperative nursing is an effective nursing method and is worthy of reference in the industry.
+　　【Key words】 VSD negative pressure drainage technology； High quality nursing service； Targeted nursing； Key link； Nursing measures   　　First-author’s address：Employee’s Hospital of Henan Province，Zhengzhou 450002，China
+　　doi：10.3969/j.issn.1674-4985.2015.26.030
+　　维斯第（VSD）即负压封闭引流，是一种有效快速清除组织水肿渗出液和坏死组织，促进肉芽组织生长，缩短治疗周期，用于处理各种复杂创面和深部引流的全新方法[1]，将传统的点状引流变为面状引流，以生物半透膜为全密封材料，覆盖、封闭创面，连接负压，使创面处于全封闭负压引流状态，保护VSD敷料接触面下的毛细血管，敛合创面及腔隙，促进肉芽组织生长[2-3]。它是骨科开放性骨折合并皮肤软组织缺损患者一种新的广泛应用的治疗方法，配合这项技术的护理技术与方法的研究应用显得尤为迫切与需要。
+　　1 资料与方法
+　　1.1 一般资料 对本院2013年1月-2014年11月收治的25例开放性骨折合并皮肤软组织缺损实施VSD负压引流治疗的患者，其中男19例，女6例，年龄22～75岁，治疗时间7～14 d，平均9.97 d，术前术后有不同程度的各类问题。护理方法包括“问题护理”、“护理程序”、“优质护理服务”、“针对性护理”、“关键环节护理”。
+　　1.2 治疗方法 （1）彻底清创：对创面的坏死组织、脓液、渗液进行清创。（2）裁剪或拼接设计VSD材料：根据创面大小进行设计VSD材料。（3）无菌手法覆盖创面及生物半透膜、贴膜，连接负压，调节压力至-0.020～-0.060 MPa持续吸引，间断或持续引流管冲洗。（4）观察促进新生肉芽生长、创面愈合情况，总结每一例结果。
+　　1.3 护理方法
+　　1.3.1 术前护理 根据术前收集问题实施“针对性护理”。术前评估具体如下：（1）由责任护士负责，收集患者资料，全面掌握患者心身状况，为个性化健康指导及护理打基础。（2）评估对手术的认知状态：判断患者对VSD术的了解程度，对预期手术有无错误的认知和手术结果的过高期望，对手术时间、手术物资、手术持续过程的认知情况[4]。（3）评估对手术的心理反应：观察患者情绪有无过度紧张、压抑、悲观、失望或盲目乐观、毫无心理准备等，并了解引起不良心理反应的原因[5-7]。（4）评估术前准备落实情况：包括皮肤准备、胃肠道准备、术前药物的应用、生命体征及患者的营养与血管条件等[8-9]。
+　　1.3.1.1 个性化健康教育舒缓，有针对心理疏导 责任护士负责，其他责任护士根据评估收集的患者心理状况及其他问题进行VSD技术手术配合、VSD术后自我配合等健康教育，消除术前顾虑[10]。
+　　1.3.1.2 治疗环境管理 为了避免感染，加强基础护理和病区管理，房间每日空气消毒，术前更换床上用品及床单元消毒，保持适宜的温度湿度[11-12]。
+　　1.3.1.3 加强营养 术前给予营养丰富、清淡易消化食物，提高抵抗力，促进康复。
+　　1.3.2 术后护理 8个关键环节护理措施保安全。责任护士总负责，各班护士共同参与，护士长“五查房”，完善术后各项护理评估，根据评估结果进行8个关键环节的针对性护理。
+　　1.3.2.1 评估伤口出血、渗液情况 短时间内有少量出血、渗液，属正常情况。但出血量较多或出血期延长时，应通知医生及时处理。本组3例出血量大（术后3 d，80～100 mL/d），经过护士及时观察评估密闭换药处理，伤口均在预期内痊愈。因此伤口观察评估处理是术后第一个关键环节[13]。
+　　1.3.2.2 评估负压吸引装置的情况 正确适当的负压对创伤部位肉芽组织的生长起着“揠苗助长”的作用，过大或过小负压会阻碍肉芽组织的正常生长。定时查看吸引装置的压力，有异常及时处理是术后护理的第一个关键环节[14]。
+　　1.3.2.3 评估患者引流管是否通畅 各种原因造成引流堵塞或不畅，影响创面愈合的同时引起继发性感染；责任护士根据评估结果定时检查患者的体位、引流管道的位置、及时挤排血块，教育患者自护是很关键的第二个环节，本院25例管道通畅率为100%。
+　　1.3.2.4 评估伤口生物膜密闭情况 密闭的生物膜是保证创面肉芽组织生长的无菌环境及适当压力的基础，如果生物膜边缘漏气，VSD清创术将无效。责任护士及时观察评估，及时与医师沟通处理，保证生物膜密闭是关键的第三个环节。本院25例均在正确观察护理下密闭效果完好。
+　　1.3.2.5 评估患者术后伤口疼痛情况 伤口早期疼痛会随着麻醉药效的减退而逐渐明显，剧烈的疼痛影响情绪、进食、睡眠等。本组16例不同程度疼痛，评估疼痛得分，根据结果采取早期舒缓措施，必要时遵医嘱应用止疼剂，保证患者无疼度过VSD持续过程是术后护理第四个关键环节。本组16例经过有效评估护理，100%疼痛缓解。
+　　1.3.2.6 评估VSD术后肢体活动情况 术后肉芽生长期持续使用负压装置，会不同程度限制肢体活动，影响功能锻炼。因此及时对术后肢体活动度进行评估，指导正确主动与被动活动，促进循环与代谢，防止便秘，加快创口肉芽生长与愈合是术后第五个关键环节[15]。
+　　1.3.2.7 评估生命体征情况 体温升高提示创面可能感染，责任护士应立即通知医生共同处理，防止感染。所以术后正确监测生命体征，及时评价，准确处理是术后护理的第六个关键环节。
+　　1.3.2.8 评估照护环境 整洁、安全是病房环境的基本要求，但对于此类患者病室的清洁度尤为重要，也是本院第七个护理关键环节。
+　　1.3.2.9 评估心理状况 部分患者皮肤软组织缺损过多或伤口污染过于严重需要进行再次VSD术，多数出现焦虑情绪，心理疏导护理是第八个关键护理环节[16]。本组12例患者均有不同程度的心理问题，责任护士通过观察及有效宣教使之缓解。   　　2 结果
+　　25例VSD术前问题涉及5个方面，术后问题涉及8个方面，经过责任护士及时评估处理、医生协同处理全部解决，解决率为100%，术前护理评估结果及术后八大关键环节护理措施应用结果具体内容见表1、表2。数据显示有形资产：患者满意度99.98%；患者住院时间缩短平均9.97 d，均较本组统计数据前结果优化。无形资产：护士责任意识与护理能力及方法提高。
+　　3 讨论
+　　3.1 VSD负压引流技术可靠性 本院25例VSD术的效果与张国凤等[1-2]有关VSD技术的研究结果相当。此项技术用于治疗四肢开放性骨折合并皮肤软组织缺损和控制创面感染取得的临床效果，具备其他方法无法比拟的优点[3]。
+　　3.2 护理方法优越性 （1）采取问题护理，运用护理程序路径、优质护理服务方法、问题护理措施，术前针对5个方面的问题，缓解率为100%，说明术前针对性护理有效。（2）术后八大关键环节护理措施应用，使术后问题全部解决，解决率为100%，说明术后护理有效。（3）有形资产：患者满意度调查，满意率99.98%，住院时间9.97 d，较数据统计前结果优化。（4）无形资产：评估量表实施加强了责任护士的观察意识与能力；针对性护理的应用促进了护士责任意识；问题列表统计的应用促使责任护士护理患者“数字说话-讲究结果”，保障患者护理落到实处；应用护理程序提供整体化护理，术后八个关键环节护理措施应用引导护士“重过程抓重点”的护理意识与能力，最终，患者得到了实惠。
+　　总之，VSD负压引流技术是外科引流技术的革新。本院运用护理程序的路径、优质护理服务的方法，针对具体问题，实施“术前针对性护理”、“术后八大关键环节护理措施”，临床实践与数据统计结果表明，它是一种有效科学的护理方法，值得业内借鉴应用。
+
+

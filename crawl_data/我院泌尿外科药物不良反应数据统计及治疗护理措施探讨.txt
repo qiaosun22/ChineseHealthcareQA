@@ -1,0 +1,36 @@
+
+　　中图分类号：R982； R969.3 文献标识码：C 文章编号：1006-1533（2014）15-0060-03
+　　Discuss on the data statistics of adverse drug reactions and the methods
+　　for their treatment and care in the department of urinary surgery of our hospital
+　　CHU Weilin*
+　　（Hubei Zhongshan Hospital， Wuhan 430032， China）
+　　ABSTRACT Data on three hundreds and fourteen cases of patients with adverse drug reactions （ADR） in the department of urinary surgery of our hospital from 2007 to 2012 were investigated and the conditions of medication were statistically analyzed. Results showed that there were no significant differences among all ages and a total of 89 varieties of drugs causing ADR， in which antibacterials （114 cases） accounted for 36.3% and traditional Chinese medicine （78 cases） 24.8%. The cases of ADR decreased year by year after the pharmaceutical professionals were involved in clinical medication. The care intervention to the patients with ADR in time can improve their prognosis condition.
+　　KEY WORDS urinary surgery； adverse drug reactions； nursing； statistical
+　　药物不良反应（ADR）是指合格药品在正常用法用量下出现的与用药目的无关的有害反应。泌尿外科患者因手术或感染等因素需长期使用抗菌药物等，故笔者调取我院2007-2012年泌尿外科发生ADR的患者病例资料，对患者应用的药物情况进行统计分析，并提出治疗护理的常规措施，予以规范，现报道如下。
+　　资料与方法
+　　一般资料
+　　调取我院2007-2012年泌尿外科发生ADR的患者病例资料共314例，所有患者都为单一不良反应。其中2007年70例（22.3%），2008年65例（20.7%），2009年58例（18.5%），2010年50例（15.9%），2011年44例（14.0%），2012年27例（8.6%）。其中男性患者167例（53.2%），女性患者147例（46.8%）。年龄19～70岁，平均年龄（31.9±7.9）岁。所有患者均符合我国制定的药品不良反应监测报告中所明细的各项标准。
+　　方法
+　　资料收集
+　　收集314例患者的基本资料，包括年龄、性别、临床用药品种、给药途径等。
+　　药学专业人员加入用药指导
+　　2012年我院根据院内要求，药师加入用药指导团队中，院内组建专业的药师团队，对各科室用药情况进行规范指导，所有处方和病例定期由药师团队查验，给出指导意见。药师定期进行药物方面的讲座，提高医疗人员的药学知识。
+　　护理措施
+　　患者入院时应反复询问患者过往的药物过敏史，高龄患者如记忆力不佳可询问患者家属，对高度过敏的患者在给药时或给药后给予监控。发生ADR后立即停用可疑药物，与医生、护士或相关科室医生一起进行联合救治，并视程度轻重，分别采取对症治疗，保持患者的呼吸道畅通，必要时给予患者建立人工气道，密切观察患者各方面情况，尤其重点观察患者的意识情况，每小时对患者进行一次生命体征的观察，出现异常情况及时对症处理。有报道过敏与心理因素有很大关系，故在患者清醒后应给予患者心理干预，可问一些患者的其他方面的问题，转移患者的注意力，消除患者的心理紧张，给予患者安慰。患者发生ADR后应做好ADR等级报告，及时详细地记录患者出现的各项情况、应用的药物品种、批号等，书写后上报院内相关科室，并嘱咐患者再次就医时应报告此药物出现过不良反应情况。
+　　统计学处理
+　　所有数据均应用SPSS 17.0统计学软件进行统计学处理。计数资料应用χ2检验进行统计学处理，P<0.05为差异有统计学意义。
+　　结果
+　　ADR分类及患者临床表现
+　　抽样病例的ADR分类及临床表现如表1所示。
+　　各年龄段发生ADR统计分析   　　经统计分析显示，51～60年龄段发生ADR病例最多，有50例（15.9%），其次是小于10岁的患者，有49例（15.6%），各年龄段均有患者，经统计学分析各年龄段无明显差异，无统计学意义（P>0.05）（表2）。
+　　发生ADR的药物品种统计分析
+　　发生ADR的药物品种共89种，其中应用抗菌药物发生ADR的患者最多，有114例（36.3%）；其次为中药制剂，有78例（24.8%）（表3）。
+　　发生ADR的药物给药途径
+　　发生ADR的药物给药途径中以输液为最多，有158例（50.3%），外用为95例（30.3%）口服为61例（19.4）。
+　　预后情况
+　　所有314例患者均经妥善及时的治疗和护理干预有所好转，无一例死亡。
+　　讨论
+　　临床发生ADR会给患者带来很大伤害，甚至导致患者死亡，有报道10%～20%患者很容易发生ADR[1]。ADR已经成为卒中、癌症、心脏病之后的排名第4的死亡原因[2]。现今新药的研发速度很快，但临床安全性并不能够全部保证，若医疗人员对药物应用知识不足会导致ADR的情况发生。护理人员直接面对患者，故对药物治疗的应用知识应有所了解，在给药过程中及用药之后都应细致观察患者的情况，发生ADR后应立即依医嘱给予患者对症治疗，并在患者清醒后给予心理干预，这对患者的预后有积极意义[3]。
+　　本组资料显示， 各年龄段无明显差异，这表明各年龄段均可发生ADR，不是影响因素。抗菌药物发生ADR的患者最多，其次为中药制剂；发生ADR的药物给药途径中以输液为最多，其次是外用和口服。抗菌药物是泌尿外科主要应用的药物，且都以输液为给药途径，故排名第1。中药制剂现今研制的速度很快，但其发生ADR的报道也比较多，故护理时应给予关注[4]。泌尿外科应用外用药的频率比较高，外用药物直接接触皮肤，发生ADR时会出现皮疹等过敏表现，护理时应给予对症处理，良好的护理措施对患者预后有很大帮助。资料还显示，2012年有27例发生ADR，这与2012年笔者医院广泛开展药学服务有很大关系，专业的药学人员参加可避免ADR事件的发生。
+
+

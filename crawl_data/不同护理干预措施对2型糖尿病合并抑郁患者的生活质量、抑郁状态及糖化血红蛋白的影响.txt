@@ -1,0 +1,28 @@
+
+　　[摘要]目的 探讨不同护理干预措施对2型糖尿病合并抑郁患者的生活质量、抑郁状态及糖化血红蛋白的影响。方法 选取该院于2013年1月―2014年1月收治的110例2型糖尿病合并抑郁患者作为研究对象，随机分为对照组和观察组，各组55例，对照组患者均采用常规社区护理，观察组患者在此基础上增加中医护理的干预措施，分别护理6周及12周后，比较两组患者的生活质量改善情况、抑郁状态及糖化血红蛋白的变化。结果 两组患者的DMQLS较治疗前均有明显提高，两组患者的SDS评分较治疗前均有明显降低，两组DMQLS、SDS比较差异有统计学意义（P<0.05）；两组患者治疗后的HbA1c水平比较差异有统计学意义（P<0.05）。结论 对糖尿病患者实施社区常规护理基础上的中医护理干预措施，改善了患者的生活质量，减轻了患者的抑郁程度，同时也有效控制了糖化血红蛋白水平，值得临床推广应用。
+　　[中图分类号]R5 [文献标识码]A [文章编号]1674-0742（2015）04（b）-0147-03
+　　Effect of Different Nursing Intervention Measures on the Quality of Life， Depression and Glycosylated Hemoglobin of Patients with Type 2 Diabetes and Depression
+　　LIU Hong
+　　Shengli Petroleum Administrative Bureau Petrochemical Health Hospital， Dongying， Shandong Province， 257000 China
+　　[Abstract] Objective To investigate the effect of different nursing intervention measures on the quality of life， depression and glycosylated hemoglobin of patients with type 2 diabetes and depression. Methods 110 cases with type 2 diabetes and depression admitted in our hospital from January 2013 to January 2014 were selected as the subjects and randomly divided into the control group and observation group with 55 cases in each. The control group were treated by the conventional community nursing， and the observation group were treated by the TCM nursing measures based on the conventional community nursing. And the improvement in quality of life and depression and changes in glycosylated hemoglobin were compared between the two groups 6 weeks and 12 weeks after nursing. Results The DMQLS increased and SDS scores decreased obviously in both groups compared with those before treatment； the differences in DMQLS and SDS scores between the two groups were statistically significant（P<0.05）； the difference in the level of HbA1c after treatment between the two groups was statistically significant（P<0.05）. Conclusion For diabetic patients， TCM nursing intervention measures based on the conventional community nursing improve the quality of life， reduce the degree of depression， effectively control the level of glycosylated hemoglobin， therefore they are worthy of clinical application and promotion.
+　　[Key words] Traditional Chinese and western medicine； Community nursing intervention； Type 2 diabetes； Depression； Quality of life； Glycosylated hemoglobin
+　　1 资料与方法
+　　1.1 一般资料
+　　选取该院于2013年1月―2014年1月收治的110例2型糖尿病合并抑郁患者作为研究对象，所有患者均符合1997年WHO和美国糖尿病学会有关2型糖尿病诊断新标准[1]，排除伴有严重心、肺、肾等脏器功能疾病、出现严重感染、患有糖尿病急性并发症者。随机分为观察组、社区护理干预组，各组55例，其中，观察组男28例，女27例，年龄45～78岁，平均年龄（52.4±2.3）岁，病程5～9个月，平均病程（6.1±2.2）月。对照组男29例，女26例，年龄44～79岁，平均年龄（50.3±3.4）岁，病程4～8个月，平均病程（5.9±2.3）月。两组患者在性别、年龄、并发症、病程及餐后2 h血糖等一般资料比较（P>0.05），具有可比性。   　　1.2 方法
+　　所有患者均接受常规护理，即在社区医院门诊就医，观察组在社区医院门诊就医的基础上接受社区干预措施，开展糖尿病健康教育：1次/2周，连续开展6次，教育内容主要包括糖尿病基础知识、药物知识（包括药物的种类、服药方法、胰岛素的使用及保存方法及药物不良反应等）及并发症的预防及护理等；心理指导： 每月进行电话随访，加强与患者的沟通交流，引导患者学会放松疗法等。观察组在社区医院门诊就医基础上接受社区护理及中医干预措施，由中医专业人员实施中医干预措施，研究者协助。在中医干预措施中，有规律性的练习健身功?八段锦：参照国家体育总局出版的《健身气功?八段锦》教材为准[2]，由气功专业教练对患者进行动作指导，连续学习5 d，与此同时还需要向患者讲解八段锦的功效及功法，使患者充分掌握该功法；待患者对八段锦功能有一定了解后，引导患者练习4～6次/周，一次练习时间需控制在40 min左右，每次练习2遍，连续练习6周，以6周为1个周期，共练习2周期。耳穴贴压法：由中医专业人员进行耳穴贴压操作，使用75%酒精对患者耳廓进行消毒，并使用探棒寻找耳穴区中的敏感点，采用轻柔按摩法，每日每穴按压 3～5 次每次，每穴按压4～6 min，待耳部发红并感觉热胀酸痛，即可停止按摩。耳穴贴压治疗中需每周更换 1次，双耳轮替，连续练习6 周，以6周为1个疗程，共2个周期。中医饮食疗法指导： 每周对患者进行2次健康教育活动，向患者讲解糖尿病及及抑郁的中医食疗方法。
+　　1.3 观察指标
+　　观察比较两组患者生活质量（DMQLS）、抑郁状态总分（SDS）及糖化血红蛋白水平（HbA1c）。
+　　1.4 统计方法
+　　采用SPSS17.0统计软件对所有数据进行统计分析，计量资料采用独立样本t检验，以（x-±s）表示；差异有统计学意义（P<0.05）。
+　　2 结果
+　　观察组和对照组的DMQLS较治疗前均有明显提高，观察组和对照组的SDS评分较治疗前均有明显降低，观察组治疗6周后和治疗12周后的DMQLS高于对照组，两组生活质量评分比较（P<0.05）详见表1；观察组治疗前后的HbA1c水平分别为（8.56±1.23）%、（6.34±0.98）%，对照组治疗前后的HbA1c水平分别为（8.45±1.21）%、（7.68±1.24）%，两组患者治疗后的HbA1c水平比较差异有统计学意义（P<0.05）。
+　　观察组治疗6周后和治疗12周后的SDS优于对照组，两组SDS评分比较差异有统计学意义（P<0.05），详见表2。
+　　表2 两组抑郁状态比较（x-±s）
+　　时间点 观察组 对照组 t P
+　　基线 58.56±4.66 58.34±5.45 1.3678 0.2530
+　　第6周 53.23±5.74 54.87±8.32 2.1010 0.0073
+　　第12周 50.78±5.54 54.23±8.34 2.2633 0.0032
+　　3 讨论
+　　近年来，随着我国社会经济水平的提高，人民的生活水平也得到了巨大改善，饮食结构的突然改变对我国人口各类慢性病的发病率都有明显影响，其中我国 2 型糖尿病患者人数增长迅速。2型糖尿病是临床中常见一种以慢性高血糖为特征的代谢疾病，具有发病率高、危害性大及增长速度快等特点。若患者的血糖未得到有效控制，将会引起一系列并发症的发生，严重的可能导致死亡。长期疾病状态严重威胁患者心理健康，常引发抑郁、焦虑、认知障碍等心理问题，已引起医学界普遍关注，目前，世界卫生组织已将糖尿病划分为慢性非传染疾病，并强调心理因素的重要性。大量研究表明[4-5]，糖尿病患者都会并发抑郁症的几率为20%左右，约为我国普通人群中发生抑郁症几率的数十倍之多。有研究显示：2型糖尿病患者合并抑郁后，可增加并发症的风险[6]。因此早期加强2型糖尿病的治疗是非常重要的。通过本组对2型糖尿病合并抑郁患者进行社区护理基础上的中医护理干预措施的临床疗效进行分析，结果表明观察组干预后的生活质量评分在生活、生理、心理、社会四个维度方面，均明显高于对照组患者，四组数据相比，（P<0.05），结果具有可比性，说明中医护理干预措施对于提高患者的生活质量方面就有显著的临床作用；观察组患者治疗前后的HbA1c水平分别为（8.56±1.23）%、（6.34±0.98）%，对照组治疗前后的HbA1c水平分别为（8.45±1.21）%、（7.68±1.24）%，观察组患者组间比较与组内比较的结果差异有统计学意义（P<0.05），结果具有可比性，说明中医护理干预措施对于改善患者的抑郁状态具有显著作用。以上研究结果可见在中西医结合社区护理干预的临床疗效显著，稳定和改善了患者不良的心理变化，该研究结果与文献报道的结果相一致[7-8]。
+
+

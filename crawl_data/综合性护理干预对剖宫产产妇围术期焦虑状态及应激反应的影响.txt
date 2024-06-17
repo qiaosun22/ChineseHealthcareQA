@@ -1,0 +1,33 @@
+
+　　[摘要] 目的 探讨综合性护理干预对剖宫产产妇围术期焦虑状态及应激反应的影响。 方法 产妇100例随机分为干预组和对照组，每组50例。对照组予常规对症护理，干预组在此基础上实施围术期综合性护理干预措施，比较两组产妇入院第2天、术前1天、术后第3天的SAS的变化情况及两组患者术前（T0）、胎儿娩出时（T1）、术毕（T2）的MAP、HR、CORT水平的变化情况。 结果 术后第3天，两组患者的SAS评分分别较干预前显著降低，且显著低于术前1天，但干预组术后第3天的SAS评分显著低于对照组，差异有统计学意义（P<0.05）。干预组T1时点MAP、CORT 水平均较T0时点明显上升，但与对照组比较，干预组T1时点MAP、CORT 水平低于对照组，差异有统计学意义（P<0.05）。 结论 对剖宫产产妇围术期实施综合性护理干预措施，可以缓解其焦虑心理，降低应激反应，确保手术顺利进行。
+　　[中图分类号] R473.71 [文献标识码] B [文章编号] 1673-9701（2014）31-0079-03
+　　Influence of comprehensive nursing intervention on cesarean section perioperative anxiety and stress reaction in perioperative period
+　　ZHANG Aihui
+　　Department of Obstetrics，Shenyang City the Fifth People’s Hospital in Liaoning Province，Shenyang 110023， China
+　　[Abstract] Objective To explore the influence on perioperative anxiety and stress reaction inperioperative period of comprehensive nursing intervention on cesarean section. Methods One hundred cases in our hospital were randomly divided into intervention group and control group， 50 cases in each group， the control group received routine nursing，intervention group on the basis of control group control group comprehensive nursing intervention， at second days， 1 days before the operation， the changes of SAS third days after operation and two groups of patients before operation （T0）， fetal childbirth time （T1）， end of operation（T2） changes in MAP， HR， CORT level were compared between the two groups， respectively. Results After operation third days ， the SAS of intervention group and the control group of patients with were significantly lower than those before intervention， and significantly less than before operation 1 days， but SAS score of the intervention group after operation third days was significantly lower than that of the control group， the difference was statistically significant（P<0.05）. The MAP， CORT levels of intervention group in T1 significantly increased than T0， but compared with the control group， MAP， CORT level of the intervention group in T1 lowered than that of the control group， the difference was statistically significant（P<0.05）. Conclusion The cesarean section perioperativecomprehensive nursing intervention measures can alleviate the anxiety， reducestress， to ensure smooth operation.
+　　[Key words] Cesarean section； Perioperative period； Nursing； Anxiety； Stress response
+　　随着医疗技术的日益进步及社会观念的不断改变，选择剖宫产分娩的产妇逐年增多，同时剖宫产的分娩方式在一定程度上提高了母婴成活率[1]。但剖宫产术作为强烈的应激源，易使产妇产生焦虑、紧张等负面情绪，加之手术应激，易使产妇围术期出现心率加快、血压升高，不利于配合手术，增加了手术并发症的发生[2]。提高产科护理的质量，可以促进产妇的术后康复、避免术后并发症的发生而保证母婴安全。对剖宫产产妇围术期实施综合性护理干预措施，可以有效缓解产妇的焦虑状态，降低围术期应激反应，对于提高手术的效果、降低母婴死亡率具有重要作用。   　　1 资料与方法
+　　1.1 一般资料
+　　将2013年6月～2014年6月在我院行剖宫产的100例产妇纳入本研究。年龄最小21岁，最大33岁。其中初产妇79例，经产妇21例。学历状况：初中及以下19例，高中23例，大专及以上58例。全部研究对象随机分为干预组和对照组，每组50例，两组产妇的年龄、孕周、学历状况等临床资料比较，差异无统计学意义（P>0.05），具有可比性。
+　　表1 两组产妇的临床资料比较
+　　1.2 干预方法
+　　对照组予常规对症护理，包括术前1天向其介绍手术时间、麻醉方法、术前准备及注意事项，术中观察和记录生命体征变化情况，干预组在此基础上实施围术期综合性护理干预措施，具体内容如下。
+　　1.2.1 术前干预 术前1 d由巡回护士到病房对产妇进行访视，收集产妇资料，告知术前准备的项目及意义、麻醉方式、麻醉体位及注意事项等。在交谈中了解产妇的心理需求，做好心理指导。
+　　1.2.2 术中干预 护理人员到病房接产妇时态度要热情，嘱家属在手术室门口放心等待。行术前准备和操作时动作要轻柔，边操作边与孕妇轻声交谈、解释，分散其注意力，征得产妇同意后再予妥善固定；麻醉手术过程中尽可能握着孕妇的手，提高产妇的安全感及心理承受能力。
+　　1.2.3 术后干预 产妇回到病房后，去枕平卧6 h以上，鼓励并帮助产妇取其舒适的自由体位。产妇术后切口会发生不同程度的疼痛，护理人员要告知产妇疼痛的性质，指导产妇减轻疼痛的方法，如在深呼吸或咳嗽时，用手捂住切口，防止牵扯到缝线疼痛。早期让产妇接触婴儿，使其尽快建立感情；告知产妇母乳喂养的重要性，并指导产妇进行正确的喂养方法。
+　　1.3 评价指标
+　　1.3.1 焦虑状态评价[3] 采用Zung焦虑自评量表（SAS，累计得分≥50分表示存在焦虑症状）进行评价，每名产妇分别于入院第2天、术前1天、术后第3天进行测试。
+　　1.3.2 应激反应指标评价 比较两组患者术前（T0）、胎儿娩出时（T1）、术毕（T2）的平均动脉压（MAP）、心率（HR）、血清皮质醇（CORT）水平的变化情况。
+　　1.4 统计学方法
+　　采用SPSS12.0统计学软件进行数据处理，计量资料采用（x±s）表示，组间比较采用t检验，不同时点进行方差分析。P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1两组产妇从入院至产后SAS评分比较
+　　入院第2天，干预组与对照组的SAS评分比较，差异无统计学意义（P>0.05）。术前1天，对照组的SAS评分较干预前显著升高，差异有统计学意义（P<0.05）；而干预组的SAS评分较干预前显著降低，差异有统计学意义（P<0.05），且干预组术前1天的SAS评分显著低于对照组，差异有统计学意义（P<0.05）；术后第3天，干预组和对照组患者的SAS评分分别较干预前显著降低，且显著低于术前1天，但干预组术后第3天的SAS评分显著低于对照组，差异有统计学意义（P<0.05）。见表2。
+　　表2 两组产妇从入院至产后SAS评分比较（x±s）
+　　2.2 两组产妇应激反应各项观察指标比较
+　　干预组与对照组产妇T0、T2时点的MAP、HR、CORT 水平比较，差异无统计学意义（P>0.05）；干预组T1时点MAP、CORT 水平均较T0时点明显上升，但与对照组比较，干预组T1时点MAP、CORT 水平低于对照组，差异有统计学意义（P<0.05），见表3。
+　　3 讨论
+　　手术是一种强烈的应激源，可引起产妇心理反应和生理的改变，从而导致心理和躯体的不适，尤其是导致患者产生以焦虑为代表的心理应激反应。随着现代护理学科的发展，注重“以患者为中心，以质量为核心”的护理模式为现代护理发展的方向[4]。剖宫产是产科常见手术之一，随着医学发展和社会因素影响，选择剖宫产的比例逐年增高，剖宫产产妇常存在恐惧、紧张、焦虑等负性心理，易在心理和躯体上产生不适，从而影响产妇的身心健康。剖宫产手术虽然手术时间不长，但产妇的心理变化处于高度应激状态，如何在短期内缓解产妇的紧张情绪，消除心理障碍，使其积极配合治疗非常重要[5-8]。本研究将综合性护理应用于剖宫产围手术期护理中，通过护士对产妇进行术前、术中、术后的综合性护理干预，增加了患者的安全感和被尊重感，减轻了其焦虑心理。本研究表2结果证实，干预组术后第3天的SAS评分显著低于对照组（P<0.05）。与高平等[9]报道的观点是一致的，进一步证实通过实施综合性护理干预措施可使产妇主动配合手术，为手术顺利进行创造良好的条件；同时，也有利于保证患者术中生命体征的平稳，增加术后获得最大限度功能恢复的可能[10，11]。本研究表3显示，干预组T1时点MAP、CORT 水平均较T0时点明显上升，但与对照组比较，干预组T1时点MAP、CORT 水平低于对照组（P<0.05）。与杜满姣等[12]报道的观点是一致的。另外，我们认为，通过对剖宫产产妇实施围术期护理干预，使护士角色发生了转变，由被动变主动，促进了护士业务素质的提高，从而使总体护理质量得到进一步的提高[13]。
+　　综上，对产妇实施综合性护理干预措施，有利于产妇消除不良情绪，使产妇主动配合手术，降低应激反应，保证手术顺利进行，提高了手术质量。
+
+

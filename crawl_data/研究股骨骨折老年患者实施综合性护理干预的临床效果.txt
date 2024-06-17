@@ -1,0 +1,27 @@
+
+ 　　[摘要] 目的 研究股骨骨折老年患者实施综合性护理干预的临床效果。 方法 选取我院于2012年5月～2016年12月收治的80例股骨骨折老年患者，随机分为两组，每组40例，对照组给予常规护理干预，观察组基于常规护理措施，采取综合性护理措施进行干预，对比两组患者治疗前和治疗后的生存质量、护理满意度、不良反应发生率。 结果 （1）两组患者治疗前生活质量评分比较无显著差异性（P>0.05）；和对照组比较，观察组治疗后生活质量评分明显更低（总体健康情况、身体疼痛、活力、生理功能、生理职能、社会功能、精神健康、情感职能）；与治疗前比较，观察组治疗后生活质量评分明显降低（P<0.05）。（2）和对照组（25%）比较，观察组不良反应发生率（5%）明显更低（P<0.05）。（3）和对照组（72.5%）比较，观察组护理满意度（95%）明显更高（P<0.05）。 结论 股骨骨折老年患者实施综合性护理干预的临床效果显著，可有效地改善术后生存质量，提高护理质量和满意度，值得临床广泛应用以及推广。
+　　[中图分类号] R473.6 [文献标识码] A [文章编号] 2095-0616（2017）08-157-03
+　　[Abstract] Objective To study the clinical effect of comprehensive nursing intervention in elderly patients with femoral fractures. Methods 80 femoral fractures from May 2012 to December 2016 were selected and randomly divided into two groups.Patients in control group were given routine nursing intervention.Patients in observation group were treated with comprehensive nursing measures based on routine nursing measures.And the quality of life after treatment，nursing satisfaction，the incidence of adverse reactions of the two groups were compared. Results （1）There was no significant difference in the quality of life before treatment between the two groups（P>0.05）.Compared with the control group，the quality of life score in the observation group was significantly lower，including general health，vitality，physiological function，physiological function，social function，mental health，emotional function.Compared with before treatment，the quality of life score of observation group after treatment was significantly decreased（P<0.05）.（2）The incidence of adverse reactions in the observation group （5%） was significantly lower than that of control group with 25%（P<0.05）.（3）Nursing satisfaction of observation group （95%） was significantly higher than that of control group（72.5%）. Conclusion The clinical effect of comprehensive nursing intervention in elderly patients with femoral fractures is significant.It can effectively improve the quality of postoperative quality，and improve the quality of care and satisfaction.It is worthy of clinical application and promotion.
+　　[Key words] Femoral fracture；Elderly patients；Comprehensive nursing；Nursing intervention
+　　股骨骨折是?R床常见的一种骨折类型，多发于老年人群，尤其是骨质疏松患者，多数由行动不便摔倒所致[1-2]。股骨骨折患者通常存在严重的活动受限问题，并且并发症发生率较高，甚至于导致伤残和死亡。临床治疗的方法为手术治疗，手术给患者带来一定的创伤，容易引发术后并发症[3-4]。必须对股骨骨折患者采取积极有效的护理措施，以提高患者的生存质量，促进其术后关节功能的恢复。本研究采用综合性护理措施对股骨骨折患者进行干预，效果显著，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取我院2012年5月～2016年12月收治的80例股骨骨折老年患者，男45例，女35例，年龄60～80岁，平均（69.1±2.9）岁，受伤原因包括以下几种情况：交通受伤病例55例，步行跌伤病例25例。随机分组，观察组40例，男23例，女17例，年龄60～80岁，平均（69.1±2.8）岁，受伤原因包括以下几种情况：交通受伤病例28例，步行跌伤病例12例；对照组40例，男22例，女18例，年龄60～80岁，平均（69.0±2.9）岁，受伤原因包括以下几种情况：交通受伤病例27例，步行跌伤病例13例。两组患者一般资料比较差异无统计学意义（P>0.05），具有可比性。该研究已通过医院伦理委员会批准，并且所有患者都签署知情同意书。   　　1.2 护理方法
+　　对照组：给予常规护理干预。
+　　观察组：基于常规护理措施，采取综合性护理措施进行干预，具体护理措施包括以下几点：（1）饮食护理。指导患者在日常饮食中增加高营养蛋白和富含维生素的食物，禁止食用辛辣、燥热食物，从而加快骨折部位的愈合[5]。（2）体位护理。对老年股骨骨折患者进行正确的体位指导是减少术后并发症和促进骨折愈合的重要措施之一。术前需协助患者进行床上排便的练习，手术后通过翻身卡记录患者定期翻身的情况，可把患者的患肢抬高至心脏水平以上的位置[6-7]。（3）预防并发症护理措施。对患者进行深呼吸指导练习，指导患者正确咳痰；让患者采取舒适的体位，以防止压疮的形成。严格按照无菌操作原则进行静脉注射，避免下肢深静脉血栓的形成，并且可有效地减少静脉炎的发生[8-10]。
+　　1.3 观察指标
+　　采用SF-36评量表评估患者治疗前和治疗后的生存质量[11]，观察和记录两组患者的不良反应发生的情况，采用自制的调查表评估两组患者的护理满意度。对比两组患者治疗前和治疗后的生存质量、护理满意度、不良反应发生率。
+　　1.4 统计学方法
+　　采用SPSS20.0统计学软件进行统计分析，对比两组患者治疗前和治疗后的生存质量评分等计量资料以（）表示，采用t检验，护理满意度、不良反应发生率等计数资料以百分比表示，采用χ2检验，P<0.05为差异有统计学意义。
+　　2 ?Y果
+　　2.1 两组患者生活质量评分
+　　两组患者治疗前生活质量评分比较差异无统计学意义（P>0.05）；和对照组比较，观察组治疗后生活质量评分明显更低与治疗前比较，观察组治疗后生活质量评分明显降低，差异有统计学意义（P<0.05）。见表1。
+　　2.2 两组患者治疗不良反应发生率
+　　和对照组（25.00%）比较，观察组不良反应发生率（5.00%）明显更低，差异有统计学意义（P<0.05）。见表2。
+　　2.3 两组患者的护理满意度
+　　和对照组（72.50%）比较，观察组护理满意度（95.00%）明显更高，差异有统计学意义（P<0.05）。如表3所示。
+　　3 讨论
+　　股骨骨折在临床发病率较高，老年人群随着年龄的增加，骨质密度不断降低，骨质疏松度不断增加，加上行动不便，导致股骨骨折的风险更高[12-14]。目前，临床治疗股骨骨折的主要方法为手术治疗，老年患者身体免疫力减弱，术后并发症发生率增加，增加治疗的难度[13-16]。本医院对老年股骨骨折患者采取综合性护理措施进行干预，研究显示，和对照组对比，观察组治疗后生活质量评分明显更低；与治疗前比较，观察组治疗后生活质量评分明显降低，差异有统计学意义（P<0.05）。和对照组（25.00%）比较，观察组不良反应发生率（5.00%）明显更低，差异有统计学意义（P<0.05）。和对照组（72.50%）比较，观察组护理满意度（95.00%）明显更高，差异有统计学意义（P<0.05）。由此可见，综合性护理应用于股骨骨折患者的护理措施中，不仅加强基础护理，而且还为患者进行饮食护理、并发症预防护理、体位护理，有效地改善患者的营养情况，提高患者的身体免疫力，有利于术后骨折的恢复，并且提高患者术后的舒适度，有利于改善患者术后的生存质量，有利于提高患者对护理的满意度。
+　　综上所述，股骨骨折老年患者实施综合性护理干预的临床效果显著，可有效地改善术后生存质量，提高护理质量和满意度，值得临床广泛应用以及推广。
+
+

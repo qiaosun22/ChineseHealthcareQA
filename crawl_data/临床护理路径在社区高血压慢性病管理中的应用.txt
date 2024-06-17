@@ -1,0 +1,27 @@
+
+ 　　摘 要 目的：探讨临床护理路径在社区高血压慢性病管理中的应用效果。方法：2016年1月选取中度危险的原发性高血压患者200例，将100例自愿加入者作为试验组，采用临床护理路径进行管理，其余100例作为对照组，采用社区常规服务方法进行管理，4个月后，观察两组高血压健康知识达标率、血压控制率和患者满意度。结果：试验组健康教育知识达标率从干预前的34%（34例）上升至干预后的92%（92例，P<0.01）；对照组从干预前的32%（32例）上升至干预后的73%（73例，P<0.01）。干预后，两组血压控制水平均较干预前改善，试验组优于对照组（P<0.05）。试验组的满意度为92%，对照组为76%，组间差异有统计学意义（P<0.01）。结论：采用临床护理路径对社区高血压慢性病进行管理，能提高患者高血压健康知识达标率、血压控制率和患者满意度。
+　　中图分类号：R544.1 文献标志码：A 文章编号：1006-1533（2017）14-0042-03
+　　Application of clinical nursing pathway in the community chronic disease management of hypertension
+　　WU Yuhua， LENG Haiyan， WANG Lubin， ZHANG Peiwen， SHAO Fei， XIA Fang， JIANG Shuiying， CAI Xiaofeng
+　　（Zhuanghang Community Health Service Center of Minhang District， Shanghai 201199， China）
+　　ABSTRACT Objective： To explore the application effect of clinical nursing pathway in the community chronic disease management of hypertension. Methods： In Jan. 2016， 200 cases of moderate risk essential hypertension were selected， among them 100 volunteers were randomly selected as an experimental group and managed with the clinical nursing pathway， and the remaining 100 cases were taken as a control group and managed with the community conventional service method. Hypertension health knowledge compliance rate， blood pressure control rate and satisfaction of the patients were observed in the two groups after 4 months. Results： The health education knowledge compliance rate in the experimental group increased from 34%（34 cases） before intervention to 92%（92 cases） after intervention（P<0.01）， and the health education knowledge compliance rate in the control group increased from 32%（32 cases） before intervention to 73 %（73 cases） after intervention（P<0.01）. After intervention， the levels of blood pressure control in both groups were better than those before intervention， and the experimental group was superior to the control group（P<0.05）. The satisfaction rates were 92% in the experimental group and 76% in the control group， and the difference was statistically significant（P<0.01）. Conclusion： Application of clinical nursing pathway for the community chronic disease management of hypertension can improve the compliance rate of the health knowledge， blood pressure control rate and the satisfaction degree of the patients with hypertension.
+　　KEY WORDS hypertension； clinical nursing pathway； chronic disease management
+　　?R床护理路径是指依据每日标准护理计划为一类特殊患者所设定的住院护理模式[1]，是为服务对象提供最佳照护质量的管理模式，是一种包含了质量保证、循证医学、整体护理、持续性质量改进的诊疗标准化方法[2]。本文报道在社区高血压慢性病管理中引入临床护理路径方法，以进一步规范社区高血压的管理，发挥社区护士在社区医疗中的健康教育者的作用，增加患者和家属的满意度。   　　1 对象与方法
+　　1.1 研究对象
+　　2016年1月在上海市闵行区莘庄社区卫生服务中心慢性病管理系统中选取确诊为中度危险的原发性高血压患者200例。将100例自愿加入者作为试验组，其中男性36例，女性64例，年龄（67.55±13.5）岁；其余100例作为对照组，其中男性41例，女性59例，年龄（62.75±15.5）岁。两组患者性别、年龄、病程等方面比较差异无统计学意义（P>0.05）。排除神志不清、卧床不起、有听力或言语障碍、文化程度小学以下者。
+　　1.2 方法
+　　对照组采用社区常规服务方法进行高血压管理，每个月进行1次电话随访，了解患者血压情况，进行健康指导；每季度到社区进行健康教育讲座1次，内容由社区护士决定。试验组采用临床护理路径管理，由 2名工作10年以上并具本科学历的护士和1名主治全科医生成立路径小组，负责护理路径的实施。具体方法：①第1周完成患者健康教育掌握情况调查表；对患者进行评估（血压水平、身高、体重、腰臀围、文化程度、生活方式、心理状况、服药情况及依从性等）；发放健康教育路径表（包括健康教育讲座的时间、内容、方式、实施效果评价等）和运动时间表，并向患者说明表格的意义和填写方法等。②第2～4周进行第1次健康教育知识讲座，主要讲解高血压相关知识（病因、临床表现、常见并发症、日常自我护理措施以及健康的生活方式等）；③于第5～8周进行第2次健康教育知识讲座，加强高血压相关知识宣教、介绍高血压用药的相关知识（药物作用、常见不良反应识别及预防、长期坚持规律服药的重要性），指导高血压患者及家属正确测量血压的方法；④于第9～12周进行第3次健康教育知识讲座，加强高血压患者的饮食指导（健康膳食的基本原则、低盐、低脂饮食、高血压患者食谱）；⑤于第13～15周进行第4次健康教育知识讲座，介绍高血压患者的运动原则及注意事项、运动方式、方法，协助患者制定运动计划。⑥于第16周再次评估患者，定期对患者进行电话随访或家访，完成高血压相关知识问卷填写。
+　　4个月后，采用自行设计的调查表对两组患者进行问卷调查，并完成高血压相关知识试题调查，得分≥85分为达标。观察两组患者干预后满意度、收缩压（SBP）和舒张压（DBP）的控制水平。同时，采用科室自制调查表调查两组患者对医护工作的满意度，包括护理行为、护理技能、服务态度等20个项目，总分100分。
+　　1.3 统计分析
+　　2 结果
+　　2.1 干预前后两组健康教育知识达标率和满意度
+　　试验组健康教育知识达标率从干预前的34%（34例）上升至干预后的92%（92例），差异有统计学意义（P<0.01）；对照组从干预前的32%（32例）上升至干预后的73%（73例），差异有统计学意义（P<0.01）。干预后，试验组的满意度为92%，对照组为76%，组间差异有统计学意义 （P<0.01）。
+　　2.2 两组血压控制情况
+　　从表1可见，干预后试验?M患者SBP和DBP控制水平均优于对照组（P<0.05）。
+　　3 讨论
+　　高血压病是社区常见的慢性疾病，也是社区卫生服务中的重点防控疾病。社区护理干预可有效控制高血压病情的发展，有效预防相关并发症的发生，提高患者的生活质量，减少医疗费用[3]。目前，对社区高血压管理模式的研究较多，但对于社区护士在社区高血压管理中的实施路径则相对较少。积极探索社区高血压临床护理路径，与社区全科医生一起参与社区高血压等慢性病的管理，深化社区健康服务功能内涵建设的发展，对于社区慢性病的防控有着重要的意义。
+　　在高血压患者的管理中采用临床护理路径，可有计划、有组织、有预见性的对患者进行健康教育和生活指导，监督管理患者的病情，促进社区护理的完整，提高护士的业务能力和责任感，同时，有利于提高患者主动自我监管意识，提高生活质量，降低患者医疗费用[4]。
+　　临床护理路径以循证医学证据和指南为指导，在疾病治疗和管理中，最终起到了规范医疗行为、减少变异、减低成本、提高医疗和护理质量的作用[5]。在社区开展临床护理，最主要的是健康教育路径，为了使患者更好的将治病观念转变为有效的预防观念，需要大力宣传健康管理路径。实施临床护理路径将保证对高血压患者的管理科学化、标准化和程序化[5]，为患者提供连续全程的护理服务。本研究显示，两组患者干预前后健康教育知识达标率差异有统计学意义（P<0.05），两组高血压控制率和患者满意度比较差异有统计学意义（P<0.05），说明临床护理路径能系统地促进患者对自身疾病的理解和自我管理，形成了合作有序、方便高效的运行机制，提高了医务工作者的工作效率和护理质量，让患者参与其中，主动配合，使高血压治疗不但疗效（控制率）好，同时患者满意度亦有显著提高。
+　　综上所述，随着临床路径的不断深入，其应用也从急性病向慢性病、从外科向内科到社区扩展。临床路径规范化、标准化设计具有前瞻性、时间性，从而使每位医护人员都能为患者提供规范化的医疗服务[6]，使护理工作更加人性化，增加医患沟通，构建社区医患和谐。高血压病进展缓慢，病程长，需要在社区坚持长期干预，应用临床路径对社区高血压患者实施管理，使社区高血压干预模式相对标准和规范，能够弥补传统社区防治模式的不足，有助于提高社区高血压干预质量和效果[6]。临床护理路径作为提高医疗护理质量，符合我国国情和发展需要，有利于降低医疗护理成本，是全新的医疗护理服务模式，自从在我国临床推广至今，已取得了较好的成绩[7]。应用临床护理路径对社区老年高血压患者效果显著，临床应用前景广泛，值得大力推广应用。
+
+

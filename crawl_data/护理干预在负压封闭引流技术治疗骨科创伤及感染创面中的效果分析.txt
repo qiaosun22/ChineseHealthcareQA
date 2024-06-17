@@ -1,0 +1,22 @@
+
+ 　　【摘要】 目的 分析针对负压封闭引流技术治疗骨科创伤及感染创面患者采取护理干预措施的效果。方法 84例应用负压封闭引流技术治疗骨科创伤及感染创面患者， 根据护理方法不同分为观察组与对照组， 各42例。对照组采用骨科创面常规护理， 观察组采用骨科创面护理干预措施， 对比两组患者临床护理效果、疼痛程度。结果 观察组总有效为97.62%， 显著优于对照组的80.95%， 差异具有统计学意义（P<0.05）。两组患者护理前疼痛程度评分对比差异无统计学意义（P>0.05）。护理后， 观察组疼痛程度评分显著低于对照组， 且观察组疼痛程度明显轻于对照组， 差异均具有统计学意义（P<0.05）。结论 负压封闭引流技术治疗骨科创伤及感染创面采取有效的护理干预措施， 可帮助减轻患者疼痛， 利于创面愈合， 提高治疗护理效果， 值得广泛应用。
+　　DOI：10.14163/j.cnki.11-5547/r.2017.18.084
+　　【Abstract】 Objective To analyze effect by nursing intervention applied in vacuum sealing drainage technique in the treatment of orthopedic trauma and infected wound. Methods A total of 84 patients with orthopedic trauma and infected wound treated by vacuum sealing drainage technique were divided by different nursing measures into observation group and control group， with 42 cases in each group. The control group received conventional nursing for orthopedic trauma， and the observation group received nursing intervention measures for orthopedic trauma. Comparison was made on clinical nursing effects and pain degree between the two groups. Results The observation group obviously better total effective rate as 97.62% than 80.95% in the control group， and their difference had statistical significance （P<0.05）. There was no statistically significant difference of pain degree score between the two groups before nursing （P>0.05）. After nursing， the observation group had obviously lower pain degree score than the control group， and the observation group had obviously slighter pain degree than the control group. Their differences all had statistical significance （P<0.05）. Conclusion Implement of effectively nursing intervention measures in vacuum sealing drainage technique for treating orthopedic trauma and infected wound is helpful to relieve pain in patients， accelerate wound healing and improve treatment and nursing effect. This method is worth wide application.
+　　【Key words】 Nursing intervention； Vacuum sealing drainage technique； Orthopedic trauma； Infected wound
+　　??面感染在骨科很常见， 感染原因是患者体质弱、病情重、合并糖尿病等， 通过常规治疗后创面愈合不理想。负压封闭引流技术能避免交叉感染， 保持感染创面清洁干燥， 促进创面肉芽生长愈合， 在临床上取得满意治疗效果[1， 2]。本研究通过研究对负压封闭引流技术治疗骨科创伤及感染创面患者的护理， 研究护理干预的效果， 现报告如下。
+　　1 资料与方法
+　　1. 1 一般资料 选取2015年1月～2016年11月期间在本院应用负压封闭引流技术治疗骨科创伤及感染创面患者84例，
+　　根据护理方法不同分为观察组与对照组， 每组42例。对照组男女比例20：22， 年龄最小27岁， 最大70岁， 平均年龄（40.12±16.54）岁；观察组男女比例21：21， 年龄最小25岁， 最大72岁， 平均年龄（39.78±15.54）岁。两组患者性别、年龄等一般资料比较， 差异无统计学意义（P>0.05）， 具有可比性。
+　　1. 2 治疗方法 两组患者进行负压封闭引流技术治疗， 给予常规硬膜外麻醉， 对感染创面进行彻底清创， 清除感染组织、坏死组织等， 给予生理盐水多次清洗创面， 根据感染的面积、形状等准备合适的负压封闭引流技术敷料， 负压封闭引流技术引流管的每个孔都要在敷料内， 才能进行封闭引流， 调节合适的压力， 术后给予抗生素治疗， 7 d重新进行创面清创、实验室细菌培养， 细菌培养结果3次阴性才能终止治疗。   　　1. 3 护理方法 对照组采用骨科常规护理， 监测患者生命体征、更换敷料等措施。
+　　观察组采用感染创面有效护理干预， 除检测患者生命体征、更换敷料等措施外， 主要包括：①术前心理护理， 取得患者信任， 积极配合治疗。②术后护理， 用软枕抬高患肢12 cm， 利于血液回流， 避免患肢水肿， 促进创面恢复。③负压封闭引流技术护理， 负压保持在125～450 mm Hg（1 mm Hg= 0.133 kPa）。
+　　1. 4 观察指标及评价标准 观察两组临床护理效果及患者疼痛程度。临床护理效果评价标准， 痊愈：经过治疗后感染创面恢复正常；好转：经治疗后感染创面明显好转， 肉芽组织长出；无效：经治疗后感染创面未得到恢复， 病情反而恶化， 总有效率=（痊愈+好转）/总例数×100%。疼痛程度评分：总分10分， 0～3分为轻度， 4～7分为中度， 8～10分为重度。
+　　1. 5 统计学方法 采用SPSS16.5统计学软件进行统计分析。计量资料以均数±标准差（ x-±s）表示， 采用t检验；计数资料以率（%）表示， 采用χ2检验；等级资料采用秩和检验。P<0.05表示差异具有统计学意义。
+　　2 结果
+　　2. 1 两组患者临床护理效果对比 观察组总有效为97.62%， 显著优于对照组的80.95%， 差异具有统计学意义（P<0.05）。见表1。
+　　2. 2 两组患者疼痛程度对比 两组患者护理前疼痛程度评分对比差异无统计学意义（P>0.05）。分组护理后， 观察组疼痛程度评分显著低于对照组， 且观察组疼痛程度明显轻于对照组， 差异均具有统计学意义（P<0.05）。见表2。
+　　3 讨论
+　　负压封闭引流技术使细胞膜扩张、扭曲， 把信息传送给细胞核， 是细胞分泌促进创面愈合因子， 刺激组织产生更多的毛血细管[3]。定时进行冲洗保持引流管通畅， 使创面处于清洁干燥环境， 减少细菌在创面存活量， 促进肉芽生长， 减轻创面组织水肿， 取代长时间使用抗生素引起的不良反应[4]。减少换药次数， 有效的护理干预措施能防止创面继发其他感染。
+　　护理干预措施主要包括[5-10]：①术前心理护理：讲解负压封闭引流技术治疗目的、操作方法等， 取得患者信任， 积极配合治疗， 保证手术顺利完成。监测患者生命体征， 做好急救措施准备。②术后护理：用软枕抬高患肢12 cm， 利于血液回流， 避免患肢水肿， 促进创面恢复， 引流管用胶布固定结实， 避免受压或折损。密切观察患者创面的疼痛程度， 透明敷料周围有没有过敏、水泡、皮温有没有升高等现象， 以高蛋白、高维生素、清淡易消化食物为主， 帮助创面恢复与重生， 保持病房整洁、室温适中、开窗通风， 在护理人员指导下进行肌肉训练， 预防患肢肌肉萎缩、关节僵硬等。③负压封闭引流技术护理：负压保持在125～450 mm Hg， 在术后3 d内， 每3小时记录1次负压数， 根据患者自身情况进行调整， 观察切口敷料是否变硬、凹陷、有液体渗出等现象， 及时进行处理， 观察引流液， 如发现有活动性出血应结束负压引流， 先在引流管内注入生理盐水， 在30 min后打开敷料， 防止创面受损。本研究结果显示， 观察组总有效为97.62%， 显著优于对照组的80.95%， 差异具有统计学意义（P<0.05）。两组患者护理前疼痛程度评分对比差异无统计学意义（P>0.05）。护理后， 观察组疼痛程度评分显著低于对照组， 且观察组疼痛程度明显轻于对照组， 差异均具有统计学意义（P<0.05）。说明对负压封闭引流技术治疗骨科创伤及感染创面患者给予护理干预措施能减轻患者痛苦， 治疗效果明显提高。
+　　综上所述， 负压封闭引流技术治疗骨科创伤及感染创面采取有效的护理干预措施， 可帮助减轻患者疼痛， 利于创面愈合， 提高治疗护理效果， 值得广泛应用。
+
+

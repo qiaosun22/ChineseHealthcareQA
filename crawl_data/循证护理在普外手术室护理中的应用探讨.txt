@@ -1,0 +1,26 @@
+
+ 　　【摘要】 目的：观察研究循证护理在普外手术室护理中的应用效果。方法：将2014年3月-2015年3月笔者所在医院普外科手术室收治的80例各类手术患者，按照随机数字表法将患者分为两组，每组40例。对照组实施手术室护理，观察组在此基础上实施循证护理模式，观察两组患者心理状况改善以及术后并发症发生情况。结果：与手术前相比，手术后两组焦虑、抑郁心理状况评分均有明显改善，差异均有统计学意义（P<0.05）；与对照组相比，观察组术后焦虑、抑郁心理状况评分改善更为显著，差异均有统计学意义（P<0.05）。观察组患者术后并发症发生率为5.0%，明显低于对照组的20.0%，差异有统计学意义（P<0.05）。结论：普外科手术室护理中实施循证护理模式有利于改善手术患者不良心理情绪，减少术后并发症发生，值得推广应用。
+　　中图分类号 R473.6 文献标识码 B 文章编号 1674-6805（2016）13-0078-02
+　　【Abstract】 Objective：To study application effect of evidence-based nursing in operation room nursing in general surgery.Method：80 surgical patients from March 2014 to March 2015 were divided into two groups，40 cases in each group，the control group received operation room nursing，and the observation group received evidence-based care model on the basis of the control group.Psychological status and postoperative complications of the two groups were observed.Result：Compared with the pre operation，two groups of anxiety and depression scores were significantly improved，the differences were statistically significant（P<0.05）.Compared with the control group，the scores of anxiety and depression in the observation group were significantly improved， the differences were statistically significant（P<0.05）.The postoperative complication rate in the observation group was 5.0%，which significantly lower than 20.0% in control group，there was statistically significant difference（P<0.05）.Conclusion：The implementation of evidence-based nursing in operation room department of general surgery nursing mode is conducive to improving the patients with adverse psychological mood，reduce postoperative complications，it is worthy of popularization and application.
+　　【Key words】 Department of general surgery operation； Operation room nursing； Evidence-based nursing； Application
+　　First-author’s address：Guigang Second People’s Hospital，Guigang 537132，China
+　　作为一种新型护理理念，循证护理与现代医学模式和发展需求相适应，顺应了科学护理逐渐取代经验护理这一发展趋势。一般来说，患者由于手术创伤以及自身心理因素而出现应激反应，严重影响了手术进程及治疗效果，因此改善患者术前心理状态对于保障手术顺利进行并收到满意治疗效果有着积极的意义[1]。本文就此观察研究循证护理在普外手术室护理中的应用效果，旨在为临床提供一定指导和帮助，现报告如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2014年3月-2015年3月笔者所在医院普外科手术室收治的80例各类手术患者纳入本次研究。按照随机数字表法将其均分为对照组与观察组，各40例。对照组中男20例，女20例；年龄24～59岁，平均（39.4±5.8）岁；观察组中男19例，女21例；年龄26～54岁，平均（38.8±6.1）岁。两组患者的年龄、性别、等基线资料比较，差异均无统计学意义（P>0.05），具有可比性。
+　　1.2 方法
+　　对照组实施普外科手术室护理，内容如下：巡回护士术前应开展健康知识宣教，宣讲个人卫生常识、保持合理膳食、日常自我保护等内容，向患者介绍病区环境及手术医护人员相关情况；告知患者注意日常保暖，以免感冒；多摄入维生素、蛋白以及热量含量较高的食物。观察组在此基础上实施循证护理模式，方法如下：（1）采用焦虑自评量表（SAS）以及抑郁自评量表（SDS）评估两组患者心理状况，结合患者个人意愿将所有调查问卷回收并做评估，总结分析患者可能存在的心理问题和护理需求，并以此为基础制定相应的循证护理程序[2-3]。（2）护理人员术前1 d应引导患者熟悉手术室周围环境，并讲解手术持续时间、手术操作的大致流程，避免患者因突然进入手术室而产生陌生感、恐慌感以及孤单感。展示手术以及疾病各类相关图片，帮助患者了解手术相关知识，告知术中患者可能听见声音，明确这是极为正常的一种情况，无需恐慌；另外应打印《手术患者术前须知》并向每一位患者发放或宣读，详细解答患者提出的疑惑和问题；告知患者术前所选择的麻醉方式、术中配合事项、术中可能出现的各类意外情况，提高患者依从性[4]。（3）做好术前准备。医护人员术前应对各类手术用物、药品予以细致检查和充分评估，调适手术室内温度。对于有禁饮禁食、胃肠准备者应明确告知患者应注意事项。护理人员同时也应做好思想准备，冷静应对突发状况，以免手忙脚乱。（4）手术结束后的护理。术毕应结合患者实际情况采用温度适宜的盐水擦洗患者身体，清洁血迹和消毒液，帮助患者换上整洁衣服并送回病房[5-6]。   　　1.3 观察指标与评价标准
+　　观察两组患者焦虑、抑郁心理状况改善情况，统计术后并发症发生率。分别采用焦虑自评量表（SAS）以及抑郁自评量表（SDS）评估两组患者焦虑以及抑郁不良情绪[7-8]。
+　　1.4 统计学处理
+　　采用SPSS 16.0软件对所得数据进行统计分析，计量资料用均数±标准差（x±s）表示，比较采用t检验；计数资料以率（%）表示，比较采用字2检验。P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 手术前后两组心理状况评分对比
+　　与手术前相比，手术后两组焦虑、抑郁心理状况评分均有明显改善，差异均有统计学意义（P<0.05）；与对照组相比，观察组术后焦虑、抑郁心理状况评分改善更为显著，差异均有统计学意义（P<0.05），详见表1和表2。
+　　2.2 两组术后并发症发生率对比
+　　观察组患者术后并发症发生率为5.0%，明显低于对照组的20.0%，差异有统计学意义（字2=14.225，P<0.05），详见表3。
+　　3 讨论
+　　普外科手术室是医院重要科室，其接诊手术患者相对较多，且手术创伤难以避免地从生理及心理层面对患者产生强烈刺激，其中不乏不了解自身病情或过度消沉、抑郁、悲伤的患者，此类患者一旦情绪骤然失衡、崩溃则会对手术成功率以及手术治疗效果产生严重影响。临床研究发现，在医院和患者双方达成一致的基础上采取合理的应对，有利于手术顺利完成；反之则会降低手术成功率，甚至影响患者预后[9]。在这之中，医护人员能否采取高效、合理的护理模式是极为关键的一环，并以心理护理尤为关键。
+　　循证护理源起于循证医学，其作为一种新型护理模式体现了现代医学的发展需求，同时也是传统经验性护理向科学护理转变的必然趋势，其强调合理、全面分析护理工作相关要素，并制订出科学、高效的护理计划，为临床诊治工作提供有效的支持和帮助[10]。本次研究针对观察组患者实施循证护理模式服务，结果表明观察组术后焦虑、抑郁心理状况评分改善均更为显著，两组比较差异均有统计学意义（P<0.05），说明普外科手术患者在循证护理模式下的不良情绪得到有效改善，这更有利于手术顺利进行；而观察组术后并发症发生率远低于对照组（P<0.05），提示在普外科手术室护理中应用循证护理模式效果满意，有利于改善患者预后。
+　　综上所述，在手术室护理中实施循证护理模式有利于改善手术患者不良心理情绪，降低术后并发症发生率，值得推广应用。
+
+

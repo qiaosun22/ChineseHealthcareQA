@@ -1,0 +1,31 @@
+
+　　[中图分类号] R473.73 [文献标识码] B [文章编号] 1673-9701（2017）12-0157-04
+　　[Abstract] Objective To observe the effect and influence of post-operation clinical nursing pathway in patients with cervical cancer. Methods 88 patients with cervical cancer receiving radical surgery in our hospital from August 2015 to July 2016 were selected and divided into control group and observation group according to the random number table， with 44 cases in each group. Patients in the control group were given routine nursing， while those in the observation group were given established nursing guided by clinical nursing pathway. The awareness of healthy knowledge， nursing satisfaction， incidence rate of complications， and self-care ability were compared between two groups. Results The awareness of healthy knowledge was significantly higher in the observation group than in the control group， and the difference was statistically significant（χ2=3.94， P=0.04）. The nursing satisfaction was significantly higher in the observation group than in the control group， and the difference was statistically significant（χ2=4.06， P=0.04）. The self-care ability after operation was significantly higher in the observation group than in the control group， and the difference was statistically significant（χ2=6.06， P=0.01）. The incidence rate of complications was significantly lower in the observation group than in the control group， and the difference was statistically significant（χ2=5.09， P=0.02）. Conclusion Post-operation clinical nursing pathway has evident effect in patients with cervical cancer， which can improve the satisfaction of patients， promote self-care ability of patients after operation， and reduce the incidence rate of complications， thus is worthy to be promoted.
+　　[Key words] Clinical nursing pathway；Cervical cancer；Radical hysterectomy；Postoperation complications
+　　子?m颈癌（cervical cancer，CC），习称宫颈癌，为发病率最高的妇科恶性肿瘤之一[1]。人乳头瘤病毒（human papillomavirus，HPV）感染是本病最常见的致病因素，性行为及分娩次数过多亦为本病高危因素。本病好发于中老年女性，高发年龄段为50～55岁。有文献报道，宫颈癌最常见的组织学类型为鳞状细胞浸润癌70%～75%，腺癌亦较多见15%～20%，腺鳞癌等较少见[2]。宫颈癌的诊断遵循“三阶梯程序”，即子宫颈细胞学检查和/或高危型HPV-DNA检测――阴道镜检查――子宫颈活检的“三部曲”，病理活检为本病诊断的“金标准”[3-4]。宫颈癌根治术主要用于治疗早期子宫颈癌患者，对于有生育要求的患者可保留卵巢及阴道功能，缺点在于须切除全部子宫，严重影响患者术后生活质量。临床护理路径（clinical nursing path，CNP）是根据患者所患疾病的诊断和治疗而制定的在其住院期间采用的一种新型治疗护理模式，特点是以患者为宗旨，追求高品质、高效率、低费用[5，6]。有文献报道，临床护理路径的医疗资源投入低于常规护理，并能有效提高医疗护理服务质量。本研究比较两种护理模式在宫颈癌术后的应用效果，旨在为临床护理指导。现报道如下。   　　1 资料与方法
+　　1.1 一般资料
+　　选取我院2015年8月～2016年7月间经确诊的宫颈癌患者88例，纳入标准[7]：①均满足子宫颈癌的诊断标准，且经病理学活检证实；②国际妇产科联盟分期（the international federation of gynecology and obstetrics，FIGO，2009）均为ⅠA～ⅡA期；③肿瘤仅局限于子宫颈，且肿瘤直径≤2 cm；④无合并严重的心脑血管、肝、肾、肺等实质性脏器组织疾病；⑤预计生存期均≥1年；⑥均自愿参加并签署知情同意书。排除标准[8]：①存在邻近器官组织或淋巴结浸润者；②合并严重心血管疾病、肝肾功能不全者；③严重的血液系统、免疫系统疾病或其他部分恶性肿瘤；④6个月内行妇科手术或12个月内行放化疗者。依照随机数字表法将其分为对照组和观察组，每组各44例。对照组患者年龄在48～56岁，平均（53.45±4.33）岁，其中ⅠA1期8例，ⅠA2期6例，ⅠB1期12例，ⅡA1期10例，ⅡA2期8例。观察组患者年龄在48～58岁，平均（53.09±4.31）岁，其中ⅠA1期7例，ⅠA2期7例，ⅠB1期14期，ⅡA1期7例，ⅡA2期9例。两组患者年龄、病理分期等一般资料比较，差异均无统计学意义（P>0.05），具可比性，且本研究经本院伦理委员会审核批准。
+　　1.2 方法
+　　两组患者均择期行宫颈癌根治术，手术后对照组予以一般常规护理措施，主要内容包括心电监护；低流量吸氧6 h；引流量记录；观察患者肠道功能、阴道出血等情况；必要的心理护理等。
+　　观察组的护理路径表统一由护理小组全体成员制定，由责任护士根据路径表实施全面标准化治疗护理。制定临床护理路径表需根据患者的具体情况，参照国际推荐的护理标准、宫颈癌常规护理及宫颈癌手术的临床路径和预定住院时间（一般为8 d）制定[7]。以时间为横轴，以入院评估、入院指导、检查、治疗、护理措施、出院指导等医疗护理手段、评价达标情况为纵轴。各项均制定对应的标准护理流程，并结合临床实际进行完善。实施过程：患者入院后由责任护士填写临床护理路径表，每天根据CNP 计划内容及患者的需求实施护理措施，进行健康教育指导，并对各项措施的落实情况及时进行自评。患者出院时填写满意度及宫颈癌相关健康知识知晓度问卷，并评估其生活自理能力恢复情况。
+　　1.3 观察指标
+　　①两组患者健康教育知识掌握度的比较；②两组患者护理满意度的比较；③两组患者术后自理能力恢复情况的比较；④两组患者术后并发症的比较。
+　　1.4 评价标准
+　　从进食、洗漱、大小便、活动等4个方面对术后患者自理能力恢复情况进行评估，术后自理能力恢复评级分为：①完全自理：患者可以自主进食、洗漱、大小便，能独立行走50米以上；②部分自理：患者可以自主进食，洗漱、大小便需在他人帮助下完成，能独立行走10～50米或在搀扶下行走50米以上；③不能自理：患者无法自主进食，必须依靠他人完成洗漱、大小便，独立行走距离<10米。自理率=（完全自理+部分自理）/总人数×100%。
+　　自治宫颈癌相关健康知识知晓度问卷根据患者对健康知识的掌握情况将知晓度分为三个等级：①熟悉：患者对相关知识基本知晓，可对自身情况做出较准确判断，问卷评分≥90分；②了解：患者对相关知识有一定知晓，可在帮助下对自身情况做出判断，问卷评分70～89分；③不了解：患者对相关知识基本不清，无法判断自身情况，问卷评分<70分。健康知识知晓度=（熟悉+了解）/总例数×100%。自制满意度问卷将满意度分为满意、较满意、不满意三个等级。总满意率=（满意+较满意）/总例数×100%。
+　　1.5 统计学方法
+　　所有统计学资料均采用SPSS 23.0 专业统计学软件进行数据分析，计量资料以均数±标准差表示，进行t检验。计数资料以[n（%）]表示，用χ2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者健康知识知晓度的比较
+　　对照组患者健康知识熟悉12例（27.27%），了解21例（47.73%），不了解11例（25.00%）；观察组患者健康知识熟悉15例（34.09%），了解25例（56.82%），不了解4例（9.09%）。观察组患者健康知识知晓度明显高于对照组，差异具有统计学意义（P<0.05）。见表1。
+　　2.2 两组患者满意度的比较
+　　对照组患者满意26例（59.09%），较满意10例（22.73%），不满意8例（18.18%）；观察组满意33例（75.00%），较满意9例（20.45%），不满意2例（4.55%）。观察组患者满意度高于对照组，且差异均具有统计学意义（P<0.05）。详情见表2。
+　　2.3两组患者自理能力恢复情况的比较
+　　对照组患者完全自理28例（63.64%），部分自理8例（18.18%），不能自理8例（18.18%），自理率为81.82%；观察组完全自理36例（81.82%），部分自理7例（15.91%），不能自理1例（2.27%）；自理率为97.73%，观察组患者自理率明显高于对照组患者，且比较差异具有统计学意义（χ2=6.06，P=0.01）；详情见表3。
+　　2.4 两组患者并发症发生率的比较
+　　对照组患者发生伤口愈合不良4例（9.09%），肺部感染2例（4.55%），切口感染2例（4.55%），?解质紊乱1例（2.27%），并发症发生率为20.46%；观察组患者发生切口感染2例（4.55%），并发症发生率为4.55%，观察组患者并发症发生率明显低于对照组，比较差异有统计学意义（χ2=5.09，P=0.02）。见表4。
+　　3 讨论
+　　宫颈癌主要由子宫颈内上皮内瘤变（cervical intraepithelial neoplasia，CIN）形成后突破上皮基底层而浸润形成[9]。形成肿瘤后癌细胞转移途径主要为直接蔓延和淋巴转移，血行转移极其罕见[10]。宫颈癌早期症状及体征较少，诊断较为困难，随病程进展常出现阴道流血、阴道排液、经期延长、经量增多等症状。宫颈癌的治疗手段选区主要根据FIGO分期：早期（ⅠA～ⅡA期）宫颈癌患者主要采取宫颈癌根治术的治疗手段，术前可辅以新辅助化疗；ⅡB-ⅣA期患者及身体一般情况不适合行手术治疗者行放射治疗；ⅣB期患者及肿瘤细胞转移者可选择同期放化疗[11]。因手术治疗必须切除子宫甚至卵巢，切面较大，恢复期较慢，故对患者术后康复有着较大影响。有文献报道，宫颈癌根治术因其损伤范围较广，亦较容易产生诸多并发症如肺部感染、泌尿系感染、盆腔淋巴囊肿、尿潴留及切口不愈等[12-14]。在传统的护理模式下，通常只注重对患者症状及生理功能恢复的护理，往往忽略了对患者健康知识的教育以及心理变化的观察和疏导，患者出院后对宫颈癌相关知识了解度不足，且对疾病容易产生过分恐惧或过分轻视的不合理认知，一定程度上影响了宫颈癌患者术后的康复进程，导致护理效果不够理想[15]。   　　临床护理路径作为一种以人为本的新型护理模式，有效的指导了临床护理工作，护理工作质量亦得以提高[16]。它是由CNP小组为了使患者获得最优质的服务、减少资源浪费和促进患者的康复而集体制定的服务，具有时间性和顺序性的优点[17]。另一方面，临床护理路径在术后将每一个护理项目深入到患者康复的过程中，在积极对症状的护理过程中同时重视对患者相关疾病知识的教育，使患者对自身疾病更加了解和重视，有利于患者出院后的保健和预防，加快患者康复速度，降低了术后并发症的发生率[18]。临床护理路径的实施使护理工作变得积极主动，可以协助促进患者的心理健康发展，提高患者及家属的满意程度。本研究通过设计对照实验，对观察组和对照组患者分别予以临床护理路?胶统９婊だ怼Ｑ芯拷峁?显示，观察组并发症发生率明显低于对照组，自理能力恢复情况、满意率及健康教育知晓度均明显高于对照组，说明临床护理路径可有效提高患者对疾病的认识，积极促进患者身心健康恢复，亦使术后并发症发生率明显降低，与国内外其他文献报道相一致，符合试验预期[19，20]。
+　　综上所述，临床护理路径较之常规护理措施在宫颈癌术后的护理效果更优，且患者满意度更高，因此更推荐临床上推广临床护理路径。
+
+

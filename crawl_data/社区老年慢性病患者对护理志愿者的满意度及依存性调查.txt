@@ -1,0 +1,37 @@
+
+　　[摘要] 目的 分析社区老年慢性病患者对护理志愿者的满意度情况。 方法 2014年3月～2015年5月，选择南昌市广场北路社区200例老年慢性病患者作为调查对象。按照年龄不同，将老年慢性病患者分为两组，即A组（60～70岁）121例及B组（70岁以上）79例。比较两组满意度情况及依从性。 结果 A组5例患者、B组6例患者问卷一致性较差，予以剔除。A组服务内容满意度低于B组，B组服务时间满意度低于A组（P<0.01）。A组依从性为75.86%，明显高于B组（60.27%）（P<0.05）。A组健康促进及疾病知识得分显著高于B组，B组疾病护理得分明显高于A组（P<0.01）。 结论 社区老年慢性病患者服务人员满意度及服务态度满意度均较高，60～70岁老年人内容满意度较低，健康促进及疾病知识需求更高；70岁以上老年人时间满意度及依从性较低，疾病护理需求更高，应给予针对性支持。
+　　[中图分类号] R473.5 [文献标识码] A [文章编号] 1674-4721（2015）09（b）-0183-03
+　　Investigation and study of nursing volunteers′ satisfaction and compliance by elderly patients with chronic diseases in community
+　　ZOU Fang SHI Cui-fen ZHAO Jian-ling
+　　Department of Nursing，the Affiliated Hospital of Jiangxi University of Traditional Chinese Medicine，Nanchang 330006，China
+　　[Abstract] Objective To analyze the satisfaction on nursing volunteers by elderly patients with chronic diseases in community. Methods From March 2014 to May 2015，200 elderly patients with chronic diseases in square north road community were selected as investigated objects.According to different ages，they were divided into group A （n=121，aged from 60 to 70 years old） and group B （n=79，aged from over 70 years old）.The satisfaction and compliance in the two groups were compared. Results Questionnaires in 5 patients in group A and 6 patients in group B were less consistent and were excluded.The satisfaction on service item in group A was lower than that in group B.The satisfaction on service time in group B was lower than that in group A （P<0.01）.The compliance in group A and B was 75.86% and 60.27% respectively，and the former group was higher （P<0.01）.The scores of health promotion and disease knowledge in group A were greatly higher than those in group B.The score of disease nursing in group B was higher in comparison with that in group A （P<0.01）. Conclusion Satisfactions on service personnel and attitude are higher by elderly patients with chronic diseases in community.The content satisfaction is lower in patients aged from 60 to 70 years old and requirements of health promotion and disease knowledge are higher.Time satisfaction and compliance are a bit lower in patients aged over 70 years old，but higher requirement for disease nursing，which need targeted support.
+　　[Key words] Elderly；Chronic disease；Nursing volunteer；Satisfaction；Investigation
+　　随着年龄的增长，人体器官及组织细胞呈退行性改变，机体功能及抵抗力每况愈下，罹患各种慢性病的危险性随之增加。相关报道指出，慢性病患病率与年龄呈正相关，我国50.5%～78.1%的老年人正深受慢性病困扰[1-2]。其中，41.5%～43.0%患者患有2种及以上慢性病[3]。然而，社区护理力量相对薄弱，远远无法满足老年慢性病患者的康复需求。护理志愿者是突破护理发展瓶颈的新力量，对满足患者生理、心理需求具有重要意义。本研究中，笔者从南昌市社区老年慢性病患者的角度进行护理志愿者满意度调查，旨在考查护理志愿者服务质量，了解老年患者服务需求，为社区护理质量的提升提供可靠依据。   　　1 资料与方法
+　　1.1 一般资料
+　　采用随机数字表法，选择南昌市广场北路社区2014年3月～2015年5月200例老年慢性病患者作为调查对象，所有患者均符合入选及排除标准。入选标准：①年龄60岁及以上；②常驻南昌市广场北路；③经2级以上医院确诊为慢性病[4]；④病程1年及以上；⑤智力正常，神志清楚；⑥具备一定的说、写、听、读能力；⑦自愿参加，知情同意。排除标准：①合并精神系统疾病者；②智力受损者；③不愿参加研究者。在200例社区老年慢性病患者中，男96例，女104例；年龄60～91岁，平均（71.53±9.75）岁；文化程度：小学28例，初中67例，高中63例，大专及以上42例；婚姻状况：141例已婚且配偶健在，42例配偶已故，17例离异或者未婚；居住情况：43例与子女一同居住，135例与配偶一同居住，15例与其他照顾者一同居住，7例独居；慢性病情况：45例罹患3种及以上慢性病，106例罹患2种慢性病，49例罹患1种慢性病；本组慢性病主要为冠心病、高血压、糖尿病、肺心病、慢性支气管炎等。按照年龄不同，将患者分为两组，即A组（60～70岁）121例及B组（70岁以上）79例，两组均接受护理满意度调查及依从性调查。两组性别、文化程度、婚姻状况、居住情况等基线资料比较，差异无统计学意义（P>0.05），具有可比性。
+　　1.2 调查方法
+　　1.2.1 成立调查小组及培训
+　　成立调查小组：调查小组由江西中医药大学附属医院社区的3名护理志愿者组成。3名护理志愿者均满足以下条件，大专及以上学历；担任社区护理志愿者1年及以上。
+　　调查小组培训：1次/周，60 min/次，共进行4次。培训内容为：医学数据库的检索、问卷调查方法及注意事项、问卷回收及检查等。
+　　完成培训后，应进行统一考核，包括情景模拟及笔试两部分内容，满分均为100分，单项得分大于85分，方可进入下一阶段研究。本研究中，3名护理志愿者笔试得分87～97分，平均（92.0±5.0）分；情景模拟得分86～94分，平均（90.0±4.0）分。
+　　1.2.2 拟定问卷
+　　1.2.2.1 满意度问卷 小组成员以“社区慢性病”“护理志愿者”“满意度调查”等为关键词，检索Pubmed数据库、万方数据库、维普数据库、NCBI资源数据库、中国生物医学数据库等，根据相关文献，制订满意度调查问卷，满分100分，得分愈高，代表患者满意度愈高。满意度调查问卷共包括20个条目：服务内容是否满意（6个条目）、服务态度是否满意（6个条目）、服务时间是否满意（4个条目）、服务人员是否满意（4个条目），每个条目均采用5级评分，1分：非常不满意；2分：不满意；3分：较满意；4分：满意；5分：非常满意。为减少被调查者随意回答对调查结果的影响，本研究制订了2份内容相似的调查问卷，分别于不同时段对同一患者进行2次调查。调查后，小组成员评价同一患者2份问卷的一致性（2份问卷评分相差20分即视为一致性较差），并据此判断问卷有效性。
+　　1.2.2.2 依从性调查问卷 小组成员以“慢性病”“依从性”等为关键词，检索相关数据库，制订依从性调查问卷。依从性调查问卷满分100分，完全依从：80～100分；部分依从：60～79分；不依从：不足60分。依从性调查问卷内容包括：用药依从性（30分）、规律生活依从性（30分）、复诊依从性（20分）、运动依从性（20分）四大方面。依从性=（完全依从人数+部分依从人数）/总人数×100.00%。
+　　1.2.3 问卷调查阶段
+　　应用横断面问卷调查法，调查时间为2014年3月～2015年5月。调查前，小组成员应采用简要的语言介绍问卷调查的意义、内容、方法及注意事项，要求患者独立完成问卷，当场回收，当场检查。
+　　1.3 观察指标
+　　对比两组患者的满意度情况及依从性情况。
+　　1.4 统计学处理
+　　应用SPSS 15.0统计学软件，计量资料以均数±标准差（x±s）表示，采用t检验。计数资料以率表示，采用χ2检验。以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 社区老年慢性病患者满意度分析
+　　A组5例患者、B组6例患者问卷一致性较差，予以剔除；余者计算2份问卷平均分数作为个体满意度最终得分。两组服务态度、服务人员满意度得分比较，差异无统计学意义（P>0.05）。A组服务内容满意度低于B组，B组服务时间满意度低于A组（P<0.01）（表1）。
+　　表1 社区老年慢性病患者满意度分析（分，x±s）
+　　2.2 社区老年慢性病患者依从性分析
+　　A组依从性为75.86%，明显高于B组（60.27%）（P<0.05）（表2）。
+　　表2 社区老年慢性病患者依从性分析[n（%）]
+　　3 讨论
+　　联合国《全球人口展望》指出，人类已经正式进入老龄化社会[5]。目前，全球老年人口已逾8.41亿，预计2100年老年人口可达30亿[6-7]。据2000年调查显示，我国60岁以上人口达1.3亿，约占人口总数的10.9%，人口老龄化进程愈演愈烈[8-9]。老年人健康是社会及家庭关注的核心问题。然而，现阶段我国社区护理尚未形成规模，远远无法满足老年人健康需求。护理志愿者是社区护理的主力军，是突破护理发展瓶颈的新力量，对构建和谐医患、护患关系，提升社区人文服务氛围，满足老年人护理需求均具有重要意义。
+　　A组服务态度满意度及服务人员满意度评分分别为（27.21±3.86）、（18.26±3.43）分，B组分别为（26.94±3.72）、（19.05±4.39）分，两组比较，差异无统计学意义（P>0.05）。两组服务态度满意度及服务人员满意度评分均较高，说明护理志愿者整体素质较高，且深受患者青睐。与B组比较，A组服务内容满意度较低（P<0.01），结果与相关文献一致[10-11]。调查中发现，多数60～70岁老年慢性病患者表示服务内容单一，信息涵盖量过少，希望获得更全面、更系统的护理服务。针对这一现象，可开展社区小课堂、小讲堂，开通热线咨询电话，播放健康宣教视频，制作健康宣教海报，发放健康宣教手册，以满足患者健康知识需求。此外，与A组相比，B组服务时间满意度更低（P<0.01），结果与相关文献一致[12-13]。造成这种现象的原因可能为70岁以上老年人活动能力减弱，需要陪伴的生理及心理需求更强烈。由表2可知，A组依从性为75.86%，明显高于B组（60.27%）（P<0.05），结果与相关文献一致[14-15]。究其原因可能为随着年龄的增长，患者机体功能日益减退，记忆力亦随之减退，因此依从性较差。针对这一现象，可采用短信提醒、电话提醒、家庭随访、加强患者家属健康教育等方法，以提高患者依从性。   　　综上所述，社区老年慢性病患者服务人员满意度及服务态度满意度均较高，60～70岁老年人内容满意度较低，70岁以上老年人时间满意度及依从性较低，应给予针对性干预。
+
+

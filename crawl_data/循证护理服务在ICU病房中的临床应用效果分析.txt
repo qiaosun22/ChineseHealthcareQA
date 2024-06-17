@@ -1,0 +1,18 @@
+
+　　【摘要】目的探讨循证护理在ICU病房中应用的临床效果。方法2011年5月~2011年11月, 对本院ICU病房收治的120例急危重症患者进行随机分类, 常规护理A组60例与循证护理服务B组60例；对两组患者在感染发生率、褥疮以及气管堵塞等方面进行比较。结果感染发生率以及气管堵塞、褥疮发生率, 循证护理组明显低于常规护理组, 二组比较差异具有统计学意义(P<0.05)。结论循证护理在降低ICU病房感染发生率、气管堵塞以及褥疮上效果显著, 值得临床应用推广。
+　　
+　　Clinical effect analysis of evidence-based nursing service in ICU ward XU Xue-mei. Weifang People's Hospital,Weifang 261041, China
+　　【Abstract】Objective To investigate the clinical effect of application of evidence-based nursing in ICU ward. Methods From May 2011 to November 2011, 120 cases of acute and critically ill patients in our hospital in ICU ward were randomly classified, routine nursing care of 60 cases in group A and evidence-based nursing in 60 cases of group B; two groups of patients in the infection rate, bedsore and pipe blockage are compared. Results  The incidence of infection and blockage of the trachea, the incidence of bedsore, evidence-based nursing group was significantly lower than the usual care group, the two groups was statistically significant (P<0.05). Conclusion  Evidence based nursing in significantly reduced incidence, pipe blockage and effect of ICU on the bedsore infection, so it is worthy of clinical application.
+　　【Key words】Evidence-based nursing; ICU unit; Clinical analysis循证护理是在循证医学的基础上发展而来的一门全新的学科, 是以有价值的、可信的科学研究成果为理论依据, 提出问题、分析问题以及解决问题。
+　　1资料与方法
+　　1. 1一般资料2011年5月~2011年11月, 本院ICU病房对120例急危重症患者进行随机分类, 常规护理组60例与循证护理服务组60例。两组患者在性别、年龄以及疾病状况上差异无统计学意义(P>0.05), 两组患者具有可比性。
+　　1. 2护理方法120例患者均进行常规护理, 循证护理组在常规护理的基础上进行循证护理：①提出问题：将以往住院患者出现感染的情况进行分析, 讨论患者出现肺部感染的原因, 泌尿系统出现感染的原因以及褥疮发生的临床原因, 并将这些原因进行归类, 提出预防的有效措施；②循证护理支持：呼吸机相关性肺炎的循证护理, 查阅文献, 冼秀群［1］研究显示, 定时的翻身, 及时有效的进行吸痰, 雾化吸入并保持呼吸道的通畅是预防肺部感染的有效护理措施；气管插管后, 患者的呼吸道生理功能发生改变, 破坏了呼吸道的防御功能, 同时由于口腔的废用, 口腔细菌繁殖增加, 增加了肺部感染的机会, 刘力红［2］研究显示, 采用口腔护理与人工漱口法能够将口腔深部的细菌带出, 减少咽部细菌的下移；褥疮是由于身体部位的长时间受压, 血液循环障碍, 造成皮肤表面溃疡, 形成褥疮, 武秀娟研究显示科学有效的翻身以及营养支持是预防患者出现褥疮的关键, 采用2 h翻身一次, 在翻身时尽量避免90°翻身, 以免对踝关节以及臀部的压力增加, 同时注意翻身的手法, 避免对患者进行牵拉等；气管堵塞的护理, 尽量湿化气管, 避免痰痂的形成；定期听诊肺部的呼吸音, 查看是否有导管堵塞；若有痰液堵塞, 则使用吸痰管进行气道冲洗。
+　　1. 3统计学方法使用SPSS17.0统计软件进行分析, 计数采用(%)表示, 两组间比用χ2检验, P<0.05表示差异有统计学意义。
+　　2结果
+　　两组患者感染率以及气管堵塞情况比较, 见表1。
+　　在肺部感染发生率、泌尿系感染发生率以及褥疮等方面, 循证护理组明显对于常规护理组, 并且其气管堵塞的发生率远远低于常规护理组, 两组比较差异具有统计学意义(P<0.05)。
+　　3讨论
+　　循证护理主要注重循证护理问题、循证护理支持、循证护理观察以及循证护理应用四个方面。循证问题：护理人员在临床工作中, 依靠传统的理论知识以及护理经验不容易解决的问题；提出循证问题：除了对患者的病情有利外, 更有利于护理人员业务水平的提高；循证护理支持：依据相关文献报道或科研成果研究, 对所作出的原理进行总结, 并逐个分析, 得到可靠的理论依据；循证护理观察：依据可靠的循证护理理论依据, 在工作中对患者进行护理观察, 并制定正确的临床护理观察方法；循证护理应用：将循证护理支持以及观察所得到的结果应用于临床, 并在临床工作中, 再次进行评价分析, 判断是否为最佳护理行为。
+　　在本组研究病例中, 首先提出问题, 然后分析出现的问题原因, 找寻相关的科学依据, 最后在临床中进行应用。经过临床证实, 循证护理能够给明显降低ICU患者出现各种并发症的发生率, 为临床研究提供可靠依据, 并且这一研究成果值得在各个医院进行推广。
+
+

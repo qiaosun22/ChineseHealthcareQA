@@ -1,0 +1,28 @@
+
+ 　　[摘要] 目的 探讨Roy适应模式护理肺结核抑郁患者的临床效果。方法 方便选取2015年2月―2016年2月该院住院50例肺结核抑郁患者，按入院先后顺序分为试验组和对照组，各25例。对照组给予常规护理，试验组在对照组的常规护理基础上采用Roy适应模式护理，采用抑郁自评量表（SDS）及ADL生活质量量表分别评估患者干预前后抑郁状况及生活质量。结果 试验组干预后，SDS评分（30.47±4.56），与对照组（51.23±4.87）及干预前（58.56±5.62）比较均差异有统计学意义（P<0.05）；两组患者ADL评分在干预前差异无统计学意义（P>0.05）。对照组干预前后的ADL评分无变化（P>0.05），试验组干预后ADL评分明显降低，与对照组及干预前比较均差异有统计学意义（P<0.05）。而对照组治疗前后无明显变化（P>0.05）。结论 Roy适应模式能显著的改善肺结核患者的抑郁状况，并提高患者的生活质量。
+　　[中图分类号] R183.3 [文献标识码] A [文章编号] 1674-0742（2016）04（c）-0150-03
+　　[Abstract] Objective To study the clinical effect of Roy adaptation model in the nursing of depression patients with tuberculosis. Methods 50 cases of depression patients with tuberculosis hospitalized in our hospital from February 2015 to February 2016 were selected and divided into two groups with 25 cases in each according to the admission orders， the control group were treated with conventional nursing， the test group were treated with Roy adaptation model nursing on the basis of the control group， and the depression condition and quality of life of patients before and after intervention were respectively evaluated by the self-rating depression scale and ADL quality of life questionnaire. Results There was an obvious difference in the SDS score in the test group after intervention compared with that before intervention and that in the control group， [（30.47±4.56） vs （58.56±5.62）]， [（30.47±4.56） vs （51.23±4.87）]， P<0.05， and there was no difference in the ADL score between the two groups before intervention， P>0.05， there was no change in the ADL score in the control group before and after intervention， P>0.05， the ADL score in the test group after intervention obviously decreased， and there was an obvious difference compared with that in the control group and that before intervention， P<0.05， but there was no obvious change in the control group before and after treatment， P>0.05. Conclusion Roy adaptation model can obviously improve the depression of patients with tuberculosis and improve the quality of life of patients.
+　　[Key words] Roy adaptation model； Tuberculosis； Depression； Quality of life
+　　肺结核属于呼吸道传染性疾病之一，近些年来，随着科学技术的进步，肺结核诊断率的提高，肺结核的新发病例数量逐年升高。该病治疗过程漫长，且容易反复发作，且具有传染性，患者在承受巨大的身体压力的同时，往往承受着心理方面以及社会方面的压力，患者容易形成焦虑、抑郁等严重的心理问题，不利于患者机体的康复以及生活质量的提高。最新一项调查显示，肺结核患者焦虑情绪的发生率为62.59%，抑郁情绪的发生率为66.30%[1]。因此，针对肺结核患者抑郁的状况实施有效的护理对患者整体康复有着重要的临床意义。Roy适应模式护理方式是近些年来应用比较广泛的护理模式，该院于2015年2月―2016年2月采用Roy适应护理50例肺结核抑郁患者，取得了良好的效果，现报道如下。
+　　1 资料与方法   　　1.1 一般资料
+　　1.1.1 纳入标准 ①肺结核患者的诊断筛选参照中华医学会结核病分会制定的肺结核诊断标准[2]；②入组患者签署知情同意书，并经该院医学伦理委员会批准同意；③无认知障碍，能独立完成或在家人的帮助下完成对问卷的填写；④SDS评分患者符合轻度以上抑郁。
+　　1.1.2 排除标准 ①重症肺结核患者；②病情危及生命或预计生存期过短；③疾病累及重要脏器；④精神障碍或其他精神类疾病。
+　　1.1.3 一般临床资料 方便选取2015年2月―2016年2月在大庆市第二医院住院的肺结核患者50例，按照患者入院的时间顺序将患者分成对照组和试验组，各25例。对照组：男24例，女11例，年龄（35.52±8.32）岁，病程1.2～8年；试验组男23例，女12例，年龄（34.83±7.56）岁，病程1.3～7年；两组患者在性别、年龄、病程等方面一般资料具有可比性（P>0.05）。
+　　1.2 方法
+　　对照组患者给予入院常规护理：①建立个人资料库。对患者的一般信息进行登记，建立电子资料库；②健康教育。印刷宣传册，提高患者对疾病的认知；③院外的电话随访。
+　　试验组在对照组的基础上，实施Roy适应模式护理，具体如下：①评估。了解患者的的患病过程，以及家庭、学习、工作等一般资料情况，在此基础上，评估患者产生抑郁的原因；②干预。鼓励患者与他人进行社会交往，并主动帮助患者建立社交圈，组织集体活动，同时进行认知辅导；根据患者入院前学习工作经历，激发患者有益的兴趣和爱好，重新融入家庭和社会；③评价：对患者进行主客观评价，责任护师详细记录与患者接触过程中的心理变化，并按阶段要求认真完成问卷调查，掌握干预过程中患者的变化，在实践的过程中调整计划，顺应护理的需要。
+　　1.3 观察指标
+　　1.3.1 SDS评分 用于患者入组时的筛查以及干预后的效果评价，SDS抑郁自评量表以患者感受为基础通过问卷形式测评，表内包括20个条目，汇总于4个特异性症状，分值高者抑郁状况严重。
+　　1.3.2 ADL评分 ADL评分量表以调查者日常生活活动能力与高级日常生活活动两为基础进行评价，日常生活活动能力包括12项基础日常活动、13项中等日常活动；高级日常生活活动包括6项外出活动、5项社会活动，每一项分设3个标准，评分1～3分，得分越低，自理能力越好[3]。
+　　1.4 统计方法
+　　采用SPPS 13.0软件对所录入的资料进行统计分析，计量资料采用（x±s）表示，比较采用t检验，计数资料比较采用χ2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 SDS评分
+　　两组患者以SDS评分>50分入组，且组间比较差异无统计学意义（P>0.05）。试验组干预前后，SDS评分显著下降，与对照组及干预前比较均差异有统计学意义（P<0.05）；而对照组治疗前后无明显变化（P>0.05），见表1。
+　　2.2 两组患者干预前后的ADL评分比较
+　　两组患者ADL评分在干预前差异无统计学意义（P>0.05）。对照组干预前后的ADL评分无变化（P>0.05），试验组干预后ADL评分明显降低，与对照组及干预前比较均差异有统计学意义（P<0.05），见表2。
+　　3 讨论
+　　对于反复发作的肺结核患者，病程也相对延长，患者精神负担负荷增加，患者易产生焦虑、抑郁等不良心理。王琰采用SCL-90量表调查了160例肺结核患者，结果显示恐惧、焦虑、抑郁和人际关系敏感是结核病患者的主要心理健康问题[4]。李慧静[5]调查了肺结核合并焦虑和医院得相关因素，结果显示肺结核合并焦虑、抑郁情绪占40.0 %，肺结核不合并焦虑、抑郁情绪占60.0%，对抑郁评分有影响的因素有性别、年龄、年人均收入、病情、医疗保险状况。针对肺结核患者抑郁状况，实施有效的护理，以改善患者的精神状况与生活质量，具有重要的意义。
+　　该研究我们采用了Roy适应模式护理方法，对25例患者实施科学护理，结果显示，试验组干预后，SDS评分（30.47±4.56），与对照组（51.23±4.87）及干预前（58.56±5.62）比较均差异有统计学意义（P<0.05），患者在SDS、ADL评分均有显著改善，提示Roy适应模式护理能够改善患者的抑郁状态，形成积极的情绪，患者生活质量也随之提高。Roy将人视为一个适应系统，人不断地识别环境中的刺激，通过生理与心理调节来适应环境，如果人能够适应环境变化，在生理功能、自我概念、角色功能和相互依赖4个方面表现出适应性的行为反应，就能有效维持系统的整体性，保持健康[6]。Roy适应模式在临床护理方面得到了广泛的应用，如有机磷农药中毒病人、甲状腺功能亢进病人、血液透析病人、乳腺癌病人等[7]。段婧等[8]应用Roy 模式护理主动脉夹层焦虑患者36例，结果情绪稳定为 17 例，比例为 94.44%。该研究将Roy适应模式引入到肺结核抑郁患者临床护理中，取得了良好的效果，为临床上提高肺结核的治疗效果，改善患者的抑郁状态与提高生存质量，提供了新的方向。综上，Roy适应模式是改善肺结核患者抑郁状态的有效方法，其方法亦符合现代护理的理念，值得推广应用。
+
+

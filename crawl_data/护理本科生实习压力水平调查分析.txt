@@ -1,0 +1,22 @@
+
+ 　　【摘要】 目的：探讨护理本科生（下称护生）实习压力水平，为有针对性提出应对措施，缓解护生压力提供参考依据。方法：采用一般资料问卷、护生实习压力源量表对本院实习的100名护生进行问卷调查。结果：护生实习压力总分（55.38±13.45）分，每项目平均1.51分，实习压力6个维度得分从高到低依次是学习与工作冲突、人际关系、工作负荷、工作支持、实习准备、工作性质。不同性别的护生在实习压力6个维度方面比较差异均有统计学意义（P<0.05）；不同就读归因的护生在人际关系和学习与工作冲突2个维度比较差异有统计学意义（P<0.05）；不同角色感觉的护生实习压力6个维度方面比较差异均有统计学意义（P<0.05）。结论：护理教育工作者应关注护生的思想动态，了解其压力水平，建立良好的社会支持系统，降低护生的实习压力。
+　　Investigation and Analysis on the Stress Level of Nursing Students’ Practice/SONG Ling-xia，ZHANG Yong-mei，ZENG Fen-lian，et al.//Medical Innovation of China，2016，13（17）：070-072
+　　【Abstract】 Objective：To explore the nursing undergraduate students （hereinafter referred to as nursing students） practice pressure level，in order to put forward the corresponding measures and alleviate the pressure of nursing students to provide reference.Method：A questionnaire survey was conducted on 100 nursing students in our hospital by general data questionnaire and nursing students’ practice pressure source scale.Result：The internship pressure total score was （55.38±13.45） points，the average of 1.51 points per project，the 6 dimensions of internship stress score from high to low were learn and work conflict，interpersonal relationship，work load，work support，practice preparation and work nature.There were statistically significant differences in the 6 dimensions of the different gender of nursing students in the internship pressure（P<0.05）.There were significant differences in the 2 dimensions of interpersonal relationship，learning and work conflict among nursing students of different study attribution（P<0.05）.Conclusion：Nursing education workers should pay attention to nursing students Thought dynamic，understand their stress levels and establish a good social support system，in order to reduce the pressure of nursing students internship.
+　　【Key words】 Nursing undergraduates； Clinical practice； Pressure
+　　First-author’s address：Affiliated Hospital of Zunyi Medical College，Zunyi 563003，China
+　　doi：10.3969/j.issn.1674-4985.2016.17.019
+　　临床实习是护生由学生角色向护士角色转换的过渡时期，是理论与实践相结合的重要时期[1-4]。据报道，护理本科生由于临床实习环境的复杂化、临床护理工作的高负荷、激烈的就业竞争等多方面因素的影响而承受着巨大的压力，如不能很好应对，不仅会直接影响实习质量，甚至动摇他们从事护理工作的决心[5-7]。为了有针对性的指导本科实习护生在面临压力时能正确处理从而提高实习效果，本研究对本校实习护生进行压力水平调查，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料 随机选取遵义医学院2011级实习护生100例作为研究对象，均在本院实习，其中男
+　　27例，女73例；年龄20～23岁，平均（21.24±0.56）岁。
+　　所有研究对象均知情同意并自愿参与。
+　　1.2 方法 由笔者向护生说明调查目的及表格填写方法，取得护生同意与支持，要求20 min内独立完成，并不记名收回问卷。问卷和表格包括：（1）自编一般资料问卷：包括性别、生源、护理角色感觉、就读归因等；（2）护生实习压力测量工具量表采用肖美莲编制的护生实习压力量表，该问卷共37个条目，分为工作性质、实习准备、工作负荷、工作支持、人际关系、学习与工作的冲突6个维度，各维度采用Likert 4级评分法，从“没有压力”到“重度压力”分别予以赋值0～3分，实习压力分为3个水平，每个维度平均分在1.00以下为低水平压力，1.01～2.00表示中等水平压力，2.01～3.00表示高水平压力，得分越高表明压力越大。该量表内容效度指数为0.925，Cronhach’s α系数为0.937[8]。   　　1.3 统计学处理 采用SPSS 18.0统计软件进行数据分析，计量资料以（x±s）表示，比较采用t检验，根据数据资料类型分别运用描述性分析和方差分析统计方法，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 护生实习压力的描述性分析 本次研究共发放问卷100份，回收100份，有效回收率100%。本次调查实习压力总分（55.38±13.45）分，每项目平均1.51分。各维度得分从高到低依次是学习与工作冲突（8.65±3.500）分，平均1.73分；人际关系（9.47±2.672）分，平均1.58分；工作负荷（9.19±2.718）分，平均1.53分；工作支持（10.49±2.414）分，平均1.50分；实习准备（8.44±2.702）分，平均1.41分；工作性质（9.14±2.437）分，平均1.31分。
+　　2.2 不同特征护生压力各维度得分情况 不同性别的护生在工作性质、工作负荷、实习准备、人际关系、工作支持、学习与工作冲突6个维度比较差异均有统计学意义（P<0.05）；不同就读归因的护生在人际关系、学习与工作冲突2个维度比较差异有统计学意义（P<0.05）；不同角色感觉的护生在工作性质、工作负荷、实习准备、人际关系、工作支持、学习与工作冲突6个维度比较差异均有统计学意义（P<0.05），见表1。
+　　3 讨论
+　　护生在临床实习过程中面临着诸多方面的压力，能否有效正确指导护生应对实习中的各种压力，对其身心健康发展和专业思想的稳定有着重要影响。本次研究结果显示护理本科生实习压力总分平均分为（55.38±13.45）分，每项目平均分为1.51分，表明护理本科实习生实习压力水平处于中等水平，与相关研究结果一致[9-10]。表1结果显示男护生在实习压力各维度得分高于女护生，说明可能受传统观念的影响，很多人认为护理工作属于“三低”服务性工作，地位低、待遇低、技术含量低，应该属于女生的工作，男护生操作时更容易遭遇患者及家属的不信任，加之部分男护生自尊心极强，由于目前舆论影响和医疗工作本身的不确定性，自身又缺乏对本专业的认识和了解，从而对护士角色有一定的排斥心理，尤其面对患者的猜疑很容易导致他们自暴自弃，放弃护理专业或转行[11-13]。因此，学校应加强对男护生思想动态教育，了解其压力水平，注重维护其自尊并及时给予心理疏导和安慰，鼓励男护生主动与患者沟通，适当多给予男护生表现和实践的机会，在工作上有进步时应及时给予适当的鼓励和赞扬，帮助其克服心理障碍，从而不断提升其学习兴趣，增加自信；同时学校和医院应加大对临床优秀男护士的宣传力度，不定期召开男护生座谈会，解决他们生活上和思想上的困难，建立良好的社会支持系统，创造良好的就业环境，帮助其以正确、轻松的心态进入临床护理角色，缓解其实习压力水平[14-15]。
+　　不同就读归因的护生人际关系、学习与工作冲突2个维度比较差异有统计学意义（P<0.05），说明调查对象在选择专业之初，部分学生是因为家人、亲友、老师意见或者是由于学校专业调剂等原因，并非由于个人兴趣而选择护理专业，仅有少部分是个人志愿，尤其在临床实习期更是认识到理想与现实的差距，导致其工作积极性不断下降，这些因素也会影响到其以后的压力水平。因此护生在校期间和临床实习阶段，教师应从择业观、专业价值观方面对护生进行思想教育，还应掌握护生的心理变化及需求，在注重护生实习目标完成与否的同时，帮助护生提高解决问题和应对压力的能力；当护生面临专业困惑和迷茫时应及时给予关心和指导，帮助护生端正思想态度，增强其专业兴趣，从而提高专业认同感，减轻其压力[16-19]。
+　　不同角色感觉的护生在实习压力6个维度比较差异均有统计学意义（P<0.05），说明良好的社会角色认知可降低护生实习过程中所遭遇考试压力大、工作安排与考试的冲突、每天所从事的工作量大、任务重、病人的突然死亡等各种压力。因此，护理教育者应多方面、多渠道加强实习护生角色的培养，如在实践教学环节中引入情境教学法，体验式教学法等提高护生角色认知水平，从而降低其压力水平，同时带教教师也应努力提高自身素质，不断丰富心理学、教育学等基本理论知识；其次，教师应指导护生加强自身综合素质培养，帮助其正确认识实习的重要性，使其能够认真对待实习工作，主动与带教教师沟通，及时正确调节在实习中所产生的不良情绪，引导护生圆满完成实习任务，并顺利走上护理工作岗位[20]。
+
+

@@ -1,0 +1,19 @@
+
+ 　　摘要：目的 探究小儿高热惊厥患者的急诊救治护理措施。方法 选取2014年1月～2015年1月急诊收治的30例小儿高热惊厥患者为研究对象，按照患者入院的顺序随机分为实验组和对照组，分别采取针对性高热惊厥护理和常规急诊护理，比较两组患者护理后惊厥复发率和并发症等情况。结果 实验组患者治疗总有效率为93.33%，对照组患者治疗总有效率为73.33%，观察组与对照组差异显著，存在统计学意义（P<0.05）。结论 小儿高热惊厥患者采取针对性高热惊厥护理，有助于患儿的治疗，减少并发症的发生。
+　　Abstract：Objective To explore the emergency treatment of pediatric patients with febrile convulsion nursing measures. Methods Between January 2014 and January 2015 emergency patients of 30 cases of children with febrile convulsion as the research object， in accordance with the order of the patients in hospital were randomly divided into experimental group and control group， respectively， adopting the febrile convulsion routine nursing and emergency care， compared two groups of patients after nursing convulsions recurrence rate and complication， and so on and so forth. Results The experimental group patients treatment the total effective rate was 93.33%， control group patients treatment the total effective rate was 73.33%， significant difference was found in observation group and control group， there is statistical significance （P < 0.05）. Conclusion Children with febrile convulsion patients' febrile convulsion care， help children with treatment， reduce the occurrence of complications.
+　　Key words：Children high fever；Convulsion；Emergency care
+　　小儿高热惊厥是一种儿科的急症，主要表现为小儿的热性惊厥，面部和四种肌肉阵发性抽搐，还伴有双侧眼球上翻、凝视、直视和神志模糊等，发病原因主要与遗传因素和环境因素有关[1]。由于小儿中枢神经发育不完全，由发热导致的小儿脑组织内运动神经细胞出现异常放电，引发惊厥，其发病率是成人的10～15倍[2]。小儿高热惊厥多发生在呼吸道感染的初期，当患儿体温升至38.5～40.0℃时，会发生突然惊厥，当持续时间过长或未及时救治时，患者会出现反复惊厥症状，严重的脑缺氧会造成智力下降，最终导致患者的死亡[3]。下面对我院自2014年1月～2015年1月收治的30例高热惊厥患者进行研究，分析采取高热惊厥护理对患者治的影响，报道如下。
+　　1 资料与方法
+　　1.1一般资料 选取2014年1月～2015年1月收治的30例高热惊厥患者为研究对象，按照患者入院的先后顺序随机分为实验组和对照组，每组15例，其中实验组男8例，女7例，年龄0.5～6岁，平均（2.78±0.74）岁；对照组男6例，女9例，年龄0.5～5岁，平均（2.64±0.76）岁。两组患儿一般资料无显著差异，无统计学意义（P>0.05），可进行比较分析。
+　　1.2纳入标准[3] 符合高热惊厥临床诊断标准，表现为体温升高、焦躁不安、意识迷糊，严重者面色青紫、面部及四肢肌肉呈强直性或阵法性痉挛，眼球上翻或凝视。
+　　1.3护理方法 对照组患儿采取常规急救措施，即患者发生惊厥时将其放置平卧位，解除衣服和裤子束缚后，清理呼吸道，将头偏向一侧，保持呼吸道通畅；将床档拉起，防止发生坠床；抽搐严重患者可将纱布至于口中，防止咬伤舌头。实验组患者在此基础上采取针对性急救措施：针刺患者人中、涌泉穴和谷合，及时止惊；使用镇静剂，可行50mg/kg水合氯醛灌肠治疗；立即建立静脉通道，选择血管弹性较好的位置埋置留置针，便于急救用药；出现反复惊厥的患者可快速静脉滴注20%甘露醇，在30min内滴注完毕；采取温水擦浴的方法物理降温，必要时应用退热剂辅助退热；患者高热出汗较多，护理人员注意及时更换潮湿的病号服，出汗较多时给予补液治疗；治疗给药后要严密监测患者生命体征及意识的变化，若出现异常应及时向医生汇报，准备好急救药物和仪器等；在饮食方面要注意清淡饮食，多食用富含维生素的新鲜蔬菜瓜果，多饮水。
+　　1.4疗效判断 护理后患者效果分为显效、有效和无效。①显效：患者惊厥症状消失，体温恢复至正常范围，未有并发症发生；②有效：患者惊厥症状基本消失，体温恢复至正常，未有并发症发生；③无效：患者惊厥症状未消失，仍为高热状态，各临床症状未好转甚至加重。治疗总有效率=（显效+有效）÷总例数×100%。
+　　1.5统计学方法 采用SPSS18.0软件进行统计学分析；计数资料采用χ2检验；计量资料用（x±s）表示，采用t检验；P<0.05表示有统计学意义。
+　　2 结果
+　　比较两组患者护理后效果：实验组患者治疗总有效率为93.33%，对照组患者治疗总有效率为73.33%，两组患者比较差异显著，有统计学意义（P<0.05），见表1。
+　　3 讨论
+　　小儿高热惊厥是一种常见的神经系统疾病，主要多发于4～6岁的儿童，其发病率可达5.0%～8.0%。由于小儿的神经系统发育不成熟，其惊厥阈值较成人低，所以小儿受到高热惊厥影响对自身神经系统的造成高热刺激后，神经细胞出现的异常放电反应会出现惊厥现象[4]。
+　　在对小儿高热惊厥患者进行救治时，要求护理人员要有良好的医学知识、熟练的操作技术和责任心，积极采取有效措施，为降低患儿惊厥次数和痛苦，提高治疗效果。小儿出现惊厥时要及时采取急救措施，同时对患者家属进行健康教育，待患儿病情缓解后，做好家属思想工作和指导，指导家属家中备用体温计和退热贴等，患者体温超过38.5℃时立即给予物理降温或药物降温，指导家属可采取按压人中的方式应对惊厥反应，并及时送往医院。此外指导家属为患儿提供合理、健康饮食，并加强体育锻炼，增强机体抵抗力。
+　　综上所述，针对小儿高热惊厥的患者采取有效的救治措施和护理，在提高治疗效果的同时，还可以减少并发症的发生，促进患儿的痊愈，值得在临床中推广应用。
+
+

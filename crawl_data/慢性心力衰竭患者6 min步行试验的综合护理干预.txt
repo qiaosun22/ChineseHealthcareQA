@@ -1,0 +1,20 @@
+
+　　【摘要】 目的：探讨慢性心力衰竭患者行6 min步行试验的综合护理干预效果。方法：按随机数字表法将70例NYHA心功能Ⅱ～Ⅳ级且病情稳定的慢性心力衰竭患者分为两组，每组35例。对照组采用常规护理实施6 min步行试验，观察组在对照组基础上实施综合护理干预，包括试验前评估患者的心功能状态和心理状况，同时做好健康教育及急救准备。比较两组试验完成情况、试验结果与NYHA心功能分级符合率。结果：观察组试验结果与NYHA心功能评级的符合率（94.12%）均显著优于对照组，差异具有统计学意义（P<0.05）。结论：综合护理干预6 min步行试验，可以有效地评估慢性心力衰竭患者心功能，值得在临床中推广应用。
+　　Comprehensive Nursing Interventions on Six-minute Walk Test for Patients with Chronic Heart Failure/HUANG Ai-jing，WU Fu-cheng.//Medical Innovation of China，2015，12（18）：091-092
+　　【Abstract】 Objective：To study the effect of comprehensive nursing intervention on 6 minutes walk test for patients with chronic heart failure.Method：70 patients with heart function NYHA class Ⅱ-Ⅳ and stable condition of chronic heart failure were randomly divided into two groups，with each group 35 cases.The control group was given conventional nursing，while the observation group was given comprehensive nursing intervention，patient’s heart function and psychological condition were assessed，preparing for health education and first aid were included in the process.The complete status of the test，the coincidence rate of the test results and the NYHA heart function classification were compared between the two groups.Result：The coincidence rate of the test results and the NYHA heart function classification of the control group were significantly better than those of the control group，the difference was statistically significant（P<0.05）.Conclusion：Comprehensive nursing intervention on 6 minutes walk test can effectively evaluate the cardiac function of patients with chronic heart failure，it is worth popularizing in clinical application.
+　　【Key words】 Chronic heart failure； Cardiac function； 6 minutes walk test； Comprehensive nursing care
+　　First-author’s address：The People’s Hospital of Shenzhen City，Shenzhen 518109，China
+　　doi：10.3969/j.issn.1674-4985.2015.18.033
+　　心功能评定是评估慢性心力衰竭重要组成部分。6 min步行试验是评估慢性心力衰竭患者心功能的重要指标。近几年，有关临床研究发现，影响6 min步行试验距离的因素较多，如对环境熟悉程度、年龄以及性别等[1]。目前，部分学者认为该试验有引起患者发生急性心功能不全以及心律失常等疾病的风险，所以严格规范6 min步行试验的操作流程，对于保证评估患者心功能的准确性以及安全性具有重要的意义[2]。本研究选择70例NYHA心功能Ⅱ～Ⅳ级且病情稳定的慢性心力衰竭患者，探讨慢性心力衰竭患者行6 min步行试验的综合护理干预效果。现报告如下。
+　　1 资料与方法
+　　1.1 一般资料 按随机数字表法将70例NYHA心功能Ⅱ～Ⅳ级且病情稳定的慢性心力衰竭患者分为两组，每组35例。其中对照组男21例，女14例；年龄55～76岁，平均（63.7±3.8）岁；20例冠心病、7例扩张型心肌病、8例瓣膜病。观察组男20例，女15例；年龄56～76岁，平均（63.9±3.5）岁；21例冠心病、8例扩张型心肌病、6例瓣膜病。排除标准：近期出现不稳定型心绞痛等疾病者；静息心率大于120次/min者；高血压者；伴有严重心律失常疾病者；严重瓣膜病者；体质较差者。两组性别、年龄等资料比较差异无统计学意义（P>0.05），具有可比性。   　　1.2 方法
+　　1.2.1 对照组 采用常规护理，主要措施包括：（1）选择通风条件良好且平坦通畅的区域，划出30 m长直线，直线两端、中间均放置椅子；（2）试验前，测量患者血压以及心率等指标。然后使患者沿30 m直线快速来回行走；（3）试验过程中，护理人员如果观察患者有疲乏、心绞痛以及面部苍白等表现，则应立即停止试验；（4）试验完成后，观察患者血压以及心率等指标，观察10 min以上，如果患者无不适症状则可返回病房。
+　　1.2.2 观察组 实施综合护理干预，在对照组基础上，采用以下干预手段：（1）试验前，评估患者心功能以及心理状况，利用视频介绍该试验的操作过程、注意事项，同时积极与患者交流，减小患者心理压力；（2）对于心功能差或紧张的患者，准备好氧气、呋塞米等急救措施与药品；（3）试验前，患者首先练习1次，使其熟悉流程，同时严密监测心率、血压以及血氧饱和度等指标，必要时全程监护患者步行；（4）在试验时，主动与患者沟通以了解其感受，同时给予鼓励性语言，避免使用刺激性言语。
+　　1.3 评判标准 比较两组6 min步行试验安全性、测试结果与NYHA心功能评级符合率。
+　　1.4 统计学处理 使用SPSS 13.0统计分析数据，计量资料以（x±s）表示，比较采用t检验，计数资料采用 字2检验，P<0.05表示差异有统计学意义。
+　　2 结果
+　　68例患者顺利完成6 min步行试验。在试验过程中，观察组1例患者由于出现心绞痛而停止试验，采取含服5 mg硝酸异山梨醇酯、吸氧等治疗措施后改善；对照组1例NYHA心功能Ⅳ级患者发生喘气等症状表现，静注20 mg呋塞米、吸氧等治疗措施后改善，两组试验安全性比较差异无统计学意义（P>0.05）。观察组试验结果与NYHA心功能评级的符合率显著优于对照组，差异具有统计学意义（P<0.05）。见表1。
+　　3 讨论
+　　本研究对进行6 min步行试验患者在常规护理的基础上实施综合护理干预。试验前，以视频为媒介介绍该实验，不仅生动形象，而且使患者更加容易了解该实验；积极评估患者心功能以及心理状况，从而判断高危人群，并准备好急救用品，大大增强了试验安全性[3]；测试前练习该试验流程一次，能够有效降低患者因不熟悉试验而反复重来的情况，明显缓解了患者心功能负担[4]。同时，在试验过程中笔者还使用规范性语言鼓励患者，缓解了患者的心理压力，避免因气氛严肃等因素造成患者心理压力加重。笔者试验全程监测患者生理指标，以不诱发并发症为前提，协助患者调节步幅及速度，使其尽量最真实地反映其心功能[5-6]。本研究发现，观察组与对照组均有1例未顺利完成试验，提示慢性心力衰竭患者选择6 min步行试验安全性较高，并未增加试验风险，这与有关文献[7-12]结果相似。目前，NYHA心功能分级是临床中应用最为广泛的分级标准。本研究发现，观察组试验结果与NYHA心功能评级的符合率（94.12%）显著优于对照组，差异具有统计学意义（P<0.05），这可能与对照组患者对于试验过程陌生、情绪紧张等原因有关。综上所述，综合护理干预6 min步行试验，可以有效地评估慢性心力衰竭患者心功能，值得在临床中推广应用。
+
+

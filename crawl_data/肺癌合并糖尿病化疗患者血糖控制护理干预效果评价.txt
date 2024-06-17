@@ -1,0 +1,26 @@
+
+ 　　[摘要] 目的 对肺癌合并糖尿病化疗患者的血糖控制情况和护理干预效果进行研究。方法 选取2014年2月―2017年2月期间该院收治的16例肺癌合并糖尿病化疗患者，按照随机数字表法将16例患者进行均分两组，各8例。将使用常规护理干预的患者作为参照组，将使用针对性护理干预的患者作为实验组。对比两组肺癌合并糖尿病化疗患者的护理满意度和血糖改善情况。结果 实验组肺癌合并糖尿病化疗患者的护理满意度与参照组比较，明显较优，组间对比差异有统计学意义（P<0.05）；对比两组肺癌合并糖尿病患者的血糖改善情况，组间数据对比差异有统计学意义（P<0.05）。结论 对肺癌合并糖尿病化疗患者行针对性护理干预，可有效的改善患者的血糖情况，使患者对护理服务予以满意。
+　　[中图分类号] R473.73 [文献标识码] A [文章编号] 1672-4062（2017）09（b）-0119-02
+　　Evaluation on Blood Glucose Control Nursing Intervention Effect of Patients with Lung Cancer and Diabetes Chemotherapy
+　　SUN Feng-jun
+　　Department of Oncology Medicine， Shuangyashan Mining Hospital， Shuangyashan， Heilongjiang Province， 155100 China
+　　[Abstract] Objective To research the blood glucose control nursing intervention effect of patients with lung cancer and diabetes chemotherapy. Methods 16 cases of patients with lung cancer and diabetes chemotherapy in our hospital from February 2014 to February 2017 were selected and randomly divided into two groups with 8 cases in each， the control group adopted the routine nursing intervention， while the experimental group adopted the targeted nursing intervention， and the nursing satisfactory degree and blood glucose improvement situation of patients were compared between the two groups. Results The nursing satisfactory degree and blood glucose improvement situation in the experimental group were obviously better than those in the control group， and the differences were obvious（P<0.05）， and the difference in the blood glucose improvement situation between the two groups was obvious（P<0.05）. Conclusion The targeted nursing intervention in patients with lung cancer and diabetes chemotherapy can effectively improve the blood glucose situation of patients and make the patients satisfied with the nursing services.
+　　[Key words] Lung cancer； Diabetes； Chemotherapy； Blood glucose control； Nursing intervention
+　　在肺癌的治??中化疗为主要治疗方法，可有效的延长患者的生存时间。由于化疗对机体存在较大的刺激性，使糖代谢出现异常情况。如患者在患肺癌的同时伴有糖尿病，极易导致患者血糖出现波动，严重可造成死亡[1]。因此将血糖予以良好的控制，可降低一系列不良事件的发生。现对2014年2月―2017年2月收治肺癌合并糖尿病化疗患者16例行针对性护理干预的效果作分析，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选择16例肺癌合并糖尿病化疗患者，将其均分各组8例，分组方法为随机数字表法。实验组中，男女性别比例为4：4，最小和最大年龄分别为37岁和72岁，其年龄均值为（48.36±3.19）岁。参照组中，男女性别比例为5：3，最小和最大年龄分别为38岁和75岁，其年龄均值为（48.97±3.68）岁。两组肺癌合并糖尿病化疗患者均对该次实验予以了解，研究其基本数据，差异无统计学意义（P>0.05）。所有患者均符合1999年WHO颁布的糖尿病诊断标准。
+　　1.2 方法
+　　对16例患者行血糖检测，检测方法为末梢血糖和葡萄糖氧化法。对患者化疗前后的空腹静脉血予以采集，患者需持续8 h以上空腹，每次在化疗前2 d和化疗后1周进行检测。在化疗期间对患者三餐前后的血糖情况进行检测。16例患者中，有10例患者口服降压药控制血糖，有6例患者使用胰岛素控制血糖，治疗前空腹血糖处于6.5～8.0 mmol/L之间，餐后2 h血糖处于6.9～9.0 mmol/L之间。   　　对参照组行常规护理干预，对实验组行针对性护理干预，主要干预内容为：①将血糖予以有效的监测和控制：在患者行化疗时，需对患者的血糖水平予以时刻关注。化疗前对患者的病情予以充分了解，问其是否存在糖尿病史和服用控制血糖药物的情况，如存在，需对患者的血糖波动情况和存在的并发症予以详细了解。化疗中需严格观察患者的血糖变化，在正常的血糖测量基础上，对于合并糖尿病和老年患者将血糖测量次数予以增加。对患者凌晨03∶00的血糖予以测量，情况紧急时可使用动态血糖仪，进而对患者的血糖变化予以改变。对血糖波动较大患者可适当增加巡视次数，对患者的行为、神志、精神情况、大小便情况以及意识等进行密切观察，并对其血糖予以及时测量。根据患者的病情，选择合理的治疗方法，在原方案的基础上进行药量和次数的调整，对于口服降糖药治疗效果不佳的患者使用胰岛素进行治疗。对于已经使用胰岛素治疗的患者可增加胰岛素使用量直到血糖处于正常范围内。在紧急情况可使用适量的肾上腺素，进而使化疗顺利完成。对于化疗期间出现低血糖的患者予以密切关注，患者经化疗后，会出现多种不良反应。②饮食干预：指导患者摄入易消化、低脂、低糖的食物，确保患者体内营养充足。如患者胃肠出现不良反应，可对患者行静脉营养支持。③健康指导：将肺癌、糖尿病、化疗的知识均详细的介绍给患者和家属，提高他们的对疾病的认知度。将其化疗期间应注意的事宜告知患者。
+　　1.3 判定指标
+　　对16例肺癌合并糖尿病化疗患者的护理满意度和血糖改善情况进行判定。
+　　1.4 统计方法
+　　参与研究的16例肺癌合并糖尿病化疗患者的所有资料，均采取SPSS 17.0统计学软件进行分析处理，使用（x±s）表示计量资料（血糖改善情况），使用t检验方法对其检验结果进行检验；使用（%）率表示计数资料（护理满意度），使用χ2检验方法对其检验结果进行检验。P<0.05为差异有统计学意义。
+　　2 结果
+　　对16例肺癌合并糖尿病化疗患者的护理满意度作比较，组间差异有统计学意义（P<0.05），具体内容请见表1所示。
+　　3 讨论
+　　糖尿病主要由于多种因素导致患者体内胰岛素分泌紊乱造成的，降低靶细胞对胰岛素的敏感度，使患者的血糖出现波动[2]。糖尿病与肿瘤同时出现时，其病情变得较为复杂。肿瘤的发展会使体内糖代谢情况出现异常，严重可出现酮症酸中毒情况。在对肺癌合并糖尿病患者进行化疗时，极易出现低血糖等情况，常对患者行药物治疗，主要药物有葱环类、铂类等，使患者的血糖得到明显提高[3]。在患者行化疗治疗时，需对其血糖予以密切观察，将并发症予以有效的预防。根据患者的病情选择适宜的时间进行化疗治疗，可有效的改善患者的血糖情况。在患者行化疗的同时对其实施针对性护理干预，可提高患者对疾病的认知度，使患者积极配合护士测量血糖，并自己注意?食等，提高自我控制能力[4]。
+　　该组研究结果显示，实验组肺癌合并糖尿病化疗患者的血糖改善情况明显优于参照组（P<0.05）；对比两组肺癌合并糖尿病化疗患者的护理满意度，组间对比差异有统计学意义（P<0.05）。该组研究结果同周霞等[5]文献中结果相似，对患者行针对性护理干预后，患者的血糖均得到了明显控制，保证了患者化疗的顺利进行。
+　　综上所述，对肺癌合并糖尿病化疗患者行针对性护理干预，调节了患者饮食和生活习惯，将相关注意事项予以熟练掌握，对患者的血糖予以严格控制，进而保证化疗的顺利进行，使患者得到优质的治疗。
+
+

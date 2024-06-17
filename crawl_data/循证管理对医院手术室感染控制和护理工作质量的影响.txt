@@ -1,0 +1,44 @@
+
+ 　　[摘要] 目的 探?循证管理对医院手术室感染控制和护理工作质量的影响情况。 方法 分析2012年5月～2016年5月遂宁市中医院进行的4020台手术的临床资料，根据时间段不同进行分组，2012年5月～2014年5月进行的2000台手术作为常规管理组，2014年6月～2016年5月进行的2020台手术作为循证管理组。观察两组手术室采样结果合格率、护理工作质量评分、风险事件发生率情况，观察两组手术患者满意度情况。 结果 循证管理组手术室空气、物体表面、医护人员手、紫外线灯、无菌物品采样结果合格率均高于常规管理组，差异有统计学意义（P < 0.05）；循证管理组手术室环境管理、护理人员培训、护理安全、消毒隔离、护理监控、人文关怀及护理文件管理评分均高于常规管理组，差异有统计学意义（P < 0.05）；循证管理组手术排序错误、手术器械不齐全、组织病理学标本污染、手术室消毒质量不合格发生率均低于常规管理组，差异有统计学意义（P < 0.05）；循证管理组手术患者满意度高于常规管理组，差异有统计学意义（P < 0.05）。 结论 循证管理在医院手术室感染控制中应用，可以提高手术室采样结果合格水平和护理工作质量，降低风险事件发生率，提高患者满意度。
+　　[中图分类号] R197.32 [文献标识码] A [文章编号] 1673-7210（2017）06（a）-0146-04
+　　Influence of infection control in hospital operation room and nursing work quality by evidence-based management
+　　LUO Xianhui
+　　Department of Infection Control， Traditional Chinese Medicine Hospital of Suining City， Sichuan Province， Suining 629000， China
+　　[Abstract] Objective To approach the influence of infection control in the hospital operation room and nursing work quality by evidence-based management. Methods From May 2012 to May 2016， in Traditional Chinese Medicine Hospital of Suining City， the clinical data of 4020 operations were analyzed， they were divided into two groups by different time quantum， the 2000 operations from May 2012 to May 2014 were selected as management group， the 2020 operations from June 2014 to May 2016 were selected as evidence-based management group. The sampling results qualified rate， nursing work quality score， risk event rate of two groups were detected， the satisfaction of two groups patients were detected. Results The sampling results qualified rate of operation room air， body surface， medical and nursing staffs hands， ultraviolet radiator， aseptic materials of evidence-based management group were higher than those of routine management group， the differences were statistically significant （P < 0.05）； the operation environmental management， nursing staff training， nursing safety， disinfection and isolation， nursing quality control， humanistic care and nursing documents management score of evidence-based management group were higher than those of routine management group， the differences were statistically significant （P < 0.05）； the operation sequencing errors， surgical instruments no complete， histopathological specimens pollution， disinfection quality rate no qualified in operation room of evidence-based management group were lower than those of routine management group， the differences were statistically significant （P < 0.05）； the satisfaction rate of operation patients in evidence-based management group was higher than that of routine management group， the difference was statistically significant （P < 0.05）. Conclusion The application of infection control in the hospital operation room by evidence-based management can improve sampling results qualified level and nursing work quality， decrease risk event rate， increase satisfaction of patients.   　　[Key words] Evidence-based management； Hospital； Operation room； Infection control； Influence
+　　感染是手术后常见的并发症之一，其主要是指机体创伤或者某些部位受到致病因子侵袭，形成应激性反应的过程[1-2]。手术室感染是医院感染的一种，是手术过程中因相关术中操作、消毒措施不规范引起的[3-4]。手术室作为各类疾病临床诊断和治疗的科室，其也是感染的易发地，手术相关器械、各类敷料、医护人员的手和手术室内的空气、消毒液等都可能成为造成感染的媒介。手术室相关的消毒工作和感染控制有着的密切的关系，不仅关系到患者手术治疗效果和预后水平，甚至和患者生命安全有着密切关系[5-6]。循证管理措施来源于循证医学，其主要参照循证医学内容，提出手术室感染发生的问题，建立循证支持，实施循证管理措施，从而最大限度的保证手术室感染控制质量[7-8]。本研究通过对遂宁市中医院（以下简称“我院”）4020台手术情况进行观察，拟探讨循证管理在医院手术室感染控制中的影响情况，现报道如下：
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2012年5月～2016年5月我院进行的4020台手术情况进行观察。2012年5月～2014年5月进行的2000台手术作为常规管理组：男1200例，女800例，年龄21～74岁，平均（49.8±16.7）岁；手术类型：腹部手术980例，胸部手术20例，头部手术700例，四肢手术300例；文化程度：高中或中专及以下1100例，大学及以上900例。2014年6月～2016年5月进行的2020台手术作为循证管理组：男1221例，女799例，年龄21～74岁，平均（49.8±16.7）岁；手术类型：腹部手术981例，胸部手术19例，头部手术698例，四肢手术302例；文化程度：高中或中专及以下1103例，大学及以上917例。两组手术患者一般资料比较，差异无统计学意义（P > 0.05），具有可比性。本研究经医院医学伦理委员会批准，手术患者和/或家属均知情同意并签署知情同意书。
+　　1.2 方法
+　　1.2.1 常规管理组
+　　按照传统管理模式，对手术室护理人员实施分区管理，给予患者口头健康教育结合临床手术实践护理操作。
+　　1.2.2 循证管理组
+　　1.2.2.1 建立循证管理组 由护理部主任担任循证管理小组负责人，小组成员包括骨外科、普外科、胸外科、泌尿外科、急诊外科副高级职称以上医生各1名和手术室护士长共同作为督导员，手术室护理人员作为组员，根据责任护士不同职责，分管手术室各个片区。
+　　1.2.2.2 提出循证问题 根据手术室感染情况，提出具体的问题，主要包括医护人员业务素质不能满足感染控制工作要求、手术室相关消毒操作不规范、消毒操作制度贯彻不彻底、手术室污染区清洗不彻底、相关护理人员防护措施重视程度不够。
+　　1.2.2.3 建立相关循证支持 首先是查询相关医院手术室感染控制措施的资料，手术室感染发生的原因、有效的控制措施、预防性手段、护理质量系统评价、先进的感染控制方法等。综合整理相关资料，结合本院实际工作经验，针对手术室感染管理方面存在的问题，选择最合理、最有效的证据，建立一系列的相关循证管理措施。
+　　1.2.2.4 循证管理措施的实施 ①培训：针对腹部手术、胸部手术、头部手术、四肢手术临床特点，给予手术室感染控制针对性培训，提高护理人员手术室感染意识，建立手术室感染控制理念。采用多媒体的形式对护理人员进行培训，每一次培训后，护理人员进行小组讨论和总结，对于已经发生的手术室感染问题进行整改，同时建立适当的奖惩机制。②进行规范性的消毒操作制度：根据手术室相关的器械，采用正规化的消毒措施，按照规定按照消毒操作制度执行，不能漏项。③建立适当的手术器械污染物清除评价标准：每一次对手术室相关器械进行清洗，去除污染物，由小组长进行器械污染物清除的检查和监督，定期对手术室相关器械去污情况进行抽查，尽可能地完善去污监管制度。④做好个人防护措施：护理人员向患者耐心的讲解手术室感染控制的防护措施，注意保证患者的个人卫生和清理消毒。加强医护人员感染流程的培训和患者防护措施的指导，严格的要求医护人员保证手卫生，各项手术操作要严格执行无菌操作。⑤做好感染控制措施的评估和改进：在实施循证管理措施后，手术感染控制质量进行追踪和评估，如果发现不足，要及时的进行整改，保证手术室感染控制工作持续性的改进。
+　　1.3 观察指标
+　　1.3.1 观察两组手术室采样结果合格率情况
+　　参照《消毒技术规范》[9]《医疗机构消毒技术规范》[10]，主要观察手术室空气、物体表面、医护人员手、紫外线灯、无菌物品采样结果合格率情况。
+　　1.3.2 ?^察两组手术室护理工作质量评分情况
+　　采用考核评估的方法，主要针对环境管理、护理人员培训、护理安全、消毒隔离、护理监控、人文关怀及护理文件管理进行评价，每项指标分数范围是0～100分，分数越高，提示护理工作质量越高[11-12]。
+　　1.3.3 观察两组手术室风险事件发生情况
+　　主要观察两组患者手术排序错误、手术器械不齐全、组织病理学标本污染、手术室消毒质量不合格发生情况。
+　　1.3.4 观察两组手术患者满意度情况
+　　采用问卷调查的方式，分别对医护配合、护护配合、器械准备、操作技能、隐私保护、术后方式、术后宣教等情况进行满意度调查评价，每项评分范围是0～100分，通过加权处理，总分设定为100分，分数高于80分说明手术患者满意，反之为不满意。
+　　1.4 统计学方法
+　　采用统计软件SPSS 19.0对数据进行分析，正态分布的计量资料以均数±标准差（x±s）表示，两组间比较采用t检验；计数资料以率表示，采用χ2检验。以P < 0.05为差异有统计学意义。   　　2 ?Y果
+　　2.1 两组手术室采样结果合格率情况
+　　循证管理组手术室空气、物体表面、医护人员手、紫外线灯、无菌物品采样结果合格率均高于常规管理组，差异均有统计学意义（P < 0.05）。
+　　2.2 两组手术室护理工作质量评分情况
+　　循证管理组手术室环境管理、护理人员培训、护理安全、消毒隔离、护理监控及人文关怀及护理文件管理评分均高于常规管理组，差异均有统计学意义（P < 0.05）。
+　　2.3 两组手术室风险事件发生情况
+　　循证管理组手术排序错误、手术器械不齐全、组织病理学标本污染、手术室消毒质量不合格发生率均低于常规管理组，差异均有统计学意义（P < 0.05）。
+　　2.4 两组手术患者满意度情况
+　　循证管理组手术患者满意度（2000例，99%）高于常规管理组（1600例，80%），差异有统计学意义（χ2 = 19.21，P < 0.05）。
+　　3 讨论
+　　循证医学模式可以为有效控制医院感染提供理论依据。循证管理在临床医护人员中广泛的应用，其服务的中心逐步向“以患者为中心”过渡，已成为医院感染管理学中重要的组成部分[13-14]。手术室感染控制是医院感染管理学中的重点问题[15-16]。有资料显示[17-18]，手术室感染发生比例占医院感染总发生率的30%。有效的手术室感染控制对于降低医院感染发生率具有重要的临床意义。在建立手术室感染控制相关措施的过程中，结合循证管理措施可以有效的提高医院感染控制的质量，以手术过程中出现的问题作为出发点，将临床经验和感染控制理论紧密的结合，建立循证依据，创新循证管理措施，实现循证管理和临床实践的有机结合，提高护理工作质量，降低感染的发生率[19-20]。手术室感染控制作为院感的主要内容，加强手术室感染流程控制强调的是实用性和可操作性，从而对感染控制结果进行系统性的评价，促进医院感染控制工作更加贴近临床实践，相关措施更加简便易行、有顺序[21-22]。
+　　本研究结果显示：循证管理组手术室空气、物体表面、医护人员手、紫外线灯、无菌物品采样结果合格率均高于常规管理组（P < 0.05），循证管理措施可以促使手术室相关操作更加科学化、规范化，达到医院感染控制的目的，提高手术室内相关人、物采样结果合格率，规范相关消毒操作。护理质量是手术室感染控制的核心内容，护理过程质量也是手术室护理质量的重要保证。循证管理组手术室环境管理、护理人员培训、护理安全、消毒隔离、护理监控、人文关怀及护理文件管理评分均高于常规管理组，提示循证管理措施的建立，对于手术室感染控制流程整体化有重要价值，每一个流程均有小组长的检查和监督，保证了每一个操作流程质量和手术护理工作质量的提高。循证管理组手术排序错误、手术器械不齐全、组织病理学标本污染、手术室消毒质量不合格发生率均低于常规管理组（P < 0.05），说明循证管理措施可以促进手术室相关操作更加科学化、合理化，减少了一系列风险事件的发生率。循证管理组手术患者满意度高于常规管理组（P < 0.05），提示循证管理措施可以提供科学方法，更加符合临床实际情况，建立了科学的评价体系，保证了手术室感染控制工作的质量，提高了患者满意度。
+　　综上所述，循证管理在医院手术室感染控制中应用，可以提高手术室采样结果合格水平和护理工作质量，降低风险事件发生率，提高患者满意度。
+
+

@@ -1,0 +1,32 @@
+
+ 　　[摘要]目的 探?全身麻醉患者接受保温护理对其术中应激以及术后苏醒的影响。方法 选取2015年12月～2016年8月全身麻醉患者120例，随机分为两组，各60例，对照组给予基础护理，实验组给予保温护理，比较两组患者术中应激以及术后苏醒情况。结果 实验组全身麻醉患者的术中出血量为（492.36±10.30）ml，输液量为（2107.23±70.15）ml、手术时间为（3.88±0.53）h，与对照组的术中出血量[（495.31±10.09）ml]、输液量[（2119.52±75.10）ml]、手术时间[（3.93±0.46）h]比较，差异无统计学意义（P>0.05）；实验组低温、寒战、躁动的发生概率明显低于对照组（P<0.05）；实验组清醒时间为（45.63±7.02）min，气管插管时间为（24.03±7.01）min，PACU滞留时间为（49.63±12.20）min，明显低于对照组的清醒时间[（76.56±10.50）min]、气管插管时间[（35.89±8.51）min]、PACU滞留时间[（79.85±13.46）min]（P<0.05）；两组患者均出现应激反应，其中实验组的应激反应低于对照组（P<0.05）。结论 全身麻醉患者接受保温护理，不会对其手术情况造成影响，且可以缩短其术后完全清醒时间，降低低温、寒战等的发生率，减少应激反应，从而促进手术治疗更好地进行。
+　　[中图分类号] R614.2 [文献标识码] A [文章编号] 1674-4721（2016）12（c）-0194-03
+　　Insulation care awakening intraoperative and postoperative stress in patients with general anesthesia
+　　LI Yi-jun
+　　The First Hospital Affiliated of Guangzhou Medical University，Guangzhou 510230，China
+　　[Abstract]Objective To explore the general anesthesia patients accepted insulation care on its awakening intraoperative and postoperative stress.Methods 120 cases of patients with general anesthesia from December 2015 to August 2016 were selected and randomly divided into two groups，60 cases in each group，the control group was treated primary care，the experimental group was given insulation care，the post operative stress condition and revive the intraoperative of two groups were compared.Results Bleeding amount of experimental group of patients was （492.36±10.30）ml，infusion volume was （2107.23±70.15）ml，operation time was （3.88 ±0.53）h，and bleeding amount of control group was （495.31±10.09） ml，infusion volume was （2119.52±75.10） ml，operation time was （3.93± 0.46） h，there were no significant differences（P>0.05）；the low temperature，chills，agitation of experimental group were lower than those of control group（P<0.05）；experimental waking hours was （45.63±7.02） min，endotracheal intubation time was （24.03±7.01） min，PACU residence time was （49.63±12.20） min in the experimental group，significantly lower than those of control group of waking hours （76.56±10.50） min，endotracheal intubation time （35.89±8.51） min， PACU residence time （79.85±13.46） min（P<0.05）；two groups of patients had stress response，which stress reaction of the experimental group was lower than that of control group （P<0.05）.Conclusion General anesthesia patients accepted insulation care，will not affect its operation，and can shorten the postoperative fully awake time，reduce the incidence of low temperature，chills，etc.，reduce stress，so as to promote the surgical treatment better.   　　[Key words]General anesthesia；Insulation care；Intraoperative stress；Postoperative revival
+　　全身麻醉患者在手术过程中较易出现低温的情况，导致其出现低温的原因较多，包括手术室温度低、手术时间长、患者身体暴露、体腔开放时间长、皮肤消毒、输液温度低等，同时患者在全身麻醉后，可能会抑制其体温调节中枢，使得患者出现低温的症状[1-2]。低温会影响患者在麻醉后的清醒时间，严重者会出现凝血功能障碍等并发症[3]，因此，采取有效措施对全身麻醉患者的低温情况进行预防来改善其术中应激以及术后苏醒情况意义重大。为探讨保温护理在全身麻醉患者中的应用价值，本文以我院全身麻醉患者作为研究对象，探讨全身麻醉患者接受保温护理对其术中应激以及术后苏醒的影响，现报道如下。
+　　1资料与方法
+　　1.1 一般资料
+　　选取2015年12月～2016年8月全身麻醉患者120例，随机分为两组，对照组给予基础护理，实验组给予保温护理，各60例。其中75例患者为普外科手术（包括乳腺和肝胆胃的手术），45例患者为泌尿外科手术；所有患者主要手术类型为腹膜炎、胃穿孔、消化道出血、肠梗阻、阑尾炎、结肠癌、胃癌、胆囊炎、肝癌、胆管结石等。实验组中男35例，女25例；年龄18～78岁，平均（40.23±15.69）岁。对照组中男33例，女27例；年龄19～79岁，平均（40.29±16.02）岁。两组患者基本资料比较，差异无统计学意义（P>0.05），具有可比性。
+　　1.2 方法
+　　对照组患者接受基础护理，即护理人员按照医嘱、麻醉要求以及患者的具体病情变化情况，给予患者相应的基础护理。实验组患者在对照组基础护理上，接受保温护理，具体如下。①手术台加热：为患者实施手术治疗前1 h，采用热水袋对手术台进行加热以及保温处理，将手术台的温度提高，减少患者的应激反应。在患者接受手术治疗的过程中，加强其核心体温变化的观测，将患者的体温控制在37.5°以内[4]。②缩短手术时间：在全身麻醉患者接受手术治疗的过程中，其手术时间是影响患者体温的因素之一，若手术时间过长，则其较易出现低温的情况，因此，将患者的手术时间缩短十分必要。可采用多种方式来将手术时间缩短，包括：术前为患者消毒的过程中，相关人员应加强自身无菌操作的熟练程度，不断地将自己无菌处理能力提高，从而将无菌处理的时间缩短，医疗人员也可以通过提高自身的手术操作水平来将手术时间缩短。③体液加热：手术治疗的过程中，可采用电子加温器进行体液加热，将温度设置为37℃。为全身麻醉患者实施手术治疗的过程中，若需要体液输入，则应预先对体液进行加热处理，这样可以保证输液的温度与患者的体温基本一致，将患者的输液不适反应降低。采用冲洗液对患者实施冲洗处理前，应提前将冲洗液的温度加热，将温度控制在合理的范围内，避免出现温度过高而影响正常体液的疗效[5]。④增加覆盖范围：患者在接受手术治疗时，需要裸露皮肤，正常的新陈代谢所产生的热量会通过患者的皮肤散失，因此，应加强全身麻醉患者的保温护理，尤其是在冬季，护理人员可通过被子覆盖等措施来进行保温，减少热量的散失，更好地对其正常体温进行维持，减少其手术过程中的热量散失[6]，使患者的?w温可以维持在合理的范围内，减少其应激反应，保证手术治疗的安全性。⑤湿热交换器的使用：手术过程中，为全身麻醉患者应用湿热交换器，可以有效对患者的呼吸道内温度进行保持，避免出现温度过低的情况，减少对患者术后苏醒情况的影响[7]。加强全身麻醉患者的保温护理，可以将患者的术中应激反应降低，缩短患者手术后的苏醒时间，同时可以促进手术的顺利进行，将手术治疗的成功率提高。
+　　1.3 观察指标
+　　对两组全身麻醉患者的手术情况（出血量、输液量、手术时间），低温、寒战、躁动等发生率，麻醉结果（清醒时间、气管插管时间、PACU滞留时间），应激反应（C反应蛋白、去甲肾上腺素、肾上腺素）等情况进行观察分析。
+　　1.4 统计学处理
+　　采用SPSS 22.0统计学软件对数据进行处理，计量资料采用t检验，计数资料采用χ2检验，以P<0.05为差异有统计学意义。
+　　2结果
+　　2.1 两组患者手术情况的比较
+　　两组患者出血量、输液量、手术时间比较，差异有统计学意义（P>0.05）（表1）。
+　　2.2 两组患者低温、寒战、躁动情况的比较
+　　实验组患者低温、寒战、躁动发生概率明显低于对照组，差异有统计学意义（P<0.05）（表2）。
+　　2.3 两组患者麻醉结果的比较
+　　实验组全身麻醉患者的清醒时间、气管插管时间、PACU滞留时间与对照组比较，差异有统计学意义（P<0.05）（表3）。
+　　2.4两组患者应激反应情况的比较
+　　两组全身麻醉患者均出现应激反应，实验组应激反应低于对照组，差异有统计学意义（P<0.05）（表4）。
+　　3讨论
+　　恒定的体温对人体的各项生理功能以及新陈代谢的正常进行有着重要的意义[8]。研究表明[9]，在为患者实施手术治疗的过程中，全身麻醉患者可出现低温的情况，则会导致其出现寒战、躁动等反应，对其手术的进行以及术后恢复会产生不良的影响。患者处于低温的状态，其骨骼肌会出现节律性收缩的情况，导致机体的耗氧量增多，加重患者的心脏负担，较易导致患者出现酸中毒的情况，增加其心脑血管疾病的概率[10]。以上情况出现的原因与血流在机体内的分布存在一定的关系，人体肾脏、肝脏的血流分布量较其他部位较少，会增加麻醉药物在人体内的代谢时间，从而增加术后的苏醒时间；同时，术中出现低温，还会对患者的正常凝血功能以及物质代谢造成影响，从而增加患者的手术治疗风险，影响其预后[11-12]。   　　应激反应是神经-内分泌反应中的一种，机体在受到一定的刺激之后，其交感神经会出现兴奋的情况，同时，其垂体-肾上腺素皮质会增加分泌，使得患者的代谢变化及机体功能发生变化[13-14]。低温是一种不良的刺激，可以对正常的机体免疫功能进行抑制，导致凝血机制紊乱，将患者的外周血管阻力增加，同时增加机体耗氧量，导致患者出现各种并发症的情况，包括心绞痛、心率加快、血压下降等[15]。
+　　本研究结果显示， 接受常规护理低温护理的实验组与接受基础护理的对照组全身麻醉患者，其出血量、输液量、手术时间等手术情况比较，差异无统计学意义（P>0.05）；实验组低温、寒战、躁动等的发生概率明显低于对照组（P<0.05）；实验组清醒时间、气管插管时间、PACU滞留时间等麻醉结果与对照组比较，均存在明显的差异（P<0.05）；两组全身麻醉患者均出现了应激反应，其中实验组的应激反应低于对照组（P<0.05）。
+　　综上所述，保温护理在全身麻醉患者护理中应用，可以使患者的体温维持在合理的水平，降低其术中应激反应，减少低温、寒战等的发生率，缩短术后患者清醒的时间，且不会对患者的手术情况造成影响，可行性较高。
+
+

@@ -1,0 +1,22 @@
+
+　　[中图分类号] R47 [文献标识码] A [文章编号] 1672-4062（2017）09（a）-0011-02
+　　Emergency Assessment and Emergency Nursing of Patients with Diabetic Ketoacidosis
+　　LI Feng-mei， SI Yu-zhen， WANG Xue-mei
+　　Department of Emergency， Rizhao Central Hospital， Rizhao， Shandong Province， 276800 China
+　　[Abstract] Objective To study the emergency assessment and emergency nursing measures of patients with diabetic ketoacidosis. Methods 62 cases of DKA patients admitted and treated in our hospital from March 2016 to February 2017 were selected， and the corresponding emergency assessment and emergency nursing experience were summarized. Results After the corresponding treatment and nursing， the diseases of 62 cases of patients were rescued， and the blood glucose level was relatively steady， including 2 serious cases due to infection， at the same time， the major organs were failure， and they died after ineffective emergency. Conclusion The emergency assessment and positive treatment of patients with diabetic ketoacidosis is conducive to improving the clinical symptoms of patients， promote the improvement of diseases and stabilize the blood glucose level of patients， and the effect is good.
+　　[Key words] Diabetic ketoacidosis； Emergency assessment； Emergency nursing
+　　糖尿病酮症酸中毒（diabetic ketoacidosis，DKA）是一种临床常见的糖尿病急性并发症，是指因机体胰岛素严重缺乏而引起的一系列临床综合征，包括高血糖、高血酮、酸中毒等[1]。DKA的起病急、病情重且?l展快，严重的还可导致患者昏迷。为此，DKA患者的紧急评估与急救护理具非常重要的作用。该案回顾性分析了该院于2016年3月―2017年2月所收治的62例DKA患者的临床资料，总结了相应紧急评估及急救护理经验，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取该院收治的62例DKA患者为研究对象，所有患者均与DKA相关诊断标准相符，临床存在不同程度的脱水、电解质紊乱、深大呼吸、烦躁、嗜睡、昏迷等症状。其中男34例，女28例；年龄30～86岁，平均（61.2±11.4）岁；病程1～24年，平均（17.5±8.7）年；Ⅰ型糖尿病24例，2型糖尿病38例；发病诱因：感染34例，胰岛素中断15例，饮食不当9例，无明确原因2例。经化验，患者血糖水平为22.5～38.2 mmol/L，血液pH值为6.948～7.341，标准碳酸氢盐（HCO3-）5.5～16.4 mmol/L，剩余碱（BE）27.5～11.3 mmol/L，血清钾（K+）3.7～6.5 mmol/L，血尿素氮（BUN）13.8～45.7 mmol/L，血肌酐（Cr）157～325 μmol/L，尿糖定性（+++）-（++++），尿酮体（++）-（++++）。
+　　1.2 方法
+　　1.2.1 紧急评估 ①认真倾听患者及其家属主诉，了解患者疾病史，以作出明确诊断，以免出现漏诊、误诊等情况。②对患者意识及瞳孔情况进行评估，看其是否出现意识模糊、昏迷、嗜睡等情况，针对昏迷患者应将其头偏向一侧，以免患者呼吸道被呕吐物堵塞。③严密监测患者生命体征，包括呼吸、心率、面色等。④评估脱水程度，眼球凹陷，皮肤黏膜干燥、无弹性，浅静脉充盈度明显降低，脉搏细速，血压降低，尿量减少或休克等可判定为中重度脱水。⑤测量患者血糖，以便携式血糖仪实施操作，采集患者动脉血，对患者血液的pH值、HCO3-、电解质、BUN、Cr、糖化血红蛋白（HbAlc）及尿酮体进行检测。   　　1.2.2 急救护理 ①吸氧治疗：立即给予患者吸氧治疗，流量4～6 L/min，注意保持患者呼吸道畅通，以免误吸，若有必要还可为患者建立人工气道；迅速建立2条以上静脉通道，行浅静脉留置针穿刺，并抽取患者血液作为血标本，采集患者动脉血作标本；针对昏迷患者，应留置导尿管，并留取尿液标本；及时将所采集的血、尿液标本送检。②补液治疗：以静脉留置针为患者建立2条静脉通道，其中1?l用以给予生理盐水，以使患者血容量得以扩充，从而改善患者微循环，有效纠正酸中毒。补液量依患者体重10%进行计算，通常24 h内补液量为4 000～6 000 mL，脱水严重患者最多不得超过8 000 mL。第1～2 h内输入1 000～2 000 mL，之后依患者血压、心率、尿量、中心静脉压、心功能等情况适当调整输液量及速度。待血糖降至13.9 mmol/L时，可适当给予5%葡萄糖等渗盐水，以免发生低血糖。另还需给予胃肠内补液，以口服或是胃管内注入方式给予患者温开水，以减轻患者心脏负担。③胰岛素治疗：以静脉留置针为患者建立另一条静脉通道用以实施小剂量胰岛素治疗，0.1 U/（kg?h）加生理盐水持续泵入。注意抽吸胰岛素前应充分摇匀，并注意抽吸剂量。每隔1 h为患者测量1次血糖，以了解患者血糖变化情况。及时处理患者低血糖反应，以免影响治疗效果或引起脑水肿。④纠正水电解质及酸碱平衡：依患者血钾深度及尿量及时为患者补钾，当尿量低于30 mL/h时应暂停补钾；若患者酸中毒程度较严重，应遵医嘱为患者补充碳酸氢钠，注意补充量及注射速度，以免组织缺氧症状加重、血钾降低等。⑤严密观察患者病情变化：定期监测患者生命体征，以对患者病情进行二次评估，观察其临床症状是否改善，意识是否清醒、脱水是否纠正以及药物治疗效果及可能会发生的不良反应，及时记录患者尿量。合理设置突出情况，并主动与患者家属和医生进行沟通和联系，以能及时应对患者突发善。⑥心理护理：因DKA起病急、病情严重且发展较快，患者常存在紧张、恐惧等不良心理。对此，护理人员及时给予疏导，以缓解患者不良情绪，使其能积极配合治疗；主动与患者及其家属进行沟通，为其介绍疾病相关知识，给予其药物、饮食等方面指导，以帮助患者保持正确态度来面对疾病和治疗，从而保证治疗的顺利进行。⑦健康教育：指导患者合理饮食，严格控制患者热量的摄入；鼓励患者多进食维生素及纤维素含量较高的食物，以保持合理体重；嘱患者遵医嘱用药，避免随意减少药量或停药；告知患者胰岛素的正确注射方式及血糖仪的使用方法，以使患者能做好自我监测；嘱患者适当进行运动，尤其是有氧运动，以加强自身抵抗力。
+　　2 结果
+　　62例患者经抢救室抢救，给予相应治疗及护理后病情均好转，血糖水平也相对稳定；其中2例因感染严重，同时合并重要脏器功能衰竭，经抢救无效而死亡。
+　　3 讨论
+　　伴随人们生活水平的提高及饮食结构的改变，现糖尿病的发病率也不断上升。糖尿病是一种慢性代谢性疾病，其在长期缓慢的发展过程当中还会逐步引起各类并发症，严重损害患者身心健康[2]。糖尿病酮症酸中毒是糖尿病最为严重的并发症之一，极易导致患者死亡。为此，针对糖尿病酮症酸中毒患者，给予正确紧急评估和急救护理至关重要。
+　　补液是DKA急救的首要措施，通过补液，患者脱水症状可得到有效改善，注意患者血糖水平下降时应降低输液速度，以免引起心衰或肺水肿。另胰岛素治疗也是DKA急救的重要措施。当前临床主张给予DKA患者小剂量胰岛素治疗，以使患者血糖水平处正常范围。此外，在实际临床工作当中，还应依患者具体情况给予患者其他急救护理，如吸氧、观察患者病情变化、纠正水电解质及酸碱平衡等，以迅速改善患者临床症状，挽救患者生命。
+　　该案对该院收治的62例DKA患者在行紧急评估后即采取各类急救护理措施，包括吸氧、补液、胰岛素治疗、水电解质及酸碱平衡纠正、病情变化观察、心理护理及健康教育等。研究结果显示，62例患者经积极抢救病情均好转，血糖水平也相对稳定。后期有2例因感染严重，同时合并重要脏器功能衰竭，经抢救无效而死亡。
+　　综上所述，针对糖尿病酮症酸中毒患者，行紧急评估并给予积极急救护理可有效改善患者临床症状，降低患者死亡率。
+
+

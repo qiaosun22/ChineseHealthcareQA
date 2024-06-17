@@ -1,0 +1,24 @@
+
+　　[中图分类号] R722.17；R473 [文献标识码] B [文章编号] 1673-9701（2016）36-0146-02
+　　[Abstract] Objective To explore the effect of comprehensive nursing intervention in neonatal jaundice nursing. Methods 84 cases of neonatal jaundice patients admitted to our hospital from December 2014 to December 2015 were randomly divided into the control group and observation group，42 patients in each group. 42 patients in the control group were treated with traditional routine care and 42 patients in the observation group were treated with comprehensive nursing intervention. The serum bilirubin levels of babies in the two groups were compared. Results After the comprehensive care intervention， the serum bilirubin level in the control group was（177±12）μmol/L， and the jaundice fade time was（8.7±3.5）days. The serum bilirubin level in the observation group was（105±12）μmol/L， and the jaundice fade time was（5.2±2.7）days. The nursing effect of the observation group was superior to that of the control group. Conclusion Comprehensive nursing intervention significantly helps the recovery of children's health through a variety of comprehensive means， and can effectively improve the physical condition of children， which is proposed to be widely used clinically.
+　　[Key words] Comprehensive nursing intervention； Newborns； Jaundice
+　　新生?河捎诔錾?时身体的各项器官功能发育尚不完整，受病毒、病菌的侵扰易引发各种疾病，其中黄疸是由于婴儿体内胆红素累积过多导致身体功能出现障碍[1，2]，呈现出一系列的皮肤功能障碍[3]。综合性护理干预对于新生儿黄疸的治疗具有重要作用[4]，为了探讨综合性护理干预在新生儿黄疸护理中的应用效果，我院将84例新生儿黄疸患儿作为研究对象，采用分组的方法，分别采用不同护理干预措施，以评价综合性护理干预的疗效。现报道如下。
+　　1 资料与方法
+　　1.1一般资料
+　　选择我院2014年12月～2015年12月收治的84例确诊为黄疸的新生儿作为研究对象，采用随机分组法分为对照组和观察组，每组42例。84例新生儿黄疸中，男44例，女40例。年龄3～21 d，平均年龄15.4 d。体重2430～3880 g，平均3074 g。两组年龄、性别、家族遗传病史、并发症、家庭基本情况、精神状况等基本资料无明显差异，具有可比性，且所有患儿家属均签署知情同意书。
+　　1.2方法
+　　对照组采用传统的常规护理，即予早接触早吸吮，并实施母婴同室护理[5]。
+　　观察组采用综合性护理干预，具体内容如下：（1）护理过程中对家长进行疾病相关知识的普及，注意健康宣教；（2）告知家长治疗时的注意事项，让家长对新生儿黄疸有一定的认识，并了解基础的治疗和护理知识；（3）对母婴的血型、分娩方式、喂养方式等实时进行监控和记录；（4）随时称重婴儿的体重，控制其病情的各个阶段，对患儿是否具有嗜睡及肌肉张力减退等现象进行实时监管[6]；（5）护理过程中保持病房清洁，做好患儿皮肤的清洁护理工作[7]；（6）对患儿进行头部及胸部的护理，进行腹部按摩，帮助患儿改善身体感官感受（护理时轻重有度，以免伤害患儿身体）；（7）对患儿的身体状况进行实时监护，有效改善患儿的身体舒适度，帮助患儿尽早恢复健康；（8）准确记录患儿的排便时间，排便若有异常，则进行肛门按摩，实施监控和记录数据[8]，一旦发现异常，立即告知医生；（9）治疗过程中予以蓝光照射，蓝光照射过程中注意保护患儿的眼部，使眼部不受蓝光的伤害；（10）采取相关保暖措施，并补充必要的营养[9]；（11）整个护理过程中，认真记录患儿的血清胆红素水平及退黄时间。   　　1.3 观察指标
+　　分?e对两组患儿的血清胆红素水平及退黄时间进行记录和比较分析。
+　　1.4 统计学方法
+　　采用 SPSS 19.0统计学软件对数据进行分析和处理，计数资料采用χ2检验；计量资料以均数±标准差（x±s）表示，采用t检验，P<0.05表示差异有统计学意义。
+　　2结果
+　　护理干预后，对照组的血清胆红素水平为（177±12） μmol/L，退黄时间为（8.7±3.5）d；观察组的血清胆红素水平为（105±12）μmol/L，退黄时间为（5.2±2.7）d，观察组的护理效果优于对照组。
+　　3 讨论
+　　新生儿黄疸发病原因较复杂，且治疗过程中会造成患儿其他组织器官的功能障碍或损伤，因此新生儿黄疸的护理对于疾病的恢复至关重要。若处理不当或治疗不及时，严重的可能会导致新生儿死亡或出现智力障碍等严重后遗症[10]。因此，新生儿黄疸的护理要严格按照要求进行操作，密切监测及积极的治疗和处理，才能改善患儿的预后。
+　　新生儿黄疸临床多采用药物、光照疗法和换血疗法等进行治疗，在治疗过程中，通过有效的护理干预可以促进疾病尽早恢复，改善预后[11-12]。常规护理方法虽然对疾病的康复具有一定作用，但不如综合性护理干预全面及专业。综合性护理干预通过不同护理方法对患儿的身体状况、心理状况、身体舒适度等进行全方面的护理[13]。护理过程中，患儿家属如对治疗或护理方法有疑问，护理人员应耐心、主动地细心解答，排除患儿家属的心理负担。告知患儿家属疾病的相关知识、发病机制及治疗和护理过程中的相关注意事项。经常与患儿进行互动，为患儿勤换尿不湿等及为患儿擦拭身体、加大保暖措施。对患儿的各种突发情况要及时与家属进行沟通。患儿在治疗过程中易出现体温异常、脉搏异常、呼吸状况不正常及精神萎靡等现象，要密切监测患儿的各项临床指标并做好记录。
+　　对黄疸出现的时间、严重情况及并发症情况要实时进行记录，患儿的排便状况，包括排便的性状、颜色等均要密切观察。进行蓝光治疗及护理时，要对患儿的眼部进行遮光等处理。对于患儿行保温护理时应适当调节保温箱的温度，一般保温箱30℃～32℃较为正常。患儿口服药物过程中，注意口腔护理，且喂药过程中，要轻轻抱起患儿，抬高患儿的头部，避免发生呛伤或呕吐现象。对患儿家属进行新生儿生理特点的讲解，帮助其科学地照顾患儿。根据患儿的疾病情况及时进行相关治疗及护理方案的调整，以促进患儿疾病的康复，避免患儿出现一系列的后期并发症[14]。
+　　本研究结果显示，护理干预后，观察组的血清胆红素水平为（105±12）μmol/L，退黄时间为（5.2±2.7）d，与对照组比较明显改善，观察组的护理效果显著优于对照组，说明综合性护理干预有利于促进疾病的康复，相比传统的护理模式更具优势。因此，在新生儿黄疸的治疗过程中，采取综合性护理干预，有利于促进恢新生儿黄疸病情的尽快恢复[15-16]。
+　　总之，对新生儿黄疸患儿采取有效的综合性的护理干预措施，对于降低胆红素水平，促进疾病的康复，避免相关并发症及后遗症的发生具有重要促进作用，值得推广和应用。
+
+

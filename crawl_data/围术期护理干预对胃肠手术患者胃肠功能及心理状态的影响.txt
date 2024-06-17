@@ -1,0 +1,49 @@
+
+　　【摘要】 目的：探讨围术期护理干预对胃肠手术患者胃肠功能及心理状态的影响。方法：进行胃肠手术的患者120例按照随机数字表法分为干预组和对照组，每组60例。对照组采取随机对症护理，干预组着重实施围术期护理干预，比较两组术后肛门恢复排气时间、胃管拔除时间、住院时间，术前及术后3 d SAS评分，并发症。结果：干预组患者术后肛门恢复排气时间、胃管拔除时间、住院时间分别短于对照组，两组比较差异均有统计学意义（P<0.05）。干预组患者SAS评分术后较对照组降低更显著，两组比较差异有统计学意义（P<0.05）。干预组患者并发症发生率仅13.33%，明显低于对照组40.00%，两组比较差异有统计学意义（P<0.05）。结论：围术期护理干预能够促进胃肠手术患者胃肠功能的恢复，降低患者的焦虑心理状态。
+　　中图分类号 R473.6 文献标识码 B 文章编号 1674-6805（2014）29-0096-02
+　　Impact on Gastrointestinal Function and Psychological Status of Perioperative Nursing Intervention for Patients Gastrointestinal Surgery/JIANG Xiao-ying.//Chinese and Foreign Medical Research，2014，12（29）：96-97
+　　【Abstract】 Objective： To investigate the impact on gastrointestinal function and psychological status of perioperative nursing intervention for patients gastrointestinal surgery.Method： 120 patients were randomly assigned to the intervention group（n=60） and control group（n=60），the control group took random symptomatic care， intervention group focused on the implementation of perioperative nursing intervention， postoperative flatus time，disconnect the tube， hospitalization time， preoperative and postoperative 3 days SAS score，complications were compared.Result： The flatus time， disconnect tube， hospitalization time of intervention group were shorter than the control group（P<0.05）. SAS scores of intervention group decreased more significantly than the control group（P<0.05）. The complication rate of intervention group was 13.33%， were significantly lower than the control group（P<0.05）.Conclusion： Perioperative nursing intervention can promote the recovery of gastrointestinal function in patients with gastrointestinal surgery， reduce anxiety and psychological state of the patient.
+　　【Key words】 Gastrointestinal function； Anxiety psychology； Perioperative； Complications
+　　First-author’s address： Xing’an Liagnjiang Hospital，Xing’an 541399，China
+　　胃肠道手术后由于麻醉、手术牵拉和胃肠道重建等因素导致患者胃肠蠕动恢复慢，肠蠕动消失、术后排气、排便功能障碍[1]。且手术前后患者存在不同程度的焦虑状态，表现在行为异常、机体内分泌功能及神经功能出现紊乱，增加胃肠手术的风险及术后并发症的发生率，因此，如何安全有效地促进胃肠功能恢复是手术取得成功的关键环节之一[2]。本研究旨在探讨围术期护理干预对胃肠手术患者胃肠功能及心理状态的影响，现报告如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　选取笔者所在医院2012年1月-2014年1月进行胃肠手术的患者120例，其中男74例，女46例。年龄40～62岁。随机分为干预组（n=60例）和对照组（n=60例），两组患者的性别、年龄等一般资料比较差异均无统计学意义（P>0.05），具有可比性。详见表1。
+　　1.2 方法
+　　对照组采取随机对症护理，干预组着重实施围术期护理干预，具体内容如下。
+　　1.2.1 术前护理 术前用通俗易懂的语言向患者介绍手术的安全性、重要性和必要性，并告知麻醉及手术注意事项，同时指导患者运用不同的放松方法，如音乐转移法、深呼吸法及练习放松操等消除患者的紧张、焦虑感，使患者保持良好的心理状态积极配合手术。   　　1.2.2 术中护理 手术室温度20 ℃～24 ℃，湿度50%～60%，最大限度地保证患者的舒适与安全，做好手术间的巡回工作，与麻醉师密切配合。
+　　1.2.3 术后护理 术后密切观察生命体征的变化，指导患者作深呼吸和四肢伸屈运动，逐渐使患者坐起，并在掺扶下离床走动。术后6 h开始进行腹部按摩，每次按摩15 min，3次/d。术后早期予以少量的开水、流质食物，待肛门恢复排气后嘱患者从流质逐渐恢复正常饮食，多食高纤维食物、新鲜水果、蔬菜等食物。对于术后24 h禁食者，多从造瘘管或鼻饲管滴注营养素。术后6～24 h进行呼吸及四肢的运动，术后24～72 h增加脐周自我按摩、腰背自我叩击等，术后72 h增加站立运动项目，并坚持提高步行的速度、距离。
+　　1.3 焦虑心理状态的评价
+　　采用焦虑自评量表（SAS）评定患者的焦虑心理[4]。
+　　1.4 统计学处理
+　　采用SPSS 12.0软件对所得数据进行统计分析，计量资料用均数±标准差（x±s）表示，比较采用t检验；计数资料比较采用字2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者术后胃肠功能恢复情况比较
+　　干预组患者术后肛门恢复排气时间、胃管拔除时间、住院时间分别短于对照组，两组比较差异有统计学意义（P<0.05）。见表2。
+　　表2 两组患者术后胃肠功能恢复情况比较
+　　组别 术后肛门恢复排气时间（h） 胃管拔除时间
+　　（h） 住院时间
+　　（d）
+　　干预组（n=60） 63.65±12.24 16.48±2.69 5.0±1.3
+　　对照组（n=60） 81.23±11.35 21.56±3.38 7.8±1.7
+　　t值 12.234 5.323 2.361
+　　P值 <0.05 <0.05 <0.05
+　　2.2 两组患者手术前后心理状态比较
+　　术后3 d干预组和对照组患者的SAS评分分别较术前明显降低，且干预组患者术后3 d的SAS评分较对照组降低更显著，两组比较差异均有统计学意义（t=6.321，P<0.05）。见表3。
+　　表3 两组患者手术前后心理状态SAS评分比较 分
+　　组别 术前 术后3 d
+　　干预组（n=60） 44.28±9.63 32.28±7.82
+　　对照组（n=60） 43.15±10.28 41.57±6.93
+　　2.3 两组并发症比较
+　　干预组患者并发症发生率13.33%，显著低于对照组40.00%，两组比较差异有统计学意义（P<0.05）。见表4。
+　　表4 两组并发症比较
+　　组别 恶心
+　　（例） 呕吐
+　　（例） 腹胀
+　　（例） 肠黏连（例） 总并发症例（%）
+　　干预组（n=60） 3 2 3 0 8（13.33）
+　　对照组（n=60） 5 5 12 2 24（40.00）
+　　3 讨论
+　　胃肠手术后患者由于术中麻醉、胃肠显露、手术操作及腹腔感染等因素的影响，使胃肠功能暂时受到抑制，表现为肛门停止排气、肠鸣音消失、腹胀、呕吐等。若持续时间过长，则会出现胃肠功能紊乱，甚至引起严重腹胀。腹胀越严重、肠蠕动功能差，但仍不断分泌各种消化液，加上患者因极度不适、疼痛呻吟，容易吞咽大量的空气，从而使肠腔内压力升高，造成恶性循环，引起水、电解质紊乱、酸碱失衡甚则发生低血容量性休克等[5]。临床上以肠鸣音恢复、肛门排气，患者无腹胀、呕吐等不适为胃肠功能恢复的标志。对胃肠手术患者围术期采取有效的护理干预措施，可以预防和减轻患者的焦虑、紧张情绪，改善上述症状[6-9]。术后适量的功能锻炼能够提供人体的机体免疫能力，帮助胃肠功能恢复，增加肠蠕动，促进排气。对于术后24 h禁食者，多从造瘘管或鼻饲管滴注营养素增加营养[10-15]。本研究干预组着重实施围术期护理干预，结果显示，干预组患者术后肛门恢复排气时间、胃管拔除时间、住院时间分别短于对照组、且干预组患者术后3 d的SAS评分术后较对照组降低更显著，两组比较差异有统计学意义（P<0.05）。干预组患者并发症发生率也明显低于对照组，与黄凌云等[16]报道的观点是一致的，说明对胃肠手术患者实施围术期护理干预措施，能够促进胃肠手术患者胃肠功能的恢复，降低患者的焦虑心理状态，减少术后并发症的发生，有利于患者术后的恢复。
+
+

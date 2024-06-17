@@ -1,0 +1,35 @@
+
+ 　　【摘要】 目的：探讨持续质量改进在门诊护理质量管理中的应用效果。方法：将2015年12月-2016年12月笔者所在医院1000例门诊患者随机分为对照组和研究组，对照组患者采用常规护理法，研究组患者采用持续质量改进护理，包括成立护理质量改进小组、了解患者的护理需求、加强护理人员的培训、查找护理问题原因、落实改进措施和加强团队合作这6大方面。随后比较两组患者的护理满意度。结果：对照组和研究组患者投诉率分别为2.2%、0.4%，差异有统计学意义（P<0.05）；对照组和研究组患者非医疗时间分别为（33.8±7.9）、（22.4±6.8）min，差异有统计学意义（P<0.05 ）；对照组和研究组患者满意率分别为46.6%和86.4%，后者显著高于前者，差异有统计学意义（P<0.05）；总满意率分别为94.8%和99.6%，后者显著高于前者，差异有统计学意义（P<0.05）。结论：持续质量改进护理可以有效地发现并改进门诊护理过程中出现的问题，提高患者护理满意度，值得临床参考。
+　　doi：10.14033/j.cnki.cfmr.2017.17.080 文献标识码 B 文章编号 1674-6805（2017）17-0152-02
+　　The Application of Continuous Quality Improvement in Outpatient Nursing Quality Management/YI Hong-xia.//Chinese and Foreign Medical Research，2017，15（17）：152-153
+　　【Abstract】 Objective：To explore the effect of continuous quality improvement in outpatient nursing quality management.Method：A total of 1000 outpatients were randomly divided into the control group and the study group from December 2015 to December 2016.The patients in the control group were treated with routine nursing and the patients in the study group were improved with continuous quality nursing，including nursing quality improvement，to understand the patient’s care needs，strengthen the training of nurses，find the reasons for nursing problems，the implementation of improvement measures and strengthen the team of these six aspects.Nursing satisfaction was compared between the two groups.Result：The complaint rate of the patients in the control group and the study group were 2.2% and 0.4%，respectively（P<0.05）.The non-medical time of the control group and the study group were （33.8±7.9）min and （22.4±6.8）min（P<0.05）.The satisfaction rate in the control group and the study group was 46.6% and 86.4%，respectively，which was significantly higher than that in the former（P<0.05）；the total satisfaction was 94.8% and 99.6%，respectively，the latter was significantly higher than the former，with statistical difference（P<0.05）.Conclusion：Continual quality improvement nursing can effectively find out and improve the problems in the outpatient nursing process，improve patient care satisfaction，and worthy of clinical reference.
+　　【Key words】 Continuous quality improvement； Outpatient care； Quality management
+　　First-author’s address：First People’s Hospital of Wanzhou District，Chongqing City，Chongqing 404100，China
+　　持?m质量改进是一种较新的质量管理理论，该理论不断强调优化改进管理措施对于提高服务质量的重要性，从而不断提高护理水平，提高患者护理满意度[1]。门诊患者来自不同的科室，疾病种类和病情差异较大，患者流动性较大，其护理难度也较大，因此对门诊护理质量提出了更高的要求。笔者对2015年12月-2016年12月所在医院门诊患者采用持续改进护理，取得了较好的护理效果，现报道如下。   　　1 资料与方法
+　　1.1 一般资料
+　　对2015年12月-2016年12月笔者所在医院1000例门诊患者的临床资料进行分析，其中男578例，女422例。年龄8～78岁，平均（47.8±7.7）岁。将患者随机分为两组，即对照组和研究组，每组500例。两组患者性别、年龄、疾病等比较，差异无统计学意义（P>0.05），具有可比性。
+　　1.2 护理方法
+　　对照组患者采用常规护理法。研究组患者采用持续质量改进护理，详细如下。
+　　1.2.1 成立护理质量改进小组 明确各个护理人员的职责，尤其是护士长和责任护士的管理职责，并鼓励医院高层领导参与进持续质量改进护理小组，推动此计划和项目的展开。定期开展会议，及时进行交流分享，及时找出和汇报门诊护理中所存在的问题，并制定相应的整改措施。
+　　1.2.2 了解患者的护理需求 由于患者个人需求不一，对护理要求不一，护理人员应了解患者需求，提高护理满意度。完善就诊环境、缩短患者排队时间、简化流程安排，通过问卷调查表了解患者的就诊需求，了解患者对门诊护理的满意程度和所需要改进的地方，从而进一步完善医院护理质量[2]。护理人员将所获得的调查信息进行进一步汇总和分析，并将资料交给相关负责人员，对于不完善的地方进行整改，对于做的较好的地方继续保持。
+　　1.2.3 加强护理人员的培训 根据患者的需求，有针对性的制定护理范围和护理措施，进一步规范护理人员的护理操作，及时更新护理人员的知识，加强护理人员对突发情况应对的能力，如是否能够及时发现患者异常情况，急救措施是否选择适当，急救措施是否及时等，并帮助协调好医患之间的关系[3]。并定期对护理人员的护理水平进行考核，评估其在患者满意度、患者健康教育、操作技能、突发情况应对能力，从而提高服务质量。
+　　1.2.4 查找问题原因 及时了解患者提出的问题，如服务态度有待改进、疾病状况解释不够、门诊流程繁琐、门诊医生太少、排队时间较长、日常主要事项没及时告知患者等等[4]。面对以上问题，首先负责人员应充分了解目前门诊中的具体情况，并做出相应的调整。如了解护理人员哪方面态度有问题，工作不够认真，检查不够仔细，面对患者的提问没有热心回答等，从而进一步加强护理人员的职业道德培训，告知护理人员应调整好服务态度，注意沟通技巧，提高服务意识，主动关心和帮助患者。尽量缩减门诊流程，减少患者排队时间，使患者疾病能够得到及时的救治。医院应合理安排门诊医生数量，保证患者能够得到及时治疗。
+　　1.2.5 落实改进措施 对于门诊护理中存在的问题，不仅要及时改正，更主要的是要及时落实，相关负责人应及时了解改进措施是否按照计划有序推进，并且还需对推进措施进行监督，协调纠正不足之处，直到改进措施得到落实。并对改进措施进行进一步跟进，看是否达到了预期的目标。当改进和落实某项措施过程中出现问题时，应及时反馈、重新讨论问题，分析解决方法，进入下一步的改进步骤，做到措施能够真正开展、落实，并及时跟进追踪[5]。
+　　1.2.6 加强团队合作 护理质量的持续改进，并不是医院领导或某个人能够完成的，它需要所有参与者共同参与努力。每个人都是团队的一份子，每个人都应加强自身水平，共同提高护理质量[6]。当有护理人员遇到棘手和难以解决的问题时，其他人员应相互帮助，护士长应及时出面解决，及时和完善护理工作。当有护理人员遇到不太通情达理的患者时，其他人员应注意互相安慰，及时排解不良情绪。
+　　1.3 评价指标
+　　统计两组患者投诉率、非医疗时间；对两组患者护理满意度进行评分，共分为满意、较满意和不满意3个等级，总满意率=（满意+较满意）/总例数×100%。
+　　1.4 统计学处理
+　　采用统计学软件SPSS 19.0进行数据处理和分析。计量资料以（x±s）表示，采用t检验，计数资料以率（%）表示，采用字2检验，P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者投诉率比较
+　　对照组和研究组患者投诉率分别为2.2%、0.4%，差异有统计学意义（P<0.05），见表1。
+　　2.2 两组患者非医疗时间比较
+　　对照组和研究组患者非医疗时间分别为（33.8±7.9）min、（22.4±6.8）min，差异有统计学意义（P<0.05），见表2。
+　　2.3 两组患者护理满意度比较
+　　对照组和研究组患者满意率分别为46.6%和86.4%，后者显著高于前者，差异有统计学意义（P<0.05）。总满意率分别为94.8%和99.6%，后者显著高于前者，差异有统计学意义（P<0.05），见表3。
+　　3 讨论
+　　随着我国经济的发展和人们文化素质的提高，人们对医疗护理提出了更高的要求。如何改善医院护理水平，提高患者护理满意度成为了医院工作的重点之一。持续质量改进起初应用于工业，其理念是关注质量管理的全过程，强调在原有的基础上，不断加强现有的管理水平，推进更优的管理措施和方案[7]。现代医疗将这一概念应用于临床护理，在护理过程中能够做到问题“早发现”、“早预防”和“早解决”，从而建立了高效的质量管理体系，提高了患者护理质量，减少了医疗矛盾纠纷，提高了患者的护理满意度[8]。
+　　笔者探讨持续质量改进在门诊护理质量管理中的应用效果，将2015年12月-2016年12月笔者所在医院1000例门诊患者随机分为对照组和研究组，对照组患者采用常规护理法，研究组患者采用持续质量改进护理，包括：成立护理质量改进小组、了解患者的护理需求、加强护理人员的培训、查找护理问题原因、落实改进措施和加强团队合作这6大方面，推动护理持续有效改进和运行，随后比较两组患者的护理满意度。结果显示，对照组和研究组患者投诉率分别为2.2%、0.4%，差异有统计学意义（P<0.05 ）；对照组和研究组患者非医疗时间分别为（33.8±7.9）、（22.4±6.8）min，差异有统计学意义（P<0.05）；对照组和研究组患者满意率分别为46.6%和86.4%，后者显著高于前者，差异有统计学意义（P<0.05）；总满意率分别为94.8%和99.6%，后者显著高于前者，差异有统计学意义（P<0.05）。
+　　综上所述，持续质量改进护理可以有效的发现并改进门诊护理过程中出现的问题，提高患者护理满意度，值得临床参考。
+
+

@@ -1,0 +1,21 @@
+
+　　[中图分类号] R473.73 [文献标识码] A [文章编号] 1672-4062（2017）01（b）-0112-02
+　　[Abstract] Objective To observe the delayed gastric emptying after operation of patients with carcinoma of pancreas and diabetes and study the nursing experience after operation. Methods 15 cases of patients with carcinoma of pancreas and diabetes admitted and treated in our hospital from November 2013 to November 2016 were selected and the delayed gastric emptying after operation and nursing measures of patients were analyzed. Results 5 cases of patients were complicated by delayed gastric emptying after operation， including 1 case only complicated by delayed gastric emptying and 4 cases with delayed gastric emptying and other complications， after the effective treatment and nursing， all patients were discharged after the primary healing without infection symptoms. Conclusion The observation of delayed gastric emptying after operation of patients with carcinoma of pancreas and diabetes， analysis of causes and implementation of nursing intervention according to causes and clinical manifestations can obviously improve the success rate of operation and promote the physical recovery of patients.
+　　[Key words] Carcinoma of pancreas； Delayed gastric emptying； Nursing
+　　胰腺癌合并糖尿病在临床上较为多发且病情较为复杂，糖尿病患者中出现胰腺癌并发症的发生率明显高于血糖正常人群，临床上主要应用手术治疗来有效控制胰腺癌合并糖尿病患者的病情发展，临床疗效较为理想。但是由于胰腺的功能以及解剖位置具有特殊性，所以临床上在有效治疗患者的同时辅以对症护理干预来确保患者术后并发症发生概率显著性降低，护理效果较为理想。为了进一步探析胰腺癌合并糖尿病患者术后胃排空延迟情况和术后护理体会，该院给予15例患者以下过程探析以及，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　对该院自2013年11月―2016年11月期间所收治的15例胰腺癌合并糖尿病患者的临床资料进行回顾性分析，所有患者均给予护理干预。该次探究中男女患者比例是10：5，最大年龄是75岁，最小年龄是36岁，中位年龄为（58.2±5.24）岁，最长住院时间是60 d，最短住院时间是11 d，平均住院时间是（24.5±3.2）d，存在糖尿病病史的患者例数是1例，在入院后诊断为2型糖尿病患者例数是5例。所有患者均在对该次探究相关性内容（探究目的、探究过程以及相关护理方法）进行了充分了解的前提下表示愿意配合该次探究，同时签署了知情同意书。
+　　1.2 方法
+　　给予10例患者胰头十二指肠切除术治疗并采用child术式为患者重建消化道以确保患者消化功能完整；2例患者采取9粒子胰腺肿瘤内植入胆管-空肠胃-空肠吻合术治疗以及给予3例患者5-FU凝胶胰腺肿瘤内植入胆管-空肠胃-空肠吻合术治疗。
+　　2 结果
+　　该次探究中，15例胰腺癌合并糖尿病患者中并发术后胃排空延迟的患者例数是5例，其中单一并发胃排空延迟的例数是1例，其余4例患者为同时合并其他并发症患者。发生术后胃排空延迟的5例患者中，3例患者术后5～7 d的24 h减压量>600 mL且夹闭胃管后出现了上腹部持续饱胀感，同时伴随的临床症状是恶心和呕吐，腹部不存在反跳痛，不存在肌紧张，存在微弱的肠鸣音；1例患者在术后肠鸣音恢复且在拔除胃管进食流质食物后出现了以下症状：上腹部饱胀感以及恶心、呕吐，之后?Y状自行缓解，呕吐物中存在大量胃内容物以及少量的胆汁；1例患者肛门排气后胃肠功能恢复且可以进食半流质食物，进食后出现了以下症状：恶心、呕吐以及上腹部饱胀感，给予患者胃肠减压后可促使胃液≥1 000 mL，进行钡餐造影后显示，残胃扩张且钡剂下行缓慢以及胃蠕动较为缓慢或者几近于无，给予患者胃镜检查可发现，吻合口存在炎性水肿，通过良好，证实胃排空延迟。该次探究中5例胃排空延迟患者经过有效治疗和护理后，均一期愈合出院，未出现感染症状。   　　3 讨论
+　　3.1 胃排空延迟原因分析
+　　胰腺癌的病理机制是胰管发生了堵塞且引发阻塞性胰腺炎，进而造成患者出现胰腺纤维化和胃基础胃酸分泌量增加[1]，导致胃排空延迟。另外，胰十二指肠切除术会引发胃肠缺血和迷走神经损伤，还会造成促胃动素的减少以及胃周炎症出现，导致胃排空延迟。糖尿病作为可导致患者支配内脏的植物神经以及自主神经病变可促使患者胃张力减弱或者排空延迟，高血糖也会促使患者胃动力抑制以及引发胃排空延迟。出现早期拔管或者非计划性拔管均会导致胃内容物下行缓慢以及致残胃扩张等，卧床时间较长、系统发生紊乱也可以导致患者出现胃排空延迟[2]。
+　　3.2 胃排空延迟的预防
+　　定时监测患者的血糖和尿糖，监测间隔时间是4～6 h，若患者出现血糖波动较大时需要及时监测并根据患者的血糖监测结果实施对症处理，监测时间一般选择在餐前以及晚睡前[3]，对胰岛素的使用方法进行充分了解并准确掌握，术后，根据患者的尿糖值和血糖值、营养液中葡萄糖的含量进行胰岛素用量的合理调整以及胰岛素种类的选择，需要注意的是，在必要时可实施匀速静脉输注，需要及时复测以避免低血糖出现。在术后5～7 d内实施计划性拔管且在拔管时确保未发生上诉并发症，若存在胰漏、胆漏以及胃肠吻合口漏的情况下需要将拔管时间进行适当推迟[4]。在置管期间需要注意妥善固定导管并做好患者及其家属的健康宣教工作以尽量避免出现非计划性拔管的情况，避免出现胃排空延迟。早期多进行床上活动且鼓励患者下床运动。
+　　3.3 胃排空延迟患者护理要点
+　　胃排空延迟患者由于疾病原因易出现不同程度的负面情绪，紧张、焦虑以及恐惧等均属于负面情绪，护理人员需要体贴关心患者并尽量满足患者的护理需要，给予患者科学心理疏导来显著提升患者对于长期留置胃管的必要性和重要性的了解程度。给予胃排空延迟患者禁食操作并给予患者胃肠减压，将导管妥善固定并做好刻度以及保证管道通畅，及时倾倒多余的胃液并观察和记录胃液的颜色、性、状等。给予患者营养支持并严格遵循无菌原则操作，对患者的营养、血糖和生化结果进行充分了解后合理调配营养液，给予患者对症药物治疗并利用高渗盐水对患者实施2次/d的洗胃操作，给予患者中医药治疗时可利用辩证施治的方法给予患者有效治疗，利用胃镜检查等机械刺激促使胃排空延迟好转，利用咀嚼口香糖来模拟进食作用从而刺激迷走神经兴奋[5]，促进胃肠激素释放并通过增加患者活动量来促使患者胃排空延迟情况好转。该次探究中，15例胰腺癌合并糖尿病患者中并发术后胃排空延迟的患者例数是5例。
+　　综上所述，观察胰腺癌合并糖尿病患者术后胃排空延迟情况并分析其出现的原因，根据出现原因和临床表现实施对症护理干预可以显著改善患者胃排空延迟情况好转，促进患者身体康复，值得临床上推广和使用。
+
+

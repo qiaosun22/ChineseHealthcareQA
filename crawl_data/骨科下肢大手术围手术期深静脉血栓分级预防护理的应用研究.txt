@@ -1,0 +1,42 @@
+
+　　[中图分类号] R4 [文献标识码] A [文章编号] 1674-0742（2015）05（c）-0121-03
+　　[Abstract] Objective To investigate the effect of grading nursing care applied to major lower limb orthopedic surgery during the perioperative period for the prevention of deep venous thrombosis（DVT）. Methods 60 cases hospitalized in The Third Department of Joint underwent major lower limb orthopedic surgery were randomly divided into the control group（conventional nursing group） and the experimental group（grading nursing care group）. Autar DVT Risk Assessment Scale was used to evaluate the risk of thrombosis in both groups on the day before surgery， 1d and 1 week after surgery. Based on the postoperative level of nursing divided in accordance with the grading of risk of thrombosis， the nurses gave the patients the corresponding grading nursing care for the prevention of DVT. The incidence of DVT， postoperative evaluations of Autar DVT Risk Assessment Scale， patient satisfaction and scores of grasp of health knowledge about venous thrombosis were compared between the two groups. Results After the surgery， 1 case in the conventional nursing group had muscular venous thrombosis， while no patients had that in the grading nursing care group. The evaluations of Autar DVT Risk Assessment Scale of the grading nursing care group at 24h， 1 week after the surgery were lower than those in the grading nursing care group， respectively. Leg circumference measurement showed that in the grading nursing care group， the swelling of the affected lower limb was more severe than that of the uninjured side 4-7 days after the surgery. And the patient satisfaction and grasp of health knowledge about venous thrombosis in the grading nursing care group was better than that in the conventional nursing group， respectively. Conclusion Dividing the level of nursing in accordance with the grading of risk of thrombosis is of good guidance for the prevention of DVT， which also fully reflects that the level of nursing corresponds to the nurse hierarchical management， the availability of nursing resource is improved thereby patients can be provided with high-quality， safe and efficient nursing service.   　　[Key words] Grading nursing care； Major lower limb orthopedic surgery； Prevention； Venous thrombosis
+　　与其他科疾病相比，骨科大手术易诱发血栓。《中国骨科大手术静脉血栓栓塞症预防指南》指出：全髋关节、全膝关节置换术和髋关节骨折手术DVT发生率是43.2%。但是部分患者表现不典型，甚至无症状。因此，预防VTE是减少上述后果的最重要的措施。静脉血栓的预防在护理工作方面尚处于探索阶段。
+　　分级护理制度是护理工作的一项重要管理制度，是针对不同病情的病人依据国家卫生部统一制定的分级护理标准和要求采取相应的护理措施及照顾的制度。分级护理工作模式在我国从1956年开始一直沿用到现在。伴随现代医学模式的变化，临床实践中也表现出了很多不足之处。
+　　探讨护士应用静脉血栓风险级别以此确定护理级别，实施分级护理措施对骨科大手术后患者在静脉血栓健康知识掌握、术后Autar评分、护理服务满意度等方面的影响，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　随机选取2013年5月―2014年7月在该院行下肢大手术治疗的患者60例，随机分为常规护理组和分级护理组。常规护理组30例，男性9例，女性21例，年龄（61.10±11.41）岁，行人工全髋关节置换术14例，人工膝关节置换术12例，双膝同期置换1例；分级护理组30例，男性10例，女性20例，年龄（59.50±13.40）岁，人工全髋关节置换术13例，双髋同期置换1例，人工膝关节置换术11例，双膝同期置换1例。比较两组患者的性别、年龄、病情等差异无统计学意义。
+　　1.2 方法
+　　1.2.1 对照组一般护理方法 按照骨科手术前后护理常规实施护理。术前给予患者皮肤、肠道准备、疼痛管理等健康宣教；术后遵医嘱实施级别护理，给予饮食、体位、功能锻练等康复指导。
+　　1.2.2 Autar量表评价标准 Autar量表对于手术科室较适宜。主要包括年龄、活动受限度、体重指数、手术、特殊危险因素、外伤、高危疾病这7个评估项目[1]。其中“外伤”只是在手术前评估，“手术”是手术后评估项目。评估计分时取患者各个项目的最高分，总分不超过10分是低度危险，DVT发生率为10%，总分在11～14分是中度危险，DVT发生率为11%～40%，总分不低于15分是高度危险，DVT发生率高于41%[2]。
+　　1.2.3 护士培训 首先对全科医护人员进行深静脉血栓相关知识培训。内容主要有静脉血栓栓塞（VTE）基础知识，发生的原因、临床表现、Autar量表应用评估方法、深静脉血栓预防性护理流程、围手术期血栓风险评估表填写等。教育培训能增强临床护士的风险意识、法律意识，提高护理人员风险防范能力。其次，对全体护士进行分级护理方法的培训，使每一名护士了解护理级别与护士层级相对应的划分方法。
+　　1.2.4 Autar量表评估方法 于术前24 h、手术结束后24 h、术后1周分别进行评估。收集患者的基本资料、临床症状、既往疾病及手术史、活动能力，得到BMI（体质指数），根据Autar量表逐一对项目评分，然后累计各项分数得到首次评估结果。<6分无危险，7～10分低度危险，11～14分中度危险，≥15分高度危险。
+　　1.2.5 术后分级护理方法 <6分无危险与7～10分低度危险为术后护理Ⅰ级C；11～14分中度危险为术后护理Ⅰ级B；≥15分高度危险为术后护理Ⅰ级A。术后护理级别与护士层级相对应。能级低的护士负责低风险患者，能级高的护士负责高风险患者。即N0+N1护士（助理护士及低年资护士）负责术后Ⅰ级C患者；N1护士（高年资护士及护师）负责术后Ⅰ级B患者；N2护士（护师、主管护师）负责术后Ⅰ级A患者；N3护士负责高危患者的护理评价与指导。
+　　1.3 分级护理干预措施
+　　1.3.1 术前护理 对所有患者进行术前健康指导。利用自行设计印制的静脉血栓防治手册，向患者详细讲解发生DVT的病因，危险因素、后果及常见症状，以增加患者疾病知识及提高防范意识。根据首次评估的分数，对≥10分的中、高度危险患者，嘱其忌烟酒，防止摄入高胆固醇食物，进行低脂富纤维素饮食，多饮水，保证大便通畅。告知其术后早期主动进行功能锻炼的重要性，然后指导患者进行正确的功能锻炼。
+　　1.3.2 术后护理 ≤10分的低度危险患者，护士应用常规的护理方法实施基本预防护理。①术后患肢使用弹力绷带加压包扎。②将患肢抬高：置于心脏水平位置20～30cm，切记不要将膝下?N窝处单独垫高，防止小腿出现静脉回流，防止静脉回流障碍。③仔细观察：仔细观察患者在术后血压、脉搏、呼吸及肢体改变情况。以及对皮肤色泽、温度及患肢肿胀程度的变化观察。④早期锻炼：指导患者术后第1天开始双下肢踝泵锻炼，以及做深呼吸运动，以利血液循环。⑤保护血管：为保护血管尽量避免患侧下肢输液选取上肢静脉，尽量采用静脉留置针输液，防止重复穿刺及抽血对血管壁造成损伤。⑥疼痛护理：疼痛属于一种应激反应，应激状态会引发免疫功能下降、凝血功能异常、血栓形成或肌张力升高，对患者的功能锻炼造成影响。将患者疼痛减轻能够落实护理计划，实现预防血栓形成的目的。根据疼痛评分，给予相应的护理措施。常规术后使用外周静脉止痛泵。通过音乐、读报、聊天将患者注意力分散。如果有剧烈疼痛者，可遵医嘱使用镇痛剂。11～14分为中度危险。护士除完成基本预防外，增加物理预防方法实施护理。①通过测量大腿周径来判断肢体肿胀程度。测量方法：由同一位护士每日同时、同部位测量患者左右两侧大腿周径，测量位置为髌骨上方10～15 cm处结合患者的症状，如患者自觉患肢有肿胀、疼痛感且活动后更甚，皮肤有发绀，潮红、表温上升，提示有发生DVT的可能。②遵医嘱给予A-V血液循环驱动器治疗每日1～2次。③建议改变生活习惯：戒烟、戒酒、控制血糖、控制血脂。≥15分为高度危险。除基本预防、物理预防外增加药物预防方法。研究显示，大约50%的DVT在术后第1天出现，30%在术后第2天出现，这就提示早期预防的重要性。①严密观察患者是否有突发呼吸困难、胸痛等肺栓塞情况；注意是否在注射部位皮下出血。②术后复查X光片，最好采取床头拍片。③手术后立即给予A-V血液循环驱动器持续治疗12 h，次日改为2次/d。④对抗血栓药物预防性使用，通常在术后12 h开始皮下注射低分子肝素钠1/d（从手术后直到下床活动）。并静脉输注低分子右旋糖酐500 mL/d。   　　1.4 评价指标
+　　本研究方案通过中国中医科学院望京医院伦理委员会论证批准，并征得调查对象知情同意。对两组患者满意度、健康知识掌握程度、术后Autar评分进行评价。发放调查问卷60份，收回有效问卷60份，问卷有效率为100%。
+　　1.5 统计方法
+　　采用SPSS 13.0统计学软件进行分析处理，组间计量资料比较行t检验，差异有统计学意义（P<0.05）。
+　　2 结果
+　　2.1 比较两组患者的年龄与体重指数
+　　两组患者年龄、体重指数比较差异无统计学意义（P>0.05）。见表1。
+　　2.2 两组患者术后Autar评分比较
+　　术后24 h、术后1周Autar评分比较分级护理组均低于常规护理组，差异均有统计学意义（P<0.05）。见表2。
+　　2.3 分级护理组术后健侧与患侧腿围比较
+　　分级护理组患者术后4～7 d患侧下肢比健侧肿胀，差异均有统计学意义（P<0.05）。见表3。
+　　2.4 两组患者满意度及静脉血栓健康知识评分比较
+　　分级护理组患者的满意度和健康知识掌握情况优于常规护理组，差异均有统计学意义（P<0.05）。见表4。
+　　3 讨论
+　　很长一段时间DVT的预防被认为仅仅是临床医生的责任和护理人员无关，因而我国临床护理人员缺乏对深静脉血栓知识了解，以及其重要性的认识[3]。术前的骨科病人由于创伤骨折、卧床制动、被动体位等其下肢静脉呈现血流滞缓、高凝状态[4]，发生DVT很容易。但是DVT的发生有一定隐匿性，所以对DVT的危险性的评估有利于预防该病。
+　　通过Autar量表能够筛选出中、高危风险患者，有利于尽早采取预见性护理及治疗措施。赖丽英等[5]经Autar量表评估、干预后，显著降低脑出血后DVT的发生率，干预组发生DVT的例数明显低于对照组。
+　　分级护理制度作为医院管理的一项基本制度，是护理人员进行临床护理的重要依据。研究表明[6]，日本分级护理主要从病人的生活自由度、需要观察程度将其分成四级三度，这两方面合并共12级，如A1、B2……人为分级护理中病情观察与生活护理属于不同的两个方面，有的患者需要完全的生活帮助，对于病情则不需要密切观察。目前我国高等教育护士越来越多，护士也相对拥有一定下“护嘱”的能力[7]。
+　　表2显示，术后24 h及术后1周Autar评分比较，分级护理组均低于常规护理组。
+　　表3显示，分级护理组患者术后4～7 d患侧下肢比健侧肿胀明显。对每例下肢大手术患者静脉血栓的个体风险性进行连续客观评价，按照风险程度不同采取干预措施。术后48～72 h对高危风险患者进行重点标示、床边交接、重点观察。科学有效的护理干预可以提高患者的生存质量、挽救患者的生命，减少术后并发症的发生，增强护士风险评估能力。
+　　表4中，根据患者术后Autar评分确定护理级别包括护士的参与，相比单纯由医师下医嘱的护理级别，患者的护理服务满意度及静脉血栓健康知识得分都优于对照组。次评分方法对护士评定病人护理需求更有意义，也能帮助护士长有效管理病区人力资源，为实行弹性排班奠定了基础。按照DVT风险等级进行分级护理，避免了护理工作中的漏洞。它能让相同能级的护士按照风险级别的护理干预措施来管理相同风险等级的患者，充分体现了护士层级管理的意义。为科室护理人员梯队建设、专科建设、人才培养奠定了较好的基础。
+　　在确保基础护理规范化落实的同时，完成对患者在护理过程中的的病情监测、对治疗与康复效果的观察、对机体状况和危险因素的评估以及并发症的预防，让患者得到与护士接触的更多时间，有利于早期发现病情改变，采取合理科学的防范措施对机体状况评估，以降低危重、长期卧床、大手术后患者的并发症，达到切实保障患者安全，提升护理质量的目的。
+　　用手术风险评分将护理级别确定，可以对病人的实际护理需求较好地反映，推动护理的计划性、预见性、针对性，使得医师和床位护士沟通更直接、有效、准确，有效将护理资源的利用率提高，也为病人提供优质、高效的服务。
+　　此外，静脉血栓栓塞已经被美国联合委员会（The Joint Commission，TJC）纳入到了护理质量评价标准[8]，有效的推动了DVT的预防，使得有效的DVT风险管理体系得以建立，有助于DVT的预防更加标准化、科学化、系统化。
+
+

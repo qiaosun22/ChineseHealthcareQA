@@ -1,0 +1,30 @@
+
+　　[摘要] 目的 研究不同年龄段患者心脏介入术后生存质量影响因素及护理干预。方法 回顾性分析2013年6月―2014年6月该院诊治的148例心脏病患临床资料，按照患者不同年龄分为A、B、C、D四组，患者均行心脏介入手术治疗，比较四组患者手术前后生存质量评分及术后不良反应。结果 四组患者术后生活质量各项指标评分均比术前低，均发生不良反应，且年龄越大患者生活质量评分降低幅度越大，不良反应发生率越高，差异有统计学意义（P<0.05，P<0.01）。 结论 对于不同年龄段患者应结合其体征、临床表现给予针对性护理干预，以改善患者生活质量。
+　　[中图分类号] R473.5 [文献标识码] A [文章编号] 1674-0742（2015）02（a）-0147-02
+　　Cardiac patients of different ages after intervention quality of life factors and nursing intervention
+　　WANG jiao
+　　Medical center in chaoyang hospital cycle Liaoning chaoyang 122000，China
+　　[Abstract] Objective Cardiac patients of different ages interventional postoperative quality of life factors and nursing intervention. Methods A retrospective analysis of 148 cases of cardiac patients clinical data June 2013 June -2014 hospital for treatment， according to the patients of different ages into A， B， C， D four groups， patients underwent surgical treatment of cardiac intervention， comparing four quality of life of patients before and after surgery and adverse postoperative score. Results Four groups of patients quality of life scores than before surgery low indicators are adverse reactions， and the older the patient the greater the magnitude of lower quality of life score， the higher the incidence of adverse reactions， were statistically significant （P <0.05，P<0.01）. Conclusion For patients of different ages should be combined with their signs， clinical manifestations give specific nursing interventions to improve quality of life for patients.
+　　[Key words] Cardiac intervention；； Quality of life of different ages； Nursing intervention
+　　心脏介入术是心脏病患者临床常用治疗方案，但由于目前该技术尚未完善，部分患者术后机体会出现不同程不适感，影响生活质量[1-3]。该研究2013年6月―2014年6月将回顾性分析该院进行心脏介入术前后148例不同年龄段患者临床资料，掌握心脏介入术后患者生活质量影响因素，探讨科学、有效护理干预措施，现报道如下。
+　　1 资料与方法
+　　1.1 一般资料
+　　回顾性分析该院诊治的148例心脏病患临床资料，患者均行心脏介入手术治疗，患者男女比例78：70，年龄8-80岁，平均（57.56±2.69）岁，病程6 m～13 y，平均（8.36±2.31）y。按照患者不同年龄分为A（40例，8～20岁）、B（38例，21～40岁）、C（36例，41～60岁）、D（34例，61～80岁）四组。四组患者除年龄差异较大外，其他基线资料比较差异无统计学意义（P>0.05）。
+　　1.2 方法
+　　资料回顾性分析四组不同年龄段患者行心脏介入手术前后生活质量（采用调查问卷形式，将148例问卷均收回，用生活质量量表SF-36，进行问卷资料整理分析）及不良事件发生情况[1-5]。
+　　1.3 观察指标
+　　生活质量：精神状态、社会功能等；不良事件：失眠、迷走反射等[6-7]。
+　　1.4 统计方法
+　　研究数据用SPSS20.0统计软件进行分析处理，计量资料用均数±标准差（x±s）表示，组间比较用t检验，计数用百分比（%）表示，以χ2检验。
+　　2 结果
+　　2.1 四组患者手术前后生活质量变化情况
+　　四组患者术后生活质量各项指标评分均低于术前，且患者年龄越大生活质量评分降低幅度越大，比较差异有统计学意义（P<0.05，P<0.01），详见表1。
+　　2.2 四组患者术后不良事件发生情况
+　　四组患者术后均发生失眠等不良反应，且年纪越大不良反应率越高，比较差异有统计学意义（P<0.05），详见表2。   　　表2 四组患者术后不良事件发生情况[n（%）]
+　　注：B、C、D三组与A组比较，@P<0.05；C组与A、B两组比较，#P<0.05；D组与A、B、C三组比较，%P<0.05。
+　　3 讨论
+　　心脏介入手术是目前心脏疾病治疗的常用有效治疗手术，但由于受各种因素影响导致该治疗技术仍较难达到理想治疗目标，术后易给患者造成各种不适感，直接影响患者生活质量[8-9]。该研究中对该院148例行心脏介入手术前后生活质量及不良反应发生情况进行资料回顾性分析，旨在探讨不同年龄段患者心脏介入手术后生活质量影响因素以拟定针对性护理干预措施，从而增强手术疗效。结果得出：四组患者术后生活质量均较术前发生不同程度降低，比较差异有统计学意义（P<0.05，P<0.01），且术后均发生失眠、迷走反射等不良事件，且患者年龄越大生活质量降低幅度越大，不良反应发生率越高，比较差异有统计学意义（P<0.05），与张燕峰[10]临床相关实验结果类似。
+　　由该研究结果可以看出：心脏介入手术会降低患者生活质量，发生失眠、迷走反射等不良事件，因此医护人员在围术期间应全面检查其身体状况，排除手术禁忌症，客观评估患者病情，拟定科学手术方案。同时结合患者自身实际情况，拟行针对性护理干预措施，如健康知识宣教、心理护理干预、手术室环境护理、饮食护理等护理干预措施，帮助患者消除焦虑、不安、恐惧等负性情绪，使患者对自身疾病及手术治疗方案具有正确认知，从而利于提高治疗及护理配合度，进而增强心脏介入手术治疗效果[11-12]。关于心脏介入手术对年龄较大患者生活质量影响更为严重，不良反应发生率越高原因，分析原因是由于老年及高龄患者因机体器官功能逐渐衰退，自主修复能力弱，加之手术治疗本身属创伤性应激源，因此年龄较大患者很容易发生不良事件，从而导致生活质量大幅度下降。但是关于不同年龄段患者心脏介入术后心理状态变化情况，还有待进一步临床试验探索并给予验证。
+　　综上所述，心脏介入术会降低患者生存质量，导致不良反应发生，因此治疗过程应根据不同年龄段患者体征、临床表现等实际情况，具有针对性护理干预，以改善患者生活质量，增强疗效。
+
+

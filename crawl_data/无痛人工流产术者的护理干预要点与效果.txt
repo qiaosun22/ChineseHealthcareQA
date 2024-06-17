@@ -1,0 +1,32 @@
+
+ 　　【摘要】目的：探究无痛人工流产术者的护理干预要点与效果。方法在2014年6月至2016年9月选取所在科室50例无痛人工流产术患者进行分析，采用随机抽签分类法将所有的患者分为参照组和研究组，每组实验样本为25例，参照组开展常规护理干预，研究组开展心理护理干预，评估两组患者的HAMA、HAMD评分、避孕知识和有效避孕措施得分。结果相对于参照组，研究组患者的HAMA、HAMD评分更低，避孕知识和有效避孕措施得分更高，P<0.05。结论开展心理护理对无痛人工流产术患者进行干预，患者的HAMA、HAMD评分较低，避孕知识和有效避孕措施得分较高，值得临床信赖。
+　　[Abstract] Objective：Key points and effect of nursing intervention for painless induced abortion. Methods：from June 2015 to September 2016 selected departments to analyze 50 cases of painless artificial abortion patients，using the random draw classification of all the patients were divided into control group and study group，each group of test samples for 25 cases，control group with routine nursing intervention，the study group to carry out psychological nursing intervention，evaluation of two groups of patients with HAMA and HAMD score，scores of contraceptive knowledge and effective contraceptive measures. Results：compared with the reference group，the patients in the study group had lower HAMA and HAMD scores，and the contraceptive knowledge and effective contraceptive measures scored higher，P<0.05. Conclusion：psychological nursing intervention for painless artificial abortion patients，HAMA and HAMD score is lower，contraceptive knowledge and effective contraceptive measures score higher，it is worth clinical trust.
+　　[Key words] Painless artificial abortion；nursing intervention；clinical effect
+　　【中图分类号】R473.7 【文献标识码】A 【文章编号】2095-6851（2017）06-0-01
+　　无痛人工流?a术指的是在吸宫流产术的基础上结合静脉全身麻醉，使得患者在睡眠状态下完成手术。目前，无痛技术可积极的缓解患者的生理痛苦，在临床上已应用广泛。人工流产患者会因为生理、心理以及社会各方面的影响产生较多的忧郁、焦虑等负面情绪[1]。因此，在开展人工流产术的同时，需要时刻注意患者的心理状态，给予患者积极的护理干预措施，有效降低患者的术后不良反应和负面情绪的发生率。本次研究就无痛人工流产术者的护理干预要点与效果进行分析，总结如下：
+　　1.资料与方法
+　　1.1 基线资料
+　　在2014年6月至2016年9月选取所在科室50例无痛人工流产术患者进行分析，采用随机抽签分类法将所有的患者分为参照组和研究组，每组实验样本为25例。
+　　参照组，患者的最大年龄是38岁，最小年龄是20岁，平均年龄（25.2±2.6）岁；流产次数1～3次，平均（1.9±0.6）次；文化程度：高中以下11例，大专以及大专以上9例，本科及本科以上5例。
+　　研究组，患者的最大年龄是39岁，最小年龄是21岁，平均年龄（26.2±2.8）岁；流产次数1～2次，平均（1.3±0.2）次；文化程度：高中以下12例，大专以及大专以上11例，本科及本科以上2例。
+　　本组研究中两组患者的基线资料可比，差异不显著，P>0.05。
+　　1.2 研究方法
+　　参照组开展常规护理干预，研究组开展心理护理干预，具体操作如下[2]：
+　　1.2.1 术前心理干预：护理人员需要采用温和的语气向患者讲解手术过程以及术中注意的事项。可根据患者的心理状况对其进行个性化心理干预，尤其是对于未婚先孕的患者，大部分该类患者均具有自责胆怯等心理，此时护理人员需要了解患者的心理状态，不应该过度询问其隐私，保留患者的自尊，同时可告知患者的手术安全性，消除患者的各种顾虑，积极的鼓励患者勇敢接受手术。
+　　1.2.2 术中心理干预：护理人员在开展手术的过程中需要严密观察生命体征，关心体贴患者，必要时可播放轻松舒缓音乐，转移注意力，缓解紧张情绪。
+　　1.2.3 术后心理干预：患者在术后需要保持良好的心态，注意多休息，饮食清淡易消化为主，1个月内严格禁止同房，同时给予患者发放计划生育宣传手册，使得患者充分的了解有效避孕的方法，定期复诊。   　　1.3 观察指标
+　　①HAMA、HAMD评分
+　　采用汉密尔顿焦虑估量表和汉密尔顿抑郁估量表对患者的焦虑抑郁症状进行评估，评估项目分别为17个和14个，HAMA评分的分值为0～56分，分界值是7分，超过21分为明显焦虑，14～20分为存在焦虑心理，8～13分为可能焦虑，小于7分为无焦虑；HAMD评分量表分界值是7分，大于20分为肯定抑郁，8～19分为可能抑郁，小于7分为无抑郁。
+　　②避孕知识和有效避孕措施得分
+　　1.4 统计学方法
+　　采用SPSS15.0的统计学软件对本次研究的观察指标开展统计，HAMA、HAMD评分和避孕知识和有效避孕措施得分为计量资料，用（±s）表示，用t检验。两组间的数据差异明显，即（P<0.05）。
+　　2.结果
+　　2.1 HAMA、HAMD评分
+　　研究组患者的HAMA、HAMD评分明显低于参照组，P<0.05，详细内容见表1。
+　　2.2 避孕知识和有效避孕措施得分比较
+　　研究组患者的避孕知识和有效避孕措施得分显著高于参照组，P<0.05，详细内容见表2。
+　　3.讨论
+　　本次研究中，开展心理护理对无痛人工流产术患者进行干预，研究组患者的HAMA、HAMD评分明显低于参照组；避孕知识和有效避孕措施得分显著高于参照组；P<0.05，具体原因如下：通过对患者进行术前、术中以及术后等心理护理，在每一个阶段评估患者的心理状态，可根据其的心理状态进行个性化的对话交流，充分消除患者的知识盲点，缓解各种程度的紧张、恐惧情绪。另外，可及时结合患者的工作以及学习状况，开展适当的健康教育，指导其进行合理的术后恢复，及时的避免患者因为茫然失措产生较多的焦虑情绪，从而进一步稳定患者术后情绪，缓解因为手术对患者造成的心理创伤，同时可降低术后焦虑发生率，术后心理护理对患者进行饮食指导，发放计划生育宣传手册，使得每一位患者充分的了解怀孕避孕的相关知识，使得患者在今后的生活中能够合理的避孕[3]。
+　　结合上述研究，开展心理?o理对无痛人工流产术患者进行干预，可有效降低患者的HAMA、HAMD评分，提高患者的避孕知识和有效避孕措施得分，值得临床借鉴。
+
+

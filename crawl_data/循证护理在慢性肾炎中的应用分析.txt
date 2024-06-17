@@ -1,0 +1,16 @@
+
+ 　　[摘要]目的 研究循证护理在慢性肾炎患者中的应用效果。方法 选择2015年2～8月我院收治的43例慢性?I炎患者作为对照组，实施常规治疗及护理；选择2015年9月～2016年3月我院收治的43例慢性肾炎患者作为观察组，在常规护理基础上实施循证护理。比较两组患者对护理措施的满意度、生活质量及24 h尿蛋白、血尿素氮（BUN）、血清肌酐（SCr）。结果 观察组满意度为95.35%，高于对照组（65.12%）（P<0.05）。观察组患者遵医意识及行为评分为（90.08±1.02）分，日常活动度为（91.45±1.06）分，家庭成员相处为（92.30±1.04）分，心理情绪为（91.48±1.05）分，均高于对照组[（75.26±1.40）、（76.80±1.02）、（74.10±1.01）、（73.56±1.07）分]（P<0.05）；干预前，两组患者24 h尿蛋白、BUN、SCr比较，差异无统计学意义（P>0.05）；干预后，观察组患者24 h尿蛋白、BUN、SCr均低于对照组（P<0.05）。结论 为慢性肾炎患者提供循证护理干预措施，可明显改善患者24 h尿蛋白、BUN、SCr等指标，提高患者满意度及生活质量。
+　　[中图分类号] R471 [文献标识码] A [文章编号] 1674-4721（2017）05（b）-0194-03
+　　Analysis of application of evidence-based nursing in patients with chronic nephritis
+　　CHEN Xiao-he GUO Huan-kai ZHENG Shao-li LONG Rui-yin ZENG Ling-ling
+　　Department of Nephrology，Jiangmen Central Hospital in Guangdong Province，Jiangmen 529000，China
+　　[Abstract] Objective To study the application effect of evidence-based nursing on patients with chronic nephritis.Methods Altogether 43 cases of chronic nephritis patients who were treated in our hospital from February to August 2015 were selected as control group and provided with routine treatment and nursing service；another 43 cases of chronic nephritis patients who were treated in our hospital from September 2015 to March 2016 were selected as observation group and provided with evidence-based nursing services on the basis of conventional nursing；the nursing satisfaction，quality of life，24-hour urine protein，BUN，SCr of two groups were evaluated，summarized and compared.Results The satisfaction rate of observation group was 95.35%，was higher than that of control group （65.12%）（P<0.05）.The compliance consciousness and behavior score，daily activities，harmonious relationship between family members and psychological emotion of patients in the observation group was （90.08±1.02），（91.45±1.06），（92.30±1.04） and （91.48±1.05） scores respectively，was higher than that of the control group [（75.26±1.40），（76.80±1.02），（74.10±1.01），（73.56±1.07） scores] （P<0.05）.Before intervention，there was no statistically significant difference in 24-hour urine protein，BUN and SCr betwee two groups （P>0.05）；after intervention，24-hour urine protein，BUN and SCr of the observation group was lower than that of the control group （P<0.05）.Conclusion Providing clinical nursing service to patients with chronic nephritis，can improve the 24-hour urine protein，BUN and SCr，and with high nursing satisfaction degree and quality of life.   　　3讨论
+　　3.1提供慢性肾炎患者用药指导
+　　临床针对慢性肾炎患者治疗过程中会适量应用糖皮质激素，此种药物对患者消化道刺激较大，可能导致患者出现胃酸分泌过多、胃蛋白酶超过正常值范围，严重者可能导致胃出血；因此护士在遵医嘱为患者用药同时应注意观察病情变化，定期进行检查，预见性判断是否存在并发症情况，为患者提供胃黏膜保护剂药物；治疗期间及时告知患者相关药物可能发生的不良反应，让患者有一定心理准备[9-11]。
+　　3.2加强慢性肾炎患者的饮食护理措施
+　　首先对于慢性肾炎患者而言，日常饮食应注意限制钠摄入量，保持每日摄盐量在1～3 g/d，对于已经出现机体局部水肿的患者应指导其减少高钾食物、限制饮水量，保证患者每日蛋白质摄入量保持在0.5～0.8 g/（kg?d），嘱咐患者多食用鱼肉等优质蛋白；告知患者严禁食用生冷刺激性食物，根据患者水肿表现及时调整饮食计划[12-13]。
+　　3.3提供慢性肾炎患者住院期间生活护理服务
+　　为患者提供基础生活护理服务，此种疾病患者需较长时间休息，护士应积极观察患者病情变化，提供运动指导，告知患者可适当进行有氧运动，提高机体免疫力，如进行太极、饭后散步等，但需保持适量，避免劳累。为患者制订合理饮食、休息计划，嘱咐患者保持正常作息时间，睡前可播放轻音乐，提高患者睡眠质量。为患者强调注重个人卫生的意义，预防感染，护士操作时应坚持无菌护理原则，定期消毒病室环境，做好通风工作，减少感染可能性[14-15]。
+　　综上所述，为慢性肾炎患者提供循证护理干预措施，大部分患者均表示对于临床护理服务感到满意，且患者生活质量评价较高，患者干预后机体24 h尿蛋白、BUN、SCr均有改善。
+
+

@@ -1,0 +1,32 @@
+
+ 　　[摘要]目的 评估急诊护理流程优化对急诊患者急救效果及护理满意度的影响。方法 选择2015年4月～2017年4月在我院急诊科收治的患者96例作为研究对象，根据患者入院时间将患者随机分为研究组和对照组，其中，研究组（2016年4月～2017年4月）50例应用急诊护理流程优化措施，对照组46例（2015年4月～2016年3月）应用急诊科常规护理措施，对比两组患者分诊评估时间、静脉采血时间、抢救成功率等指标。结果 研究组分诊评估时间、心电监护时间、静脉采血时间、静脉用药?r间、治疗时间均低于对照组，而抢救成功率、护理满意度方面则均高于对照组，差异有统计学意义（P<0.05）。结论 急诊护理流程优化能强化急诊患者急救效果，提高护理满意度和抢救成功率，值得推荐应用。
+　　[中图分类号] R473.5 [文献标识码] A [文章编号] 1674-4721（2017）11（a）-0194-03
+　　Influence of emergency nursing process optimization on emergency efficacy and nursing satisfaction of emergency patients
+　　OUYANG Hua
+　　Department of Emergency，the Second People′s Hospital of Pingxiang City in Jiangxi Province，Pingxiang 337000，China
+　　[Abstract]Objective To evaluate the effects of emergency nursing process for emergency patients emergency treatment and nursing satisfaction.Methods From the emergency department of our hospital in 96 patients as the research object，the research time was from April 2015 to April 2017，according to the time of admission patients were randomly divided into study group and control group，among them，the study group （from April 2016 to April 2017） and 50 cases of application of emergency nursing process optimization measures，46 cases of the control group （from April 2015 to March 2016） the application of conventional nursing measures in emergency department，triage assessment time were compared between the two groups，the time of venous blood，rescue Success rate. Results The study group triage assessment time，ECG monitoring time，venous blood collection time，intravenous medication time and treatment time were lower than the control group，while the success rate of rescue and nursing satisfaction were higher than control group，there was statistically significant difference （P<0.05）. Conclusion Emergency nursing process optimization can strengthen the emergency patients emergency treatment，improve the success the rescue and nursing satisfaction rate，worthy of recommendation.
+　　[Key words]Emergency care flow optimization；First aid effect；Nursing satisfaction
+　　急诊是医院重要的部门，急诊科收治的患者病情通常较严重、危急，护理操作较繁杂，工作量大[1-2]。急诊科护理人员应积极做好各项急救准备工作，配合医师进行抢救，以保证急救顺利完成。本次研究则主要探究急诊护理流程优化对急诊患者急救效果及护理满意度的影响，现报道如下。
+　　1 资料与方法
+　　1.1一般资料
+　　选择2015年4月～2017年4月在我院急诊科收治的患者96例作为本次研究的研究对象，根据患者入院时间将患者随机分为研究组和对照组，其中，研究组（2016年4月～2017年4月）50例应用急诊护理流程优化措施，对照组46例（2015年4月～2016年3月），研究组男29例，女21例；年龄21～79岁，平均（45.38±11.47）岁；发病至急诊时间1～18 h，平均（8.43±2.11）h，17例创伤性休克，10例农药中毒，23例急性心肌梗死。对照组男26例，女20例；年龄20～75岁，平均（45.51±10.68）岁；发病至急诊时间1～24 h，平均（9.62±3.50）h，14例创伤性休克，11例农药中毒，21例急性心肌梗死。两组患者的一般资比较，料差异无统计学意义（P>0.05），具有可比性。   　　1.2纳入标准和排除标准
+　　纳入标准：所有患者均在入院后接受X线、CT、MRI等措施检查，明确相关诊断[3]；所有患者家属均对本次内容知情，自愿参与，并在医院伦理委员会监督、允许下同医院签订知情同意书。排除标准：昏迷、听力损伤、精神疾病等患者；抢救过程中死亡患者。
+　　1.3方法
+　　对照组应用一般急诊科护理措施，护理人员主要配合医生进行抢救，包括开通静脉通路，遵照医嘱予以急救药物，监测患者各项体征等。研究组应用急诊护理流程优化措施开展护理工作，主要包括以下几个方面。①接诊时间的优化：院前急救接到急救电话后立即出诊，与患者家属电话联系，了解患者状况，抵达现场后进行院前抢救，做好途中监护运送至急诊科。提前通知抢救室做好急救准备工作。②开通绿色通道：急诊室优化接诊流程，先抢救，后挂号缴费，听到救护车鸣笛声后，急诊人员至门口接诊，急诊医师做好相关准备，初步诊断患者病情，对患者生命体征、病情变化进行观察，并进行分诊治疗。③急救程序的优化：构建定时、定人、定位抢救模式，定时是指护理人员在短时间内做好院前急救检查工作，包括连接心电监护、血压检查、予以吸氧、开通静脉通道等操作；定人是指急救室组长和相关急救人员完成抢救工作，护士长、责任护士协助抢救；定位是指急诊人员分工的定位，急救室高年资护士对患者情况进行初步评估、判断，与医师交流确诊，站在头位负责患者呼吸系统支持及现场指挥，较低年资站在腰位负责循环系统支持，遵医嘱予以药物治疗，低年资护士负责物品准备、记录等，其他护理人员遵照医嘱监测血样，将血液标本送至检验室，检验单加盖绿色通道专用章，半小时内追踪检验结果。④沟通和护理文书的优化：抢救过程中，护理人员加强对患者家属的心理干预，向患者家属讲解患者情况，耐性解答患者家属提出的问题；根据急诊部门实际情况，结合相关规章制度，简化急诊护理文书，制作急救患者抢救记录、交班报告模板，实时记录急救过程。
+　　1.4观察指标
+　　对两组分诊评估时间、心?监护时间、静脉采血时间、静脉用药时间、治疗时间、抢救成功率进行记录，并以问卷形式调查患者家属对护理工作的满意度，主要内容包括护理态度、业务水平、病情解释等内容，按百分制计分，满意（>90分）、一般满意（70～90分）、较差（<70分），满意度=（满意+一般满意）例数/总例数×100%。
+　　1.5统计学方法
+　　采用统计学软件SPSS 18.0分析数据，计量资料以均数±标准差（x±s）表示，采用t检验，计数资料以率表示，采用χ2检验，以P<0.05为差异有统计学意义。
+　　2 结果
+　　2.1两组患者分诊评估时间、心电监护时间等指标的比较
+　　研究组、对照组患者在分诊评估时间、心电监护时间、静脉采血时间、静脉用药时间、治疗时间、抢救成功率方面比较，差异有统计学意义（P<0.05）（表1）。
+　　2.2两组患者家属对护理工作总满意度的比较
+　　研究组患者家属对护理工作的总满意度高于对照组，差异有统计学意义（P<0.05）（表2）。
+　　表2 两组患者家属对护理工作满意度的比较[n（%）]
+　　3 讨论
+　　急重症患者病情变化快，死亡率高，因此如何迅速控制患者病情进展是抢救的关键[4]。急诊护理流程优化是将原有护理流程重新进行整合、改进，确保各项护理工作质量，改善急救护理工作效率[5-6]。急诊护理流程优化的优势主要见于以下几点：①急诊科常规急诊护理比较被动，缺乏紧迫感，容易浪费抢救时间，且分诊时间较长，各个科室间缺乏及时、有效的沟通，导致医师接诊通知较晚，提示科室之间欠缺沟通[7-10]。②急诊护理流程优化则能有效缩短分诊时间，且能及时与主治医师进行沟通，能在患者抵达医院时可立即开展抢救，避免分诊医师在接诊时无紧迫感[11-12]。③急诊护理流程促使抢救人员在接诊之前先了解患者病情，做好针对性抢救准确工作，而且开通了绿色服务通道，且应用先抢救后缴费的模式，能有效降低抢救时间，提高抢救成功率[13-14]。④急诊护理流程优化能促使护理人员主动地开展急救相关知识的学习，可促使护理人员自身职业素质、护理操作技术水平均得到提高[15]。医疗机构内部也可积极安排急救相关培训课程、操作技能比赛等活动，对于培训后成绩优异者或比赛获胜者提高一定的待遇，颁发相应奖杯以及奖金。
+　　急诊护理以患者为工作重心，以提高患者抢救成功率、降低致残及致死率为工作目标，因此需不断优化急诊护理抢救流程，但在此过程中，需注意与患者、其他科室之间加强沟通与交流，同时在抢救中迅速准确判断病情，预测病情未来进展，尊重并保护患者隐私、自尊，并通过讲解治疗成功的病例、告知其抢救目的及方法等措施，消除患者顾虑，获得患者信任，改善其不良情绪，促使其保持积极乐观的态度，有助于提高其诊断及护理依从度，保证临床效果，以及患者满意度。
+　　本研究中，研究组分诊时间、心电监护时间等时间相关指标均显著短于对照组，抢救功能率及满意度均高于对照组（P<0.05），提示急诊护理流程优化应用效果较好，死亡风险较小，还能有效提高抢救成功率和护理满意度。
+　　总之，急诊护理流程优化能强化急诊患者急救效果，提高护理满意度和抢救成功率，降低致残及死亡风险，改善预后，值得推荐应用。
+
+

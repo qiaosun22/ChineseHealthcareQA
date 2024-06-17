@@ -1,0 +1,30 @@
+
+　　[摘要] 目的 探究临床路径在NICU（新生儿重症监护病房）护理中应用的价值。 方法 选取该院在2010年11月―2013年11月收治的100例重症监护新生儿，将其随机分为50例对照组和50例观察组。其中，在新生儿重症监护病房中，给予对照组患儿常规护理干预，给予观察组患儿临床路径护理干预。最后观察两组患儿的状况、护理风险事件发生率、护理满意度等。结果 在50例对照组患儿中，救治成功40例，成功率为80%；护理风险事件4例，护理风险发生率8%。在50例观察组患儿中，救治成功48例，成功率为96%；护理风险事件1例，护理风险发生率2%，两组差异有统计学意义（P<0.05）。同时，在对照组NICU护理中，护理人员的护理质量、护理满意度评分均明显低于观察组（P<0.05），差异有统计学意义。结论 在NICU护理中运用临床路径管理，可有效提高护理质量，提高患儿家属满意度，为母婴提供安全保障，值得在新生儿护理中应用。
+　　[中图分类号] R47 [文献标识码] A [文章编号] 1674-0742（2015）02（b）-0149-03
+　　The Application Value of Clinical Pathway to NICU Care
+　　FANG Dongyang
+　　Neonatal ICU， Nanyang Central Hospital， Nanyang， Henan Province， 473003， China
+　　[Abstract] Objective To explore the application value of clinical pathway to neonatal intensive care unit（NICU）. Methods 100 neonates with intensive care admitted in our department from November 2010 to November 2013 were selected and randomly divided into the control group and the observation group with 50 neonates in each. In the NICU， the neonates in the control group were given the conventional nursing intervention， and those in the observation group were given the clinical pathway nursing intervention. And the conditions， incidence of nursing risk events and nursing satisfaction rate of the two groups were observed. Results In the control group， 40 cases among the 50 cases were treated successfully， the success rate was 80%； 4 nursing risk events occurred， the incidence of nursing risk was 8%. In the observation group， of the 50 cases， 48 cases were treated successfully， the success rate was 96%； 1 nursing risk event occurred， the incidence of nursing risk was 2%， the differences between the groups were significant（P<0.05）. The quality of NICU nursing and nursing satisfaction scores of the nursing staff in the control group were much lower than those of the observation group， the differences between the groups were statistically significant（P<0.05）. Conclusion The application of clinical pathway management to the NICU nursing， can effectively improve the quality of nursing and the level of satisfaction of the family members of the newborns， provide security for the mother and newborn， therefore it is worthy of application to neonatal care.
+　　[Key words] Newborn； NICU nursing； Clinical pathway； Effect
+　　由于新生儿大脑发育还未完善，免疫力差，处于特殊阶段，易出现不稳定状况。对于重症新生儿而言，其情况多变、病情来势急骤，需要护理人员采取科学的方式加强护理，确保健康成长。随着我国医疗水平的进步，各医院纷纷建立NICU（新生儿重症监护病房），对危急重症新生儿、早产儿进行集中收治，连续监护、治疗新生儿，降低新生儿死亡率。在NICU护理中，由于患儿疑难杂症多、数量多、护理人员工作量大，NICU护理风险增多，护理管理急需开展。该研究选取该院在2010年11月―2013年11月收治的100例重症监护新生儿，分别各对50例新生儿采取常规的NICU护理和实施临床路径管理的NICU护理，比较护理效果，现报道如下。   　　1 资料与方法
+　　1.1 一般资料
+　　研究对象为该院NICU收治的100例新生儿，所有新生儿均表现不同重症。在100例NICU患儿中，男患儿52例，女患儿48例，日龄均为1～16 d，平均日龄为（6.01±2.3） d；体重为3 050～2 500 g。按照随机分布的方式，将100例NICU患儿分为50例对照组和50例观察组，两组患儿在性别、年龄、健康状况等方面均差异无统计学意义，可进行有效比较。
+　　1.2 NICU护理方法
+　　对50例对照组患儿实施常规的NICU护理，监测患儿的生命体征、给予对症治疗护理等。在此基础上，在50例观察组患儿NICU护理中实施临床路径管理，护理部人员相互讨论制定临床路径，包括患儿入院基本情况评估路径，护理人员综合质量控制路径，药品、设备、急救仪器质量控制路径等，护理人员根据具体临床路径表实施护理[1]。同时，全面、动态记录护理项目、护理效果，并及时了解患儿情况，培训护理人员，全面提高护理质量。最后观察分析两组患儿临床效果及护理满意度。
+　　1.3 观察指标
+　　在两组患儿NICU护理整个过程中，观察比较两组患儿出现的院内感染例数、救治成功例数、护理风险事故发生例数等。同时，按照知识、技能考核标准，对护理人员护理质量进行评估，满分100分，通过书面知识作答、平时护理观察、考核评估护士的文书书写规范性、事件应急处理能力、技术水平、工作责任心、工作热情度等[2]。此外，对患儿家属进行问卷调查，问卷内容包括住院环境、护士服务态度、健康教育、医护人员操作熟练程度等，家属对其进行评分，满分100分，统计比较家属的护理满意度[3]。
+　　1.4 统计方法
+　　数据处理采用SPSS12.0统计学软件进行，计数资料用百分数表示，并用χ2检验，计量资料用（x±s）表示，且用t检验，经过数据处理，当P<0.05时，表示差异有统计学意义。
+　　2 结果
+　　2.1 比较两组患儿的临床状况
+　　在50例对照组患儿中，救治成功40例，成功率为80%；院内感染2例，院内感染率为4%；护理风险事件4例，护理风险发生率8%。在50例观察组患儿中，救治成功48例，成功率为96%；院内感染0例；护理风险事件1例，护理风险发生率2%。观察组的救治成功率明显高于对照组，感染率、护理风险事件发生率明显低于对照组，差异有统计学意义（P<0.05）。具体数据如表1所示。
+　　2.2 比较两组护理中护士护理质量、家属满意度
+　　在50例对照组患儿NICU护理中，护理人员的护理质量为（82.5±7.2）分，明显低于观察组的（95.3±8.4）分；同时，对照组的家属护理满意度为（89.1±8.7）分，明显低于观察组的（98.5±9.6）分。两组在护士护理质量、家属满意度方面差异有统计学意义（P<0.05），具体数据如表2所示。
+　　3 讨论
+　　护理临床路径是一种综合的、跨学科的医疗整体护理模式，规范临床护理、诊断、治疗行为，使护理流程具有条理性，指导护士主动的、有预见性的开展工作，为患者提供低成本、高效率、高品质的护理服务。在具体实施中，护理临床护理根据住院期间患者群体的具体情况，以时间为横纵、以手段为纵轴，从入院接待、检查、宣教、用药、治疗、护理、健康教育、指导等方面制定日程计划表，明确什么时间进行什么检查、治疗、护理，患者需要达到何种程度等，以此准确开展护理工作，实现护理目标，增强护理人员的工作主动性，提高护理质量[4]。
+　　由于护理临床路径根据患者具体情况制定具体的护理计划，护理开展条理性，护理人员不再单一的根据医嘱进行护理工作，护理人员明确知道自己该做什么，护理积极性增加，从而避免护理项目遗漏，降低护理风险发生率。在马巧灵等人的研究报告中，在232例实施临床路径NICU护理的患儿中，出现2例护理差错，而在217例常规护理患儿中，出现8例护理差错。而在该研究中，50例实施临床路径管理的NICU护理患儿，其护理风险发生率为2%，明显低于常规护理患儿的8%，研究结果与马巧灵等人[5]研究报告一致，进一步说明了护理的安全性。同时，护理护理路径内容包括入院接待、宣教、治疗、护理，内容全面，为患儿提供良好的住院环境，进行健康教育，护理周到，患儿的院内感染率、护理质量、护理满意度均明显提高。分析何红玉[6]研究报告，产妇对实施临床护理中的786项满意，对常规护理中的709项满意，55项不满意。在该研究在50例临床路径护理的患儿中，家属满意度评分为（98.5±9.6）分，明显高于对照组的（89.1±8.7）分，进一步验证临床路径应用效果。在NICU护理中，临床路径具体实施内容如下所示。
+　　（1）制定临床路径。针对NICU护理，NICU护理部组织，科室的科主任、医护专家、护士长工程组成路径制定小组，全面分析NICU护理内容、存在问题，制定护理人员质量控制、患儿情况评估、院内感染质量控制路径，并对护理涉内容、项目进行审核，确保护理的全面性，避免护理项目遗漏。在临床路径制定后，科护士长将制定表发送给各护理人员，对其进行讲解、培训，指导、监督护理实施，并总结护理效果，及时纠正，不断完善护理临床路径，确保路径的规范化、科学化。
+　　（2）强化患儿护理、院内感染质量控制。在患儿如NICU后，做好记录，包括生命体征、全身皮肤、呼吸、神志反应、全身营养等情况，全面评估患儿健康状况，并告知家属。在NICU护理中，护理按照临床路径表实施护理，并在做好护理项目实施记录，及时发现护理的不足及遗漏的项目。同时，熟练进行基础护理工作，如口部护理、皮肤护理、臀部护理、脐部护理，防止皮肤感染、黏膜受损[7]。在输液、喂药、喂奶护理中，要及时清理患儿周皮肤，并将患儿头偏一侧，拍背斜卧进行喂奶，避免呛奶。此外，护理人员应注意NICU卫生、环境良好，护士必须更换工作衣进入NICU，用消毒剂洗手，无菌操作，消毒奶瓶，室内消毒，确保NICU环境安静、避免噪音，适时调节光线，确保新生儿睡眠良好。
+　　（3）护理人员综合质量控制。对护理人员进行业务教育、培训，派专门的高素质人员对护理人员进行NICU护理基础知识、操作技能教育，并经过一段培训后，严格按照相应要求考核护理人员的护理水平，确保考核合格上岗。同时，对护理人员开展思想政治、职业素养教育，确保护理人员具备良好的思想情操、职业道德修养，认识到工作责任性，以良好的态度对待NICU护理工作，吃苦耐劳，态度和蔼、工作认真[8]。此外，在NICU护理中，制定规范的交班制度、查岗制度，降低护理工作疏忽，量化工作成绩，奖励工作质量评分较高的护理人员，提高工作积极性。
+
+

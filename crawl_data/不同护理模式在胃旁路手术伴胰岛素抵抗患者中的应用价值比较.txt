@@ -1,0 +1,29 @@
+
+ 　　[摘要] 目的 比较不同护理模式在胃旁路手术伴胰岛素抵抗患者中的应用价值。 方法 选择2013年6月～2015年10月于中国医科大学附属盛京医院进行胃旁路手术治疗且伴胰岛素抵抗的患者50例，随机分为A组和B组，每组各25例。A组进行常规护理干预，B组进行个性化护理。比较两组患者护理前后不同时间点的治疗护理认知度、治疗护理依从性、一般自我效能感及生存质量。 结果 护理前两组患者的治疗护理认知度、治疗护理依从性、一般自我效能感及生存质量评分差异均无统计学意义（均P > 0.05），而护理后1、2周及4周两组治疗护理认知度、治疗护理依从性、一般自我效能感及生存质量评分均显著优于护理前，且B组显著优于A组（均P < 0.05）。 结论 个性化护理在胃旁路手术伴胰岛素抵抗患者中的应用价值明显高于常规护理，具有积极的临床应用价值。
+　　[中图分类号] R473 [文献标识码] A [文章编号] 1673-7210（2016）04（a）-0166-04
+　　[Abstract] Objective To compare the application value of different nursing modes in the patients with insulin resistance underwent gastric bypass surgery. Methods 50 patients insulin resistance underwent gastric bypass surgery in Shengjing Hospital Affiliated to China Medical University from June 2013 to October 2015 were selected， and randomly divided into group A and group B， with 25 cases in each group. Patients in group A were given conventional nursing intervention， patients in group B were given personalized nursing. Then the treatment and nursing cognition， treatment and nursing compliance， general self-efficacy and life quality of the two groups before nursing and at different time after nursing were compared. Results The evaluation results of treatment and nursing cognition， treatment and nursing compliance， general self-efficacy and life quality scores of the two groups before nursing had no significant differences （all P > 0.05）， while the evaluation results of treatment and nursing cognition， treatment and nursing compliance， general self-efficacy and life quality scores of the two groups 1， 2， 4 weeks after nursing were significantly better than those before nursing， and which in group B were significantly better than those in group A （all P < 0.05）. Conclusion The application value of personalized nursing in the patients with insulin resistance underwent gastric bypass surgery is higher than conventional nursing， it has active clinical application value.
+　　[Key words] Conventional nursing； Personalized nursing； Gastric bypass surgery complicated with insulin resistance
+　　胃旁路手术是临床中近年来应用率较高的一类手术，而其中较多患者存在胰岛素抵抗的情况。研究显示，胃旁路手术可有效改善患者的胰岛素抵抗情况[1-2]，因此，临床对于此类手术治疗的重视程度较高，相关研究也较多[3-4]。护理作为胃旁路手术围术期的重要干预方式，对其进行干预效果的研究极为必要。本研究比较不同护理模式在胃旁路手术伴胰岛素抵抗患者中的应用价值，以期为此类手术的护理干预提供参考，现报道如下：
+　　1 资料与方法
+　　1.1 一般资料
+　　选取2013年6月～2015年10月于中国医科大学附属盛京医院进行胃旁路手术治疗且伴胰岛素抵抗的患者50例，采用随机数字表法分为A组和B组，每组各25例。A组中，男9例，女16例；年龄22～42岁，平均（34.3±6.7）岁；体重指数（BMI）为32.0～52.0 kg/m2，平均（39.0±1.7）kg/m2；文化程度：小学、初中10例，中专、高中8例，大专及以上7例。B组中，男10例，女15例；年龄21～43岁，平均（34.5±6.4）岁；BMI值为32.1～52.2 kg/m2，平均（39.1±1.5）kg/m2；文化程度：小学、初中10例，中专、高中8例，大专及以上7例。两组患者性别、年龄、BMI值及文化程度方面比较，差异无统计学意义（P > 0.05），具有可比性。   　　1.2 方法
+　　A组患者采用常规胃旁路手术护理，主要为术前对患者进行住院相关知识及手术相关知识的宣教，另进行常规术前准备，术后进行对症护理及心理疏导等护理干预。B组患者给予个性化护理，主要为对每例患者进行全面细致的评估，通过患者及家属了解其基础需求及现存疑问，然后在常规疾病及治疗知识宣教的基础上将上述需求及疑问知识融入其中，在宣教的过程中即将患者的个性化问题及疑问进行解决，并注意进行一对一宣教的过程中持续进行疑问的解答及需求的满足。另外，对患者进行基础生活护理，术前根据医师的医嘱及患者的实际情况进行饮食指导、环境舒适度干预及其他针对性的护理，同时进行术前准备时给予个性化问题解决并与患者沟通，术后进行创口及其他对症护理，并于整个围术期进行积极的心理疏导。首先了解患者的心理及情绪状态，然后针对患者的性格特点及接受能力进行有针对性的疏导，并于每次疏导后进行评估，了解患者的疏导效果，再次进行评估及解决。
+　　1.3 评价标准
+　　各项指标均于护理前、护理后1、2、4周分别进行评价。①治疗护理认知度：采用自编问卷评估，问卷内容均为手术及胰岛素抵抗相关治疗及护理知识，问卷总分为100分，以0～60分、>60～80分、>80～90分及>90分分别表示较差、一般、良好及优秀，总优良=良好+优秀。②治疗护理依从性：采用Morisky问卷[5]进行评估，问卷分值以8、6～7及<6分分别表示依从性较高、一般和较低。③一般自我效能感：采用GSES量表进行评价，量表中包括10个与自我效能感相关的评估项目，分值以<11、11～20、>20～30分及>30分分别表示较低、偏低、偏高及较高[6]。④生存质量：采用WHO QOL-100量表[7]进行评价，主要包括生理、心理、独立性、社会关系、情绪状态及环境影响6个方面，分值越高表示生存质量越好。
+　　1.4 统计学方法
+　　采用SAS 6.0统计学软件进行数据分析，计量资料数据用均数±标准差（x±s）表示，两组间比较采用t检验；计数资料用率表示，组间比较采用χ2检验，以P < 0.05为差异有统计学意义。
+　　2 结果
+　　2.1 两组患者护理前及护理后不同时间的治疗护理认知度比较
+　　护理前两组患者的治疗护理认知度总优良率差异无统计学意义（P > 0.05）；护理后不同时间两组认知度总优良率均高于同组护理前（P < 0.05），且B组总优良率均高于A组，差异有统计学意义（P < 0.05）。见表1。
+　　2.2 两组患者护理前及护理后不同时间的治疗护理依从性比较
+　　护理前两组患者治疗护理依从性较好率比较，差异无统计学意义（P > 0.05）；护理后不同时间两组治疗护理依从性较好率均高于同组护理前（P < 0.05），且B组治疗护理依从性较好率均高于A组，差异有统计学意义（P < 0.05）。见表2。
+　　2.3 两组患者护理前及护理后不同时间的一般自我效能感比较
+　　护理前两组患者的一般自我效能感较高率比较，差异无统计学意义（P > 0.05）；护理后不同时间两组一般自我效能感较高率均高于同组护理前（P < 0.05），且B组的一般自我效能感较高率均高于A组，差异有统计学意义（P < 0.05）。见表3。
+　　2.4 两组患者护理前及护理后不同时间的生存质量比较
+　　护理前两组患者生存质量各项目评分差异均无统计学意义（P > 0.05）；护理后不同时间两组生存质量各项目评分均高于同组护理前（P < 0.05），且B组生存质量各项目评分均高于A组，差异有统计学意义（P < 0.05）。见表4。
+　　3 讨论
+　　胃旁路手术是临床一类用于肠道结构改变及关闭胃部部分功能的手术，在临床的应用率较高，与本术式相关的各方面研究较多[8-9]。研究显示，胃旁路手术患者中常存在胰岛素抵抗的情况，且有研究认为，此类手术可在一定程度上改善患者胰岛素抵抗的情况[10-12]，因此，笔者认为对于旁路手术伴胰岛素抵抗患者的研究价值较高。研究显示，护理对于胃旁路手术伴胰岛素抵抗的各方面干预及改善效果突出，其不仅与患者术前的情绪状态有关，且对患者的术后并发症及康复效果等也有极大影响[13-15]，因此，对此类手术患者进行干预的过程中，应重视护理模式的选取。个性化护理是在临床中应用率极高的一类护理模式，其对于患者的护理问题具有针对性解决的特点，且解决效果较好，患者对其认可及依赖程度相对较高[16-18]。临床中对胃旁路手术伴胰岛素抵抗患者护理模式应用价值的研究相对不足，因此进行深入探讨极为必要。
+　　本文就不同护理模式在胃旁路手术伴胰岛素抵抗患者中的应用价值进行比较，主要为常规护理和个性化护理的比较，结果显示，个性化护理在患者中的应用效果相对更好，表现为个性化护理干预的手术患者其治疗护理认知度、治疗护理依从性、一般自我效能感及生存质量评分均得到较大幅度的且持续改善，说明个性化护理不仅仅从心理情绪方面对患者进行了细致干预，且对患者的治疗信心及综合生存状态也发挥出积极的改善作用，而这些均为患者有效配合治疗及术后的并发症防控、康复等奠定了基础[19-22]。
+　　综上所述，个性化护理在胃旁路手术伴胰岛素抵抗患者中的应用价值明显高于常规护理，对于此类患者多方面的改善均有积极的临床作用。
+
+
